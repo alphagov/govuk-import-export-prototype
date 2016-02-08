@@ -1,0 +1,7 @@
+<div id="global-breadcrumb" class="header-context">
+  <ol role="breadcrumbs" class="group">
+    {% for breadcrumb in page.breadcrumbs %}
+      <li><a href="{{ breadcrumb.url | prepend:site.baseurl }}">{{ breadcrumb.name }}</a></li>
+    {% endfor %}
+  </ol>
+</div>
