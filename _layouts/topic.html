@@ -10,8 +10,52 @@
 
     <div id="global-header-bar"></div>
 
+     {% include breadcrumb.html %}
+
     <div id="wrapper">
-      {{ content }}
+      <main id="content" role="main" class="topics-page">
+        <header class="page-header group">
+          <div class="full-width">
+            <div class="heading">
+              <h1>
+                {% if page.breadcrumbs %}
+                  <a href="{{ page.breadcrumbs.last.url | prepend:site.baseurl }}">{{ page.breadcrumbs.last.name }}</a>
+                {% endif %}
+                {{ page.title }}
+              </h1>
+            </div>
+          </div>
+        </header>
+
+        <div class="browse-container full-width">
+
+          {% if page.topics %}
+            <nav class="topics">
+              <ul>
+                {% for topic in page.topics %}
+                  <li>
+                    <a href="{{ topic.url | prepend:site.baseurl }}">{{ topic.name }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </nav>
+          {% endif %}
+
+          {% for index_list in page.index_lists %}
+            <nav class="index-list with-title">
+              <h1>{{ index_list.title }}</h1>
+              <ul>
+                {% for link in index_list.links %}
+                  <li>
+                    <a href="{{ link.url prepend: site.baseurl }}">{{ link.name }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </nav>
+          {% endfor %}
+
+        </div>
+      </main>
     </div>
 
     {% include footer.html %}
