@@ -1,23 +1,27 @@
 ---
-layout: default
+layout: topic
+title: "Business and self employed"
 ---
+<main id="content" role="main" class="topics-page">
+  <div class="header-context">
+  </div>
 
-<div class="home">
+  <header class="page-header group">
+    <div class="full-width">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </header>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+  <div class="browse-container full-width topics-page">
+    <nav class="topics">
+      <ul>
+        <li>
+          <a href={% post_url 2016-02-05-importing %}>Importing</a>
+        </li>
+        <li>
+          <a href={% post_url 2016-02-08-exporting-and-doing-business-abroad %}>Export and doing business abroad</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</main>
