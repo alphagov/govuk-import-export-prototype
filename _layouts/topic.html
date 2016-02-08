@@ -29,6 +29,18 @@
 
         <div class="browse-container full-width">
 
+          {% if page.topics %}
+            <nav class="topics">
+              <ul>
+                {% for topic in page.topics %}
+                  <li>
+                    <a href="{{ topic.url | prepend:site.baseurl }}">{{ topic.name }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </nav>
+          {% endif %}
+
           {% for index_list in page.index_lists %}
             <nav class="index-list with-title">
               <h1>{{ index_list.title }}</h1>
