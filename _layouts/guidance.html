@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+  <html lang="en">
+
+    {% include head.html %}
+
+    <body class="website government">
+      <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
+      {% include header.html %}
+
+      <div id="global-header-bar"></div>
+
+      <div class="header-context group">
+        <!-- deliberately empty -->
+      </div>
+
+      <div id="whitehall-wrapper">
+        <main id="content" role="main" class="whitehall-content">
+          <div id="page" class="detailed-guides-show">
+            <article class="detailed_guide detailedguide" id="detailed_guide_468984">
+              <header class="block headings-block">
+                <div class="inner-block floated-children">
+                  <div class="heading-with-extra">
+                    <div class="inner-heading">
+                      <p class="type">
+                        <a href="{{ page.topic.url | prepend: site.baseurl }}">{{ page.topic.name }}</a> – guidance
+                      </p>
+                      <h1>{{ page.title }}</h1>
+                    </div>
+                  </div>
+                  <div class="heading-extra">
+                    <div class="inner-heading">
+                    </div>
+                  </div>
+                </div>
+              </header>
+              <div class="summary-block">
+                <div class="inner-block">
+                  <div class="summary">
+                    <p>{{ page.summary }}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="block-2">
+                <div class="inner-block">
+                  <nav class="contextual-info" id="page-navigation">
+                    <h1>Contents</h1>
+                    <nav class="detailed_guide_parts" role="navigation">
+                      {{ content | toc }}
+                    </nav>
+                  </nav>
+                </div>
+              </div>
+              <div class="block-3">
+                <div class="inner-block">
+                  <article class="document">
+                    <div class="body">
+                      <div class="govspeak">
+                        {{ content }}
+                      </div>
+                    </div>
+                  </article>
+                </div>
+              </div>
+              <div class="block-4 block related-links js-back-to-content-stop">
+                <div class="inner-block">
+                  <div class="js-back-to-content back-to-content visuallyhidden">
+                    <a href="#page-navigation">Back to contents</a>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
+        </main>
+      </div>
+
+      {% include footer.html %}
+
+      <div id="global-app-error" class="app-error hidden"></div>
+
+      <script src="https://assets.digital.cabinet-office.gov.uk/static/govuk-template-c4f303154d2a238bdda4d5cf1ebd8d4487822e4cbc3e4c83e743da869443ce72.js" type="text/javascript"></script>
+      <script src="https://assets.digital.cabinet-office.gov.uk/static/libs/jquery/jquery-1.11.3-92dc85369a3bf658db02f5a3f52231ccf961a37627ae12486f4ce34eba12a3dd.js"></script>
+      <script src="https://assets.digital.cabinet-office.gov.uk/static/header-footer-only-9ded9c2302070b7638b76b8e068df2d8c8ef38c4482854ef7c780a03ddc14ad9.js"></script>
+      <script src="https://assets.digital.cabinet-office.gov.uk/government/assets/application-3db4ca699274b3234336db6135ce16d48af6c83798f2cf8b2a243ff8647086ec.js"></script>
+    </body>
+  </html>

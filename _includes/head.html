@@ -5,30 +5,29 @@
   <script type="text/javascript">
     (function(){if(navigator.userAgent.match(/IEMobile\/10\.0/)){var d=document,c="appendChild",a=d.createElement("style");a[c](d.createTextNode("@-ms-viewport{width:auto!important}"));d.getElementsByTagName("head")[0][c](a);}})();
   </script>
+
   <link href="{{ "/css/govuk-template.css" | prepend: site.baseurl }}" media="screen" rel="stylesheet" type="text/css">
   <link href="{{ "/css/govuk-template-print.css" | prepend: site.baseurl }}" media="print" rel="stylesheet" type="text/css">
   <link href="{{ "/css/fonts.css" | prepend: site.baseurl }}" media="all" rel="stylesheet" type="text/css">
+
   <link rel="shortcut icon" href="https://assets.digital.cabinet-office.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
-  <!-- Size for iPad and iPad mini (high resolution) -->
   <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-152x152-55dd2af7a53abb7dd14ba6a3c6c3fc786c57a074ba809f6dd767e186955a87e1.png">
-  <!-- Size for iPhone and iPod touch (high resolution) -->
   <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-120x120-92580784afc35143f96b8cf5614e221427fdea444aeb13d912c879e884af7336.png">
-  <!-- Size for iPad 2 and iPad mini (standard resolution) -->
-  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-76x76-9b193f39cde53b92ba555efed856bcd103d6d1dc650919eb9f29dbe5f442cfb0.png">
-  <!-- Default non-defined size, also used for Android 2.1+ devices -->
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-76x76-9b193f39cde53b92ba555efed856bcd103d6d1dc650919eb9f29dbe5f442cfb0.png">  <!-- Default non-defined size, also used for Android 2.1+ devices -->
   <link rel="apple-touch-icon-precomposed" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-60x60-0af0a7cf886701647210f13b661e607b7223bc3221b6d275718a89af79b3e7b9.png">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content="https://assets.digital.cabinet-office.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
-  <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
+
+  {% if page.layout == 'topic' %}
+    <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/application.css" | prepend: site.baseurl }}">
+  {% elsif page.layout == 'guidance' %}
+    <link rel="stylesheet" media="screen" href="{{ "/css/header-footer-only.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print" href="{{ "/css/header-footer-only-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/base.css" | prepend: site.baseurl }}">
+  {% endif %}
+
   <link title="Search" rel="search" type="application/opensearchdescription+xml" href="https://www.gov.uk/search/opensearch.xml">
-  <link rel="stylesheet" media="screen" href="{{ "/css/application.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="https://www.gov.uk/starting-to-export/overview">
-  <link rel="next" href="https://www.gov.uk/starting-to-export/sending-goods-to-eu-countries">
-  <link rel="alternate" type="application/json" href="https://www.gov.uk/api/starting-to-export.json">
-  <meta name="description" content="Company exports to another country - commodity codes, VAT, register with HMRC, CHIEF, paying duty">
-  <meta name="govuk:section" content="business and self-employed">
-  <meta name="govuk:need-ids" content="">
-  <meta name="govuk:format" content="guide">
-  <meta name="govuk:rendering-application" content="frontend">
 </head>
