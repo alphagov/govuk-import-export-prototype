@@ -19,10 +19,18 @@
   <link rel="apple-touch-icon-precomposed" href="https://assets.digital.cabinet-office.gov.uk/static/apple-touch-icon-60x60-0af0a7cf886701647210f13b661e607b7223bc3221b6d275718a89af79b3e7b9.png">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content="https://assets.digital.cabinet-office.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
-  <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
+
+  {% if page.layout == 'topic' %}
+    <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/application.css" | prepend: site.baseurl }}">
+  {% elsif page.layout == 'guidance' %}
+    <link rel="stylesheet" media="screen" href="{{ "/css/header-footer-only.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print" href="{{ "/css/header-footer-only-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/base.css" | prepend: site.baseurl }}">
+  {% endif %}
+
   <link title="Search" rel="search" type="application/opensearchdescription+xml" href="https://www.gov.uk/search/opensearch.xml">
-  <link rel="stylesheet" media="screen" href="{{ "/css/application.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="https://www.gov.uk/starting-to-export/overview">
   <link rel="next" href="https://www.gov.uk/starting-to-export/sending-goods-to-eu-countries">
   <link rel="alternate" type="application/json" href="https://www.gov.uk/api/starting-to-export.json">
