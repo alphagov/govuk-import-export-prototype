@@ -40,6 +40,8 @@ GEM
     mercenary (0.3.5)
     mini_portile2 (2.0.0)
     minitest (5.8.4)
+    nokogiri (1.6.7.2)
+      mini_portile2 (~> 2.0.0.rc2)
     puma (2.16.0)
     rack (1.6.4)
     rack-jekyll (0.4.5)
@@ -67,6 +69,7 @@ DEPENDENCIES
   govspeak
   jekyll
   kramdown
+  nokogiri
   puma
   rack-jekyll
   rake
