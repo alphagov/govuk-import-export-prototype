@@ -47,7 +47,7 @@
               <ul>
                 {% for link in index_list.links %}
                   <li>
-                    <a href="{{ link.url prepend: site.baseurl }}">{{ link.name }}</a>
+                    <a href="{{ link.url | prepend: site.baseurl }}">{{ link.name }}</a>
                   </li>
                 {% endfor %}
               </ul>
