@@ -6,7 +6,7 @@ date: 2016-02-09 12:45:53 +0000
 permalink: /guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services
 topic:
   name: Exporting and doing business abroad
-  url: /topic/business-and-self-employed/exporting-and-doing-business-abroad
+  url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 Get a licence to export arms, military or dual use goods and services
 
