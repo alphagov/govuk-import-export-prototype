@@ -2,7 +2,7 @@
 layout: guidance
 title: Get a licence to export arms, military or dual use goods and services
 summary: Summary summary summary summary summary summary summary summary summary summary summary summary.
-permalink: /guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services
+permalink: /guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
