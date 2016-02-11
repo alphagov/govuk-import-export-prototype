@@ -1,27 +1,18 @@
-require 'nokogiri'
-
 module Jekyll
   module TableOfContentsBuilder
 
     def toc(content)
       return '' unless content
 
-      document = Nokogiri::HTML::DocumentFragment.parse(content)
-      headings = document.css("h2[id]")
-
-      fragment = Nokogiri::HTML::DocumentFragment.parse ""
-
-      Nokogiri::HTML::Builder.with(fragment) do |html|
+      HtmlHelper.build_fragment do |html|
         html.ol(id: 'document_sections') {
-          headings.each do |heading|
+          HtmlHelper.find_fragments(content, "h2[id]").each do |heading|
             html.li {
               html.a(heading.text, href: "##{heading['id']}")
             }
           end
         }
       end
-
-      fragment.to_html
     end
   end
 end
