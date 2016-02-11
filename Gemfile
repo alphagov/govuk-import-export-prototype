@@ -4,6 +4,7 @@ ruby '2.2.4'
 
 gem 'activesupport'
 gem 'govspeak'
+gem 'html-proofer'
 gem 'jekyll'
 gem 'kramdown'
 gem 'nokogiri'
