@@ -16,4 +16,4 @@ url: "" # the base hostname & protocol for your site
 markdown: GovspeakProcessor
 
 # Exclude directories and/or files from the conversion.
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile', 'README.md']
+exclude: ['config.ru', 'docs', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile', 'README.md']
