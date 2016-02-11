@@ -33,4 +33,4 @@ sent out of the UK, then lost or destroyed
 
 Only count the value of goods, not services.
 
-Don’t count [goods you’re taking out of the UK temporarily](link to temporary exports content).
+Don’t count [goods you’re taking out of the UK temporarily](/).
