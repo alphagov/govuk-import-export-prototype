@@ -16,4 +16,4 @@ Search online to find software suppliers.
 
 You can develop software that’s compatible with Intrastat, based on Electronic Data Interchange for Administration, Commerce and Transport (EDIFACT) messaging.
 
-Contact the [Intrastat helpline](link to part 4) for details.
+Contact the [Intrastat helpline](/declare-goods-you-ve-moved-in-or-out-of-the-uk-using-intrastat/get-help-with-intrastat.html) for details.
