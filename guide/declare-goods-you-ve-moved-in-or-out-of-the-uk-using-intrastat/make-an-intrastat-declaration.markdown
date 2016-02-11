@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Declare goods you’ve moved in or out of the UK using Intrastat
-permalink: /declare-goods-you-ve-moved-in-or-out-of-the-uk-using-intrastat/make-an-intrastat-declaration
+permalink: /declare-goods-you-ve-moved-in-or-out-of-the-uk-using-intrastat/make-an-intrastat-declaration.html
 page_number: 2
 page_title: Make an Intrastat declaration
 breadcrumbs:
