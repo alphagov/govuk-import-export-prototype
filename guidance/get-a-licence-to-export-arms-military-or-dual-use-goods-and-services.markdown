@@ -17,9 +17,9 @@ $CTA
 
 The consolidated military list includes:
 
-weapons
-other goods, technology or services that are used for military purposes (eg cryptographic technology or training materials for a weapons system)
-‘dual use’ items - civilian goods, technology, documents or diagrams that can also be used for military purposes
+- weapons
+- other goods, technology or services that are used for military purposes (eg cryptographic technology or training materials for a weapons system)
+- ‘dual use’ items - civilian goods, technology, documents or diagrams that can also be used for military purposes
 
 ‘Dual use’ items can be raw materials, components or finished systems.
 
@@ -40,10 +40,10 @@ You must apply for an export licence if ECO tells you to.
 
 There’s a complete ban on exporting:
 
-anti personnel landmines (and parts for anti personnel landmines)
-blinding laser weapons
-man-portable air defence systems (MANPADs) to end users who aren’t states
-nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
+- anti personnel landmines, and parts for anti personnel landmines
+- blinding laser weapons
+- man-portable air defence systems (MANPADs) to end users who aren’t states
+- nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
 
 ##Apply for an export licence
 
@@ -69,23 +69,23 @@ Decisions are partly based on where you’re exporting to.
 
 For example, ECO won’t usually give a licence if there’s an embargo on exporting military goods. Embargoed countries are:
 
-Argentina (if the goods will be used by the Argentine military)
-Armenia and Azerbaijan (if the goods could be used on the border between the two countries, or in the Nagorno-Karabakh region)
-Belarus
-Democratic Republic of Congo
-Eritrea
-Iran
-Ivory Coast
-Lebanon
-Libya
-North Korea (Democratic People’s Republic of Korea)
-Republic of Guinea
-Sierra Leone
-Somalia
-South Sudan
-Sudan
-Syria
-Zimbabwe
+- Argentina (if the goods will be used by the Argentine military)
+- Armenia and Azerbaijan (if the goods could be used on the border between the two countries, or in the Nagorno-Karabakh region)
+- Belarus
+- Democratic Republic of Congo
+- Eritrea
+- Iran
+- Ivory Coast
+- Lebanon
+- Libya
+- North Korea (Democratic People’s Republic of Korea)
+- Republic of Guinea
+- Sierra Leone
+- Somalia
+- South Sudan
+- Sudan
+- Syria
+- Zimbabwe
 
 [Question for SME: I’ve left Burma and Iraq out of this list because the current GOV.UK guidance seems to suggest either than the embargo is suspended or that licences may be granted for exports to the Iraqui government or multinational forces. Is that right?]
 
@@ -96,18 +96,19 @@ There are some limited exceptions (eg for some types of goods that will be used 
 [Question for SME: how would we describe the limited exception that exists for Sierra Leone?]
 
 ECO won’t usually give a licence to export small arms, light weapons, weapon components or ammunition to:
-Benin
-Burkina Faso
-Cape Verde
-The Gambia
-Ghana
-Guinea Bissau
-Liberia
-Mali
-Niger
-Nigeria
-Senegal
-Togo
+
+- Benin
+- Burkina Faso
+- Cape Verde
+- The Gambia
+- Ghana
+- Guinea Bissau
+- Liberia
+- Mali
+- Niger
+- Nigeria
+- Senegal
+- Togo
 
 ##Taking military goods out of the UK temporarily
 
@@ -119,8 +120,8 @@ Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login
 
 You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means:
 
-information or equipment classified as [‘official-sensitive’ or higher](https://www.gov.uk/government/publications/government-security-classifications)
-information or equipment classified as ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
+- information or equipment classified as [‘official-sensitive’ or higher](https://www.gov.uk/government/publications/government-security-classifications)
+- information or equipment classified as ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
 
 Use MOD form 680 on the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for approval.
 
@@ -132,9 +133,9 @@ You must have a trade control licence if you or your company is involved in traf
 
 Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
 
-arranging or negotiating sales
-arranging intra company transfers
-drop shipping
+- arranging or negotiating sales
+- arranging intra company transfers
+- drop shipping
 
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 
@@ -146,10 +147,10 @@ Keep up to date with the [ECO notices to exporters](http://blogs.bis.gov.uk/expo
 
 The [ECO compliance code of practice](https://www.gov.uk/government/publications/compliance-code-of-practice) has guidance on:
 
-what records to keep
-what compliance processes to put in place
-how to train staff
-how ECO compliance audits work
+- what records to keep
+- what compliance processes to put in place
+- how to train staff
+- how ECO compliance audits work
 
 ##Contact the Export Control Organisation (ECO)
 
@@ -164,9 +165,9 @@ Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/logi
 
 ECO runs training sessions on:
 
-how export controls work
-how to make export licence applications
-how classification works
+- how export controls work
+- how to make export licence applications
+- how classification works
 
 Search the [Business Events Finder](https://www.business-events.org.uk/) to book a place on a training session. Or sign up for the [ECO notices to exporters](http://blogs.bis.gov.uk/exportcontrol/) to find out about future traning sessions.
 
