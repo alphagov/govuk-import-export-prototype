@@ -7,8 +7,6 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-Get a licence to export arms, military or dual use goods and services
-
 It’s a criminal offence to export something on the consolidated military list without the right licence.
 
 $CTA
