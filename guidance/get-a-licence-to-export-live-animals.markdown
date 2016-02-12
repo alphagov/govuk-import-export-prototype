@@ -430,9 +430,7 @@ s1. Complete an [application form](https://www.gov.uk/government/uploads/system/
 s2. APHA sends the health certificate to your OV to complete.
 s3. Your OV visits you and certifies the health certificate. They’ll give you the ‘consignor confirmation form’. You must send this to APHA at least 48 hours before you travel to confirm that all animals in the health certificate are travelling.
 
-## Contacts
-
-Contact the relevant agency if you have any questions.
+##Contacts
 
 $C
 
