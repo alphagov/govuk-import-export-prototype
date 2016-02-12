@@ -422,7 +422,7 @@ Animal passports cost:
 
 - £2 for each individual circus animal ([dogs, cats or ferrets](/take-pet-abroad) and [horses](/horse-passport) need special passports)
 - £2 for a group of birds or rodents (maximum of 15 ringed or microchipped birds or rodents per group, no limit on the number without rings or microchips)
-- 
+
 You need a separate passport for each species and breed.
 
 ###Get an ITAHC
