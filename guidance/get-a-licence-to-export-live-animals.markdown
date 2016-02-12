@@ -432,6 +432,8 @@ s3. Your OV visits you and certifies the health certificate. They’ll give you 
 
 ## Contacts
 
+$C
+
 **Animal and Plant Health Agency (APHA)**
 
 Telephone: +44 (0) 3000 200 301
@@ -446,12 +448,16 @@ BS1 6EB
 
 $C
 
+$C
+
 **Fish Health Inspectorate**
 
 Telephone: 01305 206700   
 Email: <fhi@cefas.co.uk>  
 Monday to Friday, 9am to 5pm   
 [Find out about call charges](/call-charges)   
+
+$C
 
 $C
 
