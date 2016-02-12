@@ -1,15 +1,13 @@
 ---
 layout: guidance
 title: Get a licence to export arms, military or dual use goods and services
-summary: Summary summary summary summary summary summary summary summary summary summary summary summary.
+summary: You must have a licence to export anything on the consolidated list of strategic military and dual use items (the ‘consolidated military list’).
 permalink: /guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 Get a licence to export arms, military or dual use goods and services
-
-You must have a licence to export anything on the consolidated list of strategic military and dual use items (the ‘consolidated military list’).
 
 It’s a criminal offence to export something on the consolidated military list without the right licence.
 
