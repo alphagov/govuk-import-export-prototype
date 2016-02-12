@@ -30,7 +30,7 @@ You can get an existing ITAHC reissued by using the EU’s Trade Control and Exp
 You can either:
 
 - [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of the animals you're exporting - you must [tell APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official veterinarian (OV)
-- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487433/form-exa31-livestock.pdf) (PDF, 755KB) and send it to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) - use [form EXA31 (Poultry)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487438/form-exa31-poultry.pdf) (PDF, 617KB) instead if you're exporting poultry or hatching eggs
+- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487433/form-exa31-livestock.pdf) (PDF, 755KB) and send it to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) - or use [form EXA31 (Poultry)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487438/form-exa31-poultry.pdf) (PDF, 617KB) instead if you're exporting poultry or hatching eggs
 
 ###Applying for a new ITAHC
 
@@ -39,8 +39,7 @@ You can either:
 You must nominate an official veterinarian (OV) when you apply. You can either:
 
 - ask your local veterinary practice if there’s an OV working there
-- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team <ovteam@alpha.gsi.gov.uk> 
-
+- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
 
 ##Exporting live animals outside the EU
 
@@ -67,7 +66,7 @@ Your OV can carry out any examination, inspection, testing, sampling or treatmen
 To find an OV, you can either:
 
 - ask your local veterinary practice if there’s an OV working there
-- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team <ovteam@alpha.gsi.gov.uk> 
+- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
 
 ###Get your EHC signed
 
@@ -97,9 +96,9 @@ Before you export poultry outside the EU, check the wording of your EHC to see i
 
 ###Exporting bees
 
-For bee export certificates from England and Wales, contact the [National Bee Unit](http://www.nationalbeeunit.com/).
+For bee export certificates from England and Wales, contact the [National Bee Unit](http://www.nationalbeeunit.com).
 
-For bee exports from Scotland, contact [Science and Advice for Scottish Agriculture (SASA)](http://www.sasa.gov.uk/).
+For bee exports from Scotland, contact [Science and Advice for Scottish Agriculture (SASA)](http://www.sasa.gov.uk).
 
 ##Exporting live animals through the EU to a non-EU country
 
@@ -121,18 +120,20 @@ If you’re exporting horses and ponies in or outside of the EU, you must print 
 
 Download an [export license application form for horses taller than 147cm (14.2 hands)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413965/exh6.pdf) (PDF, 99.8KB).
 
-Download an [export license application form for ponies or horses that are shorter than 147cm (14.2 hands)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413969/exh7.pdf) (PDF, 102KB)
+Download an [export license application form for ponies or horses that are shorter than 147cm (14.2 hands)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413969/exh7.pdf) (PDF, 102KB).
 
 You must make sure the pilot of the aircraft or master of the vessel that’s carrying the horses or ponies you're exporting has a copy of the export welfare declaration.
 
 ###When you don’t need an export welfare declaration
 
 You don’t need an export welfare declaration if you’re moving:
-- horses or ponies to Northern Ireland, the Channel Islands, or the Isle of Man
+
+- horses or ponies to Northern Ireland, the Channel Islands or the Isle of Man
 - horses over 147cm to the Republic of Ireland
 - horses by direct flight to countries outside of Europe
 
 Thoroughbred horses don’t need an export declaration if a steward or secretary of [the Jockey Club](http://www.thejockeyclub.co.uk/contact/contact) certifies that:
+
 - they arrived in Great Britain no more than one month before the date of shipment for the purpose of being in a race
 - they’re being shipped for a race or for training
 - they’re being shipped to be used for breeding
@@ -148,12 +149,12 @@ sports horses competing in Federation Equestre Internationale (FEI) sponsored ev
 
 You must make sure that each horse travels with a Commercial Document (DOCOM).
 
-You can get the DOCOM you need through one of these bodies:
+You can get the DOCOM you need through:
 
-- [Weatherbys](https://www.weatherbys.co.uk/)- for thoroughbreds and horses on the Weatherby’s non-thoroughbreds register
+- [Weatherbys](https://www.weatherbys.co.uk/) - for thoroughbreds and horses on the Weatherby’s non-thoroughbreds register
 - [British Equestrian Federation](http://www.bef.co.uk/Contact.aspx) - for FEI horses
 - [British Horseracing Authority](http://www.britishhorseracing.com/bha/about-us/contact-bha/) - for racehorses
-- 
+
 ##Exporting live fish or molluscs and crustaceans (shellfish)
 
 You need a health certificate to export fish and shellfish (molluscs and crustaceans) within the European Union (EU) and European Free Trade Association (EFTA) if the species are:
@@ -265,6 +266,7 @@ Registered holdings can’t trade with approved holdings.
 ###Register your holding
 
 To register your holding, [complete form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/465097/form-ec3163.pdf) (PDF, 120KB) and send it to:
+
 - [your local APHA office](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) if you’re in England, Scotland or Wales
 - [your local DARD direct office](https://www.dardni.gov.uk/contact), if you’re in Northern Ireland
 
@@ -403,15 +405,10 @@ If your travelling circus has wild animals, you also need to [get a licence](/gu
 Your application must be received at least 40 working days before you wish to travel.
 
 s1. Make sure all tests and vaccinations for your animals are up to date.
-
 s2. Choose an OV to carry out a registration visit - contact your [local APHA office](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) or [DARD office](https://www.dardni.gov.uk/contact) to find one.  The OV will charge a fee for this.
-
 s3. Complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488776/form-et79.pdf) (PDF, 198KB) and send it to the address on the top of the form. You must include the £93 registration fee and passport fees.
-
 s4. APHA sends the registration document, unique registration number and animal passports to your OV. 
-
 s5. Your OV carries out a registration visit. If they’re satisfied with the checks, they’ll approve your application and give you the animal passports, registration document and a unique registration number for your circus or animal act.
-
 s6. You receive a letter from the Centre for International Trade - Carlisle to confirm whether the registration is granted.
 
 If you get new circus animals after you’ve registered, you need to contact the live animals team to arrange another OV visit.
@@ -430,18 +427,16 @@ You need a separate passport for each species and breed.
 You need to apply for an ITAHC at least 10 days before travelling.
 
 s1. Complete an [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) and and send it to [Centre for International Trade - Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc). You must include details of a nominated OV with your application. 
-
 s2. APHA sends the health certificate to your OV to complete.
-
 s3. Your OV visits you and certifies the health certificate. They’ll give you the ‘consignor confirmation form’. You must send this to APHA at least 48 hours before you travel to confirm that all animals in the health certificate are travelling.
 
-##Contacts
+## Contacts
 
 **Animal and Plant Health Agency (APHA)**
 
-Tel: +44 (0) 3000 200 301 
-Fax: +44 (0) 117 372 8206 
-Email: wildlife.licensing@apha.gsi.gov.uk
+Telephone: +44 (0) 3000 200 301
+Fax: +44 (0) 117 372 8206
+Email: <wildlife.licensing@apha.gsi.gov.uk>
 Centre for International Trade - Bristol 
 1/17 Temple Quay House 
 2 The Square 
@@ -453,8 +448,8 @@ $C
 
 **Fish Health Inspectorate**
 
-<fhi@cefas.co.uk>   
 Telephone: 01305 206700   
+Email: <fhi@cefas.co.uk>  
 Monday to Friday, 9am to 5pm   
 [Find out about call charges](/call-charges)   
 
@@ -462,7 +457,7 @@ $C
 
 **Animal Health and Veterinary Laboratories Agency (AHVLA)**
 
-<imports@ahvla.gsi.gov.uk>  
+Email: <imports@ahvla.gsi.gov.uk>  
 Telephone: 01245 358 383   
 [Find out about call charges](/call-charges)   
 $C
@@ -482,9 +477,8 @@ $C
 
 **Defra**
 
-<defra.helpline@defra.gsi.gov.uk>   
+Email: <defra.helpline@defra.gsi.gov.uk>   
 Telephone: 0345 933 5577   
 Monday to Friday, 8am to 6pm   
 [Find out about call charges](/call-charges)    
 $C
-
