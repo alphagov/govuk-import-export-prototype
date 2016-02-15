@@ -10,7 +10,7 @@ breadcrumbs:
  - name: Business and self employed
    url: '/'
  - name: Exporting and doing business abroad
-   url: '/'   
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 You must make an export declaration on the National Export System (NES) to export goods outside of the European Union (EU). 
 NES is part of HMRC’s Customs Handling Import and Export Freight (CHIEF) system. 
