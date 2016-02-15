@@ -15,13 +15,13 @@ breadcrumbs:
 
 You can get relief from duty, and in some cases VAT, if you’re importing goods into the EU for:
 
-- [museums and galleries](/relief-on-donated-noncommercial-goods/museums-and-galleries)
-- [charities](/relief-on-donated-noncommercial-goods/charities) 
-- [scientific instruments](/relief-on-donated-noncommercial-goods/scientific-instruments) - for use in educational establishments, as well as the NHS
-- [donated medical equipment](/relief-on-donated-noncommercial-goods/donated-medical-equipment) - for research, diagnosis and treatment for a health authority or hospital department 
+- [museums and galleries](/relief-on-donated-noncommercial-goods/museums-and-galleries.html)
+- [charities](/relief-on-donated-noncommercial-goods/charities.html) 
+- [scientific instruments](/relief-on-donated-noncommercial-goods/scientific-instruments.html) - for use in educational establishments, as well as the NHS
+- [donated medical equipment](/relief-on-donated-noncommercial-goods/donated-medical-equipment.html) - for research, diagnosis and treatment for a health authority or hospital department 
 - educational, scientific, cultural and professional documents
 - capital goods 
-- [animals for scientific research](/relief-on-donated-noncommercial-goods/animals-for-scientific-research)
+- [animals for scientific research](/relief-on-donated-noncommercial-goods/animals-for-scientific-research.html)
 - biological and chemical substances for scientific research
 - commercial samples of negligible value
 - inherited goods
