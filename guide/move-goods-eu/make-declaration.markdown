@@ -27,7 +27,7 @@ s1. You will need an EORI (Economic Operator Registration and Identification) nu
 
 s2. Sign up to use NCTS on the [Government Gateway website](http://www.gateway.gov.uk/).
 
-You can [check whether your business already has an EORI number]((http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en) if you’re not sure.
+You can [check whether your business already has an EORI number](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en) if you’re not sure.
 
 ##Make your NCTS declarations simpler
 
