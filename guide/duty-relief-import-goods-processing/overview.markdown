@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Claim duty relief when you import goods for processing
-permalink: /guide/import-goods-processing/overview.html
+permalink: /guide/duty-relief-import-goods-processing/overview.html
 page_number: 1
 page_title: Overview
 breadcrumbs:
