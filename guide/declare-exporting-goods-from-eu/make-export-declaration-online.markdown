@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Declare that you’re exporting goods outside the EU
-permalink: /declare-exporting-goods-from-eu/make-export-declaration-online.html
+permalink: /guide/declare-exporting-goods-from-eu/make-export-declaration-online.html
 page_number: 2
 page_title: Make an export declaration online
 breadcrumbs:
@@ -10,7 +10,7 @@ breadcrumbs:
  - name: Business and self employed
    url: '/'
  - name: Exporting and doing business abroad
-   url: '/'   
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
 s1. You'll need an Economic Operator Registration Identification number (EORI) - [check if your business already has one](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). 
