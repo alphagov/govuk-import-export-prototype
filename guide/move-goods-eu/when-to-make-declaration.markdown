@@ -3,7 +3,7 @@ layout: guide
 title: Move goods to other EU countries
 permalink: /guide/move-goods-eu/when-to-make-declaration.html
 page_number: 1
-page_title: Make an export declaration online
+page_title: When to make a declaration
 breadcrumbs:
  - name: Home
    url: '/'
