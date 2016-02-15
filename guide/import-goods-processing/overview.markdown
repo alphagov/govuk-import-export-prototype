@@ -26,6 +26,6 @@ You’ll need to:
 
 - [get prior authorisation](/link) to import some goods under IPR
 process the goods within the [time limit](/link)
-follow the [rules for storing IPR goods](/link)
-follow the [rules for exporting or disposing of IPR goods](/link)
+- follow the [rules for storing IPR goods](/link)
+- follow the [rules for exporting or disposing of IPR goods](/link)
 [keep the correct records](/link)
