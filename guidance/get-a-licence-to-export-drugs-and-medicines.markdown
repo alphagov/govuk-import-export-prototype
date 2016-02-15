@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export drugs and medicines
-summary: You must have a licence to export certain drugs and medicines
+summary: You must have a licence to export certain drugs and medicines.
 permalink: /guidance/get-a-licence-to-export-drugs-and-medicines.html
 topic:
   name: Exporting and doing business abroad
