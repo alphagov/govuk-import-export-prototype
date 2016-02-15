@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Declare that you’re exporting goods outside the EU
-permalink: /declare-exporting-goods-from-eu/overview.html
+permalink: /guide/declare-exporting-goods-from-eu/overview.html
 page_number: 1
 page_title: Overview
 breadcrumbs:
