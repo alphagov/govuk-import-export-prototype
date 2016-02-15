@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Doing business with someone who is subject to financial sanctions
-permalink: /guide//guide/doing-business-financial-sanctions/overview.html
+permalink: /guide/doing-business-financial-sanctions/overview.html
 page_number: 1
 page_title: Overview
 breadcrumbs:
