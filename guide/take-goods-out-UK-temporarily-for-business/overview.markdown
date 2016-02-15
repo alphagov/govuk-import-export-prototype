@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Take goods out of the UK temporarily for business purposes
-permalink: /guide/take-goods-out-UK-temporarily-for-business/overview.html
+permalink: /guide/take-goods-out-uk-temporarily-for-business/overview.html
 page_number: 1
 page_title: Overview
 breadcrumbs:
