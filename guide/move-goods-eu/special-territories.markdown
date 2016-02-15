@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Declare that you’re exporting goods outside the EU
+title: Move goods to other EU countries
 permalink: /guide/move-goods-eu/special-territories.html
 page_number: 2
 page_title: Channel Islands, EU special territories, Andorra and San Marino
