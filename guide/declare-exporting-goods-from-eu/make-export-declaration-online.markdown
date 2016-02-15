@@ -21,7 +21,9 @@ s3. [Submit your export declaration through NES.](https://secure.hmce.gov.uk/eco
 ^You may be able to use a simplified export procedure to [speed up the export process](/link).^
 
 ##Get help
+
 Contact the [EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact) if you need help getting an EORI number.
+
 $C 
 
 **HMRC Excise and Customs helpline**  
@@ -47,7 +49,7 @@ Contact the NES helpline to find out about fallback routes.
 If you need to use a fallback route, you must provide all of the following:
 
 - [form C88/ESS](/government/uploads/system/uploads/attachment_data/file/386159/c88-ess.pdf) (PDF, 34.9KB)    
-- [form C1402](/government/uploads/system/uploads/attachment_data/file/374217/c1402f.pdf) (PFD, 24.6KB)
+- [form C1402](/government/uploads/system/uploads/attachment_data/file/374217/c1402f.pdf) (PDF, 24.6KB)
 - [form C130EX](/government/uploads/system/uploads/attachment_data/file/374206/c130ex.pdf) (PDF, 10.6KB) 
 
 *[EORI]: Economic Operator Registration Identification 
