@@ -13,10 +13,10 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-This page will cover:
+When they've read this page, the user will:
 
-- understands that you're generally not allowed to deal with sanctioned people or organisations
-- understands what dealing involves (eg can include making arrangements as well as actually giving them money)
-- understands what to do if they want to deal with a sanctioned person or organisation
-- understands what to do if they're already dealing with a sanctioned person or organisation
-- understands who to contact if they have a question
+- understand that you're generally not allowed to deal with sanctioned people or organisations
+- understand what dealing involves (eg can include making arrangements as well as actually giving them money)
+- understand what to do if they want to deal with a sanctioned person or organisation
+- understand what to do if they're already dealing with a sanctioned person or organisation
+- understand who to contact if they have a question
