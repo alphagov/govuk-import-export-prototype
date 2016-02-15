@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Claim duty relief when you import goods for processing
+title: Claim duty relief when you import goods for processing (Inward processing relief)
 permalink: /guide/duty-relief-import-goods-processing/overview.html
 page_number: 1
 page_title: Overview
