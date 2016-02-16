@@ -9,8 +9,8 @@ breadcrumbs:
    url: '/'
  - name: Business and self employed
    url: '/'
- - name: Exporting and doing business abroad
-   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
+ - name: Importing
+   url: '/topic/business-and-self-employed/importing.html'   
 ---
 
 You can get relief from duty, and in some cases VAT, if you’re importing goods into the EU for:
