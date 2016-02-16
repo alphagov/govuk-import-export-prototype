@@ -9,12 +9,12 @@ breadcrumbs:
    url: '/'
 
 ---
-{% contentfor summary %}
+
 
 UK Export Finance (UKEF) can help your bank or insurance company to provide insurance against not getting paid when you export.
 
 
-{% endcontentfor %}
+
 
 
 UKEF can also help to guarantee a bond or loan you take out to help you win a new export contract (eg a working capital loan or export bond).
