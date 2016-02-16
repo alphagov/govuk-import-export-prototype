@@ -9,8 +9,8 @@ breadcrumbs:
    url: '/'
  - name: Business and self employed
    url: '/'
- - name: Exporting and doing business abroad
-   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
+ - name: Importing
+   url: '/topic/business-and-self-employed/importing.html'   
 ---
 
 When you’ve finished processing the IPR goods and are ready to export the finished product outside the EU, fill in a ‘bill of discharge’. There are two versions: form C99 and form C&E 812.
