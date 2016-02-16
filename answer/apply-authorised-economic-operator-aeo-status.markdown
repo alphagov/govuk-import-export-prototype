@@ -23,7 +23,7 @@ Anyone involved in moving goods internationally can apply, eg importers, exporte
 Your AEO status will be recognised by all EU countries and some countries outside the EU - eg the USA, Japan and China.
 
 
-## Apply to be an Authorised Economic Operator (AEO)
+##Apply to be an Authorised Economic Operator (AEO)
 
 ^Before you apply, make sure you meet the [requirements for being an AEO](/government/publications/notice-117-authorised-economic-operator).^ 
 
@@ -37,7 +37,7 @@ s3. Complete [self assessment form C118](/government/uploads/system/uploads/atta
 
 You’ll need to make separate applications for different legal entities.
 
-### Where to send your application
+###Where to send your application
 
 If you’re based in England, Scotland, Wales or Northern Ireland, email completed forms to <AEOapplications@hmrc.gsi.gov.uk>.
 
@@ -54,7 +54,8 @@ NG2 1AB
 $A
 Applications take up 100 days to process, or 180 days if your business is partly based outside the UK.
 
- ## Get help with your AEO application
+
+##Get help with your AEO application
 
 Contact the AEO helpline if you have a question.
 
