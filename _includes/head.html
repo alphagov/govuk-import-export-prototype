@@ -30,7 +30,11 @@
   {% elsif page.layout == 'start' %}
     <link rel="stylesheet" media="screen" href="{{ "/css/start/static.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" media="screen" href="{{ "/css/start/application.css" | prepend: site.baseurl }}">
-  {% elsif page.layout == 'guide'%}
+  {% elsif page.layout == 'guide' %}
+    <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/guide.css" | prepend: site.baseurl }}">
+  {% elsif page.layout == 'answer' %}
     <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" media="screen" href="{{ "/css/guide.css" | prepend: site.baseurl }}">
