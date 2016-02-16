@@ -5,7 +5,7 @@ permalink: /start/choosing-export-market-ukti.html
 start_button:
   url: /
   label: Start now
-  will_continue_on: on the UKTI website
+  will_continue_on:
 ---
 {% contentfor intro %}
 
