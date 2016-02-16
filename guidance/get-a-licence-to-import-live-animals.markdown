@@ -5,7 +5,7 @@ summary: You must have a licence to import live animals.
 permalink: /guidance/get-a-licence-to-import-live-animals.html
 topic:
   name: Exporting and doing business abroad
-  url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
+  url: /topic/business-and-self-employed/importing.html
 —
 
 This page will cover:
