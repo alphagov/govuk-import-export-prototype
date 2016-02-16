@@ -24,7 +24,6 @@ Anyone involved in moving goods internationally can apply, eg importers, exporte
 
 Your AEO status will be recognised by all EU countries and some countries outside the EU - eg the USA, Japan and China.
 
-
 ##Apply to be an Authorised Economic Operator (AEO)
 
 ^Before you apply, make sure you meet the [requirements for being an AEO](/government/publications/notice-117-authorised-economic-operator).^ 
@@ -44,16 +43,14 @@ If you’re based in England, Scotland, Wales or Northern Ireland, email complet
 If you’re based in the Isle of Man or the Channel Islands, send completed forms to:
 
 $A
-
 HMRC AEO Central Site 
 Fitz Roy House  
 Castle Meadow Road
 Nottingham 
 NG2 1AB 
-
 $A
-Applications take up 100 days to process, or 180 days if your business is partly based outside the UK.
 
+Applications take up 100 days to process, or 180 days if your business is partly based outside the UK.
 
 ##Get help with your AEO application
 
@@ -66,4 +63,3 @@ Telephone: 0300 056 4556
 Monday to Friday, 9am to 5pm     
 [Find out about call charges](/call-charges)     
 $C  
-
