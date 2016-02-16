@@ -1,7 +1,7 @@
 ---
 layout: start
 title: Get export advice from UK Trade & Investment (UKTI)
-permalink: /choosing-export-market-ukti.html
+permalink: /start/choosing-export-market-ukti.html
 start_button:
   url: /
   label: Start now
