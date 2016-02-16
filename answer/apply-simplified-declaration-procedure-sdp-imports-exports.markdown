@@ -22,7 +22,7 @@ You can apply to use SDP if you’re an importer, exporter, freight forwarder or
 
 You can’t use SDP for hydrocarbon oils.
 
-### Local Clearance Procedure (LCP)
+###Local Clearance Procedure (LCP)
 
 Apply to use the Local Clearance Procedure (LCP) instead of SDP if you’re importing goods that you’re not planning to sell on directly. For example, you’re using them as raw materials to make something else.
 
@@ -41,17 +41,15 @@ You can’t use LCP for goods that need an import licence or certificate. For ex
 
 You can’t use LCP for hydrocarbon oils.
 
-## Apply to use SDP or LCP
+##Apply to use SDP or LCP
 
 s1. You’ll need an EORI (Economic Operator Registration and Identification) number. You can [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT]https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)).
-
 s2. You’ll need a [duty deferment account](link to content on duty deferment) with HM Revenue & Customs.
-
 s3. Complete [form C&E48](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374170/ce48.pdf) (PDF,149KB) to apply to for SDP or LCP.
 
-You can [check whether your business already has an EORI number]((http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en) if you’re not sure.
+You can [check whether your business already has an EORI number](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en) if you’re not sure.
 
-## Bring goods into the UK temporarily
+##Bring goods into the UK temporarily
 
 There’s a different process if you want to [bring goods into the UK temporarily](link to temporary imports content) (eg as samples to show your customers). You can’t use SDP or LCP.
 
