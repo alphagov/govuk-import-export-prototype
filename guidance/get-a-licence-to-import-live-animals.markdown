@@ -6,7 +6,7 @@ permalink: /guidance/get-a-licence-to-import-live-animals.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/importing.html
-—
+---
 
 This page will cover:
 
