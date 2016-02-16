@@ -1,7 +1,7 @@
 ---
 layout: answer
 title: Get overseas investment insurance
-permalink: /overseas-investment-insurance.html
+permalink: answer/overseas-investment-insurance.html
 breadcrumbs:
  - name: Home
    url: '/'
