@@ -7,14 +7,16 @@ breadcrumbs:
    url: '/'
  - name: Business and self employed
    url: '/'
+ - name: Exporting and doing business abroad
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'
 
 ---
 {% contentfor summary %}
 
 You can apply for Authorised Economic Operator (AEO) status to:
 
-reduce the chances of your goods getting stopped at customs
-pay less for your [duty deferment guarantee](link to duty deferment content)
+- reduce the chances of your goods getting stopped at customs
+- pay less for your [duty deferment guarantee](link to duty deferment content)
 
 {% endcontentfor %}
 
@@ -29,11 +31,11 @@ Your AEO status will be recognised by all EU countries and some countries outsid
 
 You’ll need to show that you have processes to stop people tampering with your goods while they’re in transit (eg adding something to a container that shouldn’t be there).
 
-s1. You will need an EORI (Economic Operator Registration and Identification) number. [Check if your business already has an EORI number]((http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). If you don’t, [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT]https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)).
+s1. You will need an EORI (Economic Operator Registration and Identification) number. [Check if your business already has an EORI number]((http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). If you don’t, [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
 
-s2. Complete [application form C117](/government/uploads/system/uploads/attachment_data/file/412200/C117.doc) (MS Word document, 96.5KB). You’ll need the [notes on how to compete form C117](/government/uploads/system/uploads/attachment_data/file/412612/C117-notes.pdf) (PDF, 90KB).
+s2. Complete [application form C117](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412200/C117.doc) (MS Word document, 96.5KB). You’ll need the [notes on how to compete form C117](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412612/C117-notes.pdf) (PDF, 90KB).
 
-s3. Complete [self assessment form C118](/government/uploads/system/uploads/attachment_data/file/412192/C118.doc) (MS Word document, 326KB). You’ll need the [notes on how to complete form C118(/government/uploads/system/uploads/attachment_data/file/414686/C118_Notes.pdf) (PDF, 417KB).
+s3. Complete [self assessment form C118](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412192/C118.doc) (MS Word document, 326KB). You’ll need the [notes on how to complete form C118(https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/414686/C118_Notes.pdf) (PDF, 417KB).
 
 You’ll need to make separate applications for different legal entities.
 
