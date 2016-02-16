@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Declare goods you've moved in or out of the UK using Intrastat
+title: Report that you've moved goods in or out of the UK using Intrastat
 permalink: /guide/declare-goods-intrastat/when-you-must-register.html
 page_number: 1
 page_title: When you must register
