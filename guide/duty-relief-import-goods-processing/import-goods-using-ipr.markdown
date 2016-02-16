@@ -9,8 +9,8 @@ breadcrumbs:
    url: '/'
  - name: Business and self employed
    url: '/'
- - name: Exporting and doing business abroad
-   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
+ - name: Importing
+   url: '/topic/business-and-self-employed/importing.html'   
 ---
 
 You don’t need to get prior authorisation to claim IPR on most goods. Just say that you want to claim IPR when you complete your [import declaration](link to import declaration content).
