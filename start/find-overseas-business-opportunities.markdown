@@ -1,7 +1,7 @@
 ---
 layout: start
 title: Find export opportunities
-permalink: /find-business-opportunities.html
+permalink: /start/find-overseas-business-opportunities.html
 breadcrumbs:
  - name: Home
    url: '/'
