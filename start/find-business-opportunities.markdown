@@ -12,7 +12,6 @@ start_button:
 Find export opportunities for your business.
 
 {% endcontentfor %}
-
 {% contentfor more_information %}
 
 ##Get help from UKTI
