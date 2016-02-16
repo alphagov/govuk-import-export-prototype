@@ -85,7 +85,6 @@ DEPENDENCIES
   govspeak
   html-proofer
   jekyll (~> 3.0.3)
-  kramdown
   nokogiri
   puma
   rack-jekyll
