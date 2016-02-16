@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: Shipping goods overseas
+title: Ship goods overseas
 permalink: /shipping-goods.html
 breadcrumbs:
  - name: Home
