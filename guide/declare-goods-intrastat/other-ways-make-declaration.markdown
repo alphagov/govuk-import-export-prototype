@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Declare goods you've moved in or out of the UK using Intrastat
+title: Report that you've moved goods in or out of the UK using Intrastat
 permalink: /guide/declare-goods-intrastat/other-ways-make-declaration.html
 page_number: 3
 page_title: Other ways to make Intrastat declarations
