@@ -1,7 +1,7 @@
 ---
 layout: start
 title: Trade Tariff
-permalink: /trade-tariff.html
+permalink: /start/trade-tariff.html
 start_button:
   url: /
   label: Start now
@@ -23,7 +23,7 @@ Commodity codes classify goods for import and export so you can:
 
 ## Get advice if you’re not sure how to classify your goods
 
-Complete a [classification form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf) and email it to the Trade Tariff classification service if you can’t find your product in the Trade Tariff.
+Complete a [classification form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf) (PDF, 163KB) and email it to the Trade Tariff classification service if you can’t find your product in the Trade Tariff.
 
 Only include one product per form.
 
