@@ -23,7 +23,7 @@ Get advice and support from UKTI to grow your business overseas. UKTI can help y
 
 {% contentfor more_information %}
 
-^You can also sign up for UKTI events, seminars and webinars.](https://www.events.ukti.gov.uk)^
+^You can also sign up for [UKTI events, seminars and webinars.](https://www.events.ukti.gov.uk)^
 
 *[UKTI]: UK Trade & Investment
 
