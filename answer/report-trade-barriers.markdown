@@ -9,3 +9,10 @@ breadcrumbs:
    url: '/'
 
 ---
+
+This page will cover:
+
+- understands if they can apply
+- understands how to apply
+- understands who to contact if they have a question
+
