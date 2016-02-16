@@ -24,7 +24,7 @@ There are [different rules](link to part 2) for moving goods to the Channel Isla
 
 ###Goods made from non-EU materials
 
-You must [make a declaration](link to part 2) to move goods to EU or EFTA countries if they:
+You must [make a community transit declaration](link to part 2) to move goods to EU or EFTA countries if they:
 
 - were made from materials brought in from outside the EU
 - there’s still duty to be paid on them
@@ -33,7 +33,7 @@ If the duty has already been paid, they’re in ‘free circulation’ within th
 
 ##Moving goods made outside the EU
 
-You must [make a declaration](link to part 2) to move your goods to EU or EFTA countries if:
+You must [make a community transit declaration](link to part 2) to move your goods to EU or EFTA countries if:
 
 - the goods were originally brought in from outside the EU
 - there’s still duty to pay on the goods
