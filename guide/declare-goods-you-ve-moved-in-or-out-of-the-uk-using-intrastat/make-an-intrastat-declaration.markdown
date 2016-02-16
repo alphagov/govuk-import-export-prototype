@@ -7,6 +7,10 @@ page_title: Make an Intrastat declaration
 breadcrumbs:
  - name: Home
    url: '/'
+ - name: Business and self employed
+   url: '/'
+ - name: Exporting and doing business abroad
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'  
 ---
 You must [make an Intrastat declaration](https://secure.hmce.gov.uk/ecom/is2/static/is2.html) every month.
 
