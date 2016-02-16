@@ -30,7 +30,7 @@ You can claim relief for voyages made between:
 * a UK port and a mooring at sea
 * moorings at sea
 
-##Who can claim
+###Who can claim
 
 You can claim if you’re either:
 
@@ -83,7 +83,7 @@ Newcastle-upon Tyne
 NE98 1ZZ
 $C
 
-###Keeping records
+##Keeping records
 
 You must keep records for at least 6 years showing that the oils:
 
