@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Report that you've moved goods in or out of the UK using Intrastat
-permalink: /guide/declare-goods-intrastat/get-help.html
+permalink: /guide/report-moved-goods-intrastat/get-help.html
 page_number: 4
 page_title: Get help with Intrastat
 breadcrumbs:
