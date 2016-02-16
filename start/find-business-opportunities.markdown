@@ -2,6 +2,13 @@
 layout: start
 title: Find export opportunities
 permalink: /find-business-opportunities.html
+breadcrumbs:
+ - name: Home
+   url: '/'
+ - name: Business and self employed
+   url: '/'
+ - name: Exporting and doing business abroad
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'
 start_button:
   url: /
   label: Start now
