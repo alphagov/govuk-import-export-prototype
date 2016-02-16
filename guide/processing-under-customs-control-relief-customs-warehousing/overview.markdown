@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Processing under Customs Control and customs warehousing
-permalink: /guide/processing-under-customs-control-relief-customs-warehousing.html
+permalink: /guide/processing-under-customs-control-relief-customs-warehousing/overview.html
 page_number: 1
 page_title: Processing under Customs Control and customs warehousing
 breadcrumbs:
