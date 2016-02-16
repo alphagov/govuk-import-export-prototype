@@ -7,6 +7,10 @@ page_title: When you must register
 breadcrumbs:
  - name: Home
    url: '/'
+ - name: Business and self employed
+   url: '/'
+ - name: Exporting and doing business abroad
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'  
 ---
 The government uses the Intrastat system to collect international trade statistics from businesses.
 
