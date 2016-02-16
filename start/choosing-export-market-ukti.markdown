@@ -7,6 +7,7 @@ start_button:
   label: Start now
   will_continue_on: the UKTI website
 ---
+{% contentfor intro %}
 
 Get advice and support from UKTI to grow your business overseas. UKTI can help you:
 
@@ -18,9 +19,15 @@ Get advice and support from UKTI to grow your business overseas. UKTI can help y
 - carry out market research 
 - develop and implement an international online strategy
 
+{% endcontentfor %}
+
+{% contentfor more_information %}
+
 ^You can also sign up for UKTI events, seminars and webinars.](https://www.events.ukti.gov.uk)^
 
 *[UKTI]: UK Trade & Investment
+
+{% endcontentfor %}
 
 
 
