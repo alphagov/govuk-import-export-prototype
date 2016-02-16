@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: Shipping Goods
+title: Shipping goods
 permalink: /shipping-goods.html
 breadcrumbs:
  - name: Home
@@ -24,7 +24,12 @@ You must fill in a separate SSN for each shipment you make and send it to your s
 
 ##Export Cargo Shipping Instruction
 
-An Export Cargo Shipping Instruction (ECSI) gives your carrier detailed instructions about how to handle your goods. You don’t have to use one but it will help to settle any disputes with your carrier eg about cargo handling, documentation or export charges. Ask your carrier or freight forwarder for a blank form. When you fill it in, include:
+An Export Cargo Shipping Instruction (ECSI) gives your carrier detailed instructions about how to handle your goods.
+
+You don’t have to use one but it will help to settle any disputes with your carrier eg about cargo handling, documentation or export charges.
+
+Ask your carrier or freight forwarder for a blank form. When you fill it in, include:
+
 - a description of the goods
 - the route
 - any special transport requirements
