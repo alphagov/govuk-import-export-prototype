@@ -27,6 +27,9 @@
     <link rel="stylesheet" media="screen" href="{{ "/css/header-footer-only.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" media="print" href="{{ "/css/header-footer-only-print.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" media="screen" href="{{ "/css/base.css" | prepend: site.baseurl }}">
+  {% elsif page.layout == 'start' %}
+    <link rel="stylesheet" media="screen" href="{{ "/css/start/static.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/start/application.css" | prepend: site.baseurl }}">
   {% elsif page.layout == 'guide'%}
     <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
