@@ -5,7 +5,7 @@ summary: How to claim relief on excise duty on spirits, beer, wine, made-wine, c
 permalink: /guidance/alcohol-ingredients-relief.html
 topic:
   name: Importing
-  url: /topic/importing.html
+  url: url: /topic/business-and-self-employed/importing.html
 ---
 
 When they have read this page, the user will:
