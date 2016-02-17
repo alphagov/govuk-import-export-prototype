@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Import goods from outside the EU
+title: Declare that you're importing goods from outside the EU
 permalink: /guide/import-goods-outside-eu/records-you-must-keep.html
 page_number: 4
 page_title: Records you must keep
