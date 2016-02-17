@@ -8,10 +8,10 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-This page will cover:
+When they have read this page, the user will:
 
-- understands if they need a licence or certificate
-- understands how to apply
-- understands (broadly) when someone is required to pay a security when exporting CAP goods
-- understands how to claim a refund on CAP export duty
-- understands who to contact if they have a question
+- understand if they need a licence or certificate
+- understand how to apply
+- understand (broadly) when someone is required to pay a security when exporting CAP goods
+- understand how to claim a refund on CAP export duty
+- understand who to contact if they have a question
