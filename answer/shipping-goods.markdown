@@ -14,11 +14,15 @@ breadcrumbs:
 
 Use a [Standard Shipping Note](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/442288/standard_shipping_note.pdf) (PDF, 23.1KB) (SSN) to transport goods overseas.
 
+
 You must use the SSN to give carriers and customs officials information about the goods and the companies involved in sending, shipping and receiving them.
+
 
 You must fill in a separate SSN for each shipment you make and send it to your shipping company or freight forwarder.
 
+
 ^You can use a [freight forwarder](http://www.bifa.org/members) to help you ship goods internationally.^
+
 
 {% endcontentfor %}
 
