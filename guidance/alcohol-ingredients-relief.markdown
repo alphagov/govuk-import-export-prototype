@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Claim alcohol ingredients duty relief 
-summary: You must have a licence to export energy related goods, technology and services.
+summary: How to claim relief on excise duty on spirits, beer, wine, made-wine, cider and perry.
 permalink: /guidance/alcohol-ingredients-relief.html
 topic:
   name: Importing
