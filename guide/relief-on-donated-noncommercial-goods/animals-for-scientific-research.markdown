@@ -20,7 +20,7 @@ You can get relief if you're organisation is either:
 
 ##Animals eligible for relief
 
-You can get duty relief on any animal listed under chapters 1 or 3 in the [Trade Tariff](/link). 
+You can get duty relief on any animal listed under chapters 1 or 3 in the [Trade Tariff](/start/trade-tariff.html). 
 
 You can only get VAT relief if the animals have been supplied free of charge.
 
@@ -31,7 +31,7 @@ You must only use the animals for scientific research purposes.
 ##How to claim relief
 
 s1. If you're a private establishment, you must ask the Home Office for approval before you can claim relief. The Home Office will send you an approval letter - make sure it’s available for inspection at customs.
-s2. Use the correct [Customs Procedure Code (CPC)](/trade-tariff) [when you make your import declaration](/link).     
+s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).     
 
 $C
 
