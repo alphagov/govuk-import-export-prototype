@@ -15,8 +15,6 @@ breadcrumbs:
 
 You can get duty and VAT relief if you permanently import exhibits for galleries and museums from outside the EU.
 
-^There are different rules if you're [temporarily importing goods](/link).^
-
 ##Eligibility
 
 You can get duty relief if all of the following apply:
