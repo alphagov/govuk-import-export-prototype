@@ -49,7 +49,7 @@ The VAT relief also extends to:
 ##How to claim relief
 
 s1. Contact National Import Reliefs Unit (NIRU) to apply for approval. NIRU will send you a certificate, which you must use when you make your import declaration.         
-s2. Use the correct [Customs Procedure Code (CPC)](/trade-tariff) [when you make your import declaration](/link).      
+s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).      
 
 $C
 
