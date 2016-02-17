@@ -5,7 +5,7 @@ summary: How to claim relief on excise duty on alcohol used for medical or scien
 permalink: /guidance/relief-on-alcohol-for-manufacturing-medicine-or-science.html
 topic:
   name: Importing
-  url: /topic/importing.html
+  url: /topic/business-and-self-employed/importing.html
 ---
 
 When they have read this page, the user will:
