@@ -24,7 +24,7 @@ There are [different rules](/guide/move-goods-eu/special-territories.html) for m
 
 ###Goods made from non-EU materials
 
-You must [make a community transit declaration](/guide/make-declaration.html) to move goods to EU or EFTA countries if they:
+You must [make a community transit declaration](/guide/move-goods-eu/make-declaration.html) to move goods to EU or EFTA countries if they:
 
 - were made from materials brought in from outside the EU
 - there’s still duty to be paid on them
