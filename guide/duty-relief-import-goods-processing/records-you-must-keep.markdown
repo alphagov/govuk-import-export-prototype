@@ -20,4 +20,4 @@ You must keep records for 4 years after you export the goods. The records must s
 - how and where the goods were processed  
 - where anything made from the goods was kept at all times, and how much was made from the processing (including any waste or by-products)  
 - when and where the goods were exported  
-- how the goods can be identified when they’ve been processed (or, if you’re using [equivalence](link back to part 4), that they’re exactly the same as the non-IPR goods)  
+- how the goods can be identified when they’ve been processed (or, if you’re using [equivalence](/guide/duty-relief-import-goods-processing/store-ipr-goods.html), that they’re exactly the same as the non-IPR goods)  
