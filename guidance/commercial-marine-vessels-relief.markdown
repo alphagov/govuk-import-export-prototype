@@ -64,23 +64,23 @@ You can also claim if the vessel weighs less than 40 tons NRT, as long as the ve
 Fill in form HO66. Call HMRC to get form HO66.
 
 $C
-**HMRC excise helpline**   
-Customer services: 0300 200 3700  
-Outside the UK: +44 2920 501 261
-Textphone: 0300 200 3719
-Find out about [call charges](/call-charges)   
+**HMRC excise helpline**      
+Customer services: 0300 200 3700     
+Outside the UK: +44 2920 501 261    
+Textphone: 0300 200 3719    
+Find out about [call charges](/call-charges)       
 $C
 
 Send your completed form to:
 
 $C
-HM Revenue and Customs 
-Mineral Oil Reliefs Centre 
-Building 4, BP4002 
-Benton Park View 
-Longbenton 
-Newcastle-upon Tyne 
-NE98 1ZZ
+HM Revenue and Customs    
+Mineral Oil Reliefs Centre    
+Building 4, BP4002     
+Benton Park View     
+Longbenton    
+Newcastle-upon Tyne    
+NE98 1ZZ   
 $C
 
 ##Keeping records
