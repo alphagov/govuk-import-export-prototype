@@ -7,16 +7,16 @@ breadcrumbs:
    url: '/'
  - name: Business and self employed
    url: '/'
- - name: Exporting and doing business abroad
+ - name: Importing
    url: '/topic/business-and-self-employed/importing.html' 
 ---
 
 If you import goods regularly, you can apply for a duty deferment account to delay paying most customs charges. For example:
 
-customs duty
-excise duty
-import VAT
-Common Agricultural Policy (CAP) levies
+- customs duty
+- excise duty
+- import VAT
+- Common Agricultural Policy (CAP) levies
 
 It lets you make one payment per month through Direct Debit instead of paying for individual consignments.
 
