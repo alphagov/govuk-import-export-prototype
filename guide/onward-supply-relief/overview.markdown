@@ -12,3 +12,9 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html'   
 ---
+
+This page will cover:
+
+- understands what type of activity the relief applies to
+- understands how to claim the relief
+- understands what they must do to remain eligible for the relief (ie restrictions on how they process or dispose of goods, - record keeping requirements)
