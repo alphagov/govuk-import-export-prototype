@@ -34,7 +34,7 @@ You can claim VAT relief if the goods are intended for use in medical or veterin
 ##How to claim relief
 
 s1. Contact National Import Reliefs Unit (NIRU) to apply for approval. NIRU will send you an approval letter - make sure it’s available for inspection at customs.    
-s2. Use the correct [Customs Procedure Code (CPC)](/trade-tariff) [when you make your import declaration](/link).    
+s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).     
 
 $C
 
