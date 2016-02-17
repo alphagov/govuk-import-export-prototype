@@ -23,7 +23,7 @@ Fill in form [C&E 812](https://public-online.hmrc.gov.uk/lc/content/xfaforms/pro
 
 Send the completed form C&E 19 to your local supervising office. You can find their contact details on your IPR authorisation.
 
-Then make an [export declaration](/link) in the usual way.
+Then make an [export declaration](/guide/declare-exporting-goods-from-eu/overview.html) in the usual way.
 
 ##Sell IPR goods within the EU
 
@@ -31,7 +31,7 @@ Fill in form [C&E 812](https://public-online.hmrc.gov.uk/lc/content/xfaforms/pro
 
 Send your completed form C&E 812 to your local HMRC supervising office no later than 30 days after the end of the [processing period](/guide/duty-relief-import-goods-processing/processing-ipr-goods.html). You can find their contact details on your IPR authorisation.
 
-Then make an [export declaration](/link) in the usual way and pay any duty or import VAT that’s due. You may also have to pay interest.
+Then make an [export declaration](/guide/declare-exporting-goods-from-eu/overview.html) in the usual way and pay any duty or import VAT that’s due. You may also have to pay interest.
 
 ## Process IPR goods in a customs warehouse
 
