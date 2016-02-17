@@ -7,7 +7,8 @@ breadcrumbs:
    url: '/'
  - name: Business and self employed
    url: '/'
-
+ - name: Exporting and doing business abroad
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'
 ---
 {% contentfor summary %}
 
@@ -15,16 +16,19 @@ UK Export Finance (UKEF) can help your bank or insurance company to provide insu
 
 {% endcontentfor %}
 
+Talk to an [approved broker](https://www.gov.uk/government/publications/uk-export-finance-insurance-list-of-approved-brokers/export-insurance-approved-brokers) or contact UK Export Finance customer services to find out more about export insurance.
 
+UKEF won’t help to insure:
 
+- contracts where cover is available from the private sector
+- exports to EU countries (except Greece)
+- exports to Australia, Canada, Iceland, Japan, New Zealand, Norway, Switzerland and the United States of America
+
+## Bond or loan guarantees
 
 UKEF can also help to guarantee a bond or loan you take out to help you win a new export contract (eg a working capital loan or export bond).
 
-
-
-Talk to your bank or contact UKEF to find out more. 
-
-
+Talk to your bank or contact UK Export Finance customer services to find out more. 
 
 $C
 
@@ -37,20 +41,14 @@ Find out about [call charges](/call-charges)
 
 $C
 
-^Get a [free consultation with an export advisor](/government/publications/uk-regional-export-finance-advisors).^ 
 UKEF won’t help to insure:
 
 - contracts where cover is available from the private sector
 - exports to EU countries (except Greece)
 - exports to Australia, Canada, Iceland, Japan, New Zealand, Norway, Switzerland and the United States of America
 
-
-^You can also get export insurance from [brokers in the private sector](/government/publications/uk-export-finance-insurance-list-of-approved-brokers/export-insurance-approved-brokers).^
-
 ## Finance for overseas buyers
 
 UKEF can also help overseas buyers to buy from UK companies by guaranteeing credit or underwriting a bank loan to an overseas buyer (eg by guaranteeing a letter of credit).
 
-
 Contact your bank for details.
-
