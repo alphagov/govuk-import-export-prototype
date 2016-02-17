@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: How to delay paying excise duty
-summary: You may be able to delay paying excise duty using ‘duty suspension’. You may be able to delay paying excise duty by storing or moving excise goods without paying duty. This is called ‘duty suspension’.
+summary: How to delay paying excise duty using ‘duty suspension’.
 permalink: /guidance/delay-paying-excise-duty.html
 topic:
   name: Importing
