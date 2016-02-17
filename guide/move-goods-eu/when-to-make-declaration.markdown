@@ -33,7 +33,7 @@ If the duty has already been paid, they’re in ‘free circulation’ within th
 
 ##Moving goods made outside the EU
 
-You must [make a community transit declaration](link to part 2) to move your goods to EU or EFTA countries if:
+You must [make a community transit declaration](/guide/move-goods-eu/make-declaration.html) to move your goods to EU or EFTA countries if:
 
 - the goods were originally brought in from outside the EU
 - there’s still duty to pay on the goods
