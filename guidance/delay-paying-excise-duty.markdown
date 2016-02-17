@@ -41,7 +41,7 @@ You need to be approved by HMRC to put goods in an excise warehouse.
 
 ###UK-based owners
 
-You’ll need to be approved by HMRC as a registered owner. Complete [form EX60](https://www.gov.uk/government/publications/excise-warehousing-application-to-be-an-owner-of-duty-suspended-goods-held-in-excise-warehouses-ex60). You’ll also need to complete [EX102](https://www.gov.uk/government/publications/excise-movements-about-the-partners-excise-102) if your company is a partnership.
+You’ll need to be approved by HMRC as a registered owner. Complete [form EX60](/government/publications/excise-warehousing-application-to-be-an-owner-of-duty-suspended-goods-held-in-excise-warehouses-ex60). You’ll also need to complete [EX102](/government/publications/excise-movements-about-the-partners-excise-102) if your company is a partnership.
 
 You must send an up to date business plan with your application. 
 
@@ -54,11 +54,11 @@ HMRC usually process applications within 45 working days. If your application is
 
 If you’re an overseas owner without a fixed UK address, you’ll need to appoint someone approved by HMRC as a duty representative to act on your behalf.
 
-Duty representatives must have a business or live in the UK and can only represent non-UK based owners. Apply on [form EX64](https://www.gov.uk/government/publications/excise-warehousing-application-to-be-a-duty-representative-ex64) if you want to act as a duty representative.
+Duty representatives must have a business or live in the UK and can only represent non-UK based owners. Apply on [form EX64](/government/publications/excise-warehousing-application-to-be-a-duty-representative-ex64) if you want to act as a duty representative.
 
 ##Moving duty suspension goods
 
-You must record when you move duty supension excise goods within the EU on the [Excise Movement and Control System](https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use). You don’t have to do this if your goods are allowed to move under [simplified procedures](LINK).
+You must record when you move duty supension excise goods within the EU on the [Excise Movement and Control System](/guidance/excise-movement-and-control-system-how-to-register-and-use). You don’t have to do this if your goods are allowed to move under [simplified procedures](LINK).
 
 You must make sure that you’ve either [paid excise duty](LINK) or [deferred payment](LINK) before you move goods from an excise warehouse. 
 
