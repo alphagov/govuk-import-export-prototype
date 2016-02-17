@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You don’t need to get prior authorisation to claim IPR on most goods. Just say that you want to claim IPR when you complete your [import declaration](link to import declaration content).
+You don’t need to get prior authorisation to claim IPR on most goods. Just say that you want to claim IPR when you complete your [import declaration](/guide/import-goods-outside-eu/overview.html).
 
 But you must get prior authorisation if:
 
@@ -48,7 +48,7 @@ Goods that need prior authorisation for IPR are:
 
 You don’t need IPR to get relief on import duty when you import civil aircraft parts with a certificate of airworthiness.
 
-Just make an [import declaration](/link) in the usual way.
+Just make an [import declaration](/guide/import-goods-outside-eu/overview.html) in the usual way.
 
 ##Get prior authorisation for IPR
 
