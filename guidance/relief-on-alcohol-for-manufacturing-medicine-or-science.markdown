@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Claim alcohol ingredients duty relief 
-summary: How to claim relief on excise duty on spirits, beer, wine, made-wine, cider and perry.
+summary: How to claim relief on excise duty on alcohol used for medical or scientic purposes.
 permalink: /guidance/relief-on-alcohol-for-manufacturing-medicine-or-science.html
 topic:
   name: Importing
