@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You must make an import declaration when you import goods from a:
+You must [make an import declaration](/guide/import-goods-outside-eu/make-import-declaration.html) when you import goods from a:
 
 - non-EU country
 - non-EU country via another EU country, if there’s still duty to be paid on them
