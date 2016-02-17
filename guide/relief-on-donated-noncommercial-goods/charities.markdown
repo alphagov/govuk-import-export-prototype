@@ -39,4 +39,4 @@ You can’t claim relief for any of the following goods:
 
 ##How to claim relief
 
-Use the correct [Customs Procedure Code (CPC)](/trade-tariff) [when you make your import declaration](/link).  
+Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).  
