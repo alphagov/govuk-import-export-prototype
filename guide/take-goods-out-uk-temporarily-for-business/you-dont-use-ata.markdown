@@ -45,5 +45,5 @@ Before you export the goods, prepare a list on company stationery. Include:
 At customs, you’ll need to provide:
 
 - 2 copies of the list 
-- a completed [form C&E 1246](/government/uploads/system/uploads/attachment_data/file/374161/ce1246.pdf)
+- a completed [form C&E 1246](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374161/ce1246.pdf)
 
