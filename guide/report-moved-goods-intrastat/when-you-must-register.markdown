@@ -21,7 +21,7 @@ Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) if you’re a VAT r
 - you moved more than £250,000 worth of goods to other EU countries in the last calendar year, or
 - you received more than £1.5 million worth of goods from other EU countries in the last calendar year
 
-When you have registered, you must [make monthly Intrastat declarations](link to part 2).
+When you have registered, you must [make monthly Intrastat declarations](/guide/report-moved-goods-intrastat/make-intrastat-declaration.html).
 
 ##What counts towards the £250,000 or £1.5 million total
 
