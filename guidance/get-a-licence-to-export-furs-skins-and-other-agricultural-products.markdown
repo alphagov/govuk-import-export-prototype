@@ -8,8 +8,8 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-This page will cover:
+When they've read this page, the user will:
 
-- understands if they need a licence or certificate
-- understands how to apply
-- understands who to contact if they have a question
+- understand if they need a licence or certificate
+- understand how to apply
+- understand who to contact if they have a question
