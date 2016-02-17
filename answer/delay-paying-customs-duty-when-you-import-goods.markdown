@@ -39,11 +39,12 @@ Fill in [form 1207N](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profi
 ## Get help with duty deferment
 
 $C 
-**VAT, excise and customs helpline**  
 
-Telephone: 0300 200 3700
-Monday to Friday, 8am to 6pm  
-[Find out about call charges](https://www.gov.uk/call-charges)  
+**VAT, excise and customs helpline**  
+Telephone: 0300 200 3700   
+Monday to Friday, 8am to 6pm     
+[Find out about call charges](https://www.gov.uk/call-charges)
+
 $C  
 
 
