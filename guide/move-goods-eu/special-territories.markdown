@@ -13,9 +13,9 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You must [make a declaration](/link) when moving goods to the Channel Islands or one of the EU special territories if:
+You must [make a declaration](/guide/move-goods-eu/make-declaration.html) when moving goods to the Channel Islands or one of the EU special territories if:
 
-- the goods aren’t in [free circulation](/move-goods-eu/when-to-make-declaration.html)
+- the goods aren’t in [free circulation](/guide/move-goods-eu/when-to-make-declaration.html)
 - the goods are made inside the EU from parts or materials that were brought in from outside the EU (whether the parts or materials were in free circulation or not)
 
 Otherwise you don’t need to make a declaration.
@@ -33,8 +33,8 @@ The EU special territories are:
 
 ##Andorra
 
-You must [make a declaration](/link) if you are moving goods to Andorra, even if they’re in free circulation.
+You must [make a declaration](/guide/move-goods-eu/make-declaration.html) if you are moving goods to Andorra, even if they’re in free circulation.
 
 ##San Marino
 
-You must [make a declaration](/link) if you are moving goods to Andorra, even if they’re in free circulation. But only if they’re classified as industrial goods in chapters 25 to 97 of the [Trade Tariff](link to trade tariff content).
+You must [make a declaration](/guide/move-goods-eu/make-declaration.html) if you are moving goods to Andorra, even if they’re in free circulation. But only if they’re classified as industrial goods in chapters 25 to 97 of the [Trade Tariff](/start/trade-tariff.html).
