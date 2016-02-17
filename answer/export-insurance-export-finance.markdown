@@ -41,12 +41,6 @@ Find out about [call charges](/call-charges)
 
 $C
 
-UKEF won’t help to insure:
-
-- contracts where cover is available from the private sector
-- exports to EU countries (except Greece)
-- exports to Australia, Canada, Iceland, Japan, New Zealand, Norway, Switzerland and the United States of America
-
 ## Finance for overseas buyers
 
 UKEF can also help overseas buyers to buy from UK companies by guaranteeing credit or underwriting a bank loan to an overseas buyer (eg by guaranteeing a letter of credit).
