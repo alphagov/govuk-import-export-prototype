@@ -17,7 +17,7 @@ breadcrumbs:
 If you make import or export declarations regularly, the Simplified Declaration Procedure (SDP):
 
 - lets you make simplified declarations so you can move your goods faster
-- makes it cheaper to [delay paying duty](link to duty deferral content) on your goods
+- makes it cheaper to [delay paying duty](/delay-paying-customs-duty-when-you-import-goods.html) on your goods
 
 {% endcontentfor %}
 
