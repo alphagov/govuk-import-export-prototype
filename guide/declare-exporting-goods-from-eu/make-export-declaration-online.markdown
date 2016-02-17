@@ -48,9 +48,9 @@ Contact the NES helpline to find out about fallback routes.
 
 If you need to use a fallback route, you must provide all of the following:
 
-- [form C88/ESS](/government/uploads/system/uploads/attachment_data/file/386159/c88-ess.pdf) (PDF, 34.9KB)    
-- [form C1402](/government/uploads/system/uploads/attachment_data/file/374217/c1402f.pdf) (PDF, 24.6KB)
-- [form C130EX](/government/uploads/system/uploads/attachment_data/file/374206/c130ex.pdf) (PDF, 10.6KB) 
+- [form C88/ESS](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/386159/c88-ess.pdf) (PDF, 34.9KB)    
+- [form C1402](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374217/c1402f.pdf) (PDF, 24.6KB)
+- [form C130EX](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374206/c130ex.pdf) (PDF, 10.6KB) 
 
 *[EORI]: Economic Operator Registration Identification 
 *[CHIEF]: Customs Handling Import and Export Freight
