@@ -47,7 +47,7 @@ You must get an Export Health Certificate (EHC) to export live animals outside t
 
 There will usually already be an EHC for the type of live animal you’re exporting and where you’re sending it to.
 
-Check the [List of EHCs that are available](/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB) to see if the EHC you need already exists and is available for issue.
+Check the [List of EHCs that are available](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB) to see if the EHC you need already exists and is available for issue.
 
 You must check that your EHC meets the requirements of authorities in the destination country, and any other requirements they may have.
 
@@ -189,7 +189,7 @@ You'll also need a UK catch certificate to export fish caught by a UK fishing ve
 
 ###How to apply
 
-Complete a [UK catch certificate application form](/government/uploads/system/uploads/attachment_data/file/311517/uk-catch-certificate.pdf) (PDF, 95.1KB, 3 pages).
+Complete a [UK catch certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/311517/uk-catch-certificate.pdf) (PDF, 95.1KB, 3 pages).
 
 Email your completed form to <UKIUUCCC@mfa.gsi.gov.uk>.
 
