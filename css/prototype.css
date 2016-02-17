@@ -1,0 +1,16 @@
+#prototype-banner {
+  padding: 10px 0 5px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  background: #005ea5;
+}
+
+#prototype-banner a {
+  color: #fff;
+}
+
+#prototype-banner a[rel="external"]:after {
+  color: #fff !important;
+  background-position-y: 4px;
+}
