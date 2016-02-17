@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-This page will cover:
+When they have read this page, the user will:
 
 - understands if they need a licence or certificate
 - understands how to apply
