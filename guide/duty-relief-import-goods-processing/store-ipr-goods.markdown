@@ -20,7 +20,7 @@ $E
 
 $E
 
-You can only use equivalence if you got [prior authorisation](link back to part 2) for IPR.
+You can only use equivalence if you got [prior authorisation](/guide/duty-relief-import-goods-processing/import-goods-using-ipr.html) for IPR.
 
 You can’t use equivalence to allow customers to choose between products made with IPR goods and other products, then re-export the rest.
 
