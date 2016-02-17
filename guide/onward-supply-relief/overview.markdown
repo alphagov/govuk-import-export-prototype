@@ -10,5 +10,5 @@ breadcrumbs:
  - name: Business and self employed
    url: '/'
  - name: Exporting and doing business abroad
-   url: '/topic/business-and-self-employed/import.html'   
+   url: '/topic/business-and-self-employed/importing.html'   
 ---
