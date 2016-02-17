@@ -59,7 +59,7 @@ Duty representatives must have a business or live in the UK and can only represe
 
 ##Moving duty suspension goods
 
-You must record when you move duty supension excise goods within the EU on the [Excise Movement and Control System](/guidance/excise-movement-and-control-system-how-to-register-and-use). You don’t have to do this if your goods are allowed to move under [simplified procedures](LINK).
+You must record when you move duty supension excise goods within the EU on the [Excise Movement and Control System](/guidance/excise-movement-and-control-system-how-to-register-and-use). You don’t have to do this if your goods are allowed to move under [simplified procedures](/apply-simplified-declaration-procedure-sdp-imports-exports.html).
 
 You must make sure that you’ve either [paid excise duty](LINK) or [deferred payment](LINK) before you move goods from an excise warehouse. 
 
