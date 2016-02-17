@@ -20,11 +20,11 @@ Get advice and support from UKTI to grow your business overseas. UKTI can help y
 
 - get started with international trade
 - assess and develop your export capability 
-- select and visit potential markets
+- carry out research on potential export markets
+- find specific [overseas business opportunities](/start/find-overseas-business-opportunities.html)
 - develop an international communications strategy
-- manage the language and cultural aspects of exporting
-- carry out market research 
 - develop and implement an international online strategy
+- manage the language and cultural aspects of exporting
 
 {% endcontentfor %}
 
