@@ -20,7 +20,7 @@ If your goods are made from EU materials you don’t need to make a community tr
 - other EU countries
 - countries in the European Free Trade Association (EFTA) - Switzerland, Turkey, Norway, Macedonia and Iceland
 
-There are [different rules](link to part 2) for moving goods to the Channel Islands, EU special territories, Andorra and San Marino.
+There are [different rules](/guide/move-goods-eu/special-territories.html) for moving goods to the Channel Islands, EU special territories, Andorra and San Marino.
 
 ###Goods made from non-EU materials
 
