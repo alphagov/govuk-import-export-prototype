@@ -127,7 +127,7 @@ Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login
 
 You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means:
 
-- information or equipment classified as [‘official-sensitive’ or higher](https://www.gov.uk/government/publications/government-security-classifications)
+- information or equipment classified as [‘official-sensitive’ or higher](/government/publications/government-security-classifications)
 - information or equipment classified as ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
 
 Use MOD form 680 on the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for approval.
@@ -152,7 +152,7 @@ You are responsible for making sure that your licence is still valid when you ex
 
 Keep up to date with the [ECO notices to exporters](http://blogs.bis.gov.uk/exportcontrol/).
 
-The [ECO compliance code of practice](https://www.gov.uk/government/publications/compliance-code-of-practice) has guidance on:
+The [ECO compliance code of practice](/government/publications/compliance-code-of-practice) has guidance on:
 
 - what records to keep
 - what compliance processes to put in place
