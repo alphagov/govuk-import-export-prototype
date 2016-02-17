@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Import goods outside the EU
+title: Declare that you're importing goods from outside the EU
 permalink: /guide/import-goods-outside-eu/present-goods-to-customs.html
 page_number: 3
 page_title: Present goods to customs
