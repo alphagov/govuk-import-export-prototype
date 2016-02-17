@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Import goods from outside the EU
+title: Declare that you're importing goods from outside the EU
 permalink: /guide/import-goods-outside-eu/make-import-declaration.html
 page_number: 2
 page_title: Make an import declaration
