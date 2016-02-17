@@ -24,8 +24,8 @@ This is called ‘Inward Processing Relief’ (IPR).
 
 You’ll need to:
 
-- [get prior authorisation](/link) to import some goods under IPR
-process the goods within the [time limit](/link)
-- follow the [rules for storing IPR goods](/link)
-- follow the [rules for exporting or disposing of IPR goods](/link)
-[keep the correct records](/link)
+- [get prior authorisation](/guide/duty-relief-import-goods-processing/import-goods-using-ipr.html) to import some goods under IPR
+process the goods within the [time limit](/guide/duty-relief-import-goods-processing/processing-ipr-goods.html)
+- follow the [rules for storing IPR goods](/guide/duty-relief-import-goods-processing/store-ipr-goods.html)
+- follow the [rules for exporting or disposing of IPR goods](/guide/duty-relief-import-goods-processing/export-sell-transfer-dispose-ipr-goods.html)
+- [keep the correct records](/guide/duty-relief-import-goods-processing/records-you-must-keep.html)
