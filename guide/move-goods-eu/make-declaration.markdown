@@ -50,4 +50,4 @@ $C
 
 ##What to do if NCTS is unavailable
 
-Make your declaration using [form C88 (SAD)](/government/uploads/system/uploads/attachment_data/file/374245/c88_1-8_.pdf) if NCSTS is unavailable. Use the [form C88 (SAD) continuation sheet](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374246/c88_1-8_-cont.pdf) if you need to.
+Make your declaration using [form C88 (SAD)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374245/c88_1-8_.pdf) if NCSTS is unavailable. Use the [form C88 (SAD) continuation sheet](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374246/c88_1-8_-cont.pdf) if you need to.
