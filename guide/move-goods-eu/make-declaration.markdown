@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You must make a community transit declaration if you’re moving [goods that aren’t in free circulation](/link) from the UK to another EU country.
+You must make a community transit declaration if you’re moving [goods that aren’t in free circulation](/guide/move-goods-eu/when-to-make-declaration.html) from the UK to another EU country.
 
 Most businesses use the New Computerised Transit System (NCTS) to make community transit declarations.
 
@@ -23,8 +23,7 @@ Most businesses use the New Computerised Transit System (NCTS) to make community
 
 ## Before you start
 
-s1. You will need an EORI (Economic Operator Registration and Identification) number. You can [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT]https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)).
-
+s1. You will need an EORI (Economic Operator Registration and Identification) number. You can [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
 s2. Sign up to use NCTS on the [Government Gateway website](http://www.gateway.gov.uk/).
 
 You can [check whether your business already has an EORI number](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en) if you’re not sure.
