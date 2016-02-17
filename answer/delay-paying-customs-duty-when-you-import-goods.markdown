@@ -25,9 +25,7 @@ You can apply for a duty deferment account if you’re an importer or an agent w
 ## Apply for a duty deferment account
 
 s1. Ask your bank, building society or insurance company to guarantee your duty payments by completing form C1201. They can get copies from the VAT, excise and customs helpline.
-
 s2. [Apply for a duty deferment account](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C1200&template=C1200.xdp).
-
 s3. Fill in a [direct debit instruction](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C1202&template=C1202.xdp) and give it to your bank.
 
 You’ll get a Deferment Approval Number (DAN) to use on your import declarations.
