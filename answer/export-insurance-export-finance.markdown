@@ -16,7 +16,7 @@ UK Export Finance (UKEF) can help your bank or insurance company to provide insu
 
 {% endcontentfor %}
 
-Talk to an [approved broker](https://www.gov.uk/government/publications/uk-export-finance-insurance-list-of-approved-brokers/export-insurance-approved-brokers) or contact UK Export Finance customer services to find out more about export insurance.
+Talk to an [approved broker](/government/publications/uk-export-finance-insurance-list-of-approved-brokers/export-insurance-approved-brokers) or contact UK Export Finance customer services to find out more about export insurance.
 
 UKEF won’t help to insure:
 
