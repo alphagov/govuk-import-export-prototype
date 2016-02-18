@@ -1,6 +1,6 @@
 ---
 layout: start
-title: Get export advice from UK Trade & Investment (UKTI)
+title: Choosing export markets: get advice from UKTI
 permalink: /start/choosing-export-market-ukti.html
 breadcrumbs:
  - name: Home
@@ -16,7 +16,7 @@ start_button:
 ---
 {% contentfor intro %}
 
-Get advice and support from UKTI to grow your business overseas. UKTI can help you:
+Get advice and support from UK Trade & Investment (UKTI) to grow your business overseas. UKTI can help you:
 
 - get started with international trade
 - assess and develop your export capability 
