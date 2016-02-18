@@ -20,24 +20,24 @@
   <meta property="og:image" content="https://assets.digital.cabinet-office.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
 
   {% if page.layout == 'topic' %}
-    <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" media="screen" href="{{ "/css/topic.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/topic/static.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print"  href="{{ "/css/topic/static-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/topic/application.css" | prepend: site.baseurl }}">
   {% elsif page.layout == 'guidance' %}
-    <link rel="stylesheet" media="screen" href="{{ "/css/header-footer-only.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" media="print" href="{{ "/css/header-footer-only-print.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" media="screen" href="{{ "/css/base.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/guidance/header-footer-only.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print"  href="{{ "/css/guidance/header-footer-only-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/guidance/base.css" | prepend: site.baseurl }}">
   {% elsif page.layout == 'start' %}
     <link rel="stylesheet" media="screen" href="{{ "/css/start/static.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" media="screen" href="{{ "/css/start/application.css" | prepend: site.baseurl }}">
   {% elsif page.layout == 'guide' %}
-    <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" media="screen" href="{{ "/css/guide.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/guide/static.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print"  href="{{ "/css/guide/static-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/guide/application.css" | prepend: site.baseurl }}">
   {% elsif page.layout == 'answer' %}
-    <link rel="stylesheet" media="screen" href="{{ "/css/static.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" media="print" href="{{ "/css/static-print.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" media="screen" href="{{ "/css/guide.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/answer/static.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="print"  href="{{ "/css/answer/static-print.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" media="screen" href="{{ "/css/answer/application.css" | prepend: site.baseurl }}">
   {% endif %}
 
   <link rel='stylesheet' media="screen" href="{{ "/css/prototype.css" | prepend: site.baseurl }}">
