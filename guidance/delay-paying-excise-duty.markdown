@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: How to delay paying excise duty
+title: Duty suspension
 summary: How to delay paying excise duty using ‘duty suspension’.
 permalink: /guidance/delay-paying-excise-duty.html
 topic:
