@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Claim duty relief when you import goods for processing (Inward processing relief)
+title: Claim duty relief when you import goods for processing (Inward Processing Relief)
 permalink: /guide/duty-relief-import-goods-processing/records-you-must-keep.html
 page_number: 6
 page_title: Records you must keep
