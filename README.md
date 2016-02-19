@@ -1,6 +1,6 @@
-# Import Export Prototype
+# Import export prototype
 
-This applications is a tool for GOV.UK content designers to prototype import and export information in GOV.UK formats and to engage stakeholders by sharing work in a running preview environment.
+This application is a tool for GOV.UK content designers to prototype import and export information in GOV.UK formats and to engage stakeholders by sharing work in a running preview environment.
 
 ## Screenshots
 
@@ -17,7 +17,7 @@ This applications is a tool for GOV.UK content designers to prototype import and
 
 * **Guidance**: A detailed guide, eg: https://www.gov.uk/guidance/chief-trader-import-and-export-processing-system (whitehall app)
 
-* **StartPage**: A mainstream start page, eg: https://www.gov.uk/trade-tariff (whitehall app)
+* **Start**: A mainstream start page, eg: https://www.gov.uk/trade-tariff (publisher app)
 
 * **Topic**: A topic page, eg: https://www.gov.uk/topic/business-tax/import-export (collections publisher app)
 
