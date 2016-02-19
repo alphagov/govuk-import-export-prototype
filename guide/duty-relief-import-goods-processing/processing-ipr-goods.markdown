@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Claim duty relief when you import goods for processing (Inward processing relief)
+title: Claim duty relief when you import goods for processing (Inward Processing Relief)
 permalink: /guide/duty-relief-import-goods-processing/processing-ipr-goods.html
 page_number: 3
 page_title: How long you can take to process IPR goods
