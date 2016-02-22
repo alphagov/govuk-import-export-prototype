@@ -74,7 +74,7 @@ You’ll be given a registration number which you’ll need to use on your anima
 
 ###When you need to get your holding approved
 
-You must get your holding approved if you want to trade carnivores or primates ,semen or embryos as well as the rest of the animals listed above.
+You must get your holding approved if you want to trade carnivores or primates, semen or embryos as well as the rest of the animals listed above.
 
 Approved holdings must only take in animals from other approved holdings - [see a list of approved UK holdings](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/489501/balai-directive-centres.pdf).
 
