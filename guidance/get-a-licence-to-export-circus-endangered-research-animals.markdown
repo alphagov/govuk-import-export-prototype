@@ -165,7 +165,7 @@ You don’t need to register when exporting circus animals within Great Britain,
 You must:
 
 - register the circus and animals
-- get passports for all animals in the circus or exhibition - apart from bees, salmon or trout
+- get passports for all animals in the circus or exhibition (apart from bees, salmon or trout) - these are issued by your OV when you register your circus to travel   
 - get an ITAHC before you travel
 - keep animals registered as part of the circus away from unregistered animals
 - put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species contact APHA)
