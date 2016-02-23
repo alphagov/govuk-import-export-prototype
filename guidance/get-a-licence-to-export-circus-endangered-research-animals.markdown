@@ -223,7 +223,7 @@ Check if the animal you want to export is [controlled by CITES.](http://eur-lex.
 
 Complete form [FED0172](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
 
-You must pay the [correct fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB) and email or post your application to [APHA](##Contacts).
+You must pay the [correct fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB) and email or post your application to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts).
 
 APHA will contact you within 15 working days of receiving your application.
 
@@ -252,9 +252,9 @@ You can either:
 
 ###Applying for a new ITAHC
 
-[Contact the Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply for a new ITAHC.
+[Contact APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply for a new ITAHC.
 
-You must nominate an official veterinarian (OV) when you apply. You can either:
+You must nominate an OV when you apply. You can either:
 
 - ask your local veterinary practice if there’s an OV working there
 - contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
