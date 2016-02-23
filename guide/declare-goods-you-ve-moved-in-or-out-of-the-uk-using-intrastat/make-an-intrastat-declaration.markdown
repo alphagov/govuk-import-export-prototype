@@ -16,6 +16,7 @@ You must [make an Intrastat declaration](https://secure.hmce.gov.uk/ecom/is2/sta
 
 Read [guidance on how to complete your declaration](https://www.uktradeinfo.com/Intrastat/AboutIntrastat/Pages/SupplementaryDeclarations.aspx) on the UK Trade Info website.
 
+You need to [register with UK Trade Info](https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) before you can use Intrastat.
 
 ## What to do if you need to change your declaration
 
