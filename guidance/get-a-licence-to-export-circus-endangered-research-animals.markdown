@@ -185,19 +185,19 @@ If your travelling circus has wild animals, you also need to [get a licence](/gu
 Your application must be received at least 40 working days before you want to travel.
 
 s1. Make sure all tests and vaccinations for your animals are up to date.
-s2. Choose an OV to carry out a registration visit - contact your [local APHA office](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) or [DARD office](https://www.dardni.gov.uk/contact) to find one. The OV will charge a fee for this.
+s2. Choose an OV to carry out a registration visit - contact your [local APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) or [DARD office](https://www.dardni.gov.uk/contact) to find one. The OV will charge a fee for this.
 s3. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488776/form-et79.pdf) (PDF, 198KB) and send it to the address on the top of the form. You must include a £93 registration fee and passport fees.
 s4. APHA sends the registration document, unique registration number and animal passports to your OV. 
 s5. Your OV carries out a registration visit. If they’re satisfied with the checks, they’ll approve your application and give you the animal passports, registration document and a unique registration number for your circus or animal act.
 s6. You receive a letter from the Centre for International Trade - Carlisle to confirm whether the registration is granted.
 
-You need to contact the live animals team to arrange another OV visit if you get new circus animals after you’ve registered.
+You must arrange another OV visit if you get new circus animals after you’ve registered.
 
 ###Animal passport fees
 
 Animal passports cost:
 
-- £2 for each individual circus animal ([dogs, cats or ferrets](/take-pet-abroad) and [horses](/horse-passport) need special passports)
+- £2 for each individual circus animal ([dogs, cats, ferrets](/take-pet-abroad) and [horses](/horse-passport) need special passports)
 - £2 for a group of birds or rodents (maximum of 15 ringed or microchipped birds or rodents per group, no limit on the number without rings or microchips)
 
 You need a separate passport for each species and breed.
@@ -206,9 +206,10 @@ You need a separate passport for each species and breed.
 
 You need to apply for an ITAHC at least 10 days before travelling.
 
-s1. Complete an [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) and and send it to [Centre for International Trade - Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc). You must include details of a nominated OV with your application. 
+s1. Complete an [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) and send it to [Centre for International Trade - Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc). You must include details of a nominated OV with your application. 
 s2. APHA sends the health certificate to your OV to complete.
 s3. Your OV visits you and certifies the health certificate. They’ll give you the ‘consignor confirmation form’. You must send this to APHA at least 48 hours before you travel to confirm that all animals in the health certificate are travelling.
+
 
 ##Export endangered animals
 
