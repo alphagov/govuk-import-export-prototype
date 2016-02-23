@@ -156,11 +156,9 @@ You must register the circus and the animals with APHA if you’re exporting the
 - salmon
 - trout
 
-$CTA
 
 You don’t need to register when exporting circus animals within Great Britain, Northern Ireland, the Channel Islands or the Isle of Man or into non-EU countries.
 
-$CTA
 
 ###What you need to do
 
@@ -168,7 +166,7 @@ You must:
 
 - register the circus and animals
 - get passports for all animals in the circus or exhibition - apart from bees, salmon or trout
-- get an Intra Trade Animal Health Certificate (ITAHC) before you travel
+- get an ITAHC before you travel
 - keep animals registered as part of the circus away from unregistered animals
 - put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species contact APHA)
 
@@ -187,7 +185,7 @@ If your travelling circus has wild animals, you also need to [get a licence](/gu
 Your application must be received at least 40 working days before you want to travel.
 
 s1. Make sure all tests and vaccinations for your animals are up to date.
-s2. Choose an Official Vetnerian (OV) to carry out a registration visit - contact your [local APHA office](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) or [DARD office](https://www.dardni.gov.uk/contact) to find one. The OV will charge a fee for this.
+s2. Choose an OV to carry out a registration visit - contact your [local APHA office](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) or [DARD office](https://www.dardni.gov.uk/contact) to find one. The OV will charge a fee for this.
 s3. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488776/form-et79.pdf) (PDF, 198KB) and send it to the address on the top of the form. You must include a £93 registration fee and passport fees.
 s4. APHA sends the registration document, unique registration number and animal passports to your OV. 
 s5. Your OV carries out a registration visit. If they’re satisfied with the checks, they’ll approve your application and give you the animal passports, registration document and a unique registration number for your circus or animal act.
