@@ -116,17 +116,17 @@ To join the PHS, contact the Specialist Service Centre at APHA.
 
 $C
 
-Poultry Health Scheme Section
-Animal and Plant Health Agency (APHA) 
-Specialist Service Centre 
-Block C, Government Buildings 
-Whittington Road 
-Worcester 
-WR5 2LQ 
+Poultry Health Scheme Section   
+Animal and Plant Health Agency (APHA)    
+Specialist Service Centre    
+Block C, Government Buildings    
+Whittington Road    
+Worcester   
+WR5 2LQ    
 
-Telephone: 03000 200 301
-Fax: 01905 768649
-Email: AHspecialistservicecentreworcester@ahvla.gsi.gov.uk
+Telephone: 03000 200 301  
+Fax: 01905 768649   
+Email: AHspecialistservicecentreworcester@ahvla.gsi.gov.uk   
 
 $C
 
