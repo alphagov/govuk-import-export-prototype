@@ -204,3 +204,10 @@ Telephone: 0345 933 5577
 Monday to Friday, 8am to 6pm   
 [Find out about call charges](/call-charges)    
 $C
+
+*[APHA]: Animal and Plant Health Agency
+*[ITAHC]: Intra Trade Animal Health Certificate
+*[TRACES]: Trade Control and Expert System
+*[OV]: Official Veterinarian
+*[EHC]: Export Health Certificate
+*[PHS]: Poultry Health Scheme
