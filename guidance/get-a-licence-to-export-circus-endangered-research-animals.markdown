@@ -217,7 +217,7 @@ You must apply for a Convention on International Trade in Endangered Species (CI
 
 Check if the animal you want to export is [controlled by CITES.](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.361.01.0001.01.ENG)
 
-^You can’t export certain species to some countries - check the [CITIES trade suspension list](https://cites.org/eng/resources/ref/suspend.php).^
+^You can’t export certain species to some countries - check the [CITES trade suspension list](https://cites.org/eng/resources/ref/suspend.php).^
 
 ###Apply for a CITES permit
 
@@ -342,5 +342,5 @@ $C
 *[EHC]: Export Health Certificate
 *[PHS]: Poultry Health Scheme
 *[EU]: European Union
-*[CITIES]: Convention on International Trade in Endangered Species 
+*[CITES]: Convention on International Trade in Endangered Species 
 
