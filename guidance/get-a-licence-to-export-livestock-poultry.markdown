@@ -181,17 +181,17 @@ For bee exports from Scotland, contact [Science and Advice for Scottish Agricult
 
 $C
 
-**Animal and Plant Health Agency (APHA)**
+**Animal and Plant Health Agency (APHA)**   
 
-Telephone: +44 (0) 3000 200 301
-Fax: +44 (0) 117 372 8206
-Email: <wildlife.licensing@apha.gsi.gov.uk>
-Centre for International Trade - Bristol 
-1/17 Temple Quay House 
-2 The Square 
-Temple Quay 
-Bristol 
-BS1 6EB 
+Telephone: +44 (0) 3000 200 301   
+Fax: +44 (0) 117 372 8206   
+Email: <wildlife.licensing@apha.gsi.gov.uk>   
+Centre for International Trade - Bristol    
+1/17 Temple Quay House    
+2 The Square     
+Temple Quay    
+Bristol    
+BS1 6EB    
 
 $C
 
@@ -199,10 +199,10 @@ $C
 
 **Defra**
 
-Email: <defra.helpline@defra.gsi.gov.uk>   
-Telephone: 0345 933 5577   
-Monday to Friday, 8am to 6pm   
-[Find out about call charges](/call-charges)    
+Email: <defra.helpline@defra.gsi.gov.uk>      
+Telephone: 0345 933 5577      
+Monday to Friday, 8am to 6pm     
+[Find out about call charges](/call-charges)      
 $C
 
 *[APHA]: Animal and Plant Health Agency
