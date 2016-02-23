@@ -148,7 +148,7 @@ If you want to move animals from an approved holding to a registered holding, yo
 
 ##Exporting circus animals within the EU
 
-You must register the circus and the animals with the Animal Plant and Health Agency (APHA) if you’re exporting the following animals kept for exhibition or entertainment within the EU:
+You must register the circus and the animals with APHA if you’re exporting the following animals kept for exhibition or entertainment within the EU:
 
 - all mammals (including bats)
 - birds
@@ -156,7 +156,9 @@ You must register the circus and the animals with the Animal Plant and Health Ag
 - salmon
 - trout
 
-^You don’t need to register when exporting circus animals within Great Britain, Northern Ireland, the Channel Islands or the Isle of Man or into non-EU countries.^
+$CTA
+You don’t need to register when exporting circus animals within Great Britain, Northern Ireland, the Channel Islands or the Isle of Man or into non-EU countries.
+$CTA
 
 ###What you need to do
 
