@@ -87,7 +87,7 @@ You should send any officially-issued import conditions to [Centre for Internati
 
 ##Exporting livestock through the EU to a non-EU country
 
-If your consignment will travel through the EU on the way to a non EU country, you may need both an [(ITAHC)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-within-the-eu) and an [EHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-outside-the-eu).
+If your consignment will travel through the EU on the way to a non EU country, you may need both an [ITAHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-within-the-eu) and an [EHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-outside-the-eu).
 
 You should look at each stage of the journey and make sure your consignment has the right certification for each.
 
