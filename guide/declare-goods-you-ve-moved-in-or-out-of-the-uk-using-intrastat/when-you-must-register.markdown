@@ -14,8 +14,7 @@ breadcrumbs:
 ---
 The government uses the Intrastat system to collect international trade statistics from businesses.
 
-You must [register to use Intrastat](https://www.uktradeinfo.com/
-Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) on the UK Trade Info website if you’re a VAT registered business, and:
+You must [register to use Intrastat](https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) on the UK Trade Info website if you’re a VAT registered business, and:
 
 you moved more than £250,000 worth of goods to other EU countries in the last calendar year, or
 you received more than £1.5 million worth of goods from other EU countries in the last calendar year
