@@ -54,9 +54,9 @@ If the certificate you want already exists, and is available for issue, contact 
 
 You must complete the application form and the EHC as fully as you can and send it back to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 
-###Nominate an official veterinarian
+###Nominate an OV
 
-You must nominate an official veterinarian (OV) when you apply to get an EHC.
+You must nominate an OV when you apply to get an EHC.
 
 Your OV can carry out any examination, inspection, testing, sampling or treatment to check if a consignment meets the requirements of the destination country.
 
