@@ -27,7 +27,7 @@ You can get an existing ITAHC reissued by using the EU’s Trade Control and Exp
 You can either:
 
 - [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of the animals you're exporting - you must tell the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official veterinarian (OV)
-- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487433/form-exa31-livestock.pdf) (PDF, 755KB) and send it to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) - or use [form EXA31 (Poultry)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487438/form-exa31-poultry.pdf) (PDF, 617KB) instead if you're exporting poultry or hatching eggs
+- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487433/form-exa31-livestock.pdf) (PDF, 755KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) - use [form EXA31 (Poultry)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487438/form-exa31-poultry.pdf) (PDF, 617KB) instead if you're exporting poultry or hatching eggs
 
 ###Applying for a new ITAHC
 
