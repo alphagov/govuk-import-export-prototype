@@ -211,3 +211,4 @@ $C
 *[OV]: Official Veterinarian
 *[EHC]: Export Health Certificate
 *[PHS]: Poultry Health Scheme
+*[EU]: European Union
