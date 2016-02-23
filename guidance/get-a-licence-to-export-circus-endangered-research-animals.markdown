@@ -219,7 +219,7 @@ Check if the animal you want to export is [controlled by CITES.](http://eur-lex.
 
 ^You can’t export certain species to some countries - check the [CITIES trade suspension list](https://cites.org/eng/resources/ref/suspend.php).^
 
-##Apply for a CITES permit
+###Apply for a CITES permit
 
 Complete form [FED0172](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
 
@@ -227,7 +227,7 @@ You must pay the [correct fee](https://www.gov.uk/government/uploads/system/uplo
 
 APHA will contact you within 15 working days of receiving your application.
 
-##How to pay
+###How to pay
 
 You must pay fees in pounds sterling by:
 
@@ -342,5 +342,5 @@ $C
 *[EHC]: Export Health Certificate
 *[PHS]: Poultry Health Scheme
 *[EU]: European Union
-
+*[CITIES]: Convention on International Trade in Endangered Species 
 
