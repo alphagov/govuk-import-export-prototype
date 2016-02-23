@@ -37,11 +37,11 @@ You must have an animal health certificate to move any of the following:
 You must ask your vet to do both of the following:
 
 - inspect the animal, semen or embryos before they’re moved
-- [complete the health certificates](https://webgate.ec.europa.eu/sanco/traces/) with the EU Trade Notification System (TRACES)
+- [complete the health certificates](https://webgate.ec.europa.eu/sanco/traces/) on the EU Trade Notification System (TRACES)
 
 Before the move happens, your vet should also:
 
-- tell the [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) if you’re in England, Scotland or Wales
+- tell [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) if you’re in England, Scotland or Wales
 - tell [DARD](https://www.dardni.gov.uk/contact), if you’re in Northern Ireland
 
 ^You must make sure that animals or semen and embryos travel with their health certificates.^
@@ -68,7 +68,7 @@ Registered holdings can’t trade with approved holdings.
 To register your holding, [complete form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/465097/form-ec3163.pdf) (PDF, 120KB) and send it to:
 
 - [your local APHA office](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) if you’re in England, Scotland or Wales
-- [your local DARD direct office](https://www.dardni.gov.uk/contact), if you’re in Northern Ireland
+- [your local DARD direct office](https://www.dardni.gov.uk/contact) if you’re in Northern Ireland
 
 You’ll be given a registration number which you’ll need to use on your animal health certificates.
 
@@ -141,7 +141,7 @@ Approval for a holding will always be suspended before it’s withdrawn.
 
 ###Moving animals from approved holdings to registered holdings
 If you want to move animals from an approved holding to a registered holding, you must contact either:
-- the [APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) if you’re in England, Scotland or Wales
+- [APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) if you’re in England, Scotland or Wales
 - your [local DARD office](https://www.dardni.gov.uk/contact) if you’re in Northern Ireland
 
 
@@ -165,7 +165,7 @@ You must:
 - get passports for all animals in the circus or exhibition - apart from bees, salmon or trout
 - get an Intra Trade Animal Health Certificate (ITAHC) before you travel
 - keep animals registered as part of the circus away from unregistered animals
-- put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species contact the APHA)
+- put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species contact APHA)
 
 You must take the following documents with you when you travel:
 
@@ -331,5 +331,12 @@ Monday to Friday, 8am to 6pm
 
 $C
 
+*[APHA]: Animal and Plant Health Agency
+*[ITAHC]: Intra Trade Animal Health Certificate
+*[TRACES]: Trade Control and Expert System
+*[OV]: Official Veterinarian
+*[EHC]: Export Health Certificate
+*[PHS]: Poultry Health Scheme
+*[EU]: European Union
 
 
