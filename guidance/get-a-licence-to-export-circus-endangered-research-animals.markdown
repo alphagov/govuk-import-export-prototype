@@ -141,7 +141,8 @@ Approval for a holding will always be suspended before it’s withdrawn.
 
 ###Moving animals from approved holdings to registered holdings
 If you want to move animals from an approved holding to a registered holding, you must contact either:
-- [APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) if you’re in England, Scotland or Wales
+
+- [APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) if you’re in England, Scotland or Wales   
 - your [local DARD office](https://www.dardni.gov.uk/contact) if you’re in Northern Ireland
 
 
