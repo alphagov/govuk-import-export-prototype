@@ -16,7 +16,7 @@ You need a health certificate to export fish and shellfish (molluscs and crustac
 
 ###Get a health certificate
 
-Complete the [Notification to export fish to the EU](/government/publications/notification-to-export-live-fish-and-shellfish-form-exp1) form and send it to the [Fish Health Inspectorate](/anchor) (FHI).
+Complete the [Notification to export fish to the EU](/government/publications/notification-to-export-live-fish-and-shellfish-form-exp1) form and send it to the [Fish Health Inspectorate](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-fish-shellfish.html#contacts) (FHI).
 
 This is free, but you need to give 5 working days’ notice.
 
@@ -37,7 +37,7 @@ You need a UK catch certificate for marine caught fish for human consumption if 
 - Tunisia
 - Ukraine
 
-You'll also need a UK catch certificate to export fish caught by a UK fishing vessel to a non-EU country (for example, for processing) and it’s re-imported back to the EU.
+You'll also need a UK catch certificate to export fish caught by a UK fishing vessel to a non-EU country (for example, for processing) and then re-import them back to the EU.
 
 ###How to apply
 
