@@ -24,43 +24,6 @@ This is free, but you need to give 5 working days’ notice.
 
 You must check with the destination country's [embassy](/government/world/embassies) that the fish you're exporting meets their requirements. 
 
-###Get a UK catch certificate
-
-You need a UK catch certificate for marine caught fish for human consumption if you're exporting fish to:
-
-- Iceland
-- Ivory Coast
-- Kuwait
-- Madagascar
-- Norway
-- Thailand
-- Tunisia
-- Ukraine
-
-You'll also need a UK catch certificate to export fish caught by a UK fishing vessel to a non-EU country (for example, for processing) and then re-import them back to the EU.
-
-###How to apply
-
-Complete a [UK catch certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/311517/uk-catch-certificate.pdf) (PDF, 95.1KB, 3 pages).
-
-Email your completed form to <UKIUUCCC@mfa.gsi.gov.uk>.
-
-If the fish has been sourced from more than one UK vessel then you need to fill in a [Multiple vessel schedule](https://www.gov.uk.government.uploads.system.uploads.attachment_data.file.459218.Multiple_vessel_schedule_template.xls) (MS Excel Spreadsheet, 524KB) and submi alongside the catch certificate as an annex.
-
-###When you don’t need a catch certificate
-
-You don’t need a UK catch certificate to export:
-
-- fish to another EU country
-- outside the EU if the fish won’t be re-imported
-- farmed fish and shellfish
-- freshwater fish
-- some molluscs - including mussels, cockles, oysters, and scallops
-- fish fry or larvae
-
-^If you’re exporting live fish from Scotland, contact [Marine Scotland](http://www.gov.scot/Topics/marine/contact) to get the certificate.^
-
-
 ###Get an Export Health Certificate
 
 You must get an Export Health Certificate (EHC) to export fish and shellfish outside the EU. You must keep this document for at least 2 years.
@@ -107,6 +70,43 @@ This could be because:
 If the EHC you want doesn’t exist, you should talk to your importer to find out about import conditions in the country you want to export to.
 
 You should send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) who will pass the details to Defra for them to consider negotiating a new EHC.
+
+
+###Get a UK catch certificate
+
+You need a UK catch certificate for marine caught fish for human consumption if you're exporting fish to:
+
+- Iceland
+- Ivory Coast
+- Kuwait
+- Madagascar
+- Norway
+- Thailand
+- Tunisia
+- Ukraine
+
+You'll also need a UK catch certificate to export fish caught by a UK fishing vessel to a non-EU country (for example, for processing) and then re-import them back to the EU.
+
+###How to apply
+
+Complete a [UK catch certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/311517/uk-catch-certificate.pdf) (PDF, 95.1KB, 3 pages).
+
+Email your completed form to <UKIUUCCC@mfa.gsi.gov.uk>.
+
+If the fish has been sourced from more than one UK vessel then you need to fill in a [Multiple vessel schedule](https://www.gov.uk.government.uploads.system.uploads.attachment_data.file.459218.Multiple_vessel_schedule_template.xls) (MS Excel Spreadsheet, 524KB) and submit it alongside the catch certificate as an annex.
+
+###When you don’t need a catch certificate
+
+You don’t need a UK catch certificate to export:
+
+- fish to another EU country
+- outside the EU if the fish won’t be re-imported
+- farmed fish and shellfish
+- freshwater fish
+- some molluscs - including mussels, cockles, oysters, and scallops
+- fish fry or larvae
+
+^If you’re exporting live fish from Scotland, contact [Marine Scotland](http://www.gov.scot/Topics/marine/contact) to get the certificate.^
 
 
 ##Contacts
