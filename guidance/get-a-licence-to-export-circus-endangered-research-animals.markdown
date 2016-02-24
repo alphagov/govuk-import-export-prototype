@@ -157,7 +157,7 @@ You must register the circus and the animals with APHA if you’re exporting the
 - trout
 
 
-You don’t need to register when exporting circus animals within Great Britain, Northern Ireland, the Channel Islands or the Isle of Man or into non-EU countries.
+You don’t need to register when exporting circus animals outside the EU or within Great Britain, Northern Ireland, the Channel Islands and the Isle of Man.
 
 
 ###What you need to do
