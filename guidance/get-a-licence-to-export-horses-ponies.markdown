@@ -142,15 +142,15 @@ $C
 
 **Animal and Plant Health Agency (APHA)**
 
-Telephone: +44 (0) 3000 200 301
-Fax: +44 (0) 117 372 8206
-Email: <wildlife.licensing@apha.gsi.gov.uk>
-Centre for International Trade - Bristol 
-1/17 Temple Quay House 
-2 The Square 
-Temple Quay 
-Bristol 
-BS1 6EB 
+Telephone: +44 (0) 3000 200 301   
+Fax: +44 (0) 117 372 8206  
+Email: <wildlife.licensing@apha.gsi.gov.uk>   
+Centre for International Trade - Bristol    
+1/17 Temple Quay House    
+2 The Square    
+Temple Quay   
+Bristol   
+BS1 6EB   
 
 $C
 
