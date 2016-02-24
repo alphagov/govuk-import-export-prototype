@@ -174,3 +174,6 @@ $C
 *[PHS]: Poultry Health Scheme
 *[EU]: European Union
 *[CITES]: Convention on International Trade in Endangered Species 
+*[DOCOM]: Commercial Document
+*[AQPS]: Autre Que Pur Sang
+*[FEI]: Federation Equestre Internationale
