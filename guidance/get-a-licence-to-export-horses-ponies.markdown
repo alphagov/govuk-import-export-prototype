@@ -77,7 +77,7 @@ You can either:
 
 [Contact the Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply for a new ITAHC.
 
-You must nominate an official veterinarian (OV) when you apply. You can either:
+You must nominate an OV when you apply. You can either:
 
 - ask your local veterinary practice if there’s an OV working there
 - contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
@@ -98,9 +98,9 @@ If the certificate you want already exists, and is available for issue, contact 
 
 You must complete the application form and the EHC as fully as you can and send it back to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 
-###Nominate an official veterinarian
+###Nominate an OV
 
-You must nominate an official veterinarian (OV) when you apply to get an EHC.
+You must nominate an OV when you apply to get an EHC.
 
 Your OV can carry out any examination, inspection, testing, sampling or treatment to check if a consignment meets the requirements of the destination country.
 
@@ -131,7 +131,7 @@ You should send any officially-issued import conditions to [Centre for Internati
 
 ##Exporting horses and ponies through the EU to a non-EU country
 
-If your consignment will travel through the EU on the way to a non EU country, you may need both an [Intra Trade Animal Health Certificate (ITAHC)](##exporting-horses-and ponies-within-the-eu) and an [EHC](###get-an-export-health-certificate-ehc).
+If your consignment will travel through the EU on the way to a non EU country, you may need both an [ITAHC](##exporting-horses-and ponies-within-the-eu) and an [EHC](###get-an-export-health-certificate-ehc).
 
 You should look at each stage of the journey and make sure your consignment has the right certification for each.
 
