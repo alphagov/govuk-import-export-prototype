@@ -166,3 +166,11 @@ Monday to Friday, 8am to 6pm
 $C
 
 
+*[APHA]: Animal and Plant Health Agency
+*[ITAHC]: Intra Trade Animal Health Certificate
+*[TRACES]: Trade Control and Expert System
+*[OV]: Official Veterinarian
+*[EHC]: Export Health Certificate
+*[PHS]: Poultry Health Scheme
+*[EU]: European Union
+*[CITES]: Convention on International Trade in Endangered Species 
