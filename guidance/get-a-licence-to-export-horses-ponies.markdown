@@ -19,7 +19,7 @@ If you’re exporting horses, their keeper or transporter must have each horse�
 
 ##Get an export welfare declaration
 
-If you’re exporting horses and ponies in or outside of the EU, you must print and complete an export licence application form, unless you have an exemption from the Secretary of State.
+If you’re exporting horses and ponies within or outside of the EU, you must print and complete an export licence application form, unless you have an exemption from the Secretary of State.
 
 Download an [export licence application form for horses taller than 147cm (14.2 hands)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413965/exh6.pdf) (PDF, 99.8KB).
 
