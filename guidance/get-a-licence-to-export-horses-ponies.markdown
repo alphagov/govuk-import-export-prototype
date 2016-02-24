@@ -41,7 +41,7 @@ Thoroughbred horses don’t need an export declaration if a steward or secretary
 - they’re being shipped for a race or for training
 - they’re being shipped to be used for breeding
 
-###Exporting horses between the UK and France
+###Export horses to France
 
 You don’t need an export welfare declaration if you’re exporting:
 
@@ -58,7 +58,7 @@ You can get the DOCOM you need through:
 - [British Equestrian Federation](http://www.bef.co.uk/Contact.aspx) - for FEI horses
 - [British Horseracing Authority](http://www.britishhorseracing.com/bha/about-us/contact-bha/) - for racehorses
 
-##Exporting within the EU
+##Export horses within the EU
 
 You must have an Intra Trade Animal Health Certificate (ITAHC) to move horses and ponies within the EU.
 
@@ -82,7 +82,7 @@ You must nominate an official veterinarian (OV) when you apply. You can either:
 - ask your local veterinary practice if there’s an OV working there
 - contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
 
-##Exporting outside the EU
+##Export horses outside the EU
 
 You must get an Export Health Certificate (EHC) to export horses and ponies outside the EU. You must keep this document for at least 2 years.
 
