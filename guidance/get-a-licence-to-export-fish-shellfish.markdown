@@ -162,3 +162,17 @@ $C
 
 
 
+*[APHA]: Animal and Plant Health Agency
+*[ITAHC]: Intra Trade Animal Health Certificate
+*[TRACES]: Trade Control and Expert System
+*[OV]: Official Veterinarian
+*[EHC]: Export Health Certificate
+*[PHS]: Poultry Health Scheme
+*[EU]: European Union
+*[CITES]: Convention on International Trade in Endangered Species 
+*[DOCOM]: Commercial Document
+*[AQPS]: Autre Que Pur Sang
+*[FEI]: Federation Equestre Internationale
+*[EU]: European Union
+*[EFTA]: European Free Trade Association
+*[FHI]: Fish Health Inspectorate
