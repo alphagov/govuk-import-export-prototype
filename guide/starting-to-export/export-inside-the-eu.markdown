@@ -2,7 +2,7 @@
 layout: guide
 title: Starting to export
 permalink: /guide/starting-to-export/export-inside-the-eu.html
-page_number: 1
+page_number: 2
 page_title: Export inside the EU
 breadcrumbs:
  - name: Home
