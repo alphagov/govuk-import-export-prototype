@@ -12,6 +12,9 @@ description:
 baseurl: ""
 url: "" # the base hostname & protocol for your site
 
+# require these gems
+gems: [jekyll-contentblocks]
+
 # Build settings
 markdown: GovspeakProcessor
 
