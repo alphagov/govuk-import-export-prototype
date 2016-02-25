@@ -1,7 +1,7 @@
 ---
 layout: answer
 title: Report a trade barrier
-permalink: /report-trade-barrier.html
+permalink: /report-trade-barriers.html
 breadcrumbs:
  - name: Home
    url: '/'
