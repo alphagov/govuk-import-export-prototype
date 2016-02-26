@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You may need to [get a licence](guide/starting-to-export/export-licences.html) to export certain goods outside the EU.
+You may need to [get a licence](/guide/starting-to-export/export-licences.html) to export certain goods outside the EU.
 
 You must make an [export declaration](/guide/import-goods-outside-eu/overview.html) to export goods to a country outside the EU. 
 
