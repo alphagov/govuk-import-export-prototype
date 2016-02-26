@@ -25,5 +25,5 @@ There’s a different process if you [send goods outside the EU by post](/send-g
 You can get help [choosing an export market](/start/choosing-export-market-ukti.html) and [finding overseas business opportunities](/start/find-overseas-business-opportunities.html).
 
 You may be able to get [export insurance or export finance](/export-insurance-export-finance.html) to:
-- protect you against the risk or getting paid
-- help  finance an export deal your bank can't finance on their own
+- protect you against the risk or getting paid  
+- help  finance an export deal your bank can't finance on their own   
