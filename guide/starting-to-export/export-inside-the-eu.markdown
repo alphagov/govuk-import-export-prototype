@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You may need to [get a licence](/guide/starting-to-export/export-licences) to export certain goods within the EU.
+You may need to [get a licence](/guide/starting-to-export/export-licences.html) to export certain goods within the EU.
 
 You don’t usually need to make an export declaration to send goods to another [EU or EEA country](/eu-eea). But you’ll need to make a [community transit declaration](/guide/move-goods-eu/when-to-make-declaration.html) if your goods were made from materials brought in from outside the EU and there’s still duty to be paid on them.
 
