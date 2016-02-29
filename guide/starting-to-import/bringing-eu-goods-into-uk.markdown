@@ -12,7 +12,7 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html'   
 ---
-You may need to [get a licence](link to part 4) to bring certain goods into the UK.
+You may need to [get a licence](/guide/starting-to-import/import-licences.html) to bring certain goods into the UK.
 
 You don’t usually need to make an import declaration to bring goods into the UK from another [EU or EEA country](/eu-eea).
 
