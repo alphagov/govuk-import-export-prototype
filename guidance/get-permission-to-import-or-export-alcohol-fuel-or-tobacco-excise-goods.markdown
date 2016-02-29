@@ -2,7 +2,7 @@
 layout: guidance
 title: Get permission to import or export alcohol, fuel or tobacco (‘excise goods’)
 summary: Excise goods are goods you have to pay [alcohol excise duty](/topic/business-tax/alcohol-duties), [fuel excise duty](/topic/business-tax/fuel-duty) or [tobacco excise duty](/topic/business-tax/tobacco-products-duty) on.
-permalink: /guidance/get-a-licence-to-import-waste.html
+permalink: /guidance/get-permission-to-import-or-export-alcohol-fuel-or-tobacco-excise-goods.html
 topic:
   name: Importing
   url: /topic/business-and-self-employed/importing.html
