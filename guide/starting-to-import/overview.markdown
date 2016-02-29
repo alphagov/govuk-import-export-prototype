@@ -15,5 +15,5 @@ breadcrumbs:
 
 What you need to do to import goods to the UK depends on whether they come from:
 
-[inside the EU or EEA](link to part 2)
-[outside the EU or EEA](link to part 3)
+- [inside the EU or EEA](link to part 2)
+- [outside the EU or EEA](link to part 3)
