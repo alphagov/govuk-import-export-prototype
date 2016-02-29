@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-When they've read this page, the user will:
+What you need to do to import goods to the UK depends on whether they come from:
 
-- have an overview of the how the process works (getting an import licence if applicable, make an export declaration or community transit delcaration, making an intrastat declaration)
-- understand that there are opportunities to simplify the process (eg by applying for AEO status or using SDP)
+[inside the EU or EEA](link to part 2)
+[outside the EU or EEA](link to part 3)
