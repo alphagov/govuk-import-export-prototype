@@ -1,12 +1,14 @@
 ---
 layout: guidance
 title: Get permission to import or export alcohol, fuel or tobacco (‘excise goods’)
-summary: Excise goods are goods you have to pay [alcohol excise duty](/topic/business-tax/alcohol-duties), [fuel excise duty](/topic/business-tax/fuel-duty) or [tobacco excise duty](/topic/business-tax/tobacco-products-duty) on.
+summary: You must get permission to import or export excise goods: alcohol, fuel or tobacco.
 permalink: /guidance/get-permission-to-import-or-export-alcohol-fuel-or-tobacco-excise-goods.html
 topic:
   name: Importing
   url: /topic/business-and-self-employed/importing.html
 ---
+Excise goods are goods you have to pay [alcohol excise duty](/topic/business-tax/alcohol-duties), [fuel excise duty](/topic/business-tax/fuel-duty) or [tobacco excise duty](/topic/business-tax/tobacco-products-duty) on.
+
 ## Moving duty suspended excise goods within the EU
 
 Duty suspended excise goods are alcohol, tobacco or fuel on which excise duty hasn’t been paid yet (eg because they’re going to be stored in a registered customs warehouse).
@@ -105,9 +107,9 @@ Contact the HMRC imports and exports helpline if you have a question.
 
 $C 
 **HMRC imports and exports helpline** 
-Telephone: 0300 200 3700
-Textphone: 0300 200 3719
-Outside the UK: +44 29 2050 1261
+Telephone: 0300 200 3700  
+Textphone: 0300 200 3719  
+Outside the UK: +44 29 2050 1261  
 Monday to Friday, 8am to 6pm  
 [Find out about call charges](/call-charges)  
 $C 
