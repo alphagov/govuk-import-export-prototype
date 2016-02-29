@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get permission to import or export alcohol, fuel or tobacco (‘excise goods’)
-summary: You must get permission to import or export excise goods: alcohol, fuel or tobacco.
+summary: 'You must get permission to import or export excise goods: alcohol, fuel or tobacco.'
 permalink: /guidance/get-permission-to-import-or-export-alcohol-fuel-or-tobacco-excise-goods.html
 topic:
   name: Importing
