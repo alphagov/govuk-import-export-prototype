@@ -26,9 +26,9 @@ You can:
 
 You need a [duty deferment account](/delay-paying-customs-duty-when-you-import-goods.html) to be a registered consignee.
 
-Temporary registered consignees have to pay UK excise duty in advance: you can’t use a duty deferment account.
+You must pay excise duty in advance if you’re a temporary registered consignee, you can’t use a duty deferment account.
 
-Apply at least 9 weeks in advance.
+Applications take up to 9 weeks to process.
 
 Once you’re registered, you’ll need to [make a report](link to ECMS content) through the Export Control Movement System (ECMS) when you move a consignment of goods.
 
@@ -59,7 +59,7 @@ HMRC will send the form back to you, endorsed with an HMRC authorisation number.
 
 The HMRC authorisation number proves that you’ve paid the UK excise duty on the goods.
 
-Pass the HMRC authorisation number on to your supplier. Once they have it, they can dispatch the goods.
+Give the HMRC authorisation number to your supplier. Once they have it, they can dispatch the goods.
 
 Your supplier must include a Simplified Accompanying Administrative Document (SAAD) with the goods. To avoid delays, it’s best for them to include a copy of the endorsed form HM4 as well.
 
