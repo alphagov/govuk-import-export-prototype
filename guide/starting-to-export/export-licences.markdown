@@ -13,28 +13,6 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-
-You may need a licence before you can export some types of goods. These are called ‘restricted goods’ and they’re:
-
-- [arms, military or dual use goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
-- [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-artworks-antiques-and-culturally-significant-goods.html)
-- [CFCs and ozone depleting gases](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html)
-- [chemicals](/guidance/get-a-licence-to-export-chemicals.html)
-- [circus, endangered, laboratory and research animals](/guidance/get-a-licence-to-export-circus-endangered-research-animals.html)
-- [diamonds](/guidance/get-a-licence-to-export-diamonds.html)
-- [drugs and medicines](/guidance/get-a-licence-to-export-drugs-and-medicines.html)
-- [energy related goods, technology and services](/guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html)
-- [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html)
-- [food and agricultural products](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
-- [furs, skins and other animal products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html)
-- [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html)
-- [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
-- [livestock and poultry](/guidance/get-a-licence-to-export-livestock-poultry.html)
-- [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
-- [waste](/guidance/get-a-licence-to-export-waste.html)
-
-or
-
 You may need a licence before you can export some types of goods. These are called ‘restricted goods’.
 
 ##Animals and agricultural products
@@ -46,11 +24,6 @@ You may need a licence before you can export some types of goods. These are call
 - [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html)
 - [livestock and poultry](/guidance/get-a-licence-to-export-livestock-poultry.html)
 
-##Art and diamonds
-
-- [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-artworks-antiques-and-culturally-significant-goods.html)
-- [diamonds](/guidance/get-a-licence-to-export-diamonds.html)
-
 ##Chemicals, drugs and waste
 
 - [CFCs and ozone depleting gases](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html)
@@ -59,6 +32,11 @@ You may need a licence before you can export some types of goods. These are call
 - [energy related goods, technology and services](/guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html)
 - [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
 - [waste](/guidance/get-a-licence-to-export-waste.html)
+
+##Diamonds and arts
+
+- [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-artworks-antiques-and-culturally-significant-goods.html)
+- [diamonds](/guidance/get-a-licence-to-export-diamonds.html)
 
 ##Weapons and torture goods
 
