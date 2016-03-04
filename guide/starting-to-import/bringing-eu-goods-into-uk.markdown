@@ -12,10 +12,12 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html'   
 ---
-You may need to [get a licence](/guide/starting-to-import/import-licences.html) to bring certain goods into the UK.
+You may need to get a licence to bring [certain goods](/guide/starting-to-import/import-licences.html) into the UK.
+
+##Declarations and reports
 
 You don’t usually need to make an import declaration to bring goods into the UK from another [EU or EEA country](/eu-eea).
 
-But you’ll need to make a [community transit declaration](/guide/move-goods-eu/when-to-make-declaration.html) if the goods were originally brought in from outside the EU and there’s still duty to be paid on them.
+You’ll need to make a [community transit declaration](/guide/move-goods-eu/when-to-make-declaration.html) if the goods were originally brought in from outside the EU and there’s still duty to be paid on them.
 
-You must make reports through the [Intrastat system](/guide/report-moved-goods-intrastat/when-you-must-register.html) if you’ve brought goods worth more than £1.5 million into the UK from other EU countries over the last calendar year.
+You must report through the [Intrastat system](/guide/report-moved-goods-intrastat/when-you-must-register.html) if you’ve brought goods worth more than £1.5 million from other EU countries in the previous calendar year.
