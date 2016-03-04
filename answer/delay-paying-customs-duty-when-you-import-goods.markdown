@@ -45,5 +45,45 @@ Monday to Friday, 8am to 6pm
 
 $C  
 
+##Financial guarantees and Simplified Import VAT Accounting (SIVA)
+
+When you have a duty deferment account, you can use the Simplified Import VAT Accounting (SIVA) scheme to reduce the financial guarantee that HMRC needs.
+
+You only have to guarantee customs and excise duties if you have SIVA approval. Your guarantee will only have to cover the amount of duties you defer.
+
+You’ll be able to defer the VAT and CAP levies without having to provide any security.
+
+###Who can apply for SIVA
+
+To get SIVA approval you must:
+
+- be VAT registered
+- have a duty deferment agreement with HMRC
+- have been registered for VAT for at least 3 years
+- have a good history of VAT compliance
+- be up-to-date with what you owe HMRC without defaults in the past 12 months
+- not have been charged with a serious offence by HMRC
+
+Your business must not be in:
+
+- administration
+- liquidation
+- insolvency
+- receivership
+- other financial difficulties
+
+HMRC may need to see your last 2 years audited accounts and ask for a credit check on your business.
+
+###How to apply
+
+Fill [form SIVA 1](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/372662/siva1.pdf) to apply. Agents can also apply for SIVA on behalf of your business.
+
+If your business has more than one Deferment Account Number you must apply for SIVA on each account. 
+
+HMRC will send you a decision within 30 days. You must maintain a guarantee to cover import, excise duties and import VAT until you’re approved.
+
+
+
+
 
 
