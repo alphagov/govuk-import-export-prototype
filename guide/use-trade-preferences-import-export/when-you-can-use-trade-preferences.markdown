@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You can pay less or no duty when you import or export goods, if there's a trade preference agreement with the country you’re trading with. 
+You can pay less or no duty when you import or export goods, if there's a trade preference agreement in place.
 
 Check the [Trade Tariff](https://govuk-import-export.herokuapp.com/start/trade-tariff.html) to find out if there’s a trade preference agreement with the country you’re trading with. 
 
