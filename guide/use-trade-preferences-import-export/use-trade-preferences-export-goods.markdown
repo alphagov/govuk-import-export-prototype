@@ -78,7 +78,9 @@ If the goods are supplied regularly or over a long period, the declaration must 
 
 ##Get a movement certificate
 
-You must provide a movement certificate. The type of preference certificate you need depends on the trade agreement in place. Check the [Trade Tariff](/link) to find out which trade agreement is in place with the country you’re trading with. 
+You must provide a movement certificate. The type of preference certificate you need depends on the trade agreement in place. 
+
+Check the [Trade Tariff](/link) to find out which trade agreement is in place with the country you’re trading with. 
 
 Trade agreement | Preference certificate
 -|-
