@@ -52,10 +52,12 @@ They must get the certificate stamped and signed by the relevant government auth
 
 ##Belated claims
 
-You can claim preference after you’ve imported the goods, if you get a valid movement certificate. Once you have a movement certificate, complete an [application for repayment](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C285&template=C285.xdp) and send it to:
+You can get a duty repayment if you claim preference after you import the goods. You'll still need to prove the origin of the goods and get a movement certificate. 
+
+Complete an [application for repayment](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C285&template=C285.xdp) and send it to The National Duty Repayment Centre.
 
 $A
-The National Duty Repayment Centre
+**The National Duty Repayment Centre**
 HM Revenue and Customs
 National Duty Repayment Centre
 National Clearance Hub
