@@ -14,6 +14,7 @@ breadcrumbs:
 ---
 
 If you’re a regular exporter you can apply to become an approved exporter. This means you can provide a simplified ‘invoice declaration’ instead of a preference certificate. 
+
 An invoice declaration doesn’t have to be stamped or signed or approved by a government authority and can be given on:
 
 - the commercial invoice
@@ -64,11 +65,13 @@ A BOI decision:
 - allows you to continue to fulfill existing contracts for up to 6 months, if any change in EU law makes your BOI invalid
 
 You must be able to prove, if asked, that the goods declared are identical to the goods detailed in the BOI, including the circumstances of their manufacture. 
+
 You’ll still need to provide a movement certificate. 
 
 ###Apply for BOI
 
 You must make a separate application for each BOI you want - each application only covers one product. But it will cover subsequent consignments of identical goods. 
+
 Complete [Application for Binding Origin Information.](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/CE1900&template=CE1900.xdp). 
 
 Send your completed application form to:
