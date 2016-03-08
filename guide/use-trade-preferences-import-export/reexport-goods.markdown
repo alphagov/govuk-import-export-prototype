@@ -13,17 +13,20 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You must apply for a replacement certificate to re-export goods to another country that have been imported into the UK and not entered into free circulation. You can apply to either:
+Apply for a replacement movement certificate to re-export goods within the EU if they've:
+
+- been imported into the UK
+- not entered into free circulation
+
+You can apply to either:
 
 - HMRC Central Issuing Office
 - your local Chambers of Commerce
 - local offices of the Institute of Chartered Shipbrokers
 
-^You can’t get a replacement certificate to re-export goods to non-EU countries, if the goods have already entered free circulation.^
-
 You must provide:
 
-- a completed movement certificate
+- a completed [movement certificate](/guide/use-trade-preferences-import-export/use-trade-preferences-export-goods.html)
 - the movement certificate to be replaced or details of the document and when and where it was presented to customs
 
 If the original certificate was a GSP Form A, you must [contact your local Chambers of Commerce](http://www.britishchambers.org.uk/find-your-chamber/) to get a replacement.
