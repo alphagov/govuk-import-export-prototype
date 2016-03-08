@@ -3,7 +3,7 @@ layout: guide
 title: Use trade preferences to import and export goods
 permalink: /guide/use-trade-preferences-import-export/use-trade-preferences-export-goods.html
 page_number: 3
-page_title: Export goods under trade preference
+page_title: Export under preference
 breadcrumbs:
  - name: Home
    url: '/'
