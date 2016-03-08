@@ -19,4 +19,4 @@ Check the [Trade Tariff](https://govuk-import-export.herokuapp.com/start/trade-t
 
 Contact the [Tariff Classification Service](/government/organisations/hm-revenue-customs/contact/tariff-classification-service) if you’re unsure how to classify your goods. 
 
-You can apply to use a simplified procedure if you’re a regular exporter.
+You can [apply to use a simplified procedure](/guide/use-trade-preferences-import-export/help-for-regular-exporters.html) if you’re a regular exporter.
