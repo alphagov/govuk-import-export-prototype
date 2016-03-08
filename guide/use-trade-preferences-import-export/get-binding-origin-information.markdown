@@ -20,11 +20,11 @@ It’s valid for 3 years and legally recognised across the EU.
 
 ##Advantages of BOI
 
-A BOI decision:
+BOI can:
 
-- reduces the chance of local customs challenging the origin of the goods while in transit, if your goods move within the EU before they reach their destination
-- stops you from having to prove the origin of the goods repeatedly during trading, if the origin of your goods isn’t straightforward
-- allows you to continue to fulfill existing contracts for up to 6 months, if any change in EU law makes your BOI invalid
+- reduce the chance of local customs challenging the origin of the goods while in transit, if your goods move within the EU before they reach their destination
+- stop you from having to prove the origin of the goods repeatedly during trading, if the origin of your goods isn’t straightforward
+- allow you to continue to fulfill existing contracts for up to 6 months, if any change in EU law makes your BOI invalid
 
 You must be able to prove, if asked, that the goods declared are identical to the goods detailed in the BOI, including the circumstances of their manufacture. 
 
