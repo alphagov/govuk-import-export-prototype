@@ -52,54 +52,5 @@ You can call the HMRC VAT helpline for further information.
 
 If you are taking your first steps as an importer or exporter be aware that you have to be registered as such. See Economic Operator Registration and Identification (EORI) Scheme.
 
-##Get Binding Origin Information (BOI)
 
-If you’re a regular importer or exporter, you can apply for Binding Origin Information (BOI) to get legal confirmation of the origin of your goods. 
-This can help you speed up regular shipments of identical goods through customs. 
-It’s valid for 3 years and legally recognised across the EU.
-
-A BOI decision:
-
-- reduces the chance of local customs challenging the origin of the goods while in transit, if your goods move within the EU before they reach their destination
-- stops you from having to prove the origin of the goods repeatedly during trading, if the origin of your goods isn’t straightforward
-- allows you to continue to fulfill existing contracts for up to 6 months, if any change in EU law makes your BOI invalid
-
-You must be able to prove, if asked, that the goods declared are identical to the goods detailed in the BOI, including the circumstances of their manufacture. 
-
-You’ll still need to provide a movement certificate. 
-
-###Apply for BOI
-
-You must make a separate application for each BOI you want - each application only covers one product. But it will cover subsequent consignments of identical goods. 
-
-Complete [Application for Binding Origin Information.](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/CE1900&template=CE1900.xdp). 
-
-Send your completed application form to:
-
-$A
-HM Revenue and Customs 
-ECSM Duty Liability Team 
-10th Floor South East 
-Alexander House 
-21 Victoria Avenue 
-Southend-on-Sea 
-SS99 1AA 
-$A
-
-HMRC let you know if your application has been successful within 45 days.
-
-^You can’t use a BOI decision for goods that have already been imported or exported.^
-
-###Appeal a BOI decision
-You can write to HMRC to ask for your decision to be reviewed. You should explain why you don’t agree with the decision and send it to:
-
-$A
-HM Revenue and Customs 
-ECSM Review and Appeals Team 
-7th Floor South West 
-Alexander House 
-21 Victoria Avenue 
-Southend-on-Sea 
-SS99 1AA 
-$A
 
