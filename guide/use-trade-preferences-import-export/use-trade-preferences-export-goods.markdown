@@ -49,7 +49,7 @@ You may need to get a ‘suppliers’ declaration’ to prove that the materials
 - you manufacture using materials at a later stage of production than that specified
 - you buy and export goods in the same state
 
-^If you regularly export identical goods, you can [apply for Binding Origin Information (BOI)](/link) to confirm the origin of your goods.^
+^If you regularly export identical goods, you can [apply for Binding Origin Information (BOI)](/guide/use-trade-preferences-import-export/get-binding-origin-information.html) to confirm the origin of your goods.^
 
 You must ask your supplier to provide a written declaration. If you’re the supplier, you’ll need to do this yourself. 
 
