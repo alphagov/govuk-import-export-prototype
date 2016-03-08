@@ -17,7 +17,9 @@ To export goods under trade preference, you must:
 
 s1. Prove the origin of your goods.   
 s2. Get a movement certificate.  
-s3. Transport your goods correctly.   
+s3. Get the movement certificate stamped.
+s4. Send the stamped certificate to your customer or importer.
+s5. Transport your goods correctly.   
 
 
 ##Prove the origin of your goods
@@ -124,14 +126,6 @@ Find out about [call charges](/call-charges).
 $C
 
 You must then send the stamped EUR-MED or EUR1 to your customer or importer. Keep a copy for your records.
-
-##How long preference certificate is valid
-
-Country exporting to | Period of validity
--|-
-EUR1 and EUR-MED certificates for exports to: European Free Trade Association, Algeria, Egypt, Lebanon, Israel, Faroe Islands, West Bank/Gaza Strip, Tunisia, Morocco and Turkey | 4 months
-EUR1 certificates for exports to: South Africa, Macedonia, Albania, Bosnia-Herzegovina, Serbia, Montenegro and Kosovo | 4 months
-EUR1 certificates for exports to: African Caribbean and Pacific states, Overseas countries and territories, Mexico, Chile or a GSP beneficiary country | 10 months
 
 ##Transport your goods
 
