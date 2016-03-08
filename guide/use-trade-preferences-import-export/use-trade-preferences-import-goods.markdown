@@ -46,7 +46,7 @@ $C
 Your exporter must provide a movement certificate to accompany the goods. They must get the certificate stamped and signed by the relevant government authority in the exporting country. 
 
 
-###Belated claims
+##Belated claims
 
 You can claim preference after you’ve imported the goods, if you get a valid movement certificate. Once you have a movement certificate, complete an [application for repayment](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C285&template=C285.xdp) and send it to:
 
