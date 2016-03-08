@@ -86,7 +86,7 @@ Trade agreement | Preference certificate
 -|-
 Pan-Euro-Med cumulation | EUR-MED movement certificate
 All other preference countries | EUR1 movement certificate
-Re-export goods imported from the Generalised Scheme of Preferences (GSP) | Form A 
+Re-export goods imported from the Generalised Scheme of Preferences (GSP) | GSP Form A 
 
 ^Read guidance on exporting goods under preference to [Mexico](https://www.gov.uk/government/publications/notice-832-tariff-preferences-rules-of-origin-for-mexico/notice-832-tariff-preferences-rules-of-origin-for-mexico) and [Turkey](https://www.gov.uk/government/publications/notice-812-european-community-preferences-trade-with-turkey) .^
 
