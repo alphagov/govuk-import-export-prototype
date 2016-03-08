@@ -12,7 +12,7 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-To use import goods under trade preference (known as importing ‘under preference’), you must:
+To use import goods under trade preference, you must:
 
 s1. Prove the origin of your goods.   
 s2. Get a movement certificate.   
