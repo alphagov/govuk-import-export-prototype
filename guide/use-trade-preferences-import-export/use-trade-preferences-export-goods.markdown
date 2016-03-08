@@ -34,9 +34,9 @@ Read [guidance on rules of origin](https://www.gov.uk/government/publications/no
 Contact the Customs helpline if you’re unsure if your goods qualify. 
 
 $C
-**Customs helpline**
-Telephone: 0300 200 3700
-[Find out about call charges](/call-charges)
+**Customs helpline**   
+Telephone: 0300 200 3700   
+[Find out about call charges](/call-charges)   
 $C
 
 
@@ -52,6 +52,8 @@ You may need to get a ‘suppliers’ declaration’ to prove that the materials
 ^If you regularly export identical goods, you can [apply for Binding Origin Information (BOI)](/link) to confirm the origin of your goods.^
 
 You must ask your supplier to provide a written declaration. If you’re the supplier, you’ll need to do this yourself. 
+
+###Make a suppliers' declaration
 
 The suppliers’ declaration must include:
 
@@ -108,7 +110,7 @@ M60 9HL
 $A
 
 $C
-Telephone: 03000 579577
+Telephone: 03000 579577   
 Find out about [call charges](/call-charges).
 $C
 
