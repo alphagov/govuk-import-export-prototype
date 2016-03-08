@@ -26,9 +26,9 @@ BOI can:
 - stop you from having to prove the origin of the goods repeatedly during trading, if the origin of your goods isn’t straightforward
 - allow you to continue to fulfill existing contracts for up to 6 months, if any change in EU law makes your BOI invalid
 
-You must be able to prove, if asked, that the goods declared are identical to the goods detailed in the BOI, including the circumstances of their manufacture. 
+You must be able to prove, if asked, that the goods are identical to the goods in the BOI, including how they were manufactured.
 
-You’ll still need to provide a movement certificate. 
+^You’ll still need to provide a movement certificate.^ 
 
 ##Apply for BOI
 
@@ -53,6 +53,7 @@ HMRC let you know if your application has been successful within 45 days.
 ^You can’t use a BOI decision for goods that have already been imported or exported.^
 
 ##Appeal a BOI decision
+
 You can write to HMRC to ask for your decision to be reviewed. You should explain why you don’t agree with the decision and send it to:
 
 $A
