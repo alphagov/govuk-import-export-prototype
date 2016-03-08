@@ -13,8 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-If you’re a regular importer or exporter, you can apply for Binding Origin Information (BOI) to get legal confirmation of the origin of your goods. 
-
+Importers and exporters can apply for Binding Origin Information (BOI) to get legal confirmation of the origin of your goods. 
 This can help you speed up regular shipments of identical goods through customs. 
 
 It’s valid for 3 years and legally recognised across the EU.
