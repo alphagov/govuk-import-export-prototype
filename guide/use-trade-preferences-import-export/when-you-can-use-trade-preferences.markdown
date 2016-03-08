@@ -18,5 +18,3 @@ You can pay less or no duty if you use trade preferences to import or export cer
 Check the [Trade Tariff](https://govuk-import-export.herokuapp.com/start/trade-tariff.html) to find out if there’s a trade preference agreement with the country you’re trading with. 
 
 Contact the [Tariff Classification Service](/government/organisations/hm-revenue-customs/contact/tariff-classification-service) if you’re unsure how to classify your goods. 
-
-You can [apply to use a simplified procedure](/guide/use-trade-preferences-import-export/help-for-regular-exporters.html) if you’re a regular exporter.
