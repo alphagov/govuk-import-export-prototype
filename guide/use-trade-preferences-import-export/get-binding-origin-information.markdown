@@ -14,9 +14,11 @@ breadcrumbs:
 ---
 
 Importers and exporters can apply for Binding Origin Information (BOI) to get legal confirmation of the origin of your goods. 
-This can help you speed up regular shipments of identical goods through customs. 
+This can help to speed up regular shipments of identical goods through customs. 
 
 It’s valid for 3 years and legally recognised across the EU.
+
+##Advantages of BOI
 
 A BOI decision:
 
@@ -28,7 +30,7 @@ You must be able to prove, if asked, that the goods declared are identical to th
 
 You’ll still need to provide a movement certificate. 
 
-###Apply for BOI
+##Apply for BOI
 
 You must make a separate application for each BOI you want - each application only covers one product. But it will cover subsequent consignments of identical goods. 
 
@@ -50,7 +52,7 @@ HMRC let you know if your application has been successful within 45 days.
 
 ^You can’t use a BOI decision for goods that have already been imported or exported.^
 
-###Appeal a BOI decision
+##Appeal a BOI decision
 You can write to HMRC to ask for your decision to be reviewed. You should explain why you don’t agree with the decision and send it to:
 
 $A
