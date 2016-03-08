@@ -70,7 +70,9 @@ The suppliers’ declaration must include:
 - signature
 - name of signatory in capital letters and their position in the company
 
-The declaration can be written on the invoices for the goods supplied, or on any other commercial document that fully identifies the goods. If the goods are supplied regularly or over a long period, the declaration must be written on company headed paper.
+The declaration can be written on the invoices for the goods supplied, or on any other commercial document that fully identifies the goods. 
+
+If the goods are supplied regularly or over a long period, the declaration must be written on company headed paper.
 
 ^You must keep proof of origin, such as full bills or supplier declarations, for at least 3 years.^
 
