@@ -16,7 +16,7 @@ breadcrumbs:
 To use trade preferences to export goods (known as trading ‘under preference’), you must:
 
 s1. Prove the origin of your goods.   
-s2. provide a valid movement certificate.  
+s2. Get a valid movement certificate.  
 s3. Tansport your goods correctly.   
 
 
