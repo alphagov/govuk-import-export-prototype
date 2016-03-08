@@ -15,6 +15,8 @@ breadcrumbs:
 
 You can pay less or no duty when you import or export goods, if there's a trade preference agreement in place.
 
+This is known as importing or exporting 'under preference'. 
+
 Check the [Trade Tariff](https://govuk-import-export.herokuapp.com/start/trade-tariff.html) to find out if there’s a trade preference agreement with the country you’re trading with. 
 
 Contact the [Tariff Classification Service](/government/organisations/hm-revenue-customs/contact/tariff-classification-service) if you’re unsure how to classify your goods. 
