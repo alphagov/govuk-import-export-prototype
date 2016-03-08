@@ -49,30 +49,6 @@ Your exporter must provide a movement certificate to accompany the goods.
 
 They must get the certificate stamped and signed by the relevant government authority in the exporting country. 
 
-
-##Belated claims
-
-You can get a duty repayment if you claim preference after you import the goods. You'll still need to prove the origin of the goods and get a movement certificate. 
-
-Complete an [application for repayment](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C285&template=C285.xdp) and send it to The National Duty Repayment Centre.
-
-$A
-**The National Duty Repayment Centre**
-HM Revenue and Customs
-National Duty Repayment Centre
-National Clearance Hub
-1st Floor, West Building
-Ralli Quays
-3 Stanley Street
-Salford
-M60 9LA
-$A
-
-$C
-Telephone: 03000 585 344   
-[Find out about call charges](/call-charges)
-$C
-
 ##Transporting your goods
 
 Your goods must be transported directly from the country they’re exported from. The goods can only pass through another country if they:
@@ -108,3 +84,27 @@ If you transport the goods via another country, you must provide:
 - a through air way bill, for goods by air
 - a copy of the International Carriage of Goods by road document or a Transports Internationaux Routiers carnet
 - a copy of the International Consignment Note indicating a single contract for the carriage of the consignment from the preference receiving country or country group in the EU
+
+##Belated claims
+
+You can get a duty repayment if you claim preference after you import the goods. You'll still need to prove the origin of the goods and get a movement certificate. 
+
+Complete an [application for repayment](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C285&template=C285.xdp) and send it to The National Duty Repayment Centre.
+
+$A
+The National Duty Repayment Centre
+HM Revenue and Customs
+National Duty Repayment Centre
+National Clearance Hub
+1st Floor, West Building
+Ralli Quays
+3 Stanley Street
+Salford
+M60 9LA
+$A
+
+$C
+Telephone: 03000 585 344   
+[Find out about call charges](/call-charges)
+$C
+
