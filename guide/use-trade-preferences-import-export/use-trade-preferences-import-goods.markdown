@@ -43,7 +43,7 @@ $C
 
 ##Get a movement certificate
 
-Your exporter must provide a movement certificate to accompany the goods. They must get the certificate stamped and signed by a government authority in the exporting country (usually Customs authorities or Chambers of Commerce). 
+Your exporter must provide a movement certificate to accompany the goods. They must get the certificate stamped and signed by the relevant government authority in the exporting country. 
 
 
 ###Belated claims
