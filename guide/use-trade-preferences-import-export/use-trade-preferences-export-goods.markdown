@@ -87,10 +87,15 @@ Trade agreement | Preference certificate
 Pan-Euro-Med cumulation | EUR-MED movement certificate
 All other preference countries | EUR1 movement certificate
 Re-export goods imported from the Generalised Scheme of Preferences (GSP) | Form A 
-^Read guidance on exporting goods under preference to [Mexico](https://www.gov.uk/government/publications/notice-832-tariff-preferences-rules-of-origin-for-mexico/notice-832-tariff-preferences-rules-of-origin-for-mexico) and [Turkey](https://www.gov.uk/government/publications/notice-812-european-community-preferences-trade-with-turkey) .^
-To request EUR-MED or EUR1 preference certificates, [contact the import and export general enquiry team](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries). Contact your local Chamber of Commerce to request GSP Form A.
 
-##Make a claim
+^Read guidance on exporting goods under preference to [Mexico](https://www.gov.uk/government/publications/notice-832-tariff-preferences-rules-of-origin-for-mexico/notice-832-tariff-preferences-rules-of-origin-for-mexico) and [Turkey](https://www.gov.uk/government/publications/notice-812-european-community-preferences-trade-with-turkey) .^
+
+To request:
+
+- EUR-MED or EUR1 preference certificates, [contact the import and export general enquiry team](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries)
+- GSP Form A, contact your local [Chamber of Commerce.](http://www.britishchambers.org.uk/find-your-chamber/)
+
+###Get the certificate stamped
 
 You must attach the export invoice to the movement certificate. If this isn’t available, you must attach all of the following:
 
