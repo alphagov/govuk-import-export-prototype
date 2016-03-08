@@ -28,8 +28,10 @@ You must prove the goods have ‘originated’ from the country with the trade p
 
 You can either:
 
-- ask your overseas supplier or selling agent for written confirmation the goods originate from that country [Question for SME: what do I have to do with this? just keep it for records?] 
+- ask your overseas supplier or selling agent for written confirmation the goods originate from that country 
 - [get Binding Origin Information (BOI)](/guide/use-trade-preferences-import-export/get-binding-origin-information.html) for your goods
+
+[Question for SME: what do I have to do with this? just keep it for records?] 
 
 Call the Customs helpline if you’re still unsure your goods qualify. 
 
