@@ -15,7 +15,7 @@ breadcrumbs:
 To use trade preferences to import goods (known as trading ‘under preference’), you must:
 
 s1. Prove the origin of your goods.   
-s2. Provide a valid movement certificate.   
+s2. Get a movement certificate.   
 s3. Transport your goods correctly.   
 
 
