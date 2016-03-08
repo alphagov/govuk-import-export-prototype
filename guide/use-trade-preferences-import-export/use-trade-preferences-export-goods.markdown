@@ -120,11 +120,9 @@ You must then send the stamped EUR-MED or EUR1 to your customer or importer. Kee
 
 Country exporting to | Period of validity
 -|-
-EUR1 and EUR-MED certificates for exports to: 
-European Free Trade Association, Algeria, Egypt, Lebanon, Israel, Faroe Islands, West Bank/Gaza Strip, Tunisia, Morocco and Turkey. EUR1 certificates for exports to: 
-South Africa, Macedonia, Albania, Bosnia-Herzegovina, Serbia, Montenegro and Kosovo | 4 months
-EUR1 certificates for exports to: 
-African Caribbean and Pacific states, Overseas countries and territories, Mexico, Chile or a GSP beneficiary country | 10 months
+EUR1 and EUR-MED certificates for exports to: European Free Trade Association, Algeria, Egypt, Lebanon, Israel, Faroe Islands, West Bank/Gaza Strip, Tunisia, Morocco and Turkey | 4 months
+EUR1 certificates for exports to: South Africa, Macedonia, Albania, Bosnia-Herzegovina, Serbia, Montenegro and Kosovo | 4 months
+EUR1 certificates for exports to: African Caribbean and Pacific states, Overseas countries and territories, Mexico, Chile or a GSP beneficiary country | 10 months
 
 ##Transport your goods
 
