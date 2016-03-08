@@ -18,6 +18,7 @@ s1. Prove the origin of your goods.
 s2. Provide a valid movement certificate.   
 s3. Transport your goods correctly.   
 
+
 ##Prove the origin of your goods
 
 You must prove the goods have ‘originated’ from the country with the trade preference agreement. This means either:
@@ -50,7 +51,6 @@ Your exporter must provide a movement certificate to accompany the goods. They m
 You can claim preference after you’ve imported the goods, if you get a valid movement certificate. Once you have a movement certificate, complete an [application for repayment](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C285&template=C285.xdp) and send it to:
 
 $A
-
 The National Duty Repayment Centre
 HM Revenue and Customs
 National Duty Repayment Centre
@@ -60,7 +60,6 @@ Ralli Quays
 3 Stanley Street
 Salford
 M60 9LA
-
 $A
 
 $C
@@ -90,7 +89,7 @@ You can transport goods through certain groups of preference countries. Each of 
 - Argentina, Brazil, Paraguay. Uruguay
 
 $E
-**Example**: You can import goods from Argentina via Uruguay, Brazil or Paraguay and they’ll still be regarded as having been transport directly. 
+**Example** You can import goods from Argentina via Uruguay, Brazil or Paraguay and they’ll still be regarded as having been transport directly. 
 $E
 
 ###Records you must keep
