@@ -13,7 +13,9 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-If you’re a regular exporter, you can apply to become an approved exporter. This means you can provide a simplified ‘invoice declaration’ instead of a movement certificate. 
+If you’re a regular exporter, you can apply to become an approved exporter. 
+
+This means you can provide a simplified ‘invoice declaration’ instead of a movement certificate. 
 
 An invoice declaration doesn’t have to be stamped or signed or approved by a government authority and can be given on the:
 
@@ -48,9 +50,7 @@ When you’re approved, you’ll be given an authorisation number and will be to
 
 ##Get help
 
-You can call the HMRC VAT helpline for further information.
-
-If you are taking your first steps as an importer or exporter be aware that you have to be registered as such. See Economic Operator Registration and Identification (EORI) Scheme.
+You can call the [HMRC VAT helpline](/government/organisations/hm-revenue-customs/contact/vat-enquiries) for further information.
 
 
 
