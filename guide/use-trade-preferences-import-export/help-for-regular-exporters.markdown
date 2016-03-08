@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-If you’re a regular exporter, you can apply to become an approved exporter. This means you can provide a simplified ‘invoice declaration’ instead of a preference certificate. 
+If you’re a regular exporter, you can apply to become an approved exporter. This means you can provide a simplified ‘invoice declaration’ instead of a movement certificate. 
 
 An invoice declaration doesn’t have to be stamped or signed or approved by a government authority and can be given on:
 
