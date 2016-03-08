@@ -2,7 +2,7 @@
 layout: guide
 title: Declare that you’re exporting goods outside the EU
 permalink: /guide/use-trade-preferences-import-export/reexport-goods.html
-page_number: 2
+page_number: 4
 page_title: Re-export goods
 breadcrumbs:
  - name: Home
