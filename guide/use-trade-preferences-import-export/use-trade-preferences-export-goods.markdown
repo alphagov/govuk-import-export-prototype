@@ -3,7 +3,7 @@ layout: guide
 title: Use trade preferences to import and export goods
 permalink: /guide/use-trade-preferences-import-export/use-trade-preferences-export-goods.html
 page_number: 3
-page_title: Use trade preferences to export goods
+page_title: Export goods under trade preference
 breadcrumbs:
  - name: Home
    url: '/'
@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-To use trade preferences to export goods (known as trading ‘under preference’), you must:
+To export goods under trade preference (known as trading ‘under preference’), you must:
 
 s1. Prove the origin of your goods.   
 s2. Get a valid movement certificate.  
