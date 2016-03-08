@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-To export goods under trade preference (known as exporting ‘under preference’), you must:
+To export goods under trade preference, you must:
 
 s1. Prove the origin of your goods.   
 s2. Get a valid movement certificate.  
