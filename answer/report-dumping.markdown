@@ -11,7 +11,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html' 
 ---
 
-Importing goods into the EU at a substantially low price is known as ‘dumping’.
+Importing goods into the EU at an unfairly low price is known as ‘dumping’.
 
 If you observe dumping and think it’s damaging your market, you can report it to the European Community (EC).
 
