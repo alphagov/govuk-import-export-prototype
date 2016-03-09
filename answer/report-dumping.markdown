@@ -20,7 +20,7 @@ You must show that at least 25% of EU production is affected. You’ll usually n
 Contact your trade association or the EC Trade Defence Helpdesk for advice on starting a complaint.
 
 $C
-**EC Trade Defence helpdesk**
-Telephone: 00 32 22 98 78 73
+**EC Trade Defence helpdesk**   
+Telephone: 00 32 22 98 78 73   
 $C
 
