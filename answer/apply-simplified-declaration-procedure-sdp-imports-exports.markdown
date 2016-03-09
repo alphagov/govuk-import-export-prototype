@@ -14,11 +14,12 @@ breadcrumbs:
 ---
 {% contentfor summary %}
 
-If you make import or export declarations regularly, the Simplified Declaration Procedure (SDP):
+If you make import or export declarations regularly, the Simplified Declaration Procedure (SDP) lets you enter goods into a:
 
-- lets you to enter goods to a customs procedure without making a full customs declaration   
-- lets you enter goods into a customs warehouse without making a supplementary declaration when entering goods
-- makes it cheaper to [delay paying duty](/delay-paying-customs-duty-when-you-import-goods.html) on your goods  
+- customs procedure without making a full customs declaration 
+- customs warehouse without making a supplementary declaration
+
+It also makes it cheaper to [delay paying duty](/delay-paying-customs-duty-when-you-import-goods.html) on your goods.  
 
 {% endcontentfor %}
 
