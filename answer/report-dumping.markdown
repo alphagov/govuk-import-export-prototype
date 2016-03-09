@@ -22,7 +22,7 @@ Contact your trade association or the EC Trade Defence Helpdesk for advice on st
 $C
 **EC Trade Defence helpdesk**   
 Telephone: 00 32 22 98 78 73   
-Find out about [call charges](/call-charges.gov.uk)
+[Find out about call charges](/call-charges)
 
 
 
