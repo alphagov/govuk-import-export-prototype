@@ -16,8 +16,9 @@ breadcrumbs:
 
 If you make import or export declarations regularly, the Simplified Declaration Procedure (SDP):
 
-- lets you make simplified declarations so you can move your goods faster
-- makes it cheaper to [delay paying duty](/delay-paying-customs-duty-when-you-import-goods.html) on your goods
+- lets you to enter goods to a customs procedure without making a full customs declaration   
+- means you don’t need to make a supplementary declaration when entering goods into a customs warehouse   
+- makes it cheaper to [delay paying duty](/delay-paying-customs-duty-when-you-import-goods.html) on your goods  
 
 {% endcontentfor %}
 
@@ -46,7 +47,7 @@ You can’t use LCP for hydrocarbon oils.
 
 ##Apply to use SDP or LCP
 
-s1. You’ll need an EORI (Economic Operator Registration and Identification) number. You can [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT]https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)).
+s1. You’ll need an EORI (Economic Operator Registration and Identification) number. You can [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
 s2. You’ll need a [duty deferment account](link to content on duty deferment) with HM Revenue & Customs.
 s3. Complete [form C&E48](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374170/ce48.pdf) (PDF,149KB) to apply to for SDP or LCP.
 
