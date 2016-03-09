@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-To export goods under trade preference, you must:
+To export goods under preference, you must:
 
 s1. Prove the origin of your goods.   
 s2. Get a movement certificate.  
@@ -80,7 +80,7 @@ If the goods are supplied regularly or over a long period, the declaration must 
 
 ##Get a movement certificate
 
-You must provide a movement certificate. The type of preference certificate you need depends on the trade agreement in place. 
+You must provide a movement certificate. The type of certificate you need depends on the trade agreement in place. 
 
 Check the [Trade Tariff](/link) to find out which trade agreement is in place with the country you’re trading with. 
 
@@ -89,8 +89,6 @@ Trade agreement | Preference certificate
 Pan-Euro-Med cumulation | EUR-MED movement certificate
 All other preference countries | EUR1 movement certificate
 Re-export goods imported from the Generalised Scheme of Preferences (GSP) | GSP Form A 
-
-^Read guidance on exporting goods under preference to [Mexico](https://www.gov.uk/government/publications/notice-832-tariff-preferences-rules-of-origin-for-mexico/notice-832-tariff-preferences-rules-of-origin-for-mexico) and [Turkey](https://www.gov.uk/government/publications/notice-812-european-community-preferences-trade-with-turkey) .^
 
 To request:
 
