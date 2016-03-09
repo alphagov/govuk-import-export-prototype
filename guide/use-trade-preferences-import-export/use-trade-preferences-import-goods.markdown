@@ -12,7 +12,7 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-To use import goods under trade preference, you must:
+To use import goods under preference, you must:
 
 s1. Prove the origin of your goods.   
 s2. Get a movement certificate.   
@@ -21,7 +21,7 @@ s3. Transport your goods correctly.
 
 ##Prove the origin of your goods
 
-You must prove the goods have ‘originated’ from the country with the trade preference agreement. This means either:
+You must prove the goods have originated from the country with the trade preference agreement. This means either:
 
 - the goods must have been produced in that country  
 - the last significant stage of their manufacture took place in that country  
