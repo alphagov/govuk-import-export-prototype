@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You may need a licence before you can export some types of goods. These are called ‘restricted goods’.
+You may need a licence before you can move some types of goods. These are called ‘restricted goods’.
 
 ##Animals and agricultural products
 
