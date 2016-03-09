@@ -42,7 +42,7 @@ $C
 Send them the following documents:
 
 - a completed [movement certificate](/guide/use-trade-preferences-import-export/use-trade-preferences-export-goods.html)
-- the movement certificate to be replaced or details of the document and when and where it was presented to customs
+- the movement certificate used to import the goods or details of the document and when and where it was presented to customs
 
 
 ^If the original certificate was a GSP Form A, you must [contact your local Chambers of Commerce](http://www.britishchambers.org.uk/find-your-chamber/) to get a replacement instead.^
