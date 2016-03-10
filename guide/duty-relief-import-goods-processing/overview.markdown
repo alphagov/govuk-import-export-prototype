@@ -13,10 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You don’t have to pay duty or import VAT when you import goods from outside the EU, if you plan to:
-
-- process the goods, eg use them to make another product, repair them or repackage them
-- export the finished product outside the EU
+You don’t have to pay duty or import VAT when you import goods from outside the EU, if you plan to process the goods, eg use them to make another product, repair them or repackage them. 
 
 This is called ‘Inward Processing Relief’ (IP relief).
 
@@ -24,8 +21,8 @@ This is called ‘Inward Processing Relief’ (IP relief).
 
 You’ll need to:
 
-- [get prior authorisation](/guide/duty-relief-import-goods-processing/import-goods-using-ipr.html) to import some goods under IP relief
-process the goods within the [time limit](/guide/duty-relief-import-goods-processing/processing-ipr-goods.html)
+- [get prior authorisation](/guide/duty-relief-import-goods-processing/import-goods-using-ipr.html)
+- process the goods within the [time limit](/guide/duty-relief-import-goods-processing/processing-ipr-goods.html)
 - follow the [rules for storing IP relief goods](/guide/duty-relief-import-goods-processing/store-ipr-goods.html)
 - follow the [rules for exporting or disposing of IP relief goods](/guide/duty-relief-import-goods-processing/export-sell-transfer-dispose-ipr-goods.html)
 - [keep the correct records](/guide/duty-relief-import-goods-processing/records-you-must-keep.html)
