@@ -47,7 +47,7 @@ $C
 You may need to get a ‘suppliers’ declaration’ to prove that the materials used in the manufacture originate from the EU. For example if:
 
 - the materials don’t change tariff heading after manufacture has taken place
-- your goods exceed the limit for non-originating materials (if your goods exceed the limit by 5%, you’ll need a supplier declaration to cover the value of the materials in excess of the limit
+- your goods exceed the limit for non-originating materials (if your goods exceed the limit by 5%, you’ll need a supplier declaration to cover the value of the materials in excess of the limit)
 - you manufacture using materials at a later stage of production than that specified
 - you buy and export goods in the same state
 
@@ -59,18 +59,17 @@ You must ask your supplier to provide a written declaration. If you’re the sup
 
 The suppliers’ declaration must include:
 
-- a list of the goods concerned and confirmation that they originate in the EU
+- a list of the goods and confirmation they originate in the EU
 - name of the company being supplied
 - whether the goods satisfy the rules of origin for the country you’re trading with
 - whether cumulation has been applied, if you’re trading with the Pan-Euro-Med zone
 - details of components or materials that don’t originate in the EU, including their country of origin and customs value (if required)
 - a description of the processing that has taken place within the EU
-- dates of further shipments (this must not exceed 12 months) 
+- dates of further shipments (up to 12 months ahead) 
 - a statement that supporting documents are available for inspection
-- confirmation that the company being supplied will be notified if any of the goods lose their EU origin
+- confirmation the company being supplied will be notified if any of the goods lose their EU origin
 - place and date
-- signature
-- name of signatory in capital letters and their position in the company
+- signature, name of signatory in capital letters and their position in the company
 
 The declaration can be written on the invoices for the goods supplied, or on any other commercial document that fully identifies the goods. 
 
