@@ -21,7 +21,7 @@ You must use the SSN to give carriers and customs officials information about th
 You must fill in a separate SSN for each shipment you make and send it to your shipping company or freight forwarder.
 
 
-^You can use a [freight forwarder](http://www.bifa.org/members) to help you ship goods internationally.^
+^You can use an agent or freight forwarder to help you ship goods internationally.^
 
 
 {% endcontentfor %}
