@@ -15,7 +15,7 @@ breadcrumbs:
 
 If you’re a regular exporter, you can apply to become an approved exporter. 
 
-This means you can provide a simplified ‘invoice declaration’ instead of a movement certificate. 
+This means you can provide a simplified ‘invoice declaration’ when trading under preference, instead of a movement certificate. 
 
 An invoice declaration doesn’t have to be stamped or signed or approved by a government authority and can be given on the:
 
