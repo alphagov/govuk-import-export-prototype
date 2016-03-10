@@ -18,6 +18,7 @@ s1. Prove the origin of your goods.
 s2. Get a movement certificate.   
 s3. Transport your goods correctly.   
 
+[SME question: When do you need to do these things? Before you import the goods? At what point will you need to follow the belated procedure?]
 
 ##Prove the origin of your goods
 
