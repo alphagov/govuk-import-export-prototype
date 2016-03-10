@@ -37,7 +37,7 @@ Then make an [export declaration](/guide/declare-exporting-goods-from-eu/overvie
 
 Fill in [form C&E 810](/government/uploads/system/uploads/attachment_data/file/400933/ce810.pdf) to apply to process IP relief goods in a customs warehouse. You’ll need the [notes to help you complete form C&E 810](/government/uploads/system/uploads/attachment_data/file/381441/ce810-notes.pdf).
 
-##Transfer IP relief goods to someone else with IPR authorisation
+##Transfer IP relief goods to someone else with IP relief authorisation
 
 Contact the HMRC imports and exports helpline for advice if you’re transferring IP relief goods as one off.
 
