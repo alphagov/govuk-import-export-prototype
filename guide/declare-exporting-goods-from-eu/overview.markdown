@@ -16,7 +16,7 @@ You must [make an export declaration](/guide/declare-exporting-goods-from-eu/mak
 
 NES is part of HMRC’s Customs Handling Import and Export Freight (CHIEF) system. 
 
-^You can use a [freight forwarder](http://www.bifa.org/members) to make these declarations for you.^
+^You can use an agent or freight forwarder to make these declarations for you.^
 
 ##Time limits 
 
