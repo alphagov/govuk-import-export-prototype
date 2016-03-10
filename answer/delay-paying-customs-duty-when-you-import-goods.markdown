@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: Delay paying customs duties when you import goods
+title: Set up an account to defer duty payments when you import goods
 permalink: /delay-paying-customs-duty-when-you-import-goods.html
 breadcrumbs:
  - name: Home
@@ -81,9 +81,3 @@ Fill [form SIVA 1](https://www.gov.uk/government/uploads/system/uploads/attachme
 If your business has more than one Deferment Account Number you must apply for SIVA on each account. 
 
 HMRC will send you a decision within 30 days. You must maintain a guarantee to cover import, excise duties and import VAT until you’re approved.
-
-
-
-
-
-
