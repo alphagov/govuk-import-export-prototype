@@ -13,7 +13,7 @@ breadcrumbs:
 
 Importing goods into the EU at an unfairly low price is known as ‘dumping’.
 
-If you observe dumping and think it’s damaging your market, you can report it to the European Community (EC).
+If you observe dumping and think it’s damaging your business, you can report it to the European Community (EC).
 
 You must show that at least 25% of EU production is affected. You’ll usually need the help of your [trade association](https://www.ukecc-services.net/ukpbata.cfm) to prove this. 
 
