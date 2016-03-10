@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Claim duty relief when you import goods for processing (Inward Processing Relief)
-permalink: /guide/duty-relief-import-goods-processing/import-goods-using-ipr.html
+permalink: /guide/duty-relief-import-goods-processing/import-goods-using-iprelief.html
 page_number: 2
-page_title: Import goods using IPR
+page_title: Import goods using IP relief
 breadcrumbs:
  - name: Home
    url: '/'
@@ -13,14 +13,14 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You don’t need to get prior authorisation to claim IPR on most goods. Just say that you want to claim IPR when you complete your [import declaration](/guide/import-goods-outside-eu/overview.html).
+You don’t need to get prior authorisation to claim IP relief on most goods. Just say that you want to claim IP relief when you complete your [import declaration](/guide/import-goods-outside-eu/overview.html).
 
 But you must get prior authorisation if:
 
-- you expect to import goods using IPR regularly (more than 10 times in the next year)
-- you’re importing goods that need prior authorisation for IPR
+- you expect to import goods using IP relief regularly (more than 10 times in the next year)
+- you’re importing goods that need prior authorisation for IP relief
 
-Goods that need prior authorisation for IPR are:
+Goods that need prior authorisation for IP relief are:
 
 - any goods worth over £500,000
 - cereals
@@ -46,11 +46,11 @@ Goods that need prior authorisation for IPR are:
 
 ### Aircraft parts
 
-You don’t need IPR to get relief on import duty when you import civil aircraft parts with a certificate of airworthiness.
+You don’t need IP relief to get relief on import duty when you import civil aircraft parts with a certificate of airworthiness.
 
 Just make an [import declaration](/guide/import-goods-outside-eu/overview.html) in the usual way.
 
-##Get prior authorisation for IPR
+##Get prior authorisation for IP relief
 
 Fill in [form C&E 810](/government/uploads/system/uploads/attachment_data/file/400933/ce810.pdf) to apply for prior authorisation. You’ll need the [notes to help you complete form C&E 810](/government/uploads/system/uploads/attachment_data/file/381441/ce810-notes.pdf).  
 
@@ -62,7 +62,7 @@ Apply at least 2 months in advance.
 
 For many food and agricultural products, you’ll have to show why you need to import goods from outside the EU. For example, by providing a letter from your customer saying that they insist on it.
 
-### Get prior authorisation for IPR to cover more than one EU country
+### Get prior authorisation for IP relief to cover more than one EU country
 
 Apply for a ‘single community authorisation’ if you’re importing goods for processing to more than one European country.
 
@@ -70,7 +70,7 @@ Contact the HMRC imports and exports helpline to get an application form.
 
 Apply at least 2 months in advance.
 
-### If you can’t get prior authorisation for IPR
+### If you can’t get prior authorisation for IP relief
 
 You may be able to apply for authorisation after you’ve moved your goods in exceptional circumstances.
 
