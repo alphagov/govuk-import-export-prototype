@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 
 Importers and exporters can apply for Binding Origin Information (BOI) to get legal confirmation of the origin of your goods. 
-This can help to speed up regular shipments of identical goods through customs. 
+This can help speed up regular shipments of identical goods through customs. 
 
 It’s valid for 3 years and legally recognised across the EU.
 
