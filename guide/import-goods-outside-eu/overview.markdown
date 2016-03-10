@@ -18,7 +18,7 @@ You must [make an import declaration](/guide/import-goods-outside-eu/make-import
 - non-EU country
 - non-EU country via another EU country, if there’s still duty to be paid on them
 
-^You can use a [freight forwarder](http://www.bifa.org/members) to make a declaration for you.^
+^You can use an agent or freight forwarder to make a declaration for you.^
 
 ##Exceptions
 
