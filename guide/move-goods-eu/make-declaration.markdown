@@ -17,7 +17,7 @@ You must make a community transit declaration if you’re moving [goods that are
 
 Most businesses use the New Computerised Transit System (NCTS) to make community transit declarations.
 
-^You can use a [freight forwarder](http://www.bifa.org/members) to make these declarations for you.^
+^You can use an agent or freight forwarder to make these declarations for you.^
 
 [Make a declaration through NCTS]
 
