@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Claim duty relief when you import goods for processing (Inward Processing Relief)
-permalink: /guide/duty-relief-import-goods-processing/processing-ipr-goods.html
+permalink: /guide/duty-relief-import-goods-processing/processing-iprelief-goods.html
 page_number: 3
-page_title: How long you can take to process IPR goods
+page_title: How long you can take to process IP relief goods
 breadcrumbs:
  - name: Home
    url: '/'
@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You must process and export most IPR goods within:
+You must process and export most IP relief goods within:
 
 - 12 months if you have prior authorisation
 - 6 months if you don’t have prior authorisation (or 12 months if you email or fax the National Import Relief Unit when you make your import declaration, telling them that you need 12 months)
