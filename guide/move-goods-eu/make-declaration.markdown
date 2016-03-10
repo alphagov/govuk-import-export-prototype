@@ -19,8 +19,6 @@ Most businesses use the New Computerised Transit System (NCTS) to make community
 
 ^You can use an agent or freight forwarder to make these declarations for you.^
 
-[Make a declaration through NCTS]
-
 ## Before you start
 
 s1. You will need an EORI (Economic Operator Registration and Identification) number. You can [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
