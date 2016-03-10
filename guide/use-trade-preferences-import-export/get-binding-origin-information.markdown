@@ -48,7 +48,7 @@ Southend-on-Sea
 SS99 1AA 
 $A
 
-HMRC let you know if your application has been successful within 45 days.
+HMRC will let you know if your application has been successful within 45 days.
 
 ^You can’t use a BOI decision for goods that have already been imported or exported.^
 
