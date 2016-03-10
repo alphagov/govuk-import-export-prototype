@@ -25,7 +25,7 @@ Apply at least 2 months in advance.
 
 For many food and agricultural products, you’ll have to show why you need to import goods from outside the EU. For example, by providing a letter from your customer saying that they insist on it.
 
-### Get prior authorisation for IP relief to cover more than one EU country
+## Get prior authorisation for IP relief to cover more than one EU country
 
 Apply for a ‘single community authorisation’ if you’re importing goods for processing to more than one European country.
 
@@ -33,7 +33,7 @@ Contact the HMRC imports and exports helpline to get an application form.
 
 Apply at least 2 months in advance.
 
-### If you can’t get prior authorisation for IP relief
+## If you can’t get prior authorisation for IP relief
 
 You may be able to apply for authorisation after you’ve moved your goods in exceptional circumstances.
 
