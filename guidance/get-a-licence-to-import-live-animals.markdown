@@ -12,4 +12,7 @@ This page will cover:
 
 - understands if they need a licence or certificate
 - understands how to apply
+- * understands how long it takes to get a licence
+* understands how much it costs
+* understands what they have to do with it once they have a licence
 - understands who to contact if they have a question
