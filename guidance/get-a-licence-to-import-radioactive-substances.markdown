@@ -11,4 +11,6 @@ When they have read this page, the user will:
 
 - understand if they need a licence or certificate
 - understand how to apply
+- understands how long it takes to get a licence
+- understands how much it costs
 - understand who to contact if they have a question
