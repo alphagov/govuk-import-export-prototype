@@ -62,6 +62,8 @@ $CTA
 
 The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
 
+[Question for SME: how much does it cost to get a licence?]
+
 ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
 
 ECO also looks at the ‘[incorporation factors](http://www.publications.parliament.uk/pa/cm200102/cmhansrd/vo020708/text/20708w01.htm#column_652)’ if the goods will be incorporated into military equipment which will then be exported to another country.
@@ -149,6 +151,8 @@ Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login
 ## When you have your licence
 
 You are responsible for making sure that your licence is still valid when you export the goods.
+
+[Question for SME: what do you need to do with your licence when you have it? Is it a case of attaching it to your export declaration?]
 
 Keep up to date with the [ECO notices to exporters](http://blogs.bis.gov.uk/exportcontrol/).
 
