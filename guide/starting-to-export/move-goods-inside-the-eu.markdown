@@ -17,7 +17,7 @@ You must:
 
 s1. Get a licence to move [certain goods](/guide/starting-to-export/export-licences.html) within the EU.
 s2. Make a [community transit declaration](/guide/move-goods-eu/when-to-make-declaration.html) if your goods were made from materials from outside the EU and there’s still duty to be paid.
-s3. [make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html) for any month when you move goods worth over £250,000.
+s3. [Make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html) for any month when you move goods worth over £250,000.
 
 You’ll need to provide details of the goods on your [VAT return](/vat-returns) if you're registered for VAT.
 
