@@ -10,7 +10,7 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html' 
 ---
-You usually pay import duty and import VAT when you import goods from outside the EU or EEA.
+You usually pay import duty and import VAT when you import goods from outside the European Union (EU) or European Economic Area (EEA).
 
 But you can delay payment if you put the goods into an approved Temporary Storage facility (sometimes called ‘transit sheds’).
 
