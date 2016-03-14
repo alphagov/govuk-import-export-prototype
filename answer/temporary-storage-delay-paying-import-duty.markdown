@@ -27,7 +27,7 @@ When you put goods into Temporary Storage, you must make an Temporary Storage [i
 
 [Question for SME: is that right - ie do you use the same mechanisms to make temporary storage declarations and full import declarations?]
 
-Then when you’re ready to take the goods out of Temporary Storage, you make a full import declaration and pay the import duty and import VAT.
+Then when you’re ready to take the goods out of Temporary Storage, you must make a full import declaration and pay the import duty and import VAT.
 
 Some types of goods must have special checks carried out at customs. For example: 
 
