@@ -23,7 +23,7 @@ Search online to find an approved Temporary Storage facility near the port or ai
 
 ## Putting goods into Temporary Storage
 
-When you put goods into Temporary Storage, you must make a Temporary Storage [import declaration](/guide/import-goods-outside-eu/overview.html) as soon as possible.
+When you put goods into Temporary Storage, you must make an [import declaration](/guide/import-goods-outside-eu/overview.html) as soon as possible.
 
 [Question for SME: is that right - ie do you use the same mechanisms to make temporary storage declarations and full import declarations?]
 
