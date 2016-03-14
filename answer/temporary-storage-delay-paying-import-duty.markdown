@@ -12,7 +12,7 @@ breadcrumbs:
 ---
 You usually pay import duty and import VAT when you import goods from outside the European Union (EU) or European Economic Area (EEA).
 
-But you can delay payment if you put the goods into an approved Temporary Storage facility (sometimes called ‘transit sheds’).
+You can delay payment if you put the goods into an approved Temporary Storage facility (sometimes called ‘transit sheds’).
 
 Temporary Storage lets you delay payment for:
 
