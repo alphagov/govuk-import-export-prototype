@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 s1. You must get a licence to bring [certain goods](/guide/starting-to-import/import-licences.html) into the UK. If you don’t get a licence when you need one, you could be fined and your goods will be seized by customs.
 s2. Use the [Trade Tariff](/start/trade-tariff.html) to check what commodity code you need on your export documents and to find out how much import duty and VAT you’ll pay.
-s3.[Make an import declaration](/guide/import-goods-outside-eu/overview.html) to bring goods into the UK from outside the EU or EEA.
+s3. [Make an import declaration](/guide/import-goods-outside-eu/overview.html) to bring goods into the UK from outside the EU or EEA.
 
 ## Customs duties
 
