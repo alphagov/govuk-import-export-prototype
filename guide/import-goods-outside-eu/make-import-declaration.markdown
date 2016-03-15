@@ -23,6 +23,8 @@ s5. Login to ICS and enter your Activation Code to make your declaration using X
 
 If you're a regular importer, you may be able to use a simplified import procedure to [speed up the import process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).
 
+##Time limits
+
 You must submit an import declaration at least:
 
 - 24 hours before loading at the departure port, for containerised maritime cargo
