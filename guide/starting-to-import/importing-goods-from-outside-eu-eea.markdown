@@ -12,13 +12,16 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html'   
 ---
-You may need to get a licence to bring [certain goods](/guide/starting-to-import/import-licences.html) into the UK.
+You must get a licence to bring [certain goods](/guide/starting-to-import/import-licences.html) into the UK.
+
+Use the [Trade Tariff](/start/trade-tariff.html) to:
+
+- check what commodity code you need on your export documents
+- find out how much import duty and VAT you’ll pay
 
 You must [make an import declaration](/guide/import-goods-outside-eu/overview.html) to bring goods into the UK from outside the EU or EEA.
 
 ## Customs duties
-
-Use the [Trade Tariff](/start/trade-tariff.html) to find out how much import duty and VAT you’ll pay.
 
 You may also pay duty on:
 - [alcohol](/topic/business-tax/alcohol-duties)
