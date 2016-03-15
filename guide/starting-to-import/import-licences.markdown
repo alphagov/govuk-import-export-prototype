@@ -14,8 +14,7 @@ breadcrumbs:
 ---
 You must have a licence to import some goods:
 
-- [arms, military or dual use goods and services](/guidance/get-a-licence-to-import-arms-military-or-dual-use-goods-and-services.html)
-- [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-import-artworks-antiques-and-culturally-significant-goods.html)
+- [arms and goods or services that could be used for military purposes](/guidance/get-a-licence-to-import-arms-military-or-dual-use-goods-and-services.html)
 - [chemicals](/guidance/get-a-licence-to-import-chemicals.html)
 - [food and agricultural products](/guidance/get-a-licence-to-import-food-and-agricultural-products.html)
 - [furs, skins and other animal products](/guidance/get-a-licence-to-import-furs-skins-and-other-animal-products.html)
