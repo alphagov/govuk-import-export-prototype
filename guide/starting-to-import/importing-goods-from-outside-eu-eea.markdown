@@ -16,6 +16,7 @@ s1. You must get a licence to bring [certain goods](/guide/starting-to-import/im
 s2. Use the [Trade Tariff](/start/trade-tariff.html) to check what commodity code you need on your export documents and to find out how much import duty and VAT you’ll pay.
 s3. [Make an import declaration](/guide/import-goods-outside-eu/overview.html) to bring goods into the UK from outside the EU or EEA.
 
+
 ## Customs duties
 
 You may pay duty on:
