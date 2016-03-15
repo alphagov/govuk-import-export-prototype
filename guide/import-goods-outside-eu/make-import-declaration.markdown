@@ -19,9 +19,6 @@ s3. [Register with HMRC’s Import Control System (Import Control System)](https
 s4. You’ll be sent an activation code in the post. The envelope will be marked 'Government Gateway'. The letter can take up to a week to arrive after you register. You’ll need your Activation Code to activate the service.
 s5. Login to ICS and enter your Activation Code to make your declaration using XML. 
 
-
-Hello
-
 ^You can use an agent or freight forwarder to make a declaration for you.^
 
 If you're a regular importer, you may be able to use a simplified import procedure to [speed up the import process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).
