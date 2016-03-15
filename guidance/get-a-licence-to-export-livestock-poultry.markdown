@@ -20,6 +20,10 @@ You must have an Intra Trade Animal Health Certificate (ITAHC) to move the follo
 
 You must keep this document for at least 3 years.
 
+[Question for SME: how much does it cost to get a certificate?]
+
+[Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
+
 ###Use an existing ITAHC
 
 You can get an existing ITAHC reissued by using the EU’s Trade Control and Expert System (TRACES). 
@@ -43,6 +47,10 @@ You must nominate an official veterinarian (OV) when you apply. You can either:
 You must get an Export Health Certificate (EHC) to export livestock outside the EU. You must keep this document for at least 2 years.
 
 You must check that your EHC meets the requirements of authorities in the destination country, and any other requirements they may have.
+
+[Question for SME: how much does it cost to get a certificate?]
+
+[Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
 
 ###Get an existing EHC issued
 
