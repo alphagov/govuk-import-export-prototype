@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 You must get a licence to bring [certain goods](/guide/starting-to-import/import-licences.html) into the UK.
 
-%If you don’t get a licence when you need one, you could be fined and your goods will be seized by customs.%
+^If you don’t get a licence when you need one, you could be fined and your goods will be seized by customs.^
 
 Use the [Trade Tariff](/start/trade-tariff.html) to:
 
