@@ -23,6 +23,16 @@ s5. Login to ICS and enter your Activation Code to make your declaration using X
 
 If you're a regular importer, you may be able to use a simplified import procedure to [speed up the import process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).
 
+You must submit an import declaration at least:
+
+- 24 hours before loading at the departure port, for containerised maritime cargo
+- 4 hours before arrival, for maritime bulk and break bulk cargo
+- 2 hours before arrival, for maritime sea voyages of less than 24 hours 
+- the time of actual take off, for short-haul flights (less than 4 hours duration)
+- 4 hours before arrival, for long haul flights (more than 4 hours duration)
+- 2 hours before arrival, for rail and inland waterways
+- 1 hour before arrival, for road traffic
+
 ##What to do if you have problems with ICS
 
 If ICS is unavailable, you should continue to make declarations on it. These will be queued until the system is available.
