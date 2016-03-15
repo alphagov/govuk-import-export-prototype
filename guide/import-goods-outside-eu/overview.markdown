@@ -18,8 +18,6 @@ You must [make an import declaration](/guide/import-goods-outside-eu/make-import
 - non-EU country
 - non-EU country via another EU country, if there’s still duty to be paid on them
 
-^You can use an agent or freight forwarder to make a declaration for you.^
-
 ##Exceptions
 
 You must submit an import declaration when you import goods from any of the following special territories:
