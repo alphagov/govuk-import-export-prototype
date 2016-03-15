@@ -39,10 +39,14 @@ You must ask your vet to do both of the following:
 - inspect the animal, semen or embryos before they’re moved
 - [complete the health certificates](https://webgate.ec.europa.eu/sanco/traces/) on the EU Trade Notification System (TRACES)
 
+[Question for SME: how much does it cost to get a licence?]
+
 Before the move happens, your vet should also:
 
 - tell [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) if you’re in England, Scotland or Wales
 - tell [DARD](https://www.dardni.gov.uk/contact), if you’re in Northern Ireland
+
+[Question for SME: what do you need to do with your licence when you have it? Is it a case of attaching it to your export declaration?]
 
 ^You must make sure that animals or semen and embryos travel with their health certificates.^
 
