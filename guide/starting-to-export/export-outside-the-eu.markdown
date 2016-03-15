@@ -17,6 +17,7 @@ s1. You must get a licence to export [certain goods](/guide/starting-to-export/e
 s2. Use the [Trade Tariff](/start/trade-tariff.html) to check what commodity code you need on your export documents.
 s3. Make an [export declaration](/guide/declare-exporting-goods-from-eu/overview.html) to export goods to a country outside the EU. 
 
+
 ##After you export
 
 You won't usually pay UK duty on exports, but you may have to pay taxes in the destination country.
