@@ -30,6 +30,9 @@ You must get an Export Health Certificate (EHC) to export fish and shellfish out
 
 You must check that your EHC meets the requirements of authorities in the destination country, and any other requirements they may have.
 
+[Question for SME: how much does it cost to get a licence?]
+[Question for SME: what do you need to do with your licence when you have it? Is it a case of attaching it to your export declaration?]
+
 ####Get an existing EHC issued
 
 There will usually already be an EHC for the type of fish or shellfish you’re exporting and where you’re exporting it to.
