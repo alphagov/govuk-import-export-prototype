@@ -23,7 +23,7 @@ You must [make an import declaration](/guide/import-goods-outside-eu/overview.ht
 
 ## Customs duties
 
-You may also pay duty on:
+You may pay duty on:
 - [alcohol](/topic/business-tax/alcohol-duties)
 - [fuel](/topic/business-tax/fuel-duty)
 - [tobacco](/topic/business-tax/tobacco-products-duty).
