@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-Check if you need to get a licence to move [certain goods](/guide/starting-to-export/export-licences.html) within the EU.
+Check if you need a [licence to move your goods](/guide/starting-to-export/export-licences.html) within the EU.
 
 ^If you don't get a licence when you need one, you could be fined and your goods will be seized by customs.^
 
