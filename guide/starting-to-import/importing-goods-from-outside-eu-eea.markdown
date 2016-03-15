@@ -24,9 +24,10 @@ You must [make an import declaration](/guide/import-goods-outside-eu/overview.ht
 ## Customs duties
 
 You may pay duty on:
-- [alcohol](/topic/business-tax/alcohol-duties)
-- [fuel](/topic/business-tax/fuel-duty)
-- [tobacco](/topic/business-tax/tobacco-products-duty).
+
+- [alcohol](/topic/business-tax/alcohol-duties)   
+- [fuel](/topic/business-tax/fuel-duty)   
+- [tobacco](/topic/business-tax/tobacco-products-duty)   
 
 You may be able to [set up a deferment account](/delay-paying-customs-duty-when-you-import-goods.html) with HMRC to delay paying customs duties.
 
