@@ -12,7 +12,7 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html'   
 ---
-You must get a licence to bring [certain goods](/guide/starting-to-import/import-licences.html) into the UK.
+Check if you need a [licence to bring [your goods](/guide/starting-to-import/import-licences.html) into the UK.
 
 ^If you don’t get a licence when you need one, you could be fined and your goods will be seized by customs.^
 
