@@ -27,6 +27,10 @@ Download an [export licence application form for ponies or horses that are short
 
 The pilot of the aircraft or master of the vessel that’s carrying the horses or ponies you're exporting must have a copy of the export welfare declaration.
 
+[Question for SME: how much does it cost to get a licence?]
+
+[Question for SME: what do you need to do with your licence when you have it? Is it a case of attaching it to your export declaration?]
+
 ###When you don’t need an export welfare declaration
 
 You don’t need an export welfare declaration if you’re moving:
