@@ -16,7 +16,7 @@ breadcrumbs:
 s1. You'll need an Economic Operator Registration Identification number (EORI) - [check if your business already has one](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). 
 s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 s2. Register to make declarations through [Government Gateway](http://www.gateway.gov.uk/).
-s3. [Submit your export declaration through NES.](https://secure.hmce.gov.uk/ecom/login/index.html).
+s3. [Submit your export declaration through the National Export System (NES).](https://secure.hmce.gov.uk/ecom/login/index.html).
 
 ^You may be able to use a simplified export procedure to [speed up the export process](/link).^
 
