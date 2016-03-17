@@ -20,7 +20,7 @@ What you need to do to export from the UK depends on whether you’re exporting:
 
 There are different processes if you either:
 
-- [send goods outside the UK by post](/send-goods-abroad) - eg after selling goods on an online auction site
+- [send goods abroad](/send-goods-abroad) on a one-off or irregular basis - eg after selling goods on an online auction site
 - [take goods out of the UK temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html) - eg to a trade fair
 
 ##Export advice and finance
