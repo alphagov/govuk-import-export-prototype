@@ -18,7 +18,7 @@ To do this you can:
 
 - attach a completed form C88 to your goods, if you're exporting on a [one-off or irregular basis](/send-goods-abroad.html)
 - submit it [online](/guide/declare-exporting-goods-from-eu/make-export-declaration-online.html) on the National Export System (NES), if you're a regular exporter
-- submit it through [software](/guide/declare-exporting-goods-from-eu/other-way-make-export-declaration.html), if you're large company that exports regularly
+- submit it through [compatible software](/guide/declare-exporting-goods-from-eu/other-way-make-export-declaration.html), if you're large company that exports regularly
 
 NES is part of HMRC’s Customs Handling Import and Export Freight (CHIEF) system. 
 
