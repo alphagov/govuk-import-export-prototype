@@ -50,7 +50,9 @@ You can [zero-rate](/vat-businesses/vat-rates)  the VAT on most goods you export
 
 If you want to expand your business, you can get help [choosing where to export](/start/choosing-export-market-ukti.html) and [finding overseas business opportunities](/start/find-overseas-business-opportunities.html).
 
-If you’re a regular exporter, there are also ways to [make the customs declaration process simpler](/guide/starting-to-export/overview.html). 
+If you're regularly sending goods within the EU, you must make [other customs declarations](/guide/starting-to-export/move-goods-inside-the-eu.html). 
+
+You can [make a customs declaration online](/guide/declare-exporting-goods-from-eu/overview.html), if you regularly send goods outside the EU. 
 
 *[HMRC]: HM Revenue and Customs
 *[VAT]: Value Added Tax
