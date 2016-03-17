@@ -30,7 +30,7 @@ Over £2,000 or when claiming customs relief |  Form C88 -  [contact the Excise 
 
 ##Send goods you've sold
 
-Check if you need a  [licence](/guide/starting-to-export/export-licences.html) to send the goods.  
+Check if you also need a  [licence](/guide/starting-to-export/export-licences.html) to send the goods.  
 
 ^If you don’t get a licence when you need one, you could be fined and your goods will be seized by customs.^ 
 
