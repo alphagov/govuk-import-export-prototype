@@ -12,7 +12,9 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-You must make a customs declaration when you export goods outside the European Union (EU). You can do this by one of the following:
+You must make a customs declaration when you export goods outside the European Union (EU). 
+
+You can do this by one of the following:
 
 - attach a completed form C88 to your goods, if you're exporting on a [one-off or irregular basis](/send-goods-abroad.html)
 - make it [online](/guide/declare-exporting-goods-from-eu/make-export-declaration-online.html) on the National Export System (NES), if you're a regular exporter
