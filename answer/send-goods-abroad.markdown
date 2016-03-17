@@ -12,10 +12,10 @@ breadcrumbs:
 
 ---
 
-What you need to good to send goods abroad by post or courier depends on whether you're sending:
+What you need to good to send goods abroad by post or courier depends on whether you're sending goods:
 
-- goods outside the EU
-- goods you've sold
+- outside the [European Union](/eu-eea) (EU)
+- you've sold
 
 ##Send anything outside the EU
 
