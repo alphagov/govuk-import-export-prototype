@@ -1,6 +1,6 @@
 ---
 layout: start
-title: Find overseas business opportunities
+title: Find export opportunities for your business
 permalink: /start/find-overseas-business-opportunities.html
 breadcrumbs:
  - name: Home
@@ -16,7 +16,7 @@ start_button:
 ---
 {% contentfor intro %}
 
-Find export opportunities for your business.
+Search for export opportunities by market and sector.
 
 {% endcontentfor %}
 {% contentfor more_information %}
