@@ -48,7 +48,7 @@ You can [zero-rate](/vat-businesses/vat-rates)  the VAT on most goods you export
 
 ##If you send goods abroad regularly 
 
-If you're regularly sending goods within the EU, you must make [other customs declarations](/guide/starting-to-export/move-goods-inside-the-eu.html). 
+If you regularly send goods within the EU, you must make [other customs declarations](/guide/starting-to-export/move-goods-inside-the-eu.html). 
 
 You can [make a customs declaration online](/guide/declare-exporting-goods-from-eu/overview.html), if you regularly send goods outside the EU. 
 
