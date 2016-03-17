@@ -14,8 +14,19 @@ breadcrumbs:
 
 What you need to good to send goods abroad by post or courier depends on whether you're sending:
 
+- goods outside the EU
 - goods you've sold
-- anything outside the EU
+
+##Send anything outside the EU
+
+You must attach a customs declaration to anything you send outside the EU (including gifts). If you use a courier, they’ll make the customs declaration for you.
+
+Value of goods sent outside the EU | Customs declaration form 
+- | - 
+Up to £270 | Form CN22 (available from the Post Office) 
+£270 to £2,000 | Form CN23 (available from the Post Office) 
+Over £2,000 or when claiming customs relief |  Forms C88 -  [contact the Excise and Customs Helpline](/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) for a copy
+
 
 ##Send goods you've sold
 
@@ -28,16 +39,6 @@ If you need an export licence, you’ll need to attach the following to the outs
 - an export licence
 - a commercial invoice
 - a C&E 83A sticky label from the Post Office
-
-##Send anything outside the EU
-
-You must attach a customs declaration to anything you send outside the EU (including gifts). If you use a courier, they’ll make the customs declaration for you.
-
-Value of goods sent outside the EU | Customs declaration form 
-- | - 
-Up to £270 | Form CN22 (available from the Post Office) 
-£270 to £2,000 | Form CN23 (available from the Post Office) 
-Over £2,000 or when claiming customs relief |  Forms C88 -  [contact the Excise and Customs Helpline](/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) for a copy
 
 ##Tax and customs charges
 
