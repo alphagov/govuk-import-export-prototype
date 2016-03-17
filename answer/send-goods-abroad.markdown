@@ -30,11 +30,11 @@ Over £2,000 or when claiming customs relief |  Form C88 -  [contact the Excise 
 
 ##Send goods you've sold
 
-Check if you also need a  [licence](/guide/starting-to-export/export-licences.html) to send the goods.  
+Check if you need a  [licence](/guide/starting-to-export/export-licences.html) to send the goods.  
 
 ^If you don’t get a licence when you need one, you could be fined and your goods will be seized by customs.^ 
 
-If you need an export licence, you’ll need to attach the following to the outside of your package: 
+If you send goods that need an export licence, you must attach the following to your package: 
 
 - an export licence
 - a commercial invoice
@@ -50,7 +50,7 @@ You can [zero-rate](/vat-businesses/vat-rates)  the VAT on most goods you export
 
 If you regularly send goods within the EU, you must make [other customs declarations](/guide/starting-to-export/move-goods-inside-the-eu.html). 
 
-You can [make a customs declaration online](/guide/declare-exporting-goods-from-eu/overview.html), if you regularly send goods outside the EU. 
+If you regularly send goods outside the EU, you can [make a customs declaration online](/guide/declare-exporting-goods-from-eu/overview.html) instead of paper. 
 
 ^If you want to expand your business, you can get help [choosing where to export](/start/choosing-export-market-ukti.html) and [finding overseas business opportunities](/start/find-overseas-business-opportunities.html).^
 
