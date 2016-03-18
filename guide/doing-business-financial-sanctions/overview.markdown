@@ -23,7 +23,7 @@ breadcrumbs:
 
 ## What you must do
 
-If a person or organisation is on the consolidated list you must also [get a licence from HM Treasury](link to part 3) to deal with them in a way that gives them a significant financial benefit.
+If a person or organisation is on the consolidated list you must [get a licence from HM Treasury](/guide/doing-business-financial-sanctions/apply-licence.html) to deal with them in a way that gives them a significant financial benefit.
 
 For example:
 
@@ -34,12 +34,12 @@ For example:
 
 ## Asset freezes
 
-If a person or organisation is on the consolidated list it means they have had their assets frozen. This means you must [get a licence from HM Treasury](link to part 3) to:
+If a person or organisation is on the consolidated list it means they have had their assets frozen. This means you must [get a licence from HM Treasury](/guide/doing-business-financial-sanctions/apply-licence.html) to:
 
 give them access to assets you’re holding on their behalf (eg letting them withdraw money from a bank account)
 buy, sell or deal with assets that belong to them, or are held or controlled by them
 
-There are [additional requirements](link to part 2) about providing financial services to someone who is subject to financial sanctions.
+There are [additional requirements](/guide/doing-business-financial-sanctions/providing-financial-services.html) about providing financial services to someone who is subject to financial sanctions.
 
 %It’s a criminal offence not to get a licence.%
 
@@ -50,6 +50,6 @@ If you find out that someone you’re dealing with is subject to financial sanct
 - stop dealing with them
 - freeze any assets you are holding for them
 
-Then [tell HM Treasury](link to part 4) as soon as possible.
+Then [tell HM Treasury](/guide/doing-business-financial-sanctions/get-help.html) as soon as possible.
 
 You won’t be prosecuted unless you knew that the person you were dealing with was subject to financial sanctions (or you reasonably should have known).
