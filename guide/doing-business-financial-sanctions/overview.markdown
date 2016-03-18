@@ -14,12 +14,12 @@ breadcrumbs:
 ---
 [Include a brief explanation of what types of people and organisations tend to be targeted]
 
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.htm) (HTML)
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.csv) (CSV, 2.82MB)
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (MS Excel, 1.98MB)
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.pdf) (PDF, 1.7MB)
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (PDF, 2.9MB)
-[Guide to using the consolidated list](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/292095/fin_sanc_consolidated_list_format_guide.pdf) (PDF, 162KB)
+[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.htm) (HTML)  
+[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.csv) (CSV, 2.82MB)  
+[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (MS Excel, 1.98MB)  
+[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.pdf) (PDF, 1.7MB)  
+[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (PDF, 2.9MB)  
+[Guide to using the consolidated list](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/292095/fin_sanc_consolidated_list_format_guide.pdf) (PDF, 162KB)  
 
 ## What you must do
 
