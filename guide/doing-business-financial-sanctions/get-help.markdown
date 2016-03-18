@@ -3,7 +3,7 @@ layout: guide
 title: Doing business with someone who is subject to financial sanctions
 permalink: /guide/doing-business-financial-sanctions/get-help.html
 page_number: 4
-page_title: Apply for a licence
+page_title: Get help
 breadcrumbs:
  - name: Home
    url: '/'
