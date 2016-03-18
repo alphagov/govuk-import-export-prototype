@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Doing business with someone who is subject to financial sanctions
-permalink: /guide/doing-business-financial-sanctions/overview.html
+permalink: /guide/doing-business-financial-sanctions/apply-licence.html
 page_number: 3
 page_title: Apply for a licence
 breadcrumbs:
