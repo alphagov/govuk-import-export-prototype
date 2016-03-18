@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Doing business with someone who is subject to financial sanctions
-permalink: /guide/doing-business-financial-sanctions/overview.html
+permalink: /guide/doing-business-financial-sanctions/providing-financial-services.html
 page_number: 2
 page_title: Providing financial services
 breadcrumbs:
