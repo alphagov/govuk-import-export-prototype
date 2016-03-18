@@ -16,17 +16,19 @@ Contact HM Treasury if you have a question about financial sanctions.
 
 $C 
 **HM Treasury: financial sanctions enquiries**  
-Email: <financialsanctions@hmtreasury.gsi.gov.uk>
-Telephone: 20 7270 5454
+Email: <financialsanctions@hmtreasury.gsi.gov.uk>  
+Telephone: 020 7270 5454  
 [Find out about call charges](call-charges)  
 $C  
+
+$A  
+
+Financial sanctions enquiries  
+HM Treasury  
+1 Horse Guards Road  
+London  
+SW1A 2HQ  
+
 $A
 
-Financial sanctions enquiries
-HM Treasury
-1 Horse Guards Road
-London
-SW1A 2HQ 
-
-$A
 [Subscribe to financial sanctions updates from HM Treasury](https://public.govdelivery.com/accounts/UKHMTREAS/subscriber/new) to stay up to date.
