@@ -30,7 +30,7 @@ You must pay excise duty in advance if you’re a temporary registered consignee
 
 Applications take up to 9 weeks to process.
 
-Once you’re registered, you’ll need to [make a report](link to ECMS content) through the Export Control Movement System (ECMS) when you move a consignment of goods.
+Once you’re registered, you’ll need to [make a report](/excise-movement-and-control-system) through the Excise Movement and Control System (EMCS) when you move a consignment of goods.
 
 ## Bringing duty paid excise goods into the UK
 
@@ -107,7 +107,7 @@ There are [special rules](/guidance/move-scotch-whisky-outside-scotland-for-proc
 Contact the HMRC imports and exports helpline if you have a question.
 
 $C 
-**HMRC imports and exports helpline** 
+**HMRC imports and exports helpline**  
 Telephone: 0300 200 3700  
 Textphone: 0300 200 3719  
 Outside the UK: +44 29 2050 1261  
