@@ -52,4 +52,4 @@ If you find out that someone you’re dealing with is subject to financial sanct
 
 Then [tell HM Treasury](link to part 4) as soon as possible.
 
-You won’t be prosecuted unless you knew - or reasonably, should have known - that the person you were dealing with was subject to financial sanctions.
+You won’t be prosecuted unless you knew that the person you were dealing with was subject to financial sanctions (or you reasonably should have known).
