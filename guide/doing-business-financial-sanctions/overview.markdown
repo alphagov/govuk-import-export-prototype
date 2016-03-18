@@ -3,7 +3,7 @@ layout: guide
 title: Doing business with someone who is subject to financial sanctions
 permalink: /guide/doing-business-financial-sanctions/overview.html
 page_number: 1
-page_title: Overview
+page_title: Financial sanctions targets: consolidated list
 breadcrumbs:
  - name: Home
    url: '/'
