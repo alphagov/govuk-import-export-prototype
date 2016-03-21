@@ -19,7 +19,9 @@ What you need to good to send goods abroad by post or courier depends on whether
 
 ##Send anything outside the EU
 
-You must attach a customs declaration to anything you send outside the EU (including gifts). If you use a courier, they’ll make the customs declaration for you.
+You must attach a customs declaration to anything you send outside the EU (including gifts). 
+
+If you use a courier, they’ll make the customs declaration for you.
 
 Value of goods sent outside the EU | Customs declaration form 
 - | - 
