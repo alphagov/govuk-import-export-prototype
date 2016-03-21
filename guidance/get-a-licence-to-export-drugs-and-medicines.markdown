@@ -191,16 +191,44 @@ Include your invoice number on either the cheque or in the reference section of 
 
 Your fee will be refunded if your application is refused or you withdraw it.
 
-##Exporting controlled drugs for lethal injections
+##Exporting drugs used in execution by lethal injection
 
-You’ll need to get an additional licence to export to countries outside the EU any ‘short and intermediate acting barbiturate anaesthetic agents including, but not limited to’ the following controlled drugs:
+You need permission from the Export Control Organisation (ECO) to export outside the EU some drugs that may be used in lethal injections. These are ‘short and intermediate acting barbiturate anaesthetic agents’.
 
-- Amobarbital (CAS RN 57-43-2)
-- Amobarbital sodium salt (CAS RN 64-43-7)
-- Pentobarbital (CAS RN 76-74-4)
-- Pentobarbital sodium salt (CAS 57-33-0)
-- Secobarbital (CAS RN 76-73-3)
-- Secobarbital sodium salt (CAS RN 309-43-3)
+This applies to drugs that are packaged for human or veterinary use, not raw materials that require further processing. The drugs are:
+
+- amobarbital (CAS RN 57-43-2)
+- amobarbital sodium salt (CAS RN 64-43-7)
+- pentobarbital (CAS RN 76-74-4)
+- pentobarbital sodium salt (CAS 57-33-0)
+- secobarbital (CAS RN 76-73-3)
+- secobarbital sodium salt (CAS RN 309-43-3)
+- thiopental (CAS RN 76-75-5)
+- thiopental sodium salt (CAS RN 71-73-8), also known as thiopentone sodium
+
+###Exporting propofol to the US
+
+You’ll need a licence from ECO to export propofol from the UK to the US. 
+
+ECO will refuse any application if either:
+
+- the stated use of the drug is execution
+- ECO considers that there is an unacceptable risk the drug will be diverted for use in execution
+
+##Apply for an export licence
+
+$CTA
+
+Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
+
+$CTA
+
+The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
+
+[Question for SME: how much does it cost to get a licence?]
+
+ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
+
 
 ##Export controlled drugs to the Channel Islands
 
@@ -240,43 +268,7 @@ Holders of frequent exporter licences must submit a monthly return form detailin
 
 If you have not shipped for one month or more, then a nil return is required for each month that you have not shipped. If no monthly return form is received to cover each month you have held a licence, then your licence may be suspended.
 
-##Exporting drugs used in execution by lethal injection
 
-You need permission from the Export Control Organisation (ECO) to export outside the EU some drugs that may be used in lethal injections. These are ‘short and intermediate acting barbiturate anaesthetic agents’.
-
-This applies to drugs that are packaged for human or veterinary use, not raw materials that require further processing. The drugs are:
-
-- amobarbital (CAS RN 57-43-2)
-- amobarbital sodium salt (CAS RN 64-43-7)
-- pentobarbital (CAS RN 76-74-4)
-- pentobarbital sodium salt (CAS 57-33-0)
-- secobarbital (CAS RN 76-73-3)
-- secobarbital sodium salt (CAS RN 309-43-3)
-- thiopental (CAS RN 76-75-5)
-- thiopental sodium salt (CAS RN 71-73-8), also known as thiopentone sodium
-
-###Exporting propofol to the US
-
-You’ll need a licence from ECO to export propofol from the UK to the US. 
-
-ECO will refuse any application if either:
-
-- the stated use of the drug is execution
-- ECO considers that there is an unacceptable risk the drug will be diverted for use in execution
-
-##Apply for an export licence
-
-$CTA
-
-Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
-
-$CTA
-
-The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
-
-[Question for SME: how much does it cost to get a licence?]
-
-ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
 
 ##Contact
 
