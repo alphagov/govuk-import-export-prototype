@@ -13,18 +13,18 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-## Get commercial software
-
-If you’re a larger company making export declarations regularly, you may want to buy commercial software to make your declarations instead of using NES.
+If you’re a larger company making export declarations regularly, you can buy commercial software to make your declarations via the Customs Handling Import and Export Freight (CHIEF) system .
 
 Search online for software suppliers.
 
 ## Develop your own software
 
-You can develop software that’s compatible with CHIEF, based on:
+You can also develop software that’s compatible with CHIEF, based on:
 
 - Electronic Data Interchange for Administration, Commerce and Transport (EDIFACT) messaging
 - XML
+
+^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
 
 Contact the CHIEF Operations Team for details.
 
@@ -37,6 +37,6 @@ Monday to Friday, 8am to 5pm
 [Find out about call charges](/call-charges)  
 $C  
 
-*[NES]: National Export System
+
 *[EU]: European Union
 *[CAP]: Common Agricultural Policy
