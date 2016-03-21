@@ -66,7 +66,9 @@ Complete your [application form](https://www.gov.uk/government/publications/cert
 
 The certificate of licensing status is for importing agents who must screen bids made by an international tender for licensed or unlicensed products (excluding specials).
 
-The certificate has a limit of 10 products and one country for each certificate. Details of the product name, dosage form, active ingredients and amounts should be the same as the medicine’s product licence (if it’s licensed).
+The certificate has a limit of 10 products and one country for each certificate. 
+
+The product name, dosage form, active ingredients and amounts should be the same as the medicine’s product licence (if it’s licensed).
 
 ####How to apply
 
@@ -79,7 +81,7 @@ The specific active ingredient or excipient must be in either a:
 - current licensed human medicine
 - national or international pharmacopoeia (official standards for pharmaceutical substances and medicines)
 
-The site must hold a valid [certificate of inspection](https://www.gov.uk/guidance/good-manufacturing-practice-and-good-distribution-practice) from Medicines and Healthcare products Regulatory Agency. 
+The manufacturing site must hold a valid [certificate of inspection](https://www.gov.uk/guidance/good-manufacturing-practice-and-good-distribution-practice) from Medicines and Healthcare products Regulatory Agency. 
 
 The certificate is country and ingredient specific. A certificate can only be for one site function, eg manufacture, packaging or batch release. You can apply for a certificate for each function.
 
@@ -87,7 +89,7 @@ The certificate is country and ingredient specific. A certificate can only be fo
 
 Complete your [application form](https://www.gov.uk/government/publications/form-certificate-to-export-a-pharmaceutical-constituent) and [send it to MHRA](#send-your-application-form).
 
-You must send a letter from the manufacturer confirming that they are the manufacturer on headed paper. 
+You must send a letter on headed paper from the manufacturer confirming they're the manufacturer. 
 
 ###Where to send your application form
 {:#send-your-application-form}
@@ -98,13 +100,17 @@ Send your application form to either:
 
 or 
 
+
 $A
+
 Export Certificate Group, 5th Floor
 The Medicines and Healthcare products Regulatory Agency
 151 Buckingham Palace Road
 London
 SW1W 9SZ
+
 $A
+
 
 ###Fees
 
