@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-If you don’t make export declarations regularly, you can make export declarations online via the National Export System (NES).
+If you only make export declarations occasionally, you can make export declarations online via the National Export System (NES).
 
 NES is part of HMRC’s Customs Handling Import and Export Freight (CHIEF) system. 
 
@@ -23,7 +23,6 @@ s1. You'll need an Economic Operator Registration Identification number (EORI) -
 s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 s2. Register to make declarations through [Government Gateway](http://www.gateway.gov.uk/).
 s3. [Submit your export declaration through the National Export System (NES).](https://secure.hmce.gov.uk/ecom/login/index.html).
-
 
 
 ##Get help
