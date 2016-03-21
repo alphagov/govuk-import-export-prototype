@@ -2,7 +2,7 @@
 layout: guide
 title: Declare that you’re exporting goods outside the EU
 permalink: /guide/declare-exporting-goods-from-eu/make-export-declaration-online.html
-page_number: 6
+page_number: 2
 page_title: Make an export declaration online
 breadcrumbs:
  - name: Home
