@@ -15,7 +15,7 @@ breadcrumbs:
 
 You must keep records for 4 years. This means:
 
-- copies of declarations you made online through NES or paper SAD (Single Administrative Document) forms
+- copies of declarations you made online through NES
 - commercial invoices
 - valuation forms
 
@@ -23,6 +23,8 @@ You can either:
 
 - make you own copies of declarations you made online through NES
 - get summary reports of your declarations from the Management Support System (MSS)
+- 
+[Question for SME: does this just apply to online declarations through NES?]
 
 ##Get summary reports of your declarations from MSS
 
