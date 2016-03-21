@@ -35,7 +35,10 @@ The certificate shows details including:
 
 Complete your [application form](https://www.gov.uk/government/publications/form-for-the-certificate-of-a-licensed-pharmaceutical-product) and [send it to MHRA](#send-your-application-form).
 
-You must also send a letter on headed paper from the marketing authorisation holder giving permission for you to export on their behalf. The letter should either give permission for the specific product or an open authorisation for all products the holder has a licence for.
+You must also send a letter on headed paper from the marketing authorisation holder giving permission for you to export on their behalf. The letter should give permission for either:
+
+- the specific product or an open authorisation
+- all products the holder has a licence for
 
 ###Certificate of a pharmaceutical product (unlicensed)
 
