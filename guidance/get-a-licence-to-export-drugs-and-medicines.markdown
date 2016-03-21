@@ -42,7 +42,7 @@ You must also send a letter on headed paper from the marketing authorisation hol
 
 ###Certificate of a pharmaceutical product (unlicensed)
 
-The drug must have been manufactured in the UK and you must have a [manufacturer licence](/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) for the product.
+The drug must have been manufactured in the UK and you must have a [manufacturer licence](/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) for the drug.
 
 ####How to apply
 
