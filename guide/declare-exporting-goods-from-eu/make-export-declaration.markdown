@@ -24,8 +24,6 @@ You can also develop software that’s compatible with CHIEF, based on:
 - Electronic Data Interchange for Administration, Commerce and Transport (EDIFACT) messaging
 - XML
 
-^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
-
 Contact the CHIEF Operations Team for details.
 
 $C 
@@ -37,6 +35,7 @@ Monday to Friday, 8am to 5pm
 [Find out about call charges](/call-charges)  
 $C  
 
+^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
 
 *[EU]: European Union
 *[CAP]: Common Agricultural Policy
