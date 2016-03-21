@@ -10,7 +10,7 @@ topic:
 
 You can export a human medicine if you have a drug [manufacturer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
 
-To export a human medicine that you haven’t manufactured you’ll need to get a [wholesaler dealer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
+If you want to export a human medicine that you haven’t manufactured, you’ll need a [wholesaler dealer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
 
 ###What you can export
 
