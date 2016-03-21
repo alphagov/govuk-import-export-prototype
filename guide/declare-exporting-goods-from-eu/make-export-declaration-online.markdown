@@ -2,7 +2,7 @@
 layout: guide
 title: Declare that you’re exporting goods outside the EU
 permalink: /guide/declare-exporting-goods-from-eu/make-export-declaration-online.html
-page_number: 2
+page_number: 6
 page_title: Make an export declaration online
 breadcrumbs:
  - name: Home
@@ -13,12 +13,18 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
+If you don’t make export declarations regularly, you can make export declarations online via the National Export System (NES).
+
+NES is part of HMRC’s Customs Handling Import and Export Freight (CHIEF) system. 
+
+^This is a lengthy and complicated process - the vast majority of exporters use a freight forwarder or agent to make a declaration for them.^
+
 s1. You'll need an Economic Operator Registration Identification number (EORI) - [check if your business already has one](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). 
 s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 s2. Register to make declarations through [Government Gateway](http://www.gateway.gov.uk/).
 s3. [Submit your export declaration through the National Export System (NES).](https://secure.hmce.gov.uk/ecom/login/index.html).
 
-^You may be able to use a simplified export procedure to [speed up the export process](/link).^
+
 
 ##Get help
 
