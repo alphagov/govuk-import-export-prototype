@@ -25,7 +25,7 @@ Value of goods sent outside the EU | Customs declaration form
 - | - 
 Up to £270 | Form CN22 (available from the Post Office) 
 £270 to £2,000 | Form CN23 (available from the Post Office) 
-Over £2,000 or when claiming customs relief |  Form C88 -  [contact the Excise and Customs Helpline](/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) for a copy. Take this to the Post Office and they'll enter the details onto the export declaration system.
+Over £2,000 or when claiming customs relief | [Contact the Excise and Customs Helpline](/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) for a copy of form C88. Take this to the Post Office and they'll enter the details onto the export declaration system.
 
 
 ##Send goods you've sold
