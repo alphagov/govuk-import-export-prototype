@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-If you’re a large company making export declarations regularly, you can buy commercial software to make your declarations via the Customs Handling Import and Export Freight (CHIEF) system .
+If you make export declarations regularly, you can buy commercial software to make declarations via the Customs Handling Import and Export Freight (CHIEF) system.
 
 Search online for software suppliers.
 
