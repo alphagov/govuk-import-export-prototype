@@ -24,18 +24,18 @@ There are 5 types of export certificate.
 
 ###Certificate of a pharmaceutical product (licensed)
 
-The certificate provides details about the product and its manufacture, including:
+The certificate shows details including:
 
 - the marketing authorisation holder
 - the active ingredients and excipients
 - the manufacturing, packaging and batch release sites
 - whether or not the product is on the market in the UK
 
-Your application must include a letter on headed paper from the marketing authorisation holder giving permission for you to export on their behalf. The letter should either give permission for the specific product or an open authorisation for all products the holder has a licence for.
-
 ####How to apply
 
 Complete your [application form](https://www.gov.uk/government/publications/form-for-the-certificate-of-a-licensed-pharmaceutical-product) and [send it to MHRA](#send-your-application-form).
+
+You must also send a letter on headed paper from the marketing authorisation holder giving permission for you to export on their behalf. The letter should either give permission for the specific product or an open authorisation for all products the holder has a licence for.
 
 ###Certificate of a pharmaceutical product (unlicensed)
 
@@ -45,7 +45,7 @@ The drug must have been manufactured in the UK and you must have a [manufacturer
 
 Complete your [application form](https://www.gov.uk/government/publications/form-for-the-certificate-of-an-unlicensed-pharmaceutical-product) and [send it to MHRA](#send-your-application-form).
 
-You must send with your application a document on headed paper showing the formulation of the product and that it’s being manufactured on site.
+You must also send a document on headed paper showing the formulation of the product and that it’s being manufactured on site.
 
 ###Certificate of manufacturing status
 
@@ -53,7 +53,7 @@ You must have a [manufacturer licence](/guidance/apply-for-manufacturer-or-whole
 
 The certificate confirms the named sites on a specified manufacturer licence meet good manufacturing practice requirements. All or any of the sites named on the manufacture licence can be listed on the certificate. 
 
-The certificate won’t show product specific information.
+The certificate won’t show any product specific information.
 
 ####How to apply
 
