@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Declare that you’re exporting goods outside the EU
-permalink: /guide/declare-exporting-goods-from-eu/make-declaration.html
+permalink: /guide/declare-exporting-goods-from-eu/use-software-make-export-declaration.html
 page_number: 2
 page_title: Use software to make an export declaration
 breadcrumbs:
