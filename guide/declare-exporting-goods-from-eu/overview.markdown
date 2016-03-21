@@ -19,7 +19,7 @@ How you do this depends on whether you need to make export declarations:
 - [regularly](/guide/declare-exporting-goods-from-eu/make-declaration.html)
 - [occasionally](/guide/declare-exporting-goods-from-eu/make-export-declaration-online.html)
 
-##Time limits for online or software declarations
+##Time limits 
 
 You must make an export declaration at least: 
 
@@ -29,6 +29,8 @@ You must make an export declaration at least:
 - 2 hours before departure for rail and inland waters traffic
 - 1 hour before departure for road traffic 
 - 15 minutes before departure for supplies for ships and aircraft 
+
+[Question for SME: Are these time limits just for online declarations for all types of export declaration?]
 
 ##Exceptions
 You must submit an export declaration when you move goods to the following EU special territories:
