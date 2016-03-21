@@ -27,8 +27,8 @@ You can also develop software that’s compatible with CHIEF, based on:
 Contact the CHIEF Operations Team for details.
 
 $C 
-**CHIEF Operations Team**
-Email: <chief.operations@hmrc.gsi.gov.uk>   
+**CHIEF Operations Team**   
+Email: <chief.operations@hmrc.gsi.gov.uk>      
 Telephone: 01702 366 800   
 Fax: 01702 366 825
 Monday to Friday, 8am to 5pm  
