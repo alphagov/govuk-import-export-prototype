@@ -14,10 +14,10 @@ breadcrumbs:
 ---
 You must make an export declaration to the Customs Handling Import and Export Freight (CHIEF) system to export goods outside the European Union (EU).
 
-How you do this depends on whether you:
+How you do this depends on whether you need to make export declarations:
 
-- [make export declarations regularly](/guide/declare-exporting-goods-from-eu/make-declaration.html)
-- [make declarations occasionally](/guide/declare-exporting-goods-from-eu/make-export-declaration-online.html)
+- [regularly](/guide/declare-exporting-goods-from-eu/make-declaration.html)
+- [occasionally](/guide/declare-exporting-goods-from-eu/make-export-declaration-online.html)
 
 ##Time limits for online or software declarations
 
