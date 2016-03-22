@@ -32,5 +32,5 @@ You can get relief when you import any of the following:
 ##How to claim relief
 
 s1. If you’re a private establishment, you must apply to the DoH for approval. DoH will issue you an approval letter - you must attach a copy of this to your import declaration and make sure it’s available for inspection at customs.   
-S2. If you need one, attach the DoH letter to your [import declaration](/guide/import-goods-outside-eu/overview.html).   
+s2. If you need one, attach the DoH letter to your [import declaration](/guide/import-goods-outside-eu/overview.html).   
 s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).   
