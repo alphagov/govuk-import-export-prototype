@@ -39,10 +39,11 @@ You can’t get relief for:
 ##How to claim relief
 
 Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html). 
+
 You must attach the following paperwork to your import declaration:
 
 - a copy of the will, or other appropriate legal documents if the deceased died itestate, certified by the executor of the estate or by any other person responsible for winding up the deceased’s estate
-- if the goods aren’t precisely identified in the will or other legal documents, you must provide a list of the goods and their approximate value - this must be made by the executor or other legal person responsible for winding up the deceased person’s estate along with a confirmation that title to the goods passed to you
+- if the goods aren’t detailed in the will, you must provide a list of the goods and their value made by the executor of the estate along with a confirmation that the goods have been passed to you
 - a completed [form C1421](/government/publications/vat-inherited-goods-making-a-claim-for-relief-from-duty-and-vat-c1421)
 
 ^You must provide translated versions of these documents if they’re not in English.^
