@@ -24,7 +24,7 @@ You can get relief from duty, and in some cases VAT, if you’re importing goods
 - [animals for scientific research](/guide/relief-on-donated-noncommercial-goods/animals-for-scientific-research.html)
 - [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
 - [commercial samples](/guide/relief-on-donated-noncommercial-goods/commercial-samples.html)
-- inherited goods
+- [inherited goods](/guide/relief-on-donated-noncommercial-goods/inherited-goods.html)
 - blood grouping, tissue types and therapeutic substances
 - disabled people
 
