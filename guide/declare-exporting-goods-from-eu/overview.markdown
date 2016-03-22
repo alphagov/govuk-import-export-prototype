@@ -16,7 +16,7 @@ You must make an export declaration to the Customs Handling Import and Export Fr
 
 How you do this depends on whether you need to make export declarations:
 
-- [regularly](/guide/declare-exporting-goods-from-eu/make-declaration.html)
+- [regularly](/guide/declare-exporting-goods-from-eu/use-software-make-export-declaration.html)
 - [occasionally](/guide/declare-exporting-goods-from-eu/make-export-declaration-online.html)
 
 ##Time limits 
