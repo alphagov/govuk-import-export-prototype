@@ -20,7 +20,7 @@ Your establishment must be involved in non-profit education or scientific resear
 - public health laboratories
 - research laboratories of government departments and research councils
 
-##Goods that are eligible for relief
+##Goods eligible for relief
 
 You can claim duty relief on the following goods:
 
