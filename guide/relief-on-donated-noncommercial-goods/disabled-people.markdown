@@ -40,11 +40,11 @@ s3. Enter the unique number of the NIRU certificate into your import declaration
 s4. Present the NIRU certificate for inspection at customs.    
 
 $C
-**National Import Reliefs Unit**
-Email: <niru@hmrc.gov.uk> 
-Telephone: 02866 344 557 
-Fax: 0286 344 571 
-Find out about call charges
+**National Import Reliefs Unit**   
+Email: <niru@hmrc.gov.uk>    
+Telephone: 02866 344 557    
+Fax: 0286 344 571    
+Find out about call charges   
 $C
 
 ##Records you must keep
