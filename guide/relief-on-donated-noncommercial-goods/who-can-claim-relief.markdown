@@ -25,7 +25,7 @@ You can get relief from duty, and in some cases VAT, if you’re importing goods
 - [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
 - [commercial samples](/guide/relief-on-donated-noncommercial-goods/commercial-samples.html)
 - [inherited goods](/guide/relief-on-donated-noncommercial-goods/inherited-goods.html)
-- blood grouping, tissue types and therapeutic substances
+- [blood grouping, tissue types and therapeutic substances](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
 - [disabled people](/guide/relief-on-donated-noncommercial-goods/disabled-people.html)
 
 This is called Community System Duty Reliefs (CSDR).
