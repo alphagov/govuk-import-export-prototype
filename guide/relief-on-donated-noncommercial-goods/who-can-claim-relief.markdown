@@ -22,7 +22,7 @@ You can get relief from duty, and in some cases VAT, if you’re importing goods
 - educational, scientific, cultural and professional documents
 - [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
 - [animals for scientific research](/guide/relief-on-donated-noncommercial-goods/animals-for-scientific-research.html)
-- biological and chemical substances for scientific research
+- [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
 - commercial samples of negligible value
 - inherited goods
 - blood grouping, tissue types and therapeutic substances
