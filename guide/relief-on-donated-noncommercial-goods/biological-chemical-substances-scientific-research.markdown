@@ -15,8 +15,8 @@ breadcrumbs:
 
 Your establishment must be either a: 
 
-public establishment mainly involved in education or scientific research (eg Universities, NHS and teaching hospitals, research laboratories of government departments)
-private establishment mainly involved in education or scientific research and approved by the National Import Reliefs Unit (NIRU)
+- public establishment mainly involved in education or scientific research (eg universities, NHS and teaching hospitals, research laboratories of government departments)
+- private establishment mainly involved in education or scientific research and approved by the National Import Reliefs Unit (NIRU)
 
 ##Goods eligible for relief
 
@@ -48,11 +48,11 @@ s1. If you’re a private establishment, you must apply for approval from NIRU b
 s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html). 
 $C
 
-**National Import Reliefs Unit**
-Email: <niru@hmrc.gov.uk> 
-Telephone: 02866 344 557 
-Fax: 0286 344 571 
-Find out about call charges
+**National Import Reliefs Unit**   
+Email: <niru@hmrc.gov.uk>    
+Telephone: 02866 344 557    
+Fax: 0286 344 571   
+[Find out about call charges](/call-charges.gov.uk)  
 
 $C
 
@@ -60,11 +60,11 @@ $C
 
 You must keep records of: 
 
-the import declaration and value of the imported goods
-copies of any letters issued by NIRU
-evidence of ownership (if applicable for the relief claimed)
-when, where and how the goods are used
-how the goods are identified – such as manufacturers marks, serial numbers, technical descriptions or illustrations
+- the import declaration and value of the imported goods
+- copies of any letters issued by NIRU
+- evidence of ownership (if applicable for the relief claimed)
+- when, where and how the goods are used
+- how the goods are identified – such as manufacturers marks, serial numbers, technical descriptions or illustrations
 
 You must keep these records for at least 4 years, even and including after you dispose of the goods.
 
