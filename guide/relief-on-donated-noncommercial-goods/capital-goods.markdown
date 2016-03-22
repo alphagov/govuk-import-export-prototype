@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You import capital goods (eg machinery, tools, computers and other equipment) when you move your business to the UK from the European Union Customs Union (EUCU). 
+You can import capital goods (eg machinery, tools, computers and other equipment) when you move your business to the UK from the European Union Customs Union (EUCU). 
 
 ##Eligibility
 
