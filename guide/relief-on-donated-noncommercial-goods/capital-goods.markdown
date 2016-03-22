@@ -62,3 +62,5 @@ You must keep records of:
 - when, where and how the goods are used
 - how the goods are identified - such as manufacturers marks serial numbers, technical descriptions or illustrations
 - evidence of disposal
+
+You must keep these records for at least 4 years, even and including after you dispose of the goods.
