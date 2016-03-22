@@ -30,7 +30,7 @@ To be eligible, your goods must be:
 You must identify the goods as commercial samples by either:
 
 - tearing, altering, perforating, slashing or defacing the items
-- use permanent, indelible marking or permanent labelling to clearly mark the item as a ‘commercial sample’
+- using permanent, indelible marking or permanent labelling to clearly mark the item as a ‘commercial sample’
 
 ^If the goods can’t be adequately identified as commercial samples (eg jewellry or precious stones), HMRC won’t accept them for relief.^
 
