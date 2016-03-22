@@ -13,19 +13,14 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You can get relief if you inherit goods from a deceased person and are:
+You can get duty and VAT relief when you import inherited goods if you're either:
 
 - an EU resident
 - a non-profit making company established in the EU
 
 ##Goods eligible for relief
 
-Any goods included in the estate of the deceased person that were intended for your personal use or for meeting your household needs. Including:
-
-- jewellry, stamp collection, bicycles and private motor vehicles, caravans, trailers, pleasure craft and private aircraft
-- household furnishings
-- family pets and saddle animals
-- portable items (eg musicians’ instruments, photographers’ cameras and equipment) used by the deceased in their trade or profession
+You can get relief on any goods in the deceased person's estate that were intended for your personal use or for meeting your household needs.
 
 ^You must import the goods within 2 years from the date the estate is finally settled.^
 
@@ -35,7 +30,7 @@ You can’t get relief for:
 
 - alcohol and tobacco products
 - stocks of raw materials and finished or semi-finished products
-- tools of trade other than portable items
+- trade tools
 - commercial vehicles
 - livestock and stocks of agricultural products, which are more than what are required to meet a family’s normal needs
 - goods bought from the executor of the estate
