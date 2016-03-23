@@ -13,11 +13,6 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You can get relief for both:
-
-- scientific instruments
-- donated medical equipment
-
 Your establishment must be involved in non-profit education or scientific research, eg:
 
 - universities and university hospital trusts, approved colleges and polytechnics
