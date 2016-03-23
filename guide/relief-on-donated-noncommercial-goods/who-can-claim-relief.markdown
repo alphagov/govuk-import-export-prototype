@@ -18,14 +18,14 @@ You can get relief from duty, and in some cases VAT, if you’re importing goods
 - [museums and galleries](/guide/relief-on-donated-noncommercial-goods/museums-galleries.html)
 - [charities](/guide/relief-on-donated-noncommercial-goods/charities.html) 
 - [scientific and medical equipment](/guide/relief-on-donated-noncommercial-goods/scientific-instruments.html)
-- [educational, scientific, cultural and professional documents](/guide/relief-on-donated-noncommercial-goods/educational-scientific-cultural-professional-documents.html)
-- [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
 - [animals for scientific research](/guide/relief-on-donated-noncommercial-goods/animals-for-scientific-research.html)
+- [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
 - [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
 - [commercial samples](/guide/relief-on-donated-noncommercial-goods/commercial-samples.html)
 - [inherited goods](/guide/relief-on-donated-noncommercial-goods/inherited-goods.html)
-- [blood grouping, tissue types and therapeutic substances](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
 - [disabled people](/guide/relief-on-donated-noncommercial-goods/disabled-people.html)
+- [blood grouping, tissue types and therapeutic substances](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
+- [educational, scientific, cultural and professional documents](/guide/relief-on-donated-noncommercial-goods/educational-scientific-cultural-professional-documents.html)
 
 This is called Community System Duty Reliefs (CSDR).
 
