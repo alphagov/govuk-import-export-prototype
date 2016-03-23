@@ -16,11 +16,11 @@ You can’t export unlicensed human medicines manufactured under a [specials lic
 
 ##Export certificates
 
-You may be asked to provide an export certificate depending on which country you’re exporting to. You must talk to the importer who’s receiving your goods to find out if you need an export certificate.
+You may need an export certificate depending on which country you’re exporting to. Talk to the importer who’s receiving your goods to find out if you need an export certificate.
 
 There are 5 types of export certificate.
 
-###Certificate of a pharmaceutical product (licensed)
+###1.Certificate of a pharmaceutical product (licensed)
 
 The certificate shows details including:
 
@@ -38,7 +38,7 @@ You must also send a letter on headed paper from the marketing authorisation hol
 - the specific product or an open authorisation
 - all products the holder has a licence for
 
-###Certificate of a pharmaceutical product (unlicensed)
+###2. Certificate of a pharmaceutical product (unlicensed)
 
 The drug must have been manufactured in the UK and you must have a [manufacturer licence](/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) for the drug.
 
@@ -48,7 +48,7 @@ Complete your [application form](https://www.gov.uk/government/publications/form
 
 You must also send a document on headed paper showing the formulation of the product and that it’s being manufactured on site.
 
-###Certificate of manufacturing status
+###3. Certificate of manufacturing status
 
 You must have a [manufacturer licence](/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) to apply for a certificate of manufacturing status.
 
@@ -60,7 +60,7 @@ The certificate won’t show any product specific information.
 
 Complete your [application form](https://www.gov.uk/government/publications/certificate-of-manufacturing-status-form-medicinal-products) and [send it to MHRA](#send-your-application-form).
 
-###Certificate of licensing status
+###4. Certificate of licensing status
 
 The certificate of licensing status is for importing agents who must screen bids made by an international tender for licensed or unlicensed products (excluding specials).
 
@@ -72,7 +72,7 @@ The product name, dosage form, active ingredients and amounts should be the same
 
 Complete your [application form](https://www.gov.uk/government/publications/form-statement-of-licensing-status-of-a-pharmaceutical-product) and [send it to MHRA](#send-your-application-form).
 
-###Certificate for the importation of a pharmaceutical constituent
+###5. Certificate for the importation of a pharmaceutical constituent
 
 The specific active ingredient or excipient must be in either a:
 
