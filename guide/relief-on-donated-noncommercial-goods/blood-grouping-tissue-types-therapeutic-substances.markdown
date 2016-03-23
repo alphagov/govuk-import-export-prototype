@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Claim duty and VAT relief on donated or non-commercial goods
-permalink: /guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html
+permalink: /guide/relief-on-donated-noncommercial-goods/blood-grouping-tissue-types-therapeutic-substances.html
 page_number: 12
 page_title: Blood grouping, tissue types and therapeutic substances
 breadcrumbs:
