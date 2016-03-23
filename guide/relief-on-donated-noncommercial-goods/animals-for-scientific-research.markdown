@@ -46,7 +46,3 @@ Telephone: 0207 273 3129
 $C
 
 
-###Import animals in accompanied baggage
-
-If you import animals in your accompanied baggage you must declare them at the Customs Red Channel or Red Point when you arrive.
-
