@@ -16,7 +16,7 @@ breadcrumbs:
 You can get relief if you’re either:
 
 - a public institution or laboratory, eg Strategic Health Authorities, public health laboratories, all schools of pharmacy, medical schools, medical research council and registered charities
-- a private establishment approved by the Department of Health (DoH)
+- a private establishment approved by the National Import Relief Unit (NIRU)
 
 ##Goods eligible for relief
 
@@ -31,6 +31,13 @@ You can get relief when you import any of the following:
 
 ##How to claim relief
 
-s1. If you’re a private establishment, you must apply to the DoH for approval. DoH will issue you an approval letter - you must attach a copy of this to your import declaration and make sure it’s available for inspection at customs.   
-s2. If you need one, attach the DoH letter to your [import declaration](/guide/import-goods-outside-eu/overview.html).   
-s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).   
+s1. If you’re a private establishment, you must apply for approval from NIRU before the goods are imported. NIRU will send you an approval letter.  
+s2. Attach the approval letter to your [import declaration](/guide/import-goods-outside-eu/overview.html) and enter the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html)
+
+$C
+**National Import Reliefs Unit**
+Email: <niru@hmrc.gov.uk> 
+Telephone: 02866 344 557 
+Fax: 0286 344 571 
+Find out about call charges
+$C
