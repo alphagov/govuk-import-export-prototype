@@ -35,18 +35,20 @@ s2. Complete your application and send it to the Export Licensing Unit. You may 
 
 If you plan to export an item temporarily, you must include the date it will return to the UK on the application.
 
+##Contact
+
 $A
-Export Licensing Unit
-Arts Council England
-21 Bloomsbury Street
-London
-WC1B 3HF
+**Export Licensing Unit**    
+Arts Council England    
+21 Bloomsbury Street    
+London   
+WC1B 3HF   
 $A
 
 $C
-Email: <elu@artscouncil.org.uk>
-Telephone: 020 7268 9606 
-[Find out about call charges](/call-charges)
+Email: <elu@artscouncil.org.uk>   
+Telephone: 020 7268 9606    
+[Find out about call charges](/call-charges)   
 $C
 
 [Question for SME: how much does it cost to get a licence?]
