@@ -52,15 +52,3 @@ You’ll need to:
 
 - produce evidence to show you’re entitled to this relief
 - give HMRC financial security (normally a cash deposit or a banker’s guarantee) to cover the duty and/or VAT before your goods are released
-
-##Records you must keep
-
-You must keep records of:
-
-- the import declaration and the value of the imported goods
-- evidence of ownership (if applicable for the relief claimed)
-- when, where and how the goods are used
-- how the goods are identified - such as manufacturers marks serial numbers, technical descriptions or illustrations
-- evidence of disposal
-
-You must keep these records for at least 4 years, even and including after you dispose of the goods.
