@@ -35,9 +35,9 @@ s1. If you’re a private establishment, you must apply for approval from NIRU b
 s2. Attach the approval letter to your [import declaration](/guide/import-goods-outside-eu/overview.html) and enter the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html)
 
 $C
-**National Import Reliefs Unit**
-Email: <niru@hmrc.gov.uk> 
-Telephone: 02866 344 557 
-Fax: 0286 344 571 
-Find out about call charges
+**National Import Reliefs Unit**   
+Email: <niru@hmrc.gov.uk>   
+Telephone: 02866 344 557    
+Fax: 0286 344 571   
+Find out about call charges   
 $C
