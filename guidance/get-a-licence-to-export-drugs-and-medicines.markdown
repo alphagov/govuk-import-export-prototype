@@ -189,7 +189,7 @@ Include your invoice number on either the cheque or in the reference section of 
 
 Your fee will be refunded if your application is refused or you withdraw it.
 
-##Exporting barbiturates
+##Export barbiturates
 
 You need permission from the Export Control Organisation (ECO) to export outside the EU some drugs that may be used in lethal injections. These are ‘short and intermediate acting barbiturate anaesthetic agents’.
 
@@ -204,7 +204,7 @@ This applies to drugs that are packaged for human or veterinary use, not raw mat
 - thiopental (CAS RN 76-75-5)
 - thiopental sodium salt (CAS RN 71-73-8), also known as thiopentone sodium
 
-###Exporting propofol to the US
+###Export propofol to the US
 
 You’ll need a licence from ECO to export propofol from the UK to the US. 
 
@@ -252,7 +252,7 @@ Each shipment of schedule 1 controlled drugs will require:
 
 [SME question: how do users get an individual export authorisation application and a domestic export licence?]
 
-####Renewing your licence
+####Renew your licence
 
 You’ll need to renew your licence at least 4 weeks before it expires.
 
