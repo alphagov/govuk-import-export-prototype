@@ -63,6 +63,8 @@ The VAT relief also extends to:
 s1. Contact National Import Reliefs Unit (NIRU) to apply for approval. NIRU will send you an approval letter.
 s2. Attach the approval letter to your import declaration](/guide/import-goods-outside-eu/overview.html) and enter the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html).     
 
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+
 $C
 
 **National Import Reliefs Unit**   
