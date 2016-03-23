@@ -52,3 +52,11 @@ $C
 You must give NIRU a financial guarantee (for example, a cash deposit or bankers’ guarantee) to cover the duty and VAT. 
   
 Once you’ve got your approval letter, contact your local HMRC supervising office to claim it back. Their contact details will be on the export declaration.  
+
+*[VAT]: Value Added Tax
+*[CSDR]: Community System of Duty Reliefs
+*[NIRU]: National Import Relief Unit
+*[CPC]: Customs Procedure Code
+*[HMRC]: HM Revenue and Customs
+*[EUCU]: European Union Customs Union
+*[EORI]: Economic Operator Registration Identification
