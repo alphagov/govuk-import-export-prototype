@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export drugs and medicines
+title: Get a licence to export human drugs and medicines
 summary: You must have a licence to export certain drugs and medicines.
 permalink: /guidance/get-a-licence-to-export-drugs-and-medicines.html
 topic:
@@ -8,13 +8,11 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You can export a human medicine if you have a drug [manufacturer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
+You can export a medicine if you have a drug [manufacturer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
 
-If you want to export a human medicine that you haven’t manufactured, you’ll need a [wholesaler dealer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
+If you want to export a medicine that you haven’t manufactured, you’ll need a [wholesaler dealer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
 
-###What you can export
-
-You can’t export unlicensed human medicinal products manufactured under a [specials licence](/government/publications/supply-unlicensed-medicinal-products-specials) to a country outside of the [European Economic Area](/eu-eea).
+You can’t export unlicensed human medicines manufactured under a [specials licence](/government/publications/supply-unlicensed-medicinal-products-specials) to a country outside of the [European Economic Area](/eu-eea).
 
 ##Export certificates
 
