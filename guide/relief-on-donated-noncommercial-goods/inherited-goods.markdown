@@ -47,15 +47,3 @@ You must attach the following paperwork to your import declaration:
 - a completed [form C1421](/government/publications/vat-inherited-goods-making-a-claim-for-relief-from-duty-and-vat-c1421)
 
 ^You must provide translated versions of these documents if they’re not in English.^
-
-##Records you must keep
-
-You must keep records of:
-
-- the import declaration and value of the imported goods
-- a copy of any customs forms that have been completed
-- evidence of ownership (if applicable for the relief claimed)
-- when, where and how the goods are used
-- how the goods are identified - such as manufacturers marks serial numbers, technical descriptions or illustrations
-
-You must keep these records for at least 4 years, even and including after you dispose of the goods.
