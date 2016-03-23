@@ -57,3 +57,8 @@ Fax: 0286 344 571
 
 $C
 
+###If you've applied for but not yet received NIRU approval
+
+You must give NIRU a financial guarantee (for example, a cash deposit or bankers’ guarantee) to cover the duty and VAT. 
+  
+Once you’ve got your approval letter, contact your local HMRC supervising office to claim it back. Their contact details will be on the export declaration.  
