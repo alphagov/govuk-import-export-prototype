@@ -43,9 +43,10 @@ Tariff heading | Description
 
 ##How to claim relief
 
-s1. If you’re a private establishment, you must apply for approval from NIRU before the goods are imported. Tell them about the research project that will use the substance. NIRU will send you an approval letter - you must use this when you make your import declaration.
+s1. If you’re a private establishment, you must apply for approval from NIRU before the goods are imported. Tell them about the research project that will use the substance. NIRU will send you an approval letter.
 
-s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html). 
+s2. Attach the approval letter to your [import declaration](/guide/import-goods-outside-eu/overview.html) and enter the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html). 
+
 $C
 
 **National Import Reliefs Unit**   
@@ -55,16 +56,4 @@ Fax: 0286 344 571
 [Find out about call charges](/call-charges.gov.uk)  
 
 $C
-
-##Records you must keep
-
-You must keep records of: 
-
-- the import declaration and value of the imported goods
-- copies of any letters issued by NIRU
-- evidence of ownership (if applicable for the relief claimed)
-- when, where and how the goods are used
-- how the goods are identified – such as manufacturers marks, serial numbers, technical descriptions or illustrations
-
-You must keep these records for at least 4 years, even and including after you dispose of the goods.
 
