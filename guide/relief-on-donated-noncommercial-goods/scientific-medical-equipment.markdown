@@ -27,7 +27,7 @@ Your establishment must be involved in non-profit education or scientific resear
 - public health laboratories
 - research laboratories of government departments and research councils
 
-##Goods eligible for relief
+###Goods eligible for relief
 
 You can claim duty relief on the following goods:
 
@@ -46,7 +46,7 @@ You must be a:
 - hospital department
 - medical research institution, including charities involved in supporting medical research
 
-##Goods eligible for duty relief
+###Goods eligible for duty relief
 
 You can claim relief on the following goods:
 
@@ -60,7 +60,7 @@ The goods must be either:
 - donated by a private individual
 - purchased with funds provided by a charitable or philanthropic organisation or with voluntary contributions
 
-##Goods eligible for VAT relief
+###Goods eligible for VAT relief
 
 Even if not eligible for duty relief, you can still claim VAT relief if your goods are:
 
