@@ -21,7 +21,9 @@ Cultural goods include:
 
 You need a licence if you’re exporting something inside or outside the European Union (EU). 
 
-^You need a licence to export cultural goods on a temporary basis.^ 
+$CTA
+You need a licence to export cultural goods on a temporary basis.
+$CTA
 
 ##What you need to do
 
