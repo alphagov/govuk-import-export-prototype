@@ -18,8 +18,6 @@ You can get relief for both:
 - scientific instruments
 - donated medical equipment
 
-##Scientific instruments
-
 Your establishment must be involved in non-profit education or scientific research, eg:
 
 - universities and university hospital trusts, approved colleges and polytechnics
@@ -27,7 +25,7 @@ Your establishment must be involved in non-profit education or scientific resear
 - public health laboratories
 - research laboratories of government departments and research councils
 
-###Goods eligible for relief
+##Scientific instruments
 
 You can claim duty relief on the following goods:
 
@@ -39,14 +37,6 @@ and apparatus
 You can claim VAT relief if the goods are intended for use in medical or veterinary research, training, diagnosis or treatment. 
 
 ##Donated medical equipment
-
-You must be a:
-
-- health authority
-- hospital department
-- medical research institution, including charities involved in supporting medical research
-
-###Goods eligible for duty relief
 
 You can claim relief on the following goods:
 
