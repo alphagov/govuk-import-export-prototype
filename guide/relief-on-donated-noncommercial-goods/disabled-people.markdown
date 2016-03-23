@@ -39,6 +39,8 @@ s2. Contact NIRU for approval. NIRU will send you a certificate. You must also p
 s3. Enter the unique number of the NIRU certificate into your import declaration. Make sure you use the correct Customs Procedure Code (CPC) when you make your declaration.   
 s4. Present the NIRU certificate for inspection at customs.    
 
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+
 $C
 **National Import Reliefs Unit**   
 Email: <niru@hmrc.gov.uk>    
