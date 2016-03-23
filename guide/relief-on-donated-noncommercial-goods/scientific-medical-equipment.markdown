@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Claim duty and VAT relief on donated or non-commercial goods
-permalink: /guide/relief-on-donated-noncommercial-goods/scientific-instruments.html
+permalink: /guide/relief-on-donated-noncommercial-goods/scientific-medical-equipment.html
 page_number: 4
-page_title: Scientific instruments
+page_title: Scientific and medical equipment
 breadcrumbs:
  - name: Home
    url: '/'
@@ -12,6 +12,13 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html'   
 ---
+
+You can get relief for both:
+
+- scientific instruments
+- donated medical equipment
+
+##Scientific instruments
 
 Your establishment must be involved in non-profit education or scientific research, eg:
 
@@ -30,6 +37,41 @@ You can claim duty relief on the following goods:
 and apparatus
 
 You can claim VAT relief if the goods are intended for use in medical or veterinary research, training, diagnosis or treatment. 
+
+##Donated medical equipment
+
+You must be a:
+
+- health authority
+- hospital department
+- medical research institution, including charities involved in supporting medical research
+
+##Goods eligible for duty relief
+
+You can claim relief on the following goods:
+
+- instruments and apparatus intended for medical research, establishing medical diagnosis or carrying out medical treatment
+- spare parts, components and accessories specifically for eligible instruments and apparatus
+- tools to be used for maintaining, checking, calibrating or repairing eligible instruments and apparatus
+
+The goods must be either:
+
+- donated by a charitable or philanthropic organisation
+- donated by a private individual
+- purchased with funds provided by a charitable or philanthropic organisation or with voluntary contributions
+
+##Goods eligible for VAT relief
+
+Even if not eligible for duty relief, you can still claim VAT relief if your goods are:
+
+- medical, scientific, computer, video, sterilizing, laboratory or refrigeration equipment
+- intended for use in medical or veterinary research, training, diagnosis or treatment
+purchased with charitable or voluntary contributions
+
+The VAT relief also extends to:
+
+- charities providing rescue or first aid services
+- charities providing care, medical or surgical treatment for disabled people
 
 ##How to claim relief
 
