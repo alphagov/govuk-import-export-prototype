@@ -19,7 +19,7 @@ You can get relief from duty, and in some cases VAT, if you’re importing goods
 - [charities](/guide/relief-on-donated-noncommercial-goods/charities.html) 
 - [scientific instruments](/guide/relief-on-donated-noncommercial-goods/scientific-instruments.html) - for use in educational establishments, as well as the NHS
 - [donated medical equipment](/guide/relief-on-donated-noncommercial-goods/donated-medical-equipment.html) - for research, diagnosis and treatment for a health authority or hospital department 
-- educational, scientific, cultural and professional documents
+- [educational, scientific, cultural and professional documents](/guide/relief-on-donated-noncommercial-goods/educational-scientific-cultural-professional-documents.html)
 - [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
 - [animals for scientific research](/guide/relief-on-donated-noncommercial-goods/animals-for-scientific-research.html)
 - [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
