@@ -52,3 +52,11 @@ You’ll need to:
 
 - produce evidence to show you’re entitled to this relief
 - give HMRC financial security (normally a cash deposit or a banker’s guarantee) to cover the duty and/or VAT before your goods are released
+
+*[VAT]: Value Added Tax
+*[CSDR]: Community System of Duty Reliefs
+*[NIRU]: National Import Relief Unit
+*[CPC]: Customs Procedure Code
+*[HMRC]: HM Revenue and Customs
+*[EUCU]: European Union Customs Union
+*[EORI]: Economic Operator Registration Identification
