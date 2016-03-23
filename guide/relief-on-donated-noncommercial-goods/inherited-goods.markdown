@@ -47,3 +47,11 @@ You must attach the following paperwork to your import declaration:
 - a completed [form C1421](/government/publications/vat-inherited-goods-making-a-claim-for-relief-from-duty-and-vat-c1421)
 
 ^You must provide translated versions of these documents if they’re not in English.^
+
+*[VAT]: Value Added Tax
+*[CSDR]: Community System of Duty Reliefs
+*[NIRU]: National Import Relief Unit
+*[CPC]: Customs Procedure Code
+*[HMRC]: HM Revenue and Customs
+*[EUCU]: European Union Customs Union
+*[EORI]: Economic Operator Registration Identification
