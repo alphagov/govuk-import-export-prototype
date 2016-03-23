@@ -40,3 +40,11 @@ You must identify the goods as commercial samples by either:
 s1. You’ll need an Economic Operator Registration Identification number (EORI) - [check if your business already has one](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en).    
 s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).  
 s3. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).    
+
+*[VAT]: Value Added Tax
+*[CSDR]: Community System of Duty Reliefs
+*[NIRU]: National Import Relief Unit
+*[CPC]: Customs Procedure Code
+*[HMRC]: HM Revenue and Customs
+*[EUCU]: European Union Customs Union
+*[EORI]: Economic Operator Registration Identification
