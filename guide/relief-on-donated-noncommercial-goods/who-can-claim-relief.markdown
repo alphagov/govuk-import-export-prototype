@@ -33,11 +33,10 @@ This is called Community System Duty Reliefs (CSDR).
 
 You must keep records of:
 
-- the import declaration and value of the imported goods
+- the import declaration and value of the goods
 - a copy of any customs forms that have been completed
-- evidence of ownership (if applicable for the relief claimed)
 - when, where and how the goods are used
-- how the goods are identified - such as manufacturers marks serial numbers, technical descriptions or illustrations
+- how the goods are identified - eg manufacturers marks, serial numbers, technical descriptions or illustrations
 
-You must keep these records for at least 4 years, even and including after you dispose of the goods.
+You must keep these records for at least 4 years, even after you dispose of the goods.
 
