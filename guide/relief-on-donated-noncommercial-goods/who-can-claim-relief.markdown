@@ -31,3 +31,16 @@ You can get relief from duty, and in some cases VAT, if you’re importing goods
 This is called Community System Duty Reliefs (CSDR).
 
 ^You can use a [freight forwarder](http://www.bifa.org/members) if you want to import goods and don’t want to manage the logistics yourself.^
+
+##Records you must keep
+
+You must keep records of:
+
+- the import declaration and value of the imported goods
+- a copy of any customs forms that have been completed
+- evidence of ownership (if applicable for the relief claimed)
+- when, where and how the goods are used
+- how the goods are identified - such as manufacturers marks serial numbers, technical descriptions or illustrations
+
+You must keep these records for at least 4 years, even and including after you dispose of the goods.
+
