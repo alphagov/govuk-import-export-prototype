@@ -6,7 +6,7 @@ permalink: /guidance/get-a-licence-to-export-cultural-goods.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
-  ---
+---
   
 You may need a licence to export certain ‘cultural goods’ over 50 years old. Whether you need a licence depends on the value of the goods.
 
