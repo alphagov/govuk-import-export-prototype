@@ -41,6 +41,8 @@ You can’t claim relief for any of the following goods:
 
 Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).  
 
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+
 *[VAT]: Value Added Tax
 *[CSDR]: Community System of Duty Reliefs
 *[NIRU]: National Import Relief Unit
