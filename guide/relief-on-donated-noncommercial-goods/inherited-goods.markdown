@@ -40,6 +40,8 @@ You can’t get relief for:
 
 Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html). 
 
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+
 You must attach the following paperwork to your import declaration:
 
 - a copy of the will, or other appropriate legal documents if the deceased died itestate, certified by the executor of the estate or by any other person responsible for winding up the deceased’s estate
