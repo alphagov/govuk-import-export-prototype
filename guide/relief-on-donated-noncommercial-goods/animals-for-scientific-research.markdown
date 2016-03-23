@@ -46,3 +46,10 @@ Telephone: 0207 273 3129
 $C
 
 
+*[VAT]: Value Added Tax
+*[CSDR]: Community System of Duty Reliefs
+*[NIRU]: National Import Relief Unit
+*[CPC]: Customs Procedure Code
+*[HMRC]: HM Revenue and Customs
+*[EUCU]: European Union Customs Union
+*[EORI]: Economic Operator Registration Identification
