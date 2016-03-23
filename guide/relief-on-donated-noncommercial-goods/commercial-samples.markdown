@@ -40,17 +40,3 @@ You must identify the goods as commercial samples by either:
 s1. You’ll need an Economic Operator Registration Identification number (EORI) - [check if your business already has one](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en).    
 s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).  
 s3. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).    
-
-
-##Records you must keep
-
-You must keep records of:
-
-- the import declaration and value of the imported goods
-- a copy of any customs forms that have been completed
-- evidence of ownership (if applicable for the relief claimed)
-- when, where and how the goods are used
-- how the goods are identified - such as manufacturers marks serial numbers, technical descriptions or illustrations
-
-You must keep these records for at least 4 years, even and including after you dispose of the goods.
-
