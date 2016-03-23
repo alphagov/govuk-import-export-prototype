@@ -53,6 +53,8 @@ You’ll need to:
 - produce evidence to show you’re entitled to this relief
 - give HMRC financial security (normally a cash deposit or a banker’s guarantee) to cover the duty and/or VAT before your goods are released
 
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+
 *[VAT]: Value Added Tax
 *[CSDR]: Community System of Duty Reliefs
 *[NIRU]: National Import Relief Unit
