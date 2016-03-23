@@ -29,8 +29,6 @@ You can get relief from duty, and in some cases VAT, if you’re importing goods
 
 This is called Community System Duty Reliefs (CSDR).
 
-^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
-
 ##Records you must keep
 
 You must keep records of:
