@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-Your establishment must be involved in non-profit education or scientific research, eg:
+To be eligible, your establishment must be involved in non-profit education or scientific research, eg:
 
 - universities and university hospital trusts, approved colleges and polytechnics
 - NHS and teaching hospitals, including medical schools and research laboratories
@@ -33,7 +33,7 @@ You can claim VAT relief if the goods are intended for use in medical or veterin
 
 ##Donated medical equipment
 
-You can claim relief on the following goods:
+You can claim duty relief on the following goods:
 
 - instruments and apparatus intended for medical research, establishing medical diagnosis or carrying out medical treatment
 - spare parts, components and accessories specifically for eligible instruments and apparatus
@@ -47,11 +47,11 @@ The goods must be either:
 
 ###Goods eligible for VAT relief
 
-Even if not eligible for duty relief, you can still claim VAT relief if your goods are:
+You can claim VAT relief if your goods are:
 
 - medical, scientific, computer, video, sterilizing, laboratory or refrigeration equipment
 - intended for use in medical or veterinary research, training, diagnosis or treatment
-purchased with charitable or voluntary contributions
+- purchased with charitable or voluntary contributions
 
 The VAT relief also extends to:
 
