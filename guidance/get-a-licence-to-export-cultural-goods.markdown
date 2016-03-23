@@ -30,7 +30,7 @@ You need a licence to export cultural goods on a temporary basis.
 
 ##How to apply
 
-s1. Contact the [Export Licensing Unit](/link) to get an application form.
+s1. Contact the [Export Licensing Unit](/guidance/get-a-licence-to-export-cultural-goods.html#contact) to get an application form.
 s2. Complete your application and send it to the Export Licensing Unit. You may need to give extra information, such as a photograph of the item or details of its origin. 
 
 If you plan to export an item temporarily, you must include the date it will return to the UK on the application.
@@ -50,7 +50,7 @@ If your application for an export licence is accepted, you may need to follow ce
 ##Contact
 
 $A
-**Export Licensing Unit**    
+Export Licensing Unit    
 Arts Council England    
 21 Bloomsbury Street    
 London   
