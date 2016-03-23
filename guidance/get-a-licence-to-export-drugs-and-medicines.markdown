@@ -112,16 +112,21 @@ $A
 
 ###Fees
 
-It costs £68 to apply for a certificate. You’ll get original version of your certificate and 2 copies. You can get extra copies of certificates for £34 each.
+|Fee |How long it takes to get a decision |
+|£68 |10 working days |
+|£152 |2 working days |
+
+
+
+It costs £68 to apply for a certificate.  You should get a decision within 10 working days.
+
+You can pay £152 if you want a decision in 2 working days.
+
+If your application is successful, you’ll get the original version of your certificate and 2 copies.
 
 [SME question: How and when do you pay these fees?]
 
-###How long it will take
-
-You should get a decision within 10 working days.
-
-You can pay an additional £152 if you want a decision in 2 working days.
-
+You can get extra copies of certificates for £34 each.
 
 ##Export controlled drugs
 
