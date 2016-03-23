@@ -31,7 +31,9 @@ You must only use the animals for scientific research purposes.
 ##How to claim relief
 
 s1. If you're a private establishment, you must ask the Home Office for approval before you can claim relief. The Home Office will send you an approval letter - make sure it’s available for inspection at customs.
-s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).     
+s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html). 
+
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
 
 $C
 
@@ -45,7 +47,6 @@ Telephone: 0207 273 3129
 
 $C
 
-^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
 
 
 *[VAT]: Value Added Tax
