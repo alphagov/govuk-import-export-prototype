@@ -262,7 +262,7 @@ Exporters should complete the Channel Islands export monthly return form which m
  
 Holders of frequent exporter licences must submit a monthly return form detailing the actual substances that have been shipped.
 
-If you have not shipped for one month or more, then a nil return is required for each month that you have not shipped. If no monthly return form is received to cover each month you have held a licence, then your licence may be suspended.
+You'll need to do a nil return for each month that you've not shipped for over a month. Your licence may be suspended if you don't send a monthly return form for each month you've held a licence.
 
 
 
