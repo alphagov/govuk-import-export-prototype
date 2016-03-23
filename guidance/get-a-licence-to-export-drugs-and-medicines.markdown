@@ -150,13 +150,13 @@ You’ll need 2 licences to export controlled drugs.
 
 ####Controlled drugs licence
 
-You must [register with the Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml) before you can apply for a controlled drugs licence.
+[Register with the Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml) before you apply for a controlled drugs licence.
 
 Once you’re registered, [log into your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a licence.
 
 You should get a decision within 16 weeks.
 
-[SME question: How much does this licence cost?]
+[SME question: How much does this licence cost? Whar can they do if they haven't got a decision after 16 weeks?]
 
 ####National Drugs control System export licence
 
@@ -189,7 +189,7 @@ Include your invoice number on either the cheque or in the reference section of 
 
 Your fee will be refunded if your application is refused or you withdraw it.
 
-##Exporting drugs used in execution by lethal injection
+##Exporting barbiturates
 
 You need permission from the Export Control Organisation (ECO) to export outside the EU some drugs that may be used in lethal injections. These are ‘short and intermediate acting barbiturate anaesthetic agents’.
 
