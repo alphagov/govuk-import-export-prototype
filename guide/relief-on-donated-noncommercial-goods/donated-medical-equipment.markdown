@@ -67,15 +67,3 @@ $C
 You must give NIRU a financial guarantee (for example, a cash deposit or bankers’ guarantee) to cover the duty and VAT. 
   
 Once you’ve got your approval letter, contact your local HMRC supervising office to claim it back. Their contact details will be on the export declaration.    
-
-##Records you must keep
-
-You must keep records of:
-
-- the import declaration and value of the imported goods
-- the NIRU approval letter
-- evidence of ownership (if applicable for the relief claimed)
-- when, where and how the goods are used
-- how the goods are identified - such as manufacturers marks serial numbers, technical descriptions or illustrations
-
-These records must be kept for a minimum of 4 years, even and including after you dispose of the goods.
