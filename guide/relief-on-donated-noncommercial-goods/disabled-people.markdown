@@ -34,8 +34,8 @@ Your goods must be either:
 
 ##How to claim relief
 
-s1. If you’re a nominated carer acting on behalf of a disabled person, you must get a letter of support confirming this from a medical professional, eg the disabled person’s GP or hospital consultant. You must provide this letter when you apply for NIRU approval.    
-s2. Contact the National Import Reliefs Unit (NIRU) for approval. NIRU will send you a certificate. You must also present the certificate for inspection at customs.   
+s1. If you’re a nominated carer acting on behalf of a disabled person, you must get a letter of support confirming this from a medical professional, eg the disabled person’s GP or hospital consultant. You must provide this letter when you apply for the National Import Reliefs Unit (NIRU) approval.    
+s2. Contact NIRU for approval. NIRU will send you a certificate. You must also present the certificate for inspection at customs.   
 s3. Enter the unique number of the NIRU certificate into your import declaration. Make sure you use the correct Customs Procedure Code (CPC) when you make your declaration.   
 s4. Present the NIRU certificate for inspection at customs.    
 
@@ -47,3 +47,8 @@ Fax: 0286 344 571
 Find out about call charges   
 $C
 
+###If you've applied for but not yet received NIRU approval
+
+You must give NIRU a financial guarantee (for example, a cash deposit or bankers’ guarantee) to cover the duty and VAT. 
+  
+Once you’ve got your approval letter, contact your local HMRC supervising office to claim it back. Their contact details will be on the export declaration.  
