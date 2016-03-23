@@ -110,7 +110,7 @@ SW1W 9SZ
 $A
 
 
-###Fees
+###How much it costs
 
 |Fee |How long it takes to get a decision |
 |£68 |10 working days |
