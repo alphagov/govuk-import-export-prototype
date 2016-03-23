@@ -41,6 +41,8 @@ s1. You’ll need an Economic Operator Registration Identification number (EORI)
 s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).  
 s3. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).    
 
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+
 *[VAT]: Value Added Tax
 *[CSDR]: Community System of Duty Reliefs
 *[NIRU]: National Import Relief Unit
