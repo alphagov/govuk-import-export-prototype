@@ -45,6 +45,8 @@ Telephone: 0207 273 3129
 
 $C
 
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+
 
 *[VAT]: Value Added Tax
 *[CSDR]: Community System of Duty Reliefs
