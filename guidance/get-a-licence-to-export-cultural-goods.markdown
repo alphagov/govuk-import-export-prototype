@@ -35,6 +35,18 @@ s2. Complete your application and send it to the Export Licensing Unit. You may 
 
 If you plan to export an item temporarily, you must include the date it will return to the UK on the application.
 
+[Question for SME: how much does it cost to get a licence?]
+
+##What happens next
+
+Your application may be passed to an expert adviser in a national museum or gallery. If they are against the export on the grounds of national importance, your application will be sent to the Reviewing Committee.
+
+The committee will recommend whether the decision should be put on hold to let a UK institution or individual raise funds to buy the item.
+
+You should get a decision within 20 days of your application being received.
+
+If your application for an export licence is accepted, you may need to follow certain conditions.
+
 ##Contact
 
 $A
@@ -50,16 +62,4 @@ Email: <elu@artscouncil.org.uk>
 Telephone: 020 7268 9606    
 [Find out about call charges](/call-charges)   
 $C
-
-[Question for SME: how much does it cost to get a licence?]
-
-##What happens next
-
-Your application may be passed to an expert adviser in a national museum or gallery. If they are against the export on the grounds of national importance, your application will be sent to the Reviewing Committee.
-
-The committee will recommend whether the decision should be put on hold to let a UK institution or individual raise funds to buy the item.
-
-You should get a decision within 20 days of your application being received.
-
-If your application for an export licence is accepted, you may need to follow certain conditions.
 
