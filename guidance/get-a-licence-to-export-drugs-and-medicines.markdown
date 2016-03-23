@@ -117,11 +117,6 @@ $A
 |£152 |2 working days |
 
 
-
-It costs £68 to apply for a certificate.  You should get a decision within 10 working days.
-
-You can pay £152 if you want a decision in 2 working days.
-
 If your application is successful, you’ll get the original version of your certificate and 2 copies.
 
 [SME question: How and when do you pay these fees?]
