@@ -26,7 +26,7 @@ You need a licence to export cultural goods on a temporary basis.
 
 ##What you need to do
 
-[Read the Art Council’s guidance](http://www.artscouncil.org.uk/what-we-do/supporting-museums/cultural-property/export-controls/export-licensing/) to check if you need a licence. 
+Read the Art Council’s [guidance](http://www.artscouncil.org.uk/what-we-do/supporting-museums/cultural-property/export-controls/export-licensing/) to check if you need a licence. 
 
 ##How to apply
 
@@ -39,7 +39,7 @@ If you plan to export an item temporarily, you must include the date it will ret
 
 ##What happens next
 
-Your application may be passed to an expert adviser in a national museum or gallery. If they are against the export on the grounds of national importance, your application will be sent to the Reviewing Committee.
+Your application may be passed to an expert adviser in a national museum or gallery. If they're against the export on the grounds of national importance, your application will be sent to the Reviewing Committee.
 
 The committee will recommend whether the decision should be put on hold to let a UK institution or individual raise funds to buy the item.
 
