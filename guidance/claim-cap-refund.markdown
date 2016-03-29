@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You may need a licence to export goods under the Common Agricultural Policy (CAP) including:
+You'll need a licence to export goods under the Common Agricultural Policy (CAP) including:
 
 - dairy products and eggs
 - fruit and vegetables
