@@ -1,20 +1,122 @@
 ---
 layout: guidance
-title: Claim a Common Agriculture Policy refund
-summary: How to claim a Common Agriculture Policy refund (CAP) refund when you export goods outside the EU.
+title: Get a licence to reduce the cost of exporting agricultural products 
+summary: How to get a Common Agricultural Policy (CAP) licence to export agricultural products and claim a CAP refund.
 permalink: /guidance/claim-cap-refund.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-Under the Common Agriculture Policy (CAP), the supply and pricing of specific goods is kept competitive by a system of refunds and levies. 
+You may need a licence to export goods under the Common Agricultural Policy (CAP) including:
+
+- dairy products and eggs
+- fruit and vegetables
+- plants, trees and cut flowers
+- live animals
+- coffee, tea, cocoa beans and spices
+- starch, gluten and insulin
+- oils and fats
+- meat, fish, crustaceans, edible offal and molluscs
+- sugar, syrups, molasses and honey
+- cereals and rice
+- fermented beverages
+- flax, cork and hemp
+- processed goods with at least one of the goods listed above as an ingredient eg cakes, biscuits
+
+##How to export goods under CAP
+
+s1. [Register](#register) with Rural Payments Agency (RPA).
+s2. [Apply for a licence or certificate](#apply).
+s3. If your goods are processed, [apply for a recipe code](#recipe) from RPA.
+s4. [Pay your security deposit](#security).
+s5. [Claim a CAP refund](#refund).
+
+
+##Register
+{:#register}
+
+You must register with the Rural Payments Agency before exporting food and agricultural products. Call 0300 020 0301 to register.
+##Apply for a licence or certificate
+{:#apply)
+
+Fill in an [Export Licence Application Form (AGREX)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299695/Exports_-_Electronic_Licence_Application_Form.doc) and send it to RPA:
+
+$A
+
+Customer Service Centre Rural Payments Agency 
+PO Box 1058 
+Newcastle-upon-Tyne 
+NE99 7YQ
+
+$A
+
+You can also post, fax or email your application without using using an AGREX. If you’re not using an AGREX your application must contain:
+
+- your full name, address and trader registration number
+- where you’re sending the goods
+- the trade description of the goods
+- the combined nomenclature code of the goods
+- how much security deposit you’re sending
+- whether you need a certificate with advance fixing of your CAP refund - an Advanced Fixing Certificate or a World Trade Organization (WTO) licence
+- whether you’re tendering for the supply of the product
+
+If you want to email your application you must get RPA approval first. Fill in [form TS03](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299696/TSO3_-_Email_licence_v3_May_08.doc) and post or fax it to RPA. 
+
+$C
+
+Fax: 0191 226 1081
+
+$C
+
+$A
+
+Trader Scheme Operations - Policy
+Rural Payments Agency
+Lancaster House
+Hampshire Court
+Newcastle-upon-Tyne
+NE4 7YH
+
+$A
+
+##Apply for a recipe code
+{:#recipe}
+
+You can apply for a recipe code if you’re exporting processed goods. This code allows you to claim a refund more simply by calculating the percentage of each eligible ingredient used in the processed goods as opposed to claiming each separate ingredient.
+
+##Pay a security deposit
+{:#security}
+
+
+You may need to pay a security deposit. Find out how much you’ll need to pay the relevant [agricultural product guide](#agriculture-guides).
+
+You won’t have to pay if the security is less than €100. Call the guarantees section of RPA if you’re not sure if you need to pay.
+
+$C
+
+Phone: 0118 953 1863
+
+$C
+
+##After you’ve applied
+
+RPA will give you either:
+
+- a standard export licence
+- an Advanced Fixing Certificate (also known as a WTO licence)
+
+Find out how long it takes to get your certificate or licence in the relevant [agricultural product guide](#agriculture-guides).
+
+
+##Claim a Common Agriculture Policy refund
+{:#refund}
 
 You can claim a CAP refund (or subsidy) when the market price of the goods you export is lower in your target market than in the EU. 
 
 This allows you to competitively price your goods in your chosen export market without losing money.
 
-##Eligibility
+###Eligibility
 
 To claim a refund, you must prove your goods:
 
@@ -27,14 +129,14 @@ To claim a refund, you must prove your goods:
 
 You must claim your refund within 12 months of exporting your goods.
 
-###Changing transport 
+####Changing transport 
 
 If your goods enter another EU port to change their method of transport (transhipment) to qualify for a refund they must leave the port within both:
 
 - the original 60 days of your export declaration being accepted
 - 28 days of arriving at the EU port
 
-##How to claim
+###How to claim
 
 To claim an export refund you must:
 
@@ -42,7 +144,7 @@ To claim an export refund you must:
 - put your goods under Customs control
 - prove that you’re eligible for the refund
 
-###Put goods under Customs control
+####Put goods under Customs control
 
 There are 3 ways to put your goods under customs control, either:
 
@@ -63,6 +165,7 @@ You’ll need to include in your declaration the:
 - proof of arrival if your goods are [differentiated](#differentiated-refunds)
 
 You can list up to 99 items in each declaration. 
+
 
 ####Simplified scheduling procedure
 {:#simplified-scheduling-procedure}
@@ -129,3 +232,21 @@ You can [request an advance refund payment](https://www.gov.uk/government/upload
 You must make a 110% deposit security on the refund you’re claiming. The deposit will be returned once you submit your proof of export.
 
 [SME question: how do you make a deposit?]
+
+
+##Agricultural product guides
+{:#agriculture-guides}
+
+- [Beef and veal](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299731/ET9_-_March_2012.pdf)
+ - [Cereal](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299737/ET13A_-_Exports_-_August_2012.pdf)
+- [Eggs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299728/ET6_-_March_2012.pdf)
+- [Fruit and vegetables - fresh](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299734/ET11_-_January_2012.pdf)
+- [Fruit and vegetables - processed](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299735/ET12_August_2009.pdf)
+- [Hemp](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299742/ET21_v2.0_Dec_2009.pdf)
+- [Milk and milk products](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299733/ET10_May_2010.pdf)
+- [Oils and fats](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299727/ET4_September_2009.pdf)
+- [Pigmeat](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299730/ET8_-_March_2012.pdf)
+- [Processed goods](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299740/ET17_Version_12.0.pdf)
+- [Rice](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299739/ET14A__Exports__-_May_2012.pdf)
+- [Sugar](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299726/ET3_-_March_2012.pdf)
+
