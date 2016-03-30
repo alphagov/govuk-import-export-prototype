@@ -15,17 +15,17 @@ breadcrumbs:
 
 Your organisation must be either:
 
-- registered by the Charities Commission or the Office of the Scottish Charities Regulator
+- registered by the Charity Commission or the Office of the Scottish Charities Regulator
 - a state or non-profit organisation devoted to welfare
 
 ##Goods eligible for relief
 
-You can get duty and VAT relief if you import goods for any of the following purposes:
+You can get duty and VAT relief if you import goods to be either:
 
-- to be given free of charge to needy people including food, medicines, clothing, blankets, orthopaedic equipment, crutches
-- to be used or sold at occasional charity events (held normally not more than 4 times a year) for the benefit of needy people
-- equipment and office materials you receive free of charge to help run your organisation for the benefit of needy people
-- to help deal with disasters in the Customs Union
+- given free of charge to needy people including food, medicines, clothing, blankets, orthopaedic equipment, crutches
+- used or sold at occasional charity events (held normally not more than 4 times a year) for the benefit of needy people
+- used to help run your organisation for the benefit of needy people including equipment and office materials you receive free of charge
+- used to help deal with disasters in the Customs Union
 
 ##Goods not eligible for relief
 
@@ -39,7 +39,15 @@ You can’t claim relief for any of the following goods:
 
 ##How to claim relief
 
-Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).  
+You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following Customs procedure codes into your declaration: 
+
+Nature of the goods | Customs procedure codes
+-|-
+Basic necessities imported from outside the Customs Union | CPC 40 00 C20
+Basic necessities imported from inside Customs Union | CPC 49 00 C20
+To be used or sold at charitable events imported from the Special Territories or Customs Union | CPC 49 00 C20
+Equipment and office materials imported from outside the Customs Union | CPC 40 00 C20
+Equipment and office materials imported from inside the Customs Union | CPC 40 00 C20  
 
 ^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
 
