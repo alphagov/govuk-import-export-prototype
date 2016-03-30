@@ -39,7 +39,7 @@ s5. [Claim a CAP refund](#refund).
 You must register with the Rural Payments Agency before exporting food and agricultural products. Call 0300 020 0301 to register.
 
 ##Apply for a licence or certificate
-{:#apply)
+{:#apply}
 
 Fill in an [Export Licence Application Form (AGREX)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299695/Exports_-_Electronic_Licence_Application_Form.doc) and send it to RPA:
 
