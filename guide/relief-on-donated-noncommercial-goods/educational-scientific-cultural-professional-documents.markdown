@@ -40,7 +40,17 @@ Check the [trade tariff](/start/trade-tariff.html) to find out if your goods are
 
 ##How to claim
 
-Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).
+Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following Customs procedure codes into your declaration: 
+
+Nature of the goods | Customs procedure codes
+-|-
+Documents of an educational, scientific or cultural nature imported from outside the Customs Union | 40 00 C11
+Professional documents imported from outside the Customs Union | 40 00 C31
+Trademarks, patterns or designs, and their supporting documents and applications for patents for inventions | 40 00 C34
+Trademarks, patterns or designs, and their supporting documents and applications for patents for inventions from the special territories | 49 00 C34
+Tourist information literature to be distributed free of charge, provided they don’t contain more than 25% of private advertising | 40 00 C35
+Tourist information literature to be distributed free of charge from the special territories, provided they don’t contain more than 25% of private advertising | 49 00 C35
+Printed advertising material (including catalogues, price lists, brochures) from the special territories | 49 00 C31
 
 ^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
 
