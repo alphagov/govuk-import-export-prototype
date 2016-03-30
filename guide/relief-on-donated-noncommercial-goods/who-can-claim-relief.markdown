@@ -17,7 +17,7 @@ You don’t need to pay customs duty, and in some cases VAT, if you’re importi
 
 - goods for [museums and galleries](/duty-vat-relief-importers-educational-scientific-cultural-goods/museums-and-galleries)
 - goods for [charities](/duty-vat-relief-importers-educational-scientific-cultural-goods/charities) 
-- [scientific and medical equipment](/scientific-instruments) - for use in educational establishments, as well as the NHS
+- [scientific and medical equipment](/scientific-instruments)
 - [animals for scientific research](/duty-vat-relief-importers-educational-scientific-cultural-goods/animals-for-scientific-research)
 - [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
 - [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
