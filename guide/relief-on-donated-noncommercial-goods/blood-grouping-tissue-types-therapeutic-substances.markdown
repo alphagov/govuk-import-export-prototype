@@ -29,12 +29,9 @@ You can get relief when you import any of the following:
 
 ^The goods must be for non-commercial medical or scientific purposes by approved laboratories or institutions.^
 
-##How to claim relief
+##Apply for approval
 
-s1. If you’re a private establishment, you must apply for approval from NIRU before the goods are imported. NIRU will send you an approval letter.  
-s2. Attach the approval letter to your [import declaration](/guide/import-goods-outside-eu/overview.html) and enter the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html).
-
-^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+If you’re a private establishment, you must apply for approval from NIRU before the goods are imported. NIRU will send you an approval letter. You must attach the approval letter to your [import declaration](/guide/import-goods-outside-eu/overview.html) and make sure it's available for inspection at customs.
 
 $C
 **National Import Reliefs Unit**   
@@ -43,6 +40,18 @@ Telephone: 02866 344 557
 Fax: 0286 344 571   
 Find out about call charges   
 $C
+
+##How to claim relief
+
+You claim relief when you make your import declaration. Enter one of the following customs procedure codes into your declaration: 
+
+Nature of the goods | Customs procedure codes
+-|-
+Imported from outside the Customs Union | 40 00 C16
+Imported from inside the Customs Union | 49 00 C16
+
+
+^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
 
 ###If you’ve applied for but not yet received NIRU approval
 
