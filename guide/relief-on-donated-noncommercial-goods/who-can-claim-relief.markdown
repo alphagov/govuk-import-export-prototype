@@ -21,7 +21,7 @@ You don’t need to pay customs duty, and in some cases VAT, if you’re importi
 - [animals for scientific research](/duty-vat-relief-importers-educational-scientific-cultural-goods/animals-for-scientific-research)
 - [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
 - [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
-- [commercial samples of negligible value](/guide/relief-on-donated-noncommercial-goods/commercial-samples.html)
+- [commercial samples](/guide/relief-on-donated-noncommercial-goods/commercial-samples.html)
 - [inherited goods](/guide/relief-on-donated-noncommercial-goods/inherited-goods.html)
 - [goods for disabled people](/guide/relief-on-donated-noncommercial-goods/disabled-people.html)
 - [blood grouping, tissue types and therapeutic substances](/guide/relief-on-donated-noncommercial-goods/blood-grouping-tissue-types-therapeutic-substances.html)
