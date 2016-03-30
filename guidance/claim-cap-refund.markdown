@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You'll need a licence to export goods under the Common Agricultural Policy (CAP) including:
+You’ll need a licence to export goods under the Common Agricultural Policy (CAP) including:
 
 - dairy products and eggs
 - fruit and vegetables
@@ -17,12 +17,12 @@ You'll need a licence to export goods under the Common Agricultural Policy (CAP)
 - coffee, tea, cocoa beans and spices
 - starch, gluten and insulin
 - oils and fats
-- meat, fish, crustaceans, edible offal and molluscs
+- meat, fish, crustaceans, molluscs and edible offal 
 - sugar, syrups, molasses and honey
 - cereals and rice
 - fermented beverages
 - flax, cork and hemp
-- processed goods with at least one of the goods listed above as an ingredient eg cakes, biscuits
+- processed goods with at least one of the goods listed above as an ingredient, eg cakes, biscuits
 
 ##How to export goods under CAP
 
@@ -37,6 +37,7 @@ s5. [Claim a CAP refund](#refund).
 {:#register}
 
 You must register with the Rural Payments Agency before exporting food and agricultural products. Call 0300 020 0301 to register.
+
 ##Apply for a licence or certificate
 {:#apply)
 
@@ -60,6 +61,8 @@ You can also post, fax or email your application without using using an AGREX. I
 - how much security deposit you’re sending
 - whether you need a certificate with advance fixing of your CAP refund - an Advanced Fixing Certificate or a World Trade Organization (WTO) licence
 - whether you’re tendering for the supply of the product
+
+[Question for SME: what proportion of users use the application form? What are the benefits of doing so versus sending an email?]
 
 If you want to email your application you must get RPA approval first. Fill in [form TS03](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299696/TSO3_-_Email_licence_v3_May_08.doc) and post or fax it to RPA. 
 
@@ -85,17 +88,22 @@ $A
 
 You can apply for a recipe code if you’re exporting processed goods. This code allows you to claim a refund more simply by calculating the percentage of each eligible ingredient used in the processed goods as opposed to claiming each separate ingredient.
 
+Apply for a recipe code using an ET/PG1 form.
+
+[SME question: where is form ET/PG1? Where do users send this form?]
+
 ##Pay a security deposit
 {:#security}
 
+You may need to pay a security deposit. Find out how much you’ll need to pay in the relevant [agricultural product guide](#agriculture-guides).
 
-You may need to pay a security deposit. Find out how much you’ll need to pay the relevant [agricultural product guide](#agriculture-guides).
-
-You won’t have to pay if the security is less than €100. Call the guarantees section of RPA if you’re not sure if you need to pay.
+You won’t have to pay if the security is less than €100. Call the guarantees section of RPA if you’re not sure you need to pay.
 
 $C
 
 Phone: 0118 953 1863
+[Find out about call charges](/call-charges)
+
 
 $C
 
@@ -105,6 +113,8 @@ RPA will give you either:
 
 - a standard export licence
 - an Advanced Fixing Certificate (also known as a WTO licence)
+
+[Question for SME: What’s the difference between these 2 licences? What does it mean for the user?]
 
 Find out how long it takes to get your certificate or licence in the relevant [agricultural product guide](#agriculture-guides).
 
@@ -125,22 +135,21 @@ To claim a refund, you must prove your goods:
 - are in [free circulation](/link) in the EU
 - have not been altered while in Customs control 
 - are of EU origin
-- were exported in suitable welfare conditions, if you’re transporting live animals
+- were exported in [suitable welfare conditions](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html), if you’re transporting live animals
 
 You must claim your refund within 12 months of exporting your goods.
 
 ####Changing transport 
 
-If your goods enter another EU port to change their method of transport (transhipment) to qualify for a refund they must leave the port within both:
+If your goods enter another EU port to change their method of transport (transhipment),they must leave the port within both:
 
-- the original 60 days of your export declaration being accepted
+- 60 days of your export declaration being accepted
 - 28 days of arriving at the EU port
 
 ###How to claim
 
 To claim an export refund you must:
 
-- [register as a trader with the Rural Payments Agency](/guidance/register-for-rural-payments)
 - put your goods under Customs control
 - prove that you’re eligible for the refund
 
@@ -149,12 +158,12 @@ To claim an export refund you must:
 There are 3 ways to put your goods under customs control, either:
 
 -  make an CAP export refund declaration online
-- fill-in forms [C88 and C88(CAP)CIE](/government/publications/import-and-export-common-agricultural-policy-export-customs-input-of-entry-control-c88-cap-cie) - HMRC will then put the data into NES for you when your goods are at the border
+- fill-in forms [C88 and C88(CAP)CIE](/government/publications/import-and-export-common-agricultural-policy-export-customs-input-of-entry-control-c88-cap-cie) - HMRC will then put the data into NES for you when your goods are at the border [SME question: where do you send the forms?]
 - use [simplified scheduling procedures](#simplified-scheduling-procedure)
 
 ####Make an CAP export refund declaration online
 
-Under Customs’ New Export System (NES) exporters and agents can [make an CAP export refund declaration online](https://govuk-import-export.herokuapp.com/guide/declare-exporting-goods-from-eu/overview.html). 
+Under Customs’ New Export System (NES) exporters and agents can [make an export declaration online](https://govuk-import-export.herokuapp.com/guide/declare-exporting-goods-from-eu/overview.html). 
 
 You’ll need to include in your declaration the:
 
@@ -172,7 +181,7 @@ You can list up to 99 items in each declaration.
 
 [SME question: What’s the benefit of doing simplified scheduling procedure? Is it less paperwork?]
 
-You may be able to use the simplified scheduling procedure if you’re:
+You may be able to use the simplified scheduling procedure if you’re either:
 
 - an exporting victualling supplier for ships and aircraft in the EU
 - supplying international organisations in the UK that are allowed to receive duty free goods
@@ -193,9 +202,9 @@ Monday to Friday, 8am to 6pm
 
 $C  
 
-##How much you’ll receive
+##How much you’ll get
 
-How much you’ll receive depends on whether it’s an ‘undifferentiated’ or ‘differentiated’ refund.
+How much you’ll get depends on whether it’s an ‘undifferentiated’ or ‘differentiated’ refund.
 
 
 ###Undifferentiated refunds
@@ -231,7 +240,7 @@ You can [request an advance refund payment](https://www.gov.uk/government/upload
 
 You must make a 110% deposit security on the refund you’re claiming. The deposit will be returned once you submit your proof of export.
 
-[SME question: how do you make a deposit?]
+[SME question: how do you make a deposit and is it something your bank does for you?]
 
 
 ##Agricultural product guides
@@ -249,4 +258,3 @@ You must make a 110% deposit security on the refund you’re claiming. The depos
 - [Processed goods](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299740/ET17_Version_12.0.pdf)
 - [Rice](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299739/ET14A__Exports__-_May_2012.pdf)
 - [Sugar](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299726/ET3_-_March_2012.pdf)
-
