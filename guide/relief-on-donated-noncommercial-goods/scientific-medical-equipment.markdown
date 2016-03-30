@@ -47,16 +47,16 @@ The goods must be either:
 
 ###Goods eligible for VAT relief
 
-You can claim VAT relief if your goods are:
+Even if not eligible for duty relief, you can still claim VAT relief if your goods are:
 
 - medical, scientific, computer, video, sterilizing, laboratory or refrigeration equipment
 - intended for use in medical or veterinary research, training, diagnosis or treatment
 - purchased with charitable or voluntary contributions
 
-The VAT relief also extends to:
+The VAT relief also extends to charities providing:
 
-- charities providing rescue or first aid services
-- charities providing care, medical or surgical treatment for disabled people
+- rescue or first aid services
+- care, medical or surgical treatment for disabled people
 
 ##Apply for approval
 
