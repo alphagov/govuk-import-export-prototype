@@ -29,9 +29,9 @@ Get advice and support from UK Trade & Investment (UKTI) to grow your business o
 
 {% contentfor more_information %}
 
-^UKTI can also help you find specific [overseas business opportunities.](https://govuk-import-export.herokuapp.com/start/find-overseas-business-opportunities.html)^
+UKTI can also help you find specific [overseas business opportunities.](https://govuk-import-export.herokuapp.com/start/find-overseas-business-opportunities.html)
 
-You can also sign up for [UKTI events, seminars and webinars.](https://www.events.ukti.gov.uk)
+You can sign up for [UKTI events, seminars and webinars.](https://www.events.ukti.gov.uk)
 
 *[UKTI]: UK Trade & Investment
 
