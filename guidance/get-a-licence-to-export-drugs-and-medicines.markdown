@@ -125,13 +125,17 @@ You can get extra copies of certificates for £34 each.
 
 ##Export controlled drugs
 
-You must also apply for 2 licences to export ‘controlled drugs’ eg morphine, cannabis. 
+You'll need a licence to export ‘controlled drugs’ eg morphine, cannabis.
 
 Controlled drugs are controlled under the [Misuse of Drugs legislation](http://www.legislation.gov.uk/uksi/2001/3998/schedule/4/made).
 
-Email the Drug Licensing and Compliance Unit (DLCU) [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffice.gsi.gov.uk) for a current list of controlled drugs.
+s1. Email the Drug Licensing and Compliance Unit (DLCU) [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffice.gsi.gov.uk) for a current list of controlled drugs.
+s2. [Get named applicants an enhanced disclosure check](#dbs).
+s3. [Apply for a controlled drugs licence](#apply-licence).
+s4. [Apply for a National Drugs control System export licence](#apply-export-licence).
 
 ###Before you apply
+{:#dbs}
 
 Each person named on your applications must have a Disclosure and Barring Service (DBS) enhanced disclosure check. 
 
@@ -144,11 +148,8 @@ Monday to Friday, 9am to 5:30pm
 [Find out about call charges](/call-charges)
 $C
 
-###Apply for your licences
-
-You’ll need 2 licences to export controlled drugs. 
-
-####Controlled drugs licence
+###Apply for a controlled drugs licence
+{:#apply-licence}
 
 [Register with the Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml) before you apply for a controlled drugs licence.
 
@@ -158,7 +159,8 @@ You should get a decision within 16 weeks.
 
 [SME question: How much does this licence cost? Whar can they do if they haven't got a decision after 16 weeks?]
 
-####National Drugs control System export licence
+###Apply for a National Drugs control System export licence
+{:#apply-export-licence}
 
 You’ll also need to [register for an account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) to apply for an export licence from the National Drugs control System (NDS).
 
