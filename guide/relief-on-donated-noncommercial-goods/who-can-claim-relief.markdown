@@ -17,16 +17,15 @@ You don’t need to pay customs duty, and in some cases VAT, if you’re importi
 
 - goods for [museums and galleries](/duty-vat-relief-importers-educational-scientific-cultural-goods/museums-and-galleries)
 - goods for [charities](/duty-vat-relief-importers-educational-scientific-cultural-goods/charities) 
-- [scientific instruments](/scientific-instruments) - for use in educational establishments, as well as the NHS
-- [donated medical equipment](/duty-vat-relief-importers-educational-scientific-cultural-goods/donated-medical-equipment) - for research, diagnosis and treatment for a health authority or hospital department 
-- educational, scientific, cultural and professional documents
-- capital goods 
+- [scientific and medical equipment](/scientific-instruments) - for use in educational establishments, as well as the NHS
 - [animals for scientific research](/duty-vat-relief-importers-educational-scientific-cultural-goods/animals-for-scientific-research)
-- biological and chemical substances for scientific research
-- commercial samples of negligible value
-- inherited goods
-- blood grouping, tissue types and therapeutic substances
-- goods for disabled people
+- [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
+- [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
+- [commercial samples of negligible value](/guide/relief-on-donated-noncommercial-goods/commercial-samples.html)
+- [inherited goods](/guide/relief-on-donated-noncommercial-goods/inherited-goods.html)
+- [goods for disabled people](/guide/relief-on-donated-noncommercial-goods/disabled-people.html)
+- [blood grouping, tissue types and therapeutic substances](/guide/relief-on-donated-noncommercial-goods/blood-grouping-tissue-types-therapeutic-substances.html)
+- [educational, scientific, cultural and professional documents](/guide/relief-on-donated-noncommercial-goods/educational-scientific-cultural-professional-documents.html)
 
 This is called Community System Duty Reliefs (CSDR).
 
