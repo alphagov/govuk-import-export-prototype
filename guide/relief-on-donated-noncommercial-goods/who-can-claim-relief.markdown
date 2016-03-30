@@ -15,10 +15,10 @@ breadcrumbs:
 
 You don’t need to pay customs duty, and in some cases VAT, if you’re importing any of the following into the EU:
 
-- goods for [museums and galleries](/duty-vat-relief-importers-educational-scientific-cultural-goods/museums-and-galleries)
-- goods for [charities](/duty-vat-relief-importers-educational-scientific-cultural-goods/charities) 
-- [scientific and medical equipment](/scientific-instruments)
-- [animals for scientific research](/duty-vat-relief-importers-educational-scientific-cultural-goods/animals-for-scientific-research)
+- goods for [museums and galleries](/guide/relief-on-donated-noncommercial-goods/museums-galleries.html)
+- goods for [charities](/guide/relief-on-donated-noncommercial-goods/museums-galleries.html) 
+- [scientific and medical equipment](/guide/relief-on-donated-noncommercial-goods/scientific-medical-equipment.html)
+- [animals for scientific research](/guide/relief-on-donated-noncommercial-goods/animals-for-scientific-research.html)
 - [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
 - [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
 - [commercial samples](/guide/relief-on-donated-noncommercial-goods/commercial-samples.html)
