@@ -26,14 +26,11 @@ You can only get VAT relief if the animals have been supplied free of charge.
 
 You must only use the animals for scientific research purposes. 
 
-^HMRC officers may visit you to confirm that the conditions of the relief are met.^
+^HMRC officers may visit you to confirm that you’re using the animals for scientific research purposes.^
 
-##How to claim relief
+##Apply for approval
 
-s1. If you're a private establishment, you must ask the Home Office for approval before you can claim relief. The Home Office will send you an approval letter - make sure it’s available for inspection at customs.
-s2. Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html). 
-
-^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
+If you're a private establishment, you must ask the Home Office for approval before you can claim relief. The Home Office will send you an approval letter - make sure it’s available for inspection at customs.
 
 $C
 
@@ -46,6 +43,18 @@ Telephone: 0207 273 3129
 [Find out about call charges](/call-charges)
 
 $C
+
+
+##How to claim relief
+
+You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following Customs procedure codes into your declaration: 
+
+Nature of the goods | Customs procedure codes
+-|-
+Animals imported from outside the Customs Union | 40 00 C15
+Animals imported from inside the Customs Union | 49 00 C15
+[Question for SME: any records you must keep?]
+
 
 
 
