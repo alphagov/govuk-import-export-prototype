@@ -43,6 +43,7 @@ Fax: 02866 344 571
 [Find out about call charges](/call-charges)   
 $C
 
+
 ##How to claim relief
 
 You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). You’ll need to enter both of the following into your import declaration:
