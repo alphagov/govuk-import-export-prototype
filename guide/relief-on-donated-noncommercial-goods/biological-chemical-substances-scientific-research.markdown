@@ -41,23 +41,30 @@ Tariff heading | Description
 350790 | Phosphoglucomutase
 3204 | Orcoacid Sulphurhodamine G
 
+##Apply for approval
+
+If you’re a private establishment, you must apply for approval from NIRU before the goods are imported. Tell them about the research project that will use the substance. 
+
+NIRU will send you an approval letter - you must use this when you make your import declaration.
+
+$C
+
+**National Import Reliefs Unit**
+Email: <niru@hmrc.gov.uk> 
+Telephone: 02866 344 557 
+Fax: 02866 344 571 
+Find out about call charges
+
+$C
+
 ##How to claim relief
 
-s1. If you’re a private establishment, you must apply for approval from NIRU before the goods are imported. Tell them about the research project that will use the substance. NIRU will send you an approval letter.
+You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following Customs procedure codes into your declaration: 
 
-s2. Attach the approval letter to your [import declaration](/guide/import-goods-outside-eu/overview.html) and enter the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html). 
-
-^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
-
-$C
-
-**National Import Reliefs Unit**   
-Email: <niru@hmrc.gov.uk>    
-Telephone: 02866 344 557    
-Fax: 0286 344 571   
-[Find out about call charges](/call-charges.gov.uk)  
-
-$C
+Nature of the goods | Customs procedure codes
+-|-
+Imported from outside the Customs Union | 40 00 C15
+Imported from inside the Customs Union | 49 00 C15
 
 ###If you've applied for but not yet received NIRU approval
 
