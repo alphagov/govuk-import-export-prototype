@@ -132,7 +132,7 @@ Controlled drugs are controlled under the [Misuse of Drugs legislation](http://w
 s1. Email the Drug Licensing and Compliance Unit (DLCU) [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffice.gsi.gov.uk) for a current list of controlled drugs.
 s2. [Get named applicants an enhanced disclosure check](#dbs).
 s3. [Apply for a controlled drugs licence](#apply-licence).
-s4. [Apply for a National Drugs control System export licence](#apply-export-licence).
+s4. [Apply for a National Drugs control System export licence](#apply-export-licence) for each shipment.
 
 ###Before you apply
 {:#dbs}
