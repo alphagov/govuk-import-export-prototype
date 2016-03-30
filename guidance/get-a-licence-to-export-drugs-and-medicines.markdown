@@ -130,9 +130,9 @@ You'll need a licence to export ‘controlled drugs’ eg morphine, cannabis.
 Controlled drugs are controlled under the [Misuse of Drugs legislation](http://www.legislation.gov.uk/uksi/2001/3998/schedule/4/made).
 
 s1. Email the Drug Licensing and Compliance Unit (DLCU) [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffice.gsi.gov.uk) for a current list of controlled drugs.
-s2. [Get named applicants an enhanced disclosure check](#dbs).
-s3. [Apply for a controlled drugs licence](#apply-licence).
-s4. [Apply for a National Drugs control System export licence](#apply-export-licence) for each shipment.
+s2. Get named applicants an [enhanced disclosure check](#dbs).
+s3. Apply for a [controlled drugs licence](#apply-licence).
+s4. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
 
 
 ###Before you apply
