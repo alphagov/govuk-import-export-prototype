@@ -13,19 +13,20 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You can get relief from duty, and in some cases VAT, if you’re importing goods into the EU for:
+You don’t need to pay customs duty, and in some cases VAT, if you’re importing any of the following into the EU:
 
-- [museums and galleries](/guide/relief-on-donated-noncommercial-goods/museums-galleries.html)
-- [charities](/guide/relief-on-donated-noncommercial-goods/charities.html) 
-- [scientific and medical equipment](/guide/relief-on-donated-noncommercial-goods/scientific-instruments.html)
-- [animals for scientific research](/guide/relief-on-donated-noncommercial-goods/animals-for-scientific-research.html)
-- [capital goods](/guide/relief-on-donated-noncommercial-goods/capital-goods.html) 
-- [biological and chemical substances for scientific research](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
-- [commercial samples](/guide/relief-on-donated-noncommercial-goods/commercial-samples.html)
-- [inherited goods](/guide/relief-on-donated-noncommercial-goods/inherited-goods.html)
-- [disabled people](/guide/relief-on-donated-noncommercial-goods/disabled-people.html)
-- [blood grouping, tissue types and therapeutic substances](/guide/relief-on-donated-noncommercial-goods/biological-chemical-substances-scientific-research.html)
-- [educational, scientific, cultural and professional documents](/guide/relief-on-donated-noncommercial-goods/educational-scientific-cultural-professional-documents.html)
+- goods for [museums and galleries](/duty-vat-relief-importers-educational-scientific-cultural-goods/museums-and-galleries)
+- goods for [charities](/duty-vat-relief-importers-educational-scientific-cultural-goods/charities) 
+- [scientific instruments](/scientific-instruments) - for use in educational establishments, as well as the NHS
+- [donated medical equipment](/duty-vat-relief-importers-educational-scientific-cultural-goods/donated-medical-equipment) - for research, diagnosis and treatment for a health authority or hospital department 
+- educational, scientific, cultural and professional documents
+- capital goods 
+- [animals for scientific research](/duty-vat-relief-importers-educational-scientific-cultural-goods/animals-for-scientific-research)
+- biological and chemical substances for scientific research
+- commercial samples of negligible value
+- inherited goods
+- blood grouping, tissue types and therapeutic substances
+- goods for disabled people
 
 This is called Community System Duty Reliefs (CSDR).
 
