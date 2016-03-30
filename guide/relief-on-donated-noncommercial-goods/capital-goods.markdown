@@ -17,11 +17,11 @@ You can import capital goods (eg machinery, tools, computers and other equipment
 
 ##Eligibility
 
-You can get duty relief if your business:
+You can get duty relief if all the following apply:
 
-- has completely ceased its activity outside the EUCU
-- will be moving to the UK to carry on a similar activity there
-- will be merging with an established UK business, to then produce or provide new products or services
+- your business (including limited companies, self employed people and charities) has completely ceased its activity outside the EUCU
+- your business will be moving to the UK to carry on a similar activity there
+- your business will be merging with an established UK business, to then produce or provide new products or services
 
 You can get VAT relief if your business:
 
@@ -44,9 +44,18 @@ The goods must:
 - be appropriate to the nature and size of your business
 - be imported from their previous location within 12 months of the date your business ceased activities there
 
+
 ##How to claim relief
 
-Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import declaration](/guide/import-goods-outside-eu/overview.html).
+You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following Customs procedure codes into your declaration: 
+
+Nature of the goods | Customs procedure codes
+-|-
+For companies | 40 00 C09
+For self-employed persons and non-profit making organisations | 40 00 C10
+For companies importing from the special territories | 49 00 C09
+For self-employed persons and non-profit making organisations importing from the special territories  | 49 00 C10
+
 
 You’ll need to:
 
