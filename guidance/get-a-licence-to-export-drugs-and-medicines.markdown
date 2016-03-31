@@ -127,15 +127,13 @@ You can get extra copies of certificates for £34 each.
 
 You'll need a licence to export ‘controlled drugs’ eg morphine, cannabis.
 
-Controlled drugs are controlled under the [Misuse of Drugs legislation](http://www.legislation.gov.uk/uksi/2001/3998/schedule/4/made).
-
 s1. Email the Drug Licensing and Compliance Unit (DLCU) [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffice.gsi.gov.uk) for a current list of controlled drugs.
 s2. Get named applicants an [enhanced disclosure check](#dbs).
 s3. Apply for a [controlled drugs licence](#apply-licence).
 s4. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
 
 
-###Before you apply
+###Get an enhanced disclosure check
 {:#dbs}
 
 Each person named on your applications must have a Disclosure and Barring Service (DBS) enhanced disclosure check. 
@@ -158,7 +156,7 @@ Once you’re registered, [log into your account](https://eforms.homeoffice.gov.
 
 You should get a decision within 16 weeks.
 
-[SME question: How much does this licence cost? Whar can they do if they haven't got a decision after 16 weeks?]
+[SME question: How much does this licence cost? Whar can they do if they haven't got a decision after 16 weeks? How lomng is this licence valid for?]
 
 ###Apply for a National Drugs control System export licence
 {:#apply-export-licence}
@@ -169,7 +167,7 @@ You must submit a copy of the import permit from the country you’re importing 
 
 You must put your [company number](https://www.gov.uk/get-information-about-a-company) in the notes field of your NDS application.
 
-Your licence will be valid for up to 2 months. If the import licence of the country you’re exporting to is less than 2 months, your licence will be issued for the same length of time.
+Your licence will be valid for up to 2 months. If the import licence of the country you’re exporting to is valid for less than 2 months, your licence will be issued for the same length of time.
 
 #####Fees
 
