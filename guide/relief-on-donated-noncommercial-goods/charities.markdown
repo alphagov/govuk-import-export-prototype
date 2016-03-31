@@ -23,7 +23,7 @@ Your organisation must be either:
 You can get duty and VAT relief if you import goods to be either:
 
 - given free of charge to needy people including food, medicines, clothing, blankets, orthopaedic equipment, crutches
-- used or sold at occasional charity events (held normally not more than 4 times a year) for the benefit of needy people
+- used or sold at occasional charity events (held no more than 4 times a year) for the benefit of needy people
 - used to help run your organisation for the benefit of needy people including equipment and office materials you receive free of charge
 - used to help deal with disasters in the Customs Union
 
