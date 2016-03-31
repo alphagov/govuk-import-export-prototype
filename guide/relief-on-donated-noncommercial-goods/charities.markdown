@@ -43,11 +43,11 @@ You claim relief when you make your [import declaration](/guide/import-goods-out
 
 Nature of the goods | Customs procedure codes
 -|-
-Basic necessities imported from outside the Customs Union | CPC 40 00 C20
-Basic necessities imported from inside Customs Union | CPC 49 00 C20
-To be used or sold at charitable events imported from the Special Territories or Customs Union | CPC 49 00 C20
-Equipment and office materials imported from outside the Customs Union | CPC 40 00 C20
-Equipment and office materials imported from inside the Customs Union | CPC 40 00 C20  
+Basic necessities imported from outside the Customs Union | 40 00 C20
+Basic necessities imported from inside Customs Union | 49 00 C20
+To be used or sold at charitable events imported from the Special Territories or Customs Union | 49 00 C20
+Equipment and office materials imported from outside the Customs Union | 40 00 C20
+Equipment and office materials imported from inside the Customs Union | 40 00 C20  
 
 ^You can use an agent or freight forwarder if you want to import goods and don’t want to manage the logistics yourself.^
 
