@@ -6,7 +6,6 @@ permalink: /guidance/wood-packaging-requirements.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
-
 ---
 
 The wood packaging you use to import or export goods must meet certain requirements. Your goods could be rejected or destroyed if you don’t meet these requirements.
