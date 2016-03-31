@@ -31,3 +31,11 @@ If ICS is unavailable, you should continue to make declarations on it. These wil
 
 If you need help getting an EORI number, contact the [EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact).
 [Contact HMRC](/government/organisations/hm-revenue-customs/contact/new-computerised-transit-system-enquiries) for advice on using ICS.
+
+##Records you must keep
+
+You must keep records for 4 years. This means:
+
+- copies of declarations you made online through NES
+- commercial invoices
+- valuation forms
