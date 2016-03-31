@@ -43,7 +43,7 @@ Tariff heading | Description
 
 ##Apply for approval
 
-If you’re a private establishment, you must apply for approval from NIRU before the goods are imported. Tell them about the research project that will use the substance. 
+If you’re a private establishment, you must apply for approval from the NIRU before the goods are imported. Tell them about the research project that will use the substance. 
 
 NIRU will send you an approval letter - you must use this when you make your import declaration.
 
