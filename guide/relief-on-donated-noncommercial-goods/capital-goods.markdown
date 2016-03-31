@@ -13,13 +13,13 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You can import capital goods (eg machinery, tools, computers and other equipment) when you move your business to the UK from the European Union Customs Union (EUCU). 
+You can import capital goods (eg machinery, tools, computers and other equipment) when you move your business to the UK from the Customs Union. 
 
 ##Eligibility
 
 You can get duty relief if all the following apply:
 
-- your business (including limited companies, self employed people and charities) has completely ceased its activity outside the EUCU
+- your business (including limited companies, self employed people and charities) has completely ceased its activity outside the Customs Union
 - your business will be moving to the UK to carry on a similar activity there
 - your business will be merging with an established UK business, to then produce or provide new products or services
 
@@ -69,5 +69,4 @@ You’ll need to:
 *[NIRU]: National Import Relief Unit
 *[CPC]: Customs Procedure Code
 *[HMRC]: HM Revenue and Customs
-*[EUCU]: European Union Customs Union
 *[EORI]: Economic Operator Registration Identification
