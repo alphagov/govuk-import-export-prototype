@@ -43,7 +43,7 @@ You can’t get relief for:
 
 ##How to claim relief
 
-You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following Customs procedure codes into your declaration: 
+You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following customs procedure codes into your declaration: 
 
 Nature of the goods | Customs procedure codes
 -|-
