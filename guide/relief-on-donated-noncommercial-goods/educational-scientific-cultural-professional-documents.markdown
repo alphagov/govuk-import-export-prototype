@@ -40,7 +40,7 @@ Check the [trade tariff](/start/trade-tariff.html) to find out if your goods are
 
 ##How to claim
 
-Use the correct [Customs Procedure Code (CPC)](/start/trade-tariff.html) [when you make your import You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following Customs procedure codes into your declaration: 
+You claim relief when you make your [import declaration](/guide/import-goods-outside-eu/overview.html). Enter one of the following customs procedure codes into your declaration: 
 
 Nature of the goods | Customs procedure codes
 -|-
