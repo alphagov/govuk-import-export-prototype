@@ -23,9 +23,6 @@ You can get duty relief if all of the following apply:
 - you won’t sell the exhibits
 - the exhibits are sent directly on import to your approved establishment
 - you exhibit the goods exclusively at your approved establishment
-- you keep a record of the exhibits
-
-[SME question: what kind of records need to be kept? Why are these records needed?]
 
 You can get VAT relief if either:
 
