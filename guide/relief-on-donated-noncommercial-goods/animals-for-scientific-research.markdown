@@ -54,7 +54,6 @@ Nature of the goods | Customs procedure codes
 Animals imported from outside the Customs Union | 40 00 C15
 Animals imported from inside the Customs Union | 49 00 C15
 
-[Question for SME: any records you must keep?]
 
 
 
