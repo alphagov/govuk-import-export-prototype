@@ -13,11 +13,10 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-s1. You'll need an Economic Operator Registration Identification number (EORI) - [check if your business already has one](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). 
-s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
-s3. [Register with HMRC’s Import Control System (Import Control System)](https://online.hmrc.gov.uk/registration)(ICS). 
-s4. You’ll be sent an activation code in the post. The envelope will be marked 'Government Gateway'. The letter can take up to a week to arrive after you register. You’ll need your Activation Code to activate the service.
-s5. Login to ICS and enter your Activation Code to make your declaration using XML. 
+s1. You'll need an Economic Operator Registration Identification number (EORI). If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
+s2. [Register with HMRC’s Import Control System (Import Control System)](https://online.hmrc.gov.uk/registration)(ICS). 
+s3. You’ll be sent an activation code in the post. The envelope will be marked 'Government Gateway'. The letter can take up to a week to arrive after you register. You’ll need your Activation Code to activate the service.
+s4. Login to ICS and enter your Activation Code to make your declaration using XML. 
 
 ^This is a lengthy and complicated process - the vast majority of exporters use a freight forwarder or agent to make a declaration for them.^
 
