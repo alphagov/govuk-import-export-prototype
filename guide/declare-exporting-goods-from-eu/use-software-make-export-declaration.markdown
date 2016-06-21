@@ -59,7 +59,7 @@ s2. Register to make declarations through [Government Gateway.](http://www.gatew
 s3. [Submit your export declaration through the National Export System (NES).](https://secure.hmce.gov.uk/ecom/login/index.html)
 
 
-###Get help
+###Get help  
 
 You can get help getting an EORI number by [contacting the EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact).
 
