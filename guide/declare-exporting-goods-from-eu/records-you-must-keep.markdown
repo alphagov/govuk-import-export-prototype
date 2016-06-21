@@ -15,48 +15,37 @@ breadcrumbs:
 
 You must keep records for 4 years. This means:
 
-- copies of declarations you made online through NES
 - commercial invoices
 - valuation forms
 
-You can either:
+##If you used National Export System (NES)
 
-- make you own copies of declarations you made online through NES
-- get summary reports of your declarations from the Management Support System (MSS)
-- 
-[Question for SME: does this just apply to online declarations through NES?]
+You also need to keep copies of declarations you made through NES. You can get summary reports of them from the Management Support System (MSS).
 
-##Get summary reports of your declarations from MSS
+###Using MSS
 
-Before you order, check what’s in a standard MSS report to check that it covers what you need. If it doesn’t, you’ll need to order a bespoke report. 
-
-You can also order one month’s sample data free of charge. To order sample data, write to the MSS team on company stationery. Include:
+You can get a free month’s sample data to check that a standard MSS report covers what you need. Write to the MSS team on company stationery, including:
 
 - your business name and address
 - EORI number
 - email address where you want the report sent
 - whether you want information on imports, exports or both
-
-The letter must be signed by a director, partner or owner of your business. 
+- the signature of a director, partner or owner of your business
 
 ### Standard MSS reports
 
-Complete the [MSS agreement form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/381489/Agreement_for_the_Sale_of_Management_Support_System__MSS__Data.pdf) (PDF, 111KB) to order standard MSS reports. Then post the completed form to the MSS team.
-
-You can use the MSS agreement form to order:
+If standard MSS reports meet your needs, you can order:
 
 - monthly standard reports
 - standard reports showing historical information from up to 4 years ago
 
-Standard reports cost £20 plus VAT for each month covered.
+To order, fill in the [MSS agreement form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/381489/Agreement_for_the_Sale_of_Management_Support_System__MSS__Data.pdf) (PDF, 111KB. 
 
-You’ll get the reports by email, as an MS Excel document.
+Reports cost £20 plus VAT for each month covered. You’ll get the reports by email, as an MS Excel spreadsheet.
 
 ### Bespoke MSS reports
 
-Contact the MSS team to order a bespoke report if a standard report doesn’t cover what you need.
-
-Bespoke reports cost £35.31 plus VAT for each month covered.
+Contact the MSS team to order if you need a bespoke report. Reports cost £35.31 plus VAT for each month covered.
 
 $C 
 **MSS team**  
