@@ -14,7 +14,10 @@ breadcrumbs:
 ---
 {% contentfor summary %}
 
-If you're a regular importer or exporter, you can simplify your declaration by using either the Simplified Declaration Procedure (SDP) or Entry in the Declarants Records (EIDR). 
+If you're a regular importer or exporter, you can simplify your declaration by using either:
+
+* Simplified Declaration Procedure (SDP) 
+* Entry in the Declarants Records (EIDR)
 
 If you're exporting hydrocarbon oils you won't be able to use these.
 
