@@ -19,7 +19,9 @@ You can pay an agent or freight forwarder to make the declaration for you. If yo
 - using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 - using the  National Export System (NES)
 
-^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
+You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
+
+^Check the rules if you [you move goods to EU special territories](/guide/move-goods-eu/special-territories.html), eg Channel Islands or Canary Islands.
 
 ##Deadlines
 
@@ -34,8 +36,6 @@ Supplies for ships and aircraft | 15 minutes before departure
 
 
 [Question for SME: Are these time limits just for online declarations for all types of export declaration?]
-
-^There are different rules if [you move goods to EU special territories](/guide/move-goods-eu/special-territories.html), eg Channel Islands or Canary Islands.
 
 ###Common Agricultural Policy (CAP) goods
 
