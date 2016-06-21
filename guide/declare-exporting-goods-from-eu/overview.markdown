@@ -12,39 +12,29 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-You must make an export declaration to the Customs Handling Import and Export Freight (CHIEF) system to export goods outside the European Union (EU).
+You must [make a declaration](/guide/declare-exporting-goods-from-eu/make-export-declaration.html) to the Customs Handling Import and Export Freight (CHIEF) system to export goods outside the [EU](/eu-eea).
 
-How you do this depends on whether you need to make export declarations:
 
-- [regularly](/guide/declare-exporting-goods-from-eu/use-software-make-export-declaration.html)
-- [occasionally](/guide/declare-exporting-goods-from-eu/make-export-declaration-online.html)
+##Deadlines
 
-##Time limits 
+Method of transport | Deadline for making a declaration
+- | -
+‘Deep sea’ containerised cargo | 24 hours before goods are loaded
+‘Short sea’ containerised cargo | 2 hours before leaving the port
+Air traffic | 30 minutes before departure
+Rail and inland waters traffic | 2 hours before departure
+Road traffic | 1 hour before departure
+Supplies for ships and aircraft | 15 minutes before departure
 
-You must make an export declaration at least: 
-
-- 24 hours before the goods are loaded, for ‘deep sea’ containerised cargo
-- 2 hours before leaving the port for ‘short sea’ containerised cargo
-- 30 minutes before departure from an airport for air traffic 
-- 2 hours before departure for rail and inland waters traffic
-- 1 hour before departure for road traffic 
-- 15 minutes before departure for supplies for ships and aircraft 
 
 [Question for SME: Are these time limits just for online declarations for all types of export declaration?]
 
-##Exceptions
-You must submit an export declaration when you move goods to the following EU special territories:
-
-- the Aland Islands (Finland)
-- the Canary Islands
-- the Channel Islands
-- French Overseas Department of Guadeloupe, French Guiana, Martinique and Reunion    
-- Mount Athos, also known as Agion Poros (Greece)
+^There are different rules if [you move goods to EU special territories](/guide/move-goods-eu/special-territories.html), eg Channel Islands or Canary Islands.
 
 ###Common Agricultural Policy (CAP) goods
 
-You must make an export declaration if you’re moving Common Agricultural Policy (CAP) goods, including:
-
+You must make an export declaration if you move CAP goods, including:
+ 
 - supplies within the EU for providing food on seagoing vessels or aircraft serving on international routes, including intra-EU routes
 - supplies to international organisations in the EU
 - supplies to armed forces stationed in the territory of a member state but not serving under its command
@@ -53,3 +43,4 @@ You must make an export declaration if you’re moving Common Agricultural Polic
 *[EU]: European Union
 *[CAP]: Common Agricultural Policy
 *[CHIEF]: Customs Handling Import and Export Freight
+
