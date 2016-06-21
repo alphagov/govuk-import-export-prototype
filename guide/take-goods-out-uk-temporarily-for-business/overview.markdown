@@ -13,17 +13,29 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-##Take goods out of the EU temporarily
+You may need permission to temporarily move or export goods outside the UK, eg sales samples for a trade show
 
-If you’re taking goods out of the EU, most countries have a limit on the value of goods you can bring in duty free.
+##Move goods around the EU 
 
-If you get [an ATA carnet](link to part 2) (Admission Temporaire carnet), you don’t have to pay duty on goods you bring in temporarily for business reasons. For example, professional equipment like laptops or cameras or sales samples. 
+You don’t need permission to temporarily move goods to another EU country unless they're controlled, eg weapons.
 
-##Temporary export licences
+##Export goods out of the EU 
 
-You don’t need permission to move most goods to another EU country.
+Most countries have a limit on the value of goods you can bring in duty free.
 
-You must have an export licence to export controlled goods, even if the goods are going to another EU country. But you can get a special export license to temporarily export some controlled goods, eg:
+You can usually get [an ATA Carnet](link to part 2) to avoid paying duty on goods you bring in temporarily for business reasons, including:
+
+- samples to show at trade fairs or sales meetings
+- publicity materials
+- recorded film and audio
+- equipment you need for work (eg laptops, cameras or sound equipment)
+- goods for educational, scientific or cultural purposes
+- personal effects and sports goods
+
+##Weapons, drugs and other controlled goods
+
+You'll need a licence to temporarily move [controlled goods -link?] outside the UK. You can get a temporary licence for some types of controlled goods, for example:
 
 - [controlled drugs for personal use](/travelling-controlled-drugs) 
-- [arms, weapons or dual use goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) (eg for a trade show)
+- [weapons or dual use goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) (eg for a trade show)
+
