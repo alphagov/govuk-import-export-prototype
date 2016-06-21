@@ -12,8 +12,16 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-You must [make a declaration](/guide/declare-exporting-goods-from-eu/make-export-declaration.html) to the Customs Handling Import and Export Freight (CHIEF) system to export goods outside the [EU](/eu-eea).
+You must make a declaration to export goods outside the [EU](/eu-eea).
 
+You can pay an agent or freight forwarder to do this for you. 
+
+If you choose to make a declaration it yourself, you’ll send declarations using the Customs Handling Import and Export Freight (CHIEF) system. You can do this by:
+
+- using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
+- using the  National Export System (NES)
+
+^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
 
 ##Deadlines
 
