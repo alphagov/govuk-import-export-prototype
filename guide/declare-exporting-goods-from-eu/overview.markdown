@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 You must make a declaration to export goods outside the [EU](/eu-eea). 
 
-You can pay an agent or freight forwarder to make the declaration for you. If you choose to do it yourself, you send it using the Customs Handling Import and Export Freight (CHIEF) system by either:
+You can pay an agent or freight forwarder to make the declaration for you. If you choose to do it yourself, you make the declaration to the Customs Handling Import and Export Freight (CHIEF) system by either:
 
 - using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 - using the  National Export System (NES)
