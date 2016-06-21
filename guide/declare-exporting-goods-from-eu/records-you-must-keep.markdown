@@ -36,8 +36,8 @@ You can get a free month’s sample data to check that a standard MSS report cov
 
 If standard MSS reports meet your needs, you can order:
 
-- monthly standard reports
-- standard reports showing historical information from up to 4 years ago
+- monthly  reports
+- reports showing historical information from up to 4 years ago
 
 To order, fill in the [MSS agreement form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/381489/Agreement_for_the_Sale_of_Management_Support_System__MSS__Data.pdf) (PDF, 111KB). 
 
