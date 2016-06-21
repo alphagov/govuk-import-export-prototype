@@ -24,6 +24,7 @@ Give the notes to your agent, shipping company or freight forwarder.
 You can also fill in an Export Cargo Shipping Instruction (ECSI) to tell your carrier how to handle your goods.
 
 ^There are extra rules when you [transport dangerous goods].
+
 ##CMR note
 
 You must fill in a CMR note when you transport goods by road outside the UK.
