@@ -42,7 +42,7 @@ Rulings are:
 
 - free, but you may have to pay costs (eg for laboratory analysis or expert advice)
 
-###Using the eBTI service  
+###Using the eBTI service    
 
 
 s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
