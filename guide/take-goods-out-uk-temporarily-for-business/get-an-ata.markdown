@@ -3,7 +3,7 @@ layout: guide
 title: Take goods out of the UK temporarily for business purposes
 permalink: /guide/take-goods-out-uk-temporarily-for-business/get-an-ata.html
 page_number: 2
-page_title: Get an ATA carnet 
+page_title: Get an ATA carnet  
 breadcrumbs:
  - name: Home
    url: '/'
