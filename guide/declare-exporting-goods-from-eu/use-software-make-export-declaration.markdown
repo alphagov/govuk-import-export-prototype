@@ -49,6 +49,7 @@ If you only make export declarations occasionally you can use the online  Nation
 
 ^This is a lengthy and complicated process - the vast majority of smaller exporters use a freight forwarder or agent to make a declaration for them.^
 
+###CHANGE THIS
 
 s1. You'll need an EORI number - [check if your business already has one.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). 
 s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
