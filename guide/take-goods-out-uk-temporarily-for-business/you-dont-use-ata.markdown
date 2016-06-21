@@ -13,14 +13,26 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-Use a ‘duplicate list’ to temporarily export goods if:
+Use a ‘Duplicate List’ to temporarily export goods if:
 
-- the country you’re exporting to doesn’t recognise the ATA carnet
-- you don’t want to pay for an ATA carnet
+- the country you’re exporting to doesn’t recognise the ATA Carnet
+- you don’t want to pay for an ATA Carnet
 
-As with an ATA carnet, you don’t have to pay customs duty or tax. There’s no fee, but it’s not as simple as exporting something with an ATA carnet.
+As with an ATA Carnet, you don’t have to pay customs duty or tax. There’s no fee, but it’s more complicated than exporting something with an ATA Carnet.
 
-###How to export goods using a duplicate list
+##How to export goods using a Duplicate List
+
+Before you export the goods, prepare a list on company stationery. Include:
+
+- a description of the goods
+- how many there are
+- serial numbers, if the goods have them
+- value of the goods
+
+At customs, you’ll need to provide:
+
+- 2 copies of the list 
+- a completed [form C&E 1246](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374161/ce1246.pdf)
 
 Contact the HMRC imports and exports helpline in advance to make the arrangements.
  
@@ -35,15 +47,6 @@ Monday to Friday, 8am to 6pm
 
 $C  
 
-Before you export the goods, prepare a list on company stationery. Include:
 
-- a description of the goods
-- how many there are
-- serial numbers, if the goods have them
-- value of the goods
 
-At customs, you’ll need to provide:
-
-- 2 copies of the list 
-- a completed [form C&E 1246](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374161/ce1246.pdf)
 
