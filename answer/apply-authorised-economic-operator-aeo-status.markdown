@@ -18,23 +18,33 @@ You can apply for Authorised Economic Operator (AEO) status to:
 - reduce the chances of your goods getting stopped at customs
 - pay less for your [duty deferment guarantee](link to duty deferment content)
 
+[Question for the SME: If you don’t have a duty deferment guarantee, is it still worth it? If not we need to add this to list of things to need to check before applying]
+
 {% endcontentfor %}
 
 Anyone involved in moving goods internationally can apply, eg importers, exporters, freight forwarders and customs warehouse keepers.
 
-Your AEO status will be recognised by all EU countries and some countries outside the EU - eg the USA, Japan and China.
+Your AEO status will be recognised by all EU countries and some countries outside the EU including:
+
+* the USA
+* Japan 
+* China.
 
 ##Apply to be an Authorised Economic Operator (AEO)
 
-^Before you apply, make sure you meet the [requirements for being an AEO](/government/publications/notice-117-authorised-economic-operator).^ 
+Before you apply:
 
-You’ll need to show that you have processes to stop people tampering with your goods while they’re in transit (eg adding something to a container that shouldn’t be there).
+s1. Check that you meet the [requirements for being an AEO](/government/publications/notice-117-authorised-economic-operator) - you’ll need to show that you have ways to stop people tampering with your goods, eg a container in transit.
+s2. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 
-s1. You will need an EORI (Economic Operator Registration and Identification) number. [Check if your business already has an EORI number](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). If you don’t, [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
-s2. Complete [application form C117](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412200/C117.doc) (MS Word document, 96.5KB). You’ll need the [notes on how to compete form C117](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412612/C117-notes.pdf) (PDF, 90KB).
-s3. Complete [self assessment form C118](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412192/C118.doc) (MS Word document, 326KB). You’ll need the [notes on how to complete form C118](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/414686/C118_Notes.pdf) (PDF, 417KB).
+^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
 
-You’ll need to make separate applications for different legal entities.
+Once you know you're eligible and have an EORI number:
+
+s1. Complete [application form C117](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412200/C117.doc) (MS Word document, 96.5KB). You’ll need the [notes on form C117](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412612/C117-notes.pdf) (PDF, 90KB).
+s2. Complete [self assessment form C118](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412192/C118.doc) (MS Word document, 326KB). You’ll need the [notes on form C118](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/414686/C118_Notes.pdf) (PDF, 417KB).
+
+^You’ll need to make separate applications for different legal entities.^
 
 ###Where to send your application
 
@@ -62,4 +72,8 @@ $C
 Telephone: 0300 056 4556   
 Monday to Friday, 9am to 5pm     
 [Find out about call charges](/call-charges)     
-$C  
+$C 
+
+
+
+
