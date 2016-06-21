@@ -45,9 +45,9 @@ $C
 
 ##Using NES
 
-If you only make export declarations occasionally you can use the online the National Export System (NES).
+If you only make export declarations occasionally you can use the online  National Export System (NES).
 
-^This is a lengthy and complicated process - the vast majority of exporters use a freight forwarder or agent to make a declaration for them.^
+^This is a lengthy and complicated process - the vast majority of smaller exporters use a freight forwarder or agent to make a declaration for them.^
 
 
 s1. You'll need an EORI number - [check if your business already has one.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). 
