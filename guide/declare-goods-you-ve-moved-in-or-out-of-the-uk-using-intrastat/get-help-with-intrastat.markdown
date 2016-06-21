@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Declare goods you’ve moved in or out of the UK using Intrastat
-permalink: /declare-goods-you-ve-moved-in-or-out-of-the-uk-using-intrastat/get-help-with-intrastat.html
+permalink: /guide/report-moved-goods-intrastat/when-you-must-register.html
 page_number: 4
 page_title: Get help with Intrastat
 breadcrumbs:
