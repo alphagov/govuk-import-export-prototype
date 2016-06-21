@@ -12,21 +12,40 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'  
 ---
-You must [make an Intrastat declaration](https://secure.hmce.gov.uk/ecom/is2/static/is2.html) every month.
+You must make an Intrastat declaration every month. You can either do this:
 
-Read [guidance on how to complete your declaration](https://www.uktradeinfo.com/Intrastat/AboutIntrastat/Pages/SupplementaryDeclarations.aspx) on the UK Trade Info website.
+- [online](https://secure.hmce.gov.uk/ecom/is2/static/is2.html)
+- [using software](/guide/report-moved-goods-intrastat/other-ways-make-declaration)
 
-You need to [register with UK Trade Info](https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) before you can use Intrastat.
+Read [guidance on how to complete your declaration.](https://www.uktradeinfo.com/Intrastat/AboutIntrastat/Pages/SupplementaryDeclarations.aspx)
 
-## What to do if you need to change your declaration
+## If you need to change your declaration
 
-You may need to complete an [amendment form](https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/OnlineAmendments/Pages/OnlineAmendmentsForm.aspx) if you provide incorrect information on your declaration.
+Fill in an [amendment form](https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/OnlineAmendments/Pages/OnlineAmendmentsForm.aspx) to correct the information on your declaration.
 
 ## Records you must keep
 
-You must keep:
+You must keep the following for 6 years:
 
-copies of your Intrastat declarations for 6 years
-documents you use to complete your Intrastat declarations
+- copies of your Intrastat declaration
+- documents you use to complete your Intrastat declarations
 
-You must let HMRC see your records if they ask.
+You must let HM Revenue and Customs (HMRC) see your records if they ask.
+
+##Get help with Intrastat
+
+Contact the Intrastat helpline.
+
+
+
+
+$C 
+
+**Intrastat helpline**     
+<intrastatenquiries@hmrc.gsi.gov.uk>   
+Telephone: 0300 059 4231  
+Monday to Friday, 9am to 5pm    
+[Find out about call charges](/call-charges)    
+
+$C  
+
