@@ -10,7 +10,8 @@ breadcrumbs:
  - name: Business and self employed
    url: '/'
  - name: Exporting and doing business abroad
-   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'  
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html' 
+
 ---
 You must [register for Intrastat](https://www.uktradeinfo.com/ Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) if, in the last calendar year, your business either:
 
