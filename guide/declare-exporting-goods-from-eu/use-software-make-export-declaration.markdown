@@ -12,10 +12,7 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-
-You can pay an agent or freight forwarder to make an export declaration for you.
-
-If you choose to do it yourself, you’ll send declarations using the Customs Handling Import and Export Freight (CHIEF) system. You can do this by:
+You can make a export declaration to the Customs Handling Import and Export Freight (CHIEF) system by:
 
 - using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 - using the  National Export System (NES)
