@@ -28,13 +28,26 @@ Commodity codes classify goods for import and export so you can:
 
 {% contentfor more_information %}
 
-Use the Trade Tariff to search for commodity codes.
+## If you’re not sure how to classify your goods
 
-Commodity codes classify goods for import and export so you can:
+You can get advice from the Trade Tariff classification service by filling in the [enquiry form.](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf)
 
-* fill in declarations and other paperwork
-* check if there’s duty or VAT to pay
-* find out about duty reliefs
+## If your goods aren’t listed in the Trade Tariff
 
+Apply for a classification ruling through the Electronic Binding Tariff Information (eBTI) service.
+
+Rulings are:
+
+- legally binding throughout the EU, usually for 6 years
+
+- free, but you may have to pay costs (eg for laboratory analysis or expert advice)
+###Using the eBTI service
+
+
+s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
+s2. Sign up to use eBTI on the [Government Gateway website.](http://www.gateway.gov.uk/)
+s3. [Sign in](https://secure.hmce.gov.uk/ecom/login/index.html) to eBTI.
+
+^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
 
 {% endcontentfor %}
