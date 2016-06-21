@@ -49,7 +49,7 @@ Contact the MSS team to order if you need a bespoke report. Reports cost £35.31
 
 $C 
 **MSS team**  
-Email: <frontiersmssteam@hmrc.gsi.gov.uk>
+<frontiersmssteam@hmrc.gsi.gov.uk>
 $C  
 
 $A
