@@ -58,6 +58,7 @@ s2. If your business doesn’t have an EORI number, apply for one as a [VAT regi
 s2. Register to make declarations through [Government Gateway.](http://www.gateway.gov.uk/).
 s3. [Submit your export declaration through the National Export System (NES).](https://secure.hmce.gov.uk/ecom/login/index.html)
 
+
 ###Get help
 
 You can get help getting an EORI number by [contacting the EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact).
