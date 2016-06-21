@@ -17,9 +17,9 @@ You must make a declaration to export goods outside the [EU](/eu-eea).
 You can either:
 
 - pay an agent or freight forwarder to make the declaration for you
-- [make the declaration yourself](/guide/declare-exporting-goods-from-eu/make-export-declaration.html) to the Customs Handling Import and Export Freight (CHIEF) system
+- [make the declaration yourself](/guide/declare-exporting-goods-from-eu/make-export-declaration.html) through the Customs Handling Import and Export Freight (CHIEF) system
 
-^Check the rules if you [you move goods to EU special territories](/guide/move-goods-eu/special-territories.html), eg Channel Islands or Canary Islands.
+^Check the rules if [you move goods to EU special territories](/guide/move-goods-eu/special-territories.html), eg Channel Islands or Canary Islands.
 
 ##Deadlines
 
