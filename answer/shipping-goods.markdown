@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: Ship goods overseas
+title: Transporting goods overseas
 permalink: /shipping-goods.html
 breadcrumbs:
  - name: Home
@@ -12,39 +12,23 @@ breadcrumbs:
 ---
 {% contentfor summary %}
 
-Use a [Standard Shipping Note](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/442288/standard_shipping_note.pdf) (PDF, 23.1KB) (SSN) to transport goods overseas.
+You must fill in:
 
-
-You must use the SSN to give carriers and customs officials information about the goods and the companies involved in sending, shipping and receiving them.
-
-
-You must fill in a separate SSN for each shipment you make and send it to your shipping company or freight forwarder.
-
-
-^You can use an agent or freight forwarder to help you ship goods internationally.^
-
+- a [Standard Shipping Note](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/442288/standard_shipping_note.pdf) (PDF, 23.1KB) for each consignment
+- a CMR note -  if you transport goods by road outside the UK
 
 {% endcontentfor %}
 
-##Export Cargo Shipping Instruction
+Give the notes to your agent, shipping company or freight forwarder.
 
-An Export Cargo Shipping Instruction (ECSI) gives your carrier detailed instructions about how to handle your goods.
+You can also fill in an Export Cargo Shipping Instruction (ECSI) to tell your carrier how to handle your goods.
 
-You don’t have to use one but it will help to settle any disputes with your carrier eg about cargo handling, documentation or export charges.
+^There are extra rules when you [transport dangerous goods].
+##CMR note
 
-Ask your carrier or freight forwarder for a blank form. When you fill it in, include:
+You must fill in a CMR note when you transport goods by road outside the UK.
 
-- a description of the goods
-- the route
-- any special transport requirements
-- customs information
-- who should receive the transport documents
-
-^If your [goods are dangerous](/link-new-content) there are extra rules you need to follow.^
-
-##Transporting goods by road
-
-When you transport goods by road internationally, you must use a CMR note, which is a contract between you and the carrier.
+You can buy pre-printed pads of CMR notes from [Road Haulage Association](http://www.rhaonline.co.uk/search/index.php?search=CMR&type=products&form_submit=true&save=1&imageField.x=0&imageField.y=0) (RHA) and the [Freight Transport Association (FTA).](http://www.shop.fta.co.uk/p-194-cmr-consignment-notes.aspx)
 
 You’ll need 4 copies of the CMR note:
 
@@ -53,16 +37,26 @@ You’ll need 4 copies of the CMR note:
 - to travel with the goods
 - for your records
 
-###Filling in the CMR note
+###If you don't use a pre-printed pad
 
-You can buy pre-printed pads of CMR notes from [Road Haulage Association](http://www.rhaonline.co.uk/shop.php) (RHA) and the [Freight Transport Association (FTA).](http://www.shop.fta.co.uk/p-194-cmr-consignment-notes.aspx)
-
-The note must contain information about:
+You must include information about:
 
 - the sender, the carrier and the company or person who will receive the goods
 - the goods and how they’ve been packaged
 - the total weight of the cargo
 - any costs, eg carrier fees that may get charged
+
+##ECSI
+
+An ECSI can help settle any disputes with your carrier, eg about cargo handling, documentation or export charges.
+
+Ask your carrier or freight forwarder for a blank form. When you fill it in, include:
+
+- a description of the goods
+- the route
+- any special transport requirements
+- customs information
+- who should receive the transport documents
 
 *[CMR]: Convention relative au contrat de transport international de Marchandises par Route
 *[FTA]: Freight Transport Association
