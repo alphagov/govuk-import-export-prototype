@@ -44,7 +44,7 @@ EIDR lets you move the goods to your own premises or a storage facility while yo
 
 ##Apply to use SDP or EIDR
 
-s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
+s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)  
 s2. You’ll need a [duty deferment account](link to content on duty deferment) with HM Revenue & Customs.
 s3. Complete [form C&E48](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374170/ce48.pdf) (PDF,149KB) to apply to for SDP or EIDR.
 
