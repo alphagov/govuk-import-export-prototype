@@ -34,8 +34,8 @@ Your AEO status will be recognised by all EU countries and some countries outsid
 
 Before you apply:
 
-s1. Check that you meet the [requirements for being an AEO](/government/publications/notice-117-authorised-economic-operator) - you’ll need to show that you have ways to stop people tampering with your goods, eg a container in transit.
-s2. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
+* check that you meet the [requirements for being an AEO](/government/publications/notice-117-authorised-economic-operator) - you’ll need to show that you have ways to stop people tampering with your goods, eg a container in transit.
+* you’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 
 ^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
 
