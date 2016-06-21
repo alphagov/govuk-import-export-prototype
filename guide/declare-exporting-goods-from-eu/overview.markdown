@@ -35,9 +35,9 @@ Supplies for ships and aircraft | 15 minutes before departure
 
 [Question for SME: Are these time limits just for online declarations for all types of export declaration?]
 
-###Common Agricultural Policy (CAP) goods
+##Common Agricultural Policy (CAP) goods
 
-You must make an export declaration if you move CAP goods, including:
+You must also make an export declaration if you move CAP goods within the EU, including:
  
 - supplies within the EU for providing food on seagoing vessels or aircraft serving on international routes, including intra-EU routes
 - supplies to international organisations in the EU
