@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Move goods to other EU countries
+title: Moving goods in the EU: when to make declarations
 permalink: /guide/move-goods-eu/make-declaration.html
 page_number: 3
 page_title: Make a community transit declaration through NCTS
