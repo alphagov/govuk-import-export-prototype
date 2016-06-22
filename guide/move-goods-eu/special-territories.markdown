@@ -13,28 +13,25 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You must [make a declaration](/guide/move-goods-eu/make-declaration.html) when moving goods to the Channel Islands or one of the EU special territories if:
+You only need to [make a community transit declaration](/guide/move-goods-eu/make-declaration.html) to move goods to the Channel Islands or other EU special territories if:
 
-- the goods aren’t in [free circulation](/guide/move-goods-eu/when-to-make-declaration.html)
-- the goods are made inside the EU from parts or materials that were brought in from outside the EU (whether the parts or materials were in free circulation or not)
 
-Otherwise you don’t need to make a declaration.
+- there’s still duty to pay on the goods, which were brought from outside the EU
+- the goods were made from parts or materials brought from outside the EU
+
+Otherwise you don't need to make a declaration.
 
 The EU special territories are:
 
 - Åland Islands (Finland)   
-- Canary Islands  
-- Channel Islands  
-- French Guiana  
-- Guadeloupe  
-- Martinique  
+- the Canary Islands
+- the Channel Islands
+- Guadeloupe, French Guiana, Martinique and Reunion
 - Mount Athos, also known as Agion Poros (Greece)  
-- Reunion  
 
-##Andorra
+##Andorra and San Marino
 
-You must [make a declaration](/guide/move-goods-eu/make-declaration.html) if you are moving goods to Andorra, even if they’re in free circulation.
+You must [make a declaration](/guide/move-goods-eu/make-declaration.html) if you move:
 
-##San Marino
-
-You must [make a declaration](/guide/move-goods-eu/make-declaration.html) if you are moving goods to Andorra, even if they’re in free circulation. But only if they’re classified as industrial goods in chapters 25 to 97 of the [Trade Tariff](/start/trade-tariff.html).
+- any goods to Andorra
+- industrial goods to San Marino (these goods are classified in chapters 25 to 97 of the [Trade Tariff](/start/trade-tariff.html))
