@@ -2,7 +2,7 @@
 layout: guide
 title: Moving goods in the EU: when to make declarations
 permalink: /guide/move-goods-eu/special-territories.html
-page_number: 2
+page_number: 3
 page_title: Channel Islands, EU special territories, Andorra and San Marino
 breadcrumbs:
  - name: Home
