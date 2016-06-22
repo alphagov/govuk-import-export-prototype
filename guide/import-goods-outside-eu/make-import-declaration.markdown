@@ -16,7 +16,7 @@ breadcrumbs:
 You can make a export declaration by:
 
 * using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
-* using the Import Control System (ICS) system
+* using the Import Control System (ICS)
 
 ^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
 
