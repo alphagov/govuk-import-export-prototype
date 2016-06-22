@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You only need to [make a community transit declaration](/guide/move-goods-eu/make-declaration.html) to move goods to the Channel Islands or other EU special territories if:
+You only need to [make a community transit declaration](/guide/move-goods-eu/make-declaration.html) to move goods to the Channel Islands or other EU special territories if either:
 
 
 - there’s still duty to pay on the goods, which were brought from outside the EU
@@ -31,7 +31,7 @@ The EU special territories are:
 
 ##Andorra and San Marino
 
-You must [make a declaration](/guide/move-goods-eu/make-declaration.html) if you move:
+You must [make a community transit declaration](/guide/move-goods-eu/make-declaration.html) if you move:
 
 - any goods to Andorra
 - industrial goods to San Marino (these goods are classified in chapters 25 to 97 of the [Trade Tariff](/start/trade-tariff.html))
