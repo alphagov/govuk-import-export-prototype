@@ -13,9 +13,9 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You must declare when you import goods from outside the EU. 
+You must declare when you import goods from outside the [EU](/eu-eea). 
 
-This includes when goods have come via an EU country if there’s still duty to be paid on them.
+This includes when goods have come via another EU country if there’s still duty to be paid on them.
 
 You can either:
 
