@@ -24,7 +24,7 @@ You can make a export declaration by:
 Search online for commercial software with ICS functionality.
 
 ### Develop your own software
-You can also develop software if it’s compatible with the [UK Trader Interface Specifications (TIS)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382876/tis-ics-2-5.pdf)(PDF, 1.51MB)
+You can also develop software if it’s compatible with the UK Trader Interface Specifications [(TIS)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382876/tis-ics-2-5.pdf)(PDF, 1.51MB).
 
 ##Using ICS
 If you only make export declarations occasionally you can use the online ICS (Import Control System).
