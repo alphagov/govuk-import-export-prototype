@@ -49,12 +49,11 @@ If you only make export declarations occasionally you can use the online  Nation
 
 ^This is a lengthy and complicated process - the vast majority of smaller exporters use a freight forwarder or agent to make a declaration for them.^
 
-###CHANGE THIS
+s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
+s2. Sign up to use NES on the [Government Gateway website.](http://www.gateway.gov.uk/)
+s3. [Sign in](https://secure.hmce.gov.uk/ecom/login/index.html) to NES.
 
-s1. You'll need an EORI number - [check if your business already has one.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en). 
-s2. If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
-s2. Register to make declarations through [Government Gateway.](http://www.gateway.gov.uk/).
-s3. [Submit your export declaration through the National Export System (NES).](https://secure.hmce.gov.uk/ecom/login/index.html)
+^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
 
 
 ###Get help  
