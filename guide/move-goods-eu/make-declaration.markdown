@@ -17,6 +17,8 @@ You can make a community transit declaration by:
 
 - using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 - using the New Computerised Transit System (NCTS)
+- 
+^If you make regular declarations, you can apply to use a simpler declaration process [link to community cosignor content].
 
 ##Using software
 
@@ -43,16 +45,11 @@ $C
 
 ##Using NCTS
 
-To use NCTS, you need:
-
-- an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
-- a Government Gateway account - [sign up](http://www.gateway.gov.uk/) if you don't have one
-
-You can then [sign in to NCTS](/new-computerised-transit-system).
+s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
+s2. Sign up to use NCTS on the [Government Gateway website.](http://www.gateway.gov.uk/)
+s3. [Sign in](https://online.hmrc.gov.uk/login) to NCTS.
 
 ^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
-
-If you make regular community transit declarations, you can apply to use a simpler declaration process [link to community cosignor content].
 
 
 ###Get help with NCTS declarations
