@@ -13,14 +13,14 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You don’t usually need to make a declaration when you move goods within the [EU](/eu-eea) or to Switzerland, Turkey, Norway, Macedonia or Iceland.
+You don’t usually need to declare when you move goods within the [EU](/eu-eea) or to Switzerland, Turkey, Norway, Macedonia or Iceland.
 
 You only need to [make a declaration](http://govuk-import-export.herokuapp.com/guide/move-goods-eu/make-declaration.html) if both:
 
 - the goods were originally brought in from outside the EU (or made from materials from outside the EU)
 - there’s still duty to pay on them
 
-This is called a ‘community transit declaration’.
+This declaration is called a ‘community transit declaration’.
 
 ##EU special territories, Andorra and San Marino
 
