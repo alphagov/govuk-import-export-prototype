@@ -13,14 +13,26 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-s1. You'll need an Economic Operator Registration Identification number (EORI). If your business doesn’t have an EORI number, apply for one as a [VAT registered business](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or a [business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATImport)
+You can make a export declaration by:
+
+* using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
+* using the Import Control System (ICS) system
+
+^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
+
+##Using software
+Search online for commercial software with ICS functionality that can send import declarations.
+
+### Develop your own software
+You can also develop software if it’s compatible with the [UK Trader Interface Specifications (TIS)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382876/tis-ics-2-5.pdf)(PDF, 1.51MB)
+
+##Using ICS
+If you only make export declarations occasionally you can use the online ICS (Import Control System).
+^This is a lengthy and complicated process - the vast majority of smaller exporters use a freight forwarder or agent to make a declaration for them.^
+s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 s2. [Register with HMRC’s Import Control System (Import Control System)](https://online.hmrc.gov.uk/registration/organisation)(ICS). 
 s3. You’ll be sent an activation code in the post. The envelope will be marked 'Government Gateway'. The letter can take up to a week to arrive after you register. You’ll need your Activation Code to activate the service.
 s4. Login to ICS and enter your Activation Code to make your declaration using XML. 
-
-^This is a lengthy and complicated process - the vast majority of exporters use a freight forwarder or agent to make a declaration for them.^
-
-If you're a regular importer, you may be able to use a simplified import procedure to [speed up the import process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).
 
 ##What to do if you have problems with ICS
 
@@ -38,3 +50,9 @@ You must keep records for 4 years. This means:
 - copies of declarations you made online through NES
 - commercial invoices
 - valuation forms
+
+
+
+
+
+
