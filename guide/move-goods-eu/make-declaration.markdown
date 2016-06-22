@@ -1,8 +1,8 @@
 ---
 layout: guide
-title: Moving goods in the EU: when to make declarations
+title: Moving goods in the EU: when to make declarations  
 permalink: /guide/move-goods-eu/make-declaration.html
-page_number: 3
+page_number: 2
 page_title: Make a community transit declaration through NCTS
 breadcrumbs:
  - name: Home
@@ -13,39 +13,59 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You must make a community transit declaration if you’re moving [goods that aren’t in free circulation](/guide/move-goods-eu/when-to-make-declaration.html) from the UK to another EU country.
+You can make a community transit declaration by:
 
-Most businesses use the New Computerised Transit System (NCTS) to make community transit declarations.
+- using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
+- using the New Computerised Transit System (NCTS)
 
-^You can use an agent or freight forwarder to make these declarations for you.^
+##Using software
 
-## Before you start
+Search online for software that can send community transit declarations.
 
-s1. You will need an EORI (Economic Operator Registration and Identification) number. You can [apply for an EORI number as a VAT registered businesses](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [apply for an EORI number as a business that isn’t registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
-s2. Sign up to use NCTS on the [Government Gateway website](http://www.gateway.gov.uk/).
+### Develop your own software
 
-You can [check whether your business already has an EORI number](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en) if you’re not sure.
+You can also develop your own software that’s compatible with NCTS based on:
 
-##Make your NCTS declarations simpler
+- Electronic Data Interchange for Administration, Commerce and Transport (EDIFACT) messaging
+- XML
 
-You can apply to use the a simpler declaration processes (link to community cosignor content) if you’re making community transit declarations regularly.
-
-##Get help with NCTS declarations
+Contact the NCTS helpline for details.
 
 $C 
 
+**NCTS helpline**    
+Email: <ncts.helpdesk@hmrc.gsi.gov.uk>    
+Telephone: 0300 057 5988   
+Monday to Friday, 8am to 5pm     
+[Find out about call charges](/call-charges)    
 
+$C 
+
+##Using NCTS
+
+To use NCTS, you need:
+
+- an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
+- a Government Gateway account - [sign up](http://www.gateway.gov.uk/) if you don't have one
+
+You can then [sign in to NCTS](/new-computerised-transit-system).
+
+^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
+
+If you make regular community transit declarations, you can apply to use a simpler declaration process [link to community cosignor content].
+
+
+###Get help with NCTS declarations
+
+Contact the NCTS helpline for help using the service.
+
+$C 
 **NCTS: help with online services**     
 <ncts.helpdesk@hmrc.gsi.gov.uk>     
 Telephone: 0300 200 3701   
 Monday to Friday, 8am to 5pm     
 [Find out about call charges](/call-charges)     
-
-
 $C  
 
 
-
-##What to do if NCTS is unavailable
-
-Make your declaration using [form C88 (SAD)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374245/c88_1-8_.pdf) if NCSTS is unavailable. Use the [form C88 (SAD) continuation sheet](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374246/c88_1-8_-cont.pdf) if you need to.
+If NCTS is unavailable, you can make your declaration using [form C88](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374245/c88_1-8_.pdf) (PDF, 402KB). Use the [continuation sheet](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374246/c88_1-8_-cont.pdf) (PDF, 374KB) if you need to.
