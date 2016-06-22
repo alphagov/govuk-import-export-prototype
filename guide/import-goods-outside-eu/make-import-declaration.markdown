@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/importing.html'   
 ---
 
-You can make a import declaration by:
+You can make an import declaration to the Customs Handling Import and Export Freight (CHIEF) system by:
 
 * using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 * using the Import Control System (ICS)
@@ -21,10 +21,26 @@ You can make a import declaration by:
 ^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
 
 ##Using software
-Search online for commercial software that uses ICS.
+
+Search online for commercial software that can send import declarations using CHIEF.
 
 ### Develop your own software
-You can also develop software if it’s compatible with the UK Trader Interface Specifications [(TIS)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382876/tis-ics-2-5.pdf)(PDF, 1.51MB).
+
+You can also develop software that’s compatible with CHIEF, based on:
+
+- Electronic Data Interchange for Administration, Commerce and Transport (EDIFACT) messaging
+- XML
+
+Contact the CHIEF Operations Team for details.
+
+$C 
+**CHIEF Operations Team**   
+Email: <chief.operations@hmrc.gsi.gov.uk>      
+Telephone: 01702 366 800   
+Fax: 01702 366 825
+Monday to Friday, 8am to 5pm  
+[Find out about call charges](/call-charges)  
+$C  
 
 ##Using ICS
 
@@ -46,13 +62,6 @@ If ICS is unavailable, you should continue to make declarations on it. These wil
 If you need help getting an EORI number, contact the [EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact).
 [Contact HMRC](/government/organisations/hm-revenue-customs/contact/new-computerised-transit-system-enquiries).
 
-##Records you must keep
-
-You must keep records for 4 years. This means:
-
-- copies of declarations you made online through NES
-- commercial invoices
-- valuation forms
 
 
 
