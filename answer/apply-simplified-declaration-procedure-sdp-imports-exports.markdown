@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: Apply to use the Simplified Declaration Procedure (SDP) for imports and exports
+title: Make simpler declarations for your imports or exports
 permalink: /apply-simplified-declaration-procedure-sdp-imports-exports.html
 breadcrumbs:
  - name: Home
@@ -13,8 +13,6 @@ breadcrumbs:
 
 ---
 {% contentfor summary %}
-
-#Make simpler declarations for your imports or exports
 
 Regular importers or exporters can apply to make simpler declarations.
 
