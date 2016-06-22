@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Move goods to other EU countries
+title: Moving goods in the EU: when to make declarations
 permalink: /guide/move-goods-eu/when-to-make-declaration.html
 page_number: 1
 page_title: When to make a declaration
@@ -13,29 +13,20 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-## Moving goods made in the EU
+You don’t usually need to make a declaration when you move goods within the [EU](/eu-eea) or to Switzerland, Turkey, Norway, Macedonia or Iceland.
 
-If your goods are made from EU materials you don’t need to make a community transit declaration to move goods to:
+You only need to [make a declaration](http://govuk-import-export.herokuapp.com/guide/move-goods-eu/make-declaration.html) if both:
 
-- other EU countries
-- countries in the European Free Trade Association (EFTA) - Switzerland, Turkey, Norway, Macedonia and Iceland
+- the goods were originally brought in from outside the EU (or made from materials from outside the EU)
+- there’s still duty to pay on them
 
-There are [different rules](/guide/move-goods-eu/special-territories.html) for moving goods to the Channel Islands, EU special territories, Andorra and San Marino.
+This is called a ‘community transit declaration’.
 
-###Goods made from non-EU materials
+##EU special territories, Andorra and San Marino
 
-You must [make a community transit declaration](/guide/move-goods-eu/make-declaration.html) to move goods to EU or EFTA countries if they:
+There are [different rules](http://govuk-import-export.herokuapp.com/guide/move-goods-eu/special-territories.html) for moving goods to:
 
-- were made from materials brought in from outside the EU
-- there’s still duty to be paid on them
+- Channel Islands and other EU special territories
+- Andorra and San Marino
 
-If the duty has already been paid, they’re in ‘free circulation’ within the EU - so you don’t need to make a Community Transit declaration.
-
-##Moving goods made outside the EU
-
-You must [make a community transit declaration](/guide/move-goods-eu/make-declaration.html) to move your goods to EU or EFTA countries if:
-
-- the goods were originally brought in from outside the EU
-- there’s still duty to pay on the goods
-
-%You may have to pay a penalty if you don’t make a declaration when you’re required to do so.%
+%You may have to pay a penalty if you don’t make a declaration when you’re required to.
