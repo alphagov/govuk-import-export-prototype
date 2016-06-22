@@ -60,7 +60,8 @@ s4. Login to ICS and enter your Activation Code to make your declaration using X
 If ICS is unavailable, you should continue to make declarations on it. These will be queued until the system is available.
 
 If you need help getting an EORI number, contact the [EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact).
-[Contact HMRC](/government/organisations/hm-revenue-customs/contact/new-computerised-transit-system-enquiries).
+[Contact HMRC](/government/organisations/hm-revenue-customs/contact/new-computerised-transit-system-enquiries)for advice on using ICS.
+
 
 
 
