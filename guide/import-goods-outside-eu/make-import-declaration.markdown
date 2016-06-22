@@ -21,7 +21,7 @@ You can make a export declaration by:
 ^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
 
 ##Using software
-Search online for commercial software with ICS functionality that can send import declarations.
+Search online for commercial software with ICS functionality.
 
 ### Develop your own software
 You can also develop software if it’s compatible with the [UK Trader Interface Specifications (TIS)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382876/tis-ics-2-5.pdf)(PDF, 1.51MB)
