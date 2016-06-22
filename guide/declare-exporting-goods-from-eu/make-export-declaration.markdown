@@ -12,7 +12,7 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-You can make a export declaration to the Customs Handling Import and Export Freight (CHIEF) system by:
+You can make an export declaration to the Customs Handling Import and Export Freight (CHIEF) system by:
 
 - using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 - using the  National Export System (NES)
