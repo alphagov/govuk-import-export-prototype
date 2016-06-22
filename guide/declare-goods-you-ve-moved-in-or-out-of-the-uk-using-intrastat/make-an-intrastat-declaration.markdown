@@ -1,5 +1,4 @@
 ---
-
 layout: guide
 title: Declare goods you’ve moved in or out of the UK using Intrastat
 permalink: /guide/report-moved-goods-intrastat/make-intrastat-declaration.html  
@@ -12,7 +11,6 @@ breadcrumbs:
    url: '/'
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'  
-
 ---
 You must make an Intrastat declaration every month. You can either do this:
 
