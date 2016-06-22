@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Move goods to other EU countries
+title: Moving goods in the EU: when to make declarations
 permalink: /guide/move-goods-eu/specialist-software.html
 page_number: 4
 page_title: Use specialist software to make a community transit declaration
