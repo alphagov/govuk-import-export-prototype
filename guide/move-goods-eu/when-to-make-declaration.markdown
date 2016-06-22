@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Moving goods in the EU: when you need to make a declaration" 
+title: 'Moving goods in the EU: when you need to make a declaration'
 permalink: /guide/move-goods-eu/when-to-make-declaration.html
 page_number: 1
 page_title: When to make a declaration
