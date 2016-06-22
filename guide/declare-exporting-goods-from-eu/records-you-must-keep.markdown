@@ -2,7 +2,7 @@
 layout: guide
 title: Declare that you’re exporting goods outside the EU
 permalink: /guide/declare-exporting-goods-from-eu/records-you-must-keep.html
-page_number: 5
+page_number: 4
 page_title: Records you must keep
 breadcrumbs:
  - name: Home
