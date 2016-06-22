@@ -34,14 +34,14 @@ s2. [Register with HMRC’s Import Control System (Import Control System)](https
 s3. You’ll be sent an activation code in the post. The envelope will be marked 'Government Gateway'. The letter can take up to a week to arrive after you register. You’ll need your Activation Code to activate the service.
 s4. Login to ICS and enter your Activation Code to make your declaration using XML. 
 
-##What to do if you have problems with ICS  
+##What to do if you have problems with ICS
 
 If ICS is unavailable, you should continue to make declarations on it. These will be queued until the system is available.
 
 ##Get help
 
 If you need help getting an EORI number, contact the [EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact).
-[Contact HMRC](/government/organisations/hm-revenue-customs/contact/new-computerised-transit-system-enquiries) for advice on using ICS.
+[Contact HMRC](/government/organisations/hm-revenue-customs/contact/new-computerised-transit-system-enquiries).
 
 ##Records you must keep
 
