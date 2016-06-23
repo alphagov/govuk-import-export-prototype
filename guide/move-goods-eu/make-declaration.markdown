@@ -3,7 +3,7 @@ layout: guide
 title: "Moving goods in the EU: when to make declarations"
 permalink: /guide/move-goods-eu/make-declaration.html
 page_number: 2
-page_title: Make a community transit declaration through NCTS
+page_title: Make a community transit declaration
 breadcrumbs:
  - name: Home
    url: '/'
