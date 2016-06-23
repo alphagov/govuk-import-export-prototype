@@ -68,7 +68,7 @@ Telephone: 03000 575 988
 8am to 5pm, Monday to Friday  
 Closed on bank holidays  
 [Find out about call charges](/call-charges)  
-ics.helpdesk@hmrc.gsi.gov.uk  
+<ics.helpdesk@hmrc.gsi.gov.uk>  
 $C
 
 You can get help using the ICS service, eg with registering or signing in.
