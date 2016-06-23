@@ -71,7 +71,7 @@ Closed on bank holidays
 <ics.helpdesk@hmrc.gsi.gov.uk>  
 $C
 
-You can get help using the ICS service, eg with registering or signing in.
+You can also get help using the ICS service, eg with registering or signing in.
 
 $C
 **Help using the ICS service**  
