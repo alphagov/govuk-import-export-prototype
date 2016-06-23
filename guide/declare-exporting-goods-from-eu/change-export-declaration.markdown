@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-If you need to amend details on an export declaration, you must:
+If you need to amend details on an export declaration, you must both:
 
 - complete [form C81](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs_A/1.0/C81&template=C81.xdp) online
 - send a letter of explanation to the Trade and Statistical Office
