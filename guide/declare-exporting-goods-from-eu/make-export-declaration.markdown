@@ -58,7 +58,7 @@ s3. [Sign in](https://secure.hmce.gov.uk/ecom/login/index.html) to NES.
 
 ###Get help  
 
-You can get help getting an EORI number by [contacting the EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact).
+You can get help getting an EORI number by [contacting the EORI team.](https://online.hmrc.gov.uk/shortforms/form/EORIContact)
 
 If NES is unavailable for half a working day or more, contact the helpline to make a declaration through another route (called a 'fallback route').
 
