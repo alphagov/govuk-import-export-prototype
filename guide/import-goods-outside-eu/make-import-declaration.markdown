@@ -64,11 +64,11 @@ You can get general help and advice on using ICS.
 $C
 
 **ICS general help and advice**  
+<ics.helpdesk@hmrc.gsi.gov.uk> 
 Telephone: 03000 575 988  
 8am to 5pm, Monday to Friday  
 Closed on bank holidays  
 [Find out about call charges](/call-charges)  
-<ics.helpdesk@hmrc.gsi.gov.uk>  
 $C
 
 You can also get help using the ICS service, eg with registering or signing in.
