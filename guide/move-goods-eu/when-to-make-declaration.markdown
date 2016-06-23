@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Moving goods in the EU: when to make a declarations"
+title: "Moving goods in the EU: when to make declarations"
 permalink: /guide/move-goods-eu/when-to-make-declaration.html
 page_number: 1
 page_title: When to make a declaration
@@ -29,7 +29,7 @@ If you need to, you can either:
 
 ##EU special territories, Andorra and San Marino
 
-There are [different rules](http://govuk-import-export.herokuapp.com/guide/move-goods-eu/special-territories.html) for moving goods to:
+There are [different rules](/guide/move-goods-eu/special-territories.html) for moving goods to:
 
 - Channel Islands and other EU special territories
 - Andorra and San Marino
