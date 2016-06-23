@@ -26,7 +26,9 @@ You can either:
 
 ##Deadlines
 
-You must submit an import declaration at least:
+Submit your import declaration by the deadline.
+
+The deadline for submitting your import declaration depends on how you're sending your goods.
 
 Method of transport | Deadline for making a declaration
 - | -
