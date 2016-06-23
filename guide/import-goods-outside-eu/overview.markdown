@@ -26,9 +26,7 @@ You can either:
 
 ##Deadlines
 
-Submit your import declaration by the deadline.
-
-The deadline for submitting your import declaration depends on how you're sending your goods.
+The deadline for making your import declaration depends on how you're sending your goods.
 
 Method of transport | Deadline for making a declaration
 - | -
