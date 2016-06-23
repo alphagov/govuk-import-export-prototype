@@ -44,7 +44,7 @@ $C
 
 ##Using ICS
 
-If you only make export declarations occasionally you can use the online ICS (Import Control System).
+If you only make export declarations occasionally you can use the online ICS.
 
 ^This is a lengthy and complicated process - the vast majority of smaller exporters use a freight forwarder or agent to make a declaration for them.^
 
