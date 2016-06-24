@@ -30,11 +30,11 @@ If you can’t use an ATA Carnet (or don’t want to pay the fee), use a [Duplic
 
 ^If you’re sending goods to Taiwan, you can apply for a [Taiwan Carnet.](http://www.londonchamber.co.uk/lcc_public/article.asp?aid=100)
 
-##How to use an ATA Carnet
+##Using an ATA Carnet
 
 Call the HMRC imports and exports helpline before your journey.
 
-They'll need to check that a customs officer can stamp your Carnet at the port or airport your goods are being shipped from.
+They'll check that a customs officer can stamp your Carnet at the port or airport your goods are being shipped from.
 
 [Question for SME: how far in advance should people contact the helpline?]
 
