@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-If you’re a larger company making declarations regularly, it may make sense to use commercial software.
+You can also buy software to make Intrastat declarations. 
 
 Search online to find software suppliers.
 
@@ -21,5 +21,5 @@ Search online to find software suppliers.
 
 You can develop software that’s compatible with Intrastat, based on Electronic Data Interchange for Administration, Commerce and Transport (EDIFACT) messaging.
 
-Contact the [Intrastat helpline](/link) for details.
+Contact the [Intrastat helpline](/https://www.gov.uk/government/organisations/hm-revenue-customs/contact/intrastatlink) for details.
 
