@@ -3,7 +3,7 @@ layout: guide
 title: Report that you've moved goods in or out of the UK using Intrastat
 permalink: /guide/report-moved-goods-intrastat/get-help.html
 page_number: 4
-page_title: Get help with Intrastat
+page_title: Report that you've moved goods within the EU using Intrastat
 breadcrumbs:
  - name: Home
    url: '/'
