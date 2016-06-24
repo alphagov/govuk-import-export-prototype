@@ -17,7 +17,7 @@ You can make an export declaration to the Customs Handling Import and Export Fre
 - using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 - using the  National Export System (NES)
 
-^You may be able to use a simplified export procedure to [speed up the export process](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
+^Regular exporters can apply to [make simpler declarations](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
 
 ##Using software
 
