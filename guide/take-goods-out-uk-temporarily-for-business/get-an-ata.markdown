@@ -17,6 +17,8 @@ You can use an ATA Carnet in [around 70 countries](http://www.londonchamber.co.u
 
 Countries have their own rules about what goods you can bring in with an ATA Carnet. Check with the issuer in the [country you’re exporting to.](http://www.iccwbo.org/products-and-services/trade-facilitation/ata-connections/)
 
+If you can’t use an ATA Carnet (or don’t want to pay the fee), use a [Duplicate List](/guide/take-goods-out-uk-temporarily-for-business/you-dont-use-ata.html) to temporarily export your goods instead.
+
 ##How to apply
 
 You can apply:
@@ -26,9 +28,7 @@ You can apply:
 
 It usually costs £325.96 and you'll need to pay a security deposit. 
 
-If you can’t use an ATA Carnet (or don’t want to pay the fee), use a [Duplicate List](/guide/take-goods-out-uk-temporarily-for-business/you-dont-use-ata.html) instead.
-
-^If you’re sending goods to Taiwan, you can apply for a [Taiwan Carnet.](http://www.londonchamber.co.uk/lcc_public/article.asp?aid=100)
+^If you’re sending goods to Taiwan, apply for a [Taiwan Carnet](http://www.londonchamber.co.uk/lcc_public/article.asp?aid=100) instead.
 
 ##Using an ATA Carnet
 
