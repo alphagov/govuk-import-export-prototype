@@ -40,7 +40,7 @@ s2. Fill in [self assessment form C118](https://www.gov.uk/government/uploads/sy
 
 Email completed forms to <AEOapplications@hmrc.gsi.gov.uk>.
 
-If you’re based in the Isle of Man or the Channel Islands, you have to post forms instead. 
+If you’re based in the Isle of Man or the Channel Islands, you have to post the forms instead. 
 
 $A
 HMRC AEO Central Site 
