@@ -14,7 +14,7 @@ breadcrumbs:
 Regular importers and exporters can apply for Authorised Economic Operator (AEO) status to:
 
 - reduce the chances of goods getting stopped at customs
-- pay less for [duty deferment guarantee](link to duty deferment content)
+- pay less for [duty deferment guarantee]
 
 [Question for SME: If you don’t have a duty deferment guarantee, is it still worth it? If not we need to add this to list of things to need to check before applying]
 
