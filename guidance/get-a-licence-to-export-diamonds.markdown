@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a certificate to export rough diamonds
-summary: How to import or export rough diamonds
+summary: How to import or export rough diamonds.
 permalink: /guidance/get-a-licence-to-export-diamonds.html
 topic:
   name: Exporting and doing business abroad
