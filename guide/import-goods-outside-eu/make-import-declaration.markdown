@@ -18,7 +18,7 @@ You can make an import declaration to the Customs Handling Import and Export Fre
 * using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 * using the Import Control System (ICS)
 
-^Regular importers or exporters can apply to [make simpler declarations[(/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
+^Regular importers or exporters can apply to [make simpler declarations](/apply-simplified-declaration-procedure-sdp-imports-exports.html).^
 
 ##Using software
 
