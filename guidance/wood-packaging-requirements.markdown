@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: "Packaging your export products"
+title: "Packaging goods for import and export"
 summary: Rules and requirements for wood packaging used to import and export goods, including wooden crates, drums and pallets.
 permalink: /guidance/wood-packaging-requirements.html
 topic:
@@ -9,7 +9,7 @@ topic:
 ---
 Any wood packaging you use must meet certain requirements or your goods could be rejected or destroyed.
 
-[Ask fact check, do other materials have regulations, eg metal or plastic?]
+[Question for SME: do other materials have regulations, eg metal or plastic?]
 
 Wood packaging includes:
 
