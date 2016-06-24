@@ -25,6 +25,7 @@ Contact the Intrastat helpline for details.
 
 $C
 **Intrastat helpline**
+<intrastatenquiries@hmrc.gsi.gov.uk>
 Telephone: 03000 594 231
 Monday to Friday, 9am to 5pm
 Closed on bank holidays
