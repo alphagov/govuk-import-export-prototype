@@ -13,15 +13,14 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-The government uses the Intrastat system to collect international trade statistics from businesses.
+You must [register for Intrastat](https://www.uktradeinfo.com/ Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) if, in the last calendar year, your business either:
 
-You must [register to use Intrastat on the UK Trade Info website](https://www.uktradeinfo.com/
-Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) if you’re a VAT registered business, and:
+- moved more than £250,000 worth of goods to other EU countries
+- received more than £1.5 million worth of goods from other EU countries
 
-- you moved more than £250,000 worth of goods to other EU countries in the last calendar year, or
-- you received more than £1.5 million worth of goods from other EU countries in the last calendar year
+^If your business isn’t VAT registered, you don’t need to register for Intrastat.^
 
-When you have registered, you must [make monthly Intrastat declarations](/guide/report-moved-goods-intrastat/make-intrastat-declaration.html).
+When you’ve registered, you must [make monthly Intrastat declarations](/guide/report-moved-goods-intrastat/make-intrastat-declaration.html).
 
 ##What counts towards the £250,000 or £1.5 million total
 
@@ -33,9 +32,10 @@ Count the value of goods that are:
 - supplied free of charge  
 - moved in or out of the UK to be used in construction  
 - transferred between two branches of your business  
-- sent for processing  
-- sent out of the UK, then lost or destroyed  
+- processed  
+- moved out of the UK, then lost or destroyed  
 
-Only count the value of goods, not services.
+Don’t count the value of:
 
-Don’t count [goods you’re taking out of the UK temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html).
+* services
+* [goods you’re taking out of the UK temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html)
