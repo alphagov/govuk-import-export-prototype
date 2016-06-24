@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You may need permission to temporarily move or export goods outside the UK, eg sales samples for a trade show
+You may need permission to temporarily move or export goods outside the UK, eg if you take sales samples to a trade show.
 
 ##Move goods around the EU 
 
