@@ -29,7 +29,7 @@ s2. You’ll need an EORI number - how you get one depends on whether you're [re
 
 ^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
 
-You can fill in the application forms once you know you're eligible and have an EORI number.
+Fill in the application forms once you know you're eligible and have an EORI number.
 
 s1. Fill in [application form C117](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412200/C117.doc) (MS Word document, 96.5KB). You’ll need the [notes on form C117](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412612/C117-notes.pdf) (PDF, 90KB).
 s2. Fill in [self assessment form C118](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/412192/C118.doc) (MS Word document, 326KB). You’ll need the [notes on form C118](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/414686/C118_Notes.pdf) (PDF, 417KB).
