@@ -16,7 +16,7 @@ You must only import or export rough diamonds to [countries in the Kimberley Pro
 
 ##How to apply
 
-A Kimberley certificate cost £37. 
+A Kimberley certificate costs £37. 
 
 [Question for SME: How long does it take for a certificate to be issued following the application?]
 
