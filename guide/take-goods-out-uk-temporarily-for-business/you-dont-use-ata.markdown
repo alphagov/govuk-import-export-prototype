@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-Use a ‘Duplicate List’ to temporarily export goods if:
+Use a Duplicate List to temporarily export goods if:
 
 - the country you’re exporting to doesn’t recognise the ATA Carnet
 - you don’t want to pay for an ATA Carnet
