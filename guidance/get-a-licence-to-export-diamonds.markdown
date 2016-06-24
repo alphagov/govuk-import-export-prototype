@@ -7,9 +7,6 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-
-#Get a licence to export rough diamonds
-
 You must get a 'Kimberley certificate' to:
 
 - import rough diamonds into the UK
@@ -19,7 +16,7 @@ You must only import or export rough diamonds to [countries in the Kimberley Pro
 
 ##How to apply
 
-Kimberley certificates cost £37. 
+A Kimberley certificate cost £37. 
 
 [Question for SME: How long does it take for a certificate to be issued following the application?]
 
