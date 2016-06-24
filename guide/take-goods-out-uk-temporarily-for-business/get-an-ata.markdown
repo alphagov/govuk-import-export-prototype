@@ -15,7 +15,7 @@ breadcrumbs:
 
 You can use an ATA Carnet in [around 70 countries](http://www.londonchamber.co.uk/docimages/13618.pdf) (PDF, 156KB).
 
-Countries have their own rules about what goods you can bring in with an ATA Carnet. Check with [the issuer in the country you’re exporting to](http://www.iccwbo.org/products-and-services/trade-facilitation/ata-connections/).^
+Countries have their own rules about what goods you can bring in with an ATA Carnet. Check with the issuer in the [country you’re exporting to.](http://www.iccwbo.org/products-and-services/trade-facilitation/ata-connections/)
 
 ##How to apply
 
