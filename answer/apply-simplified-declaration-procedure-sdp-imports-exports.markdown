@@ -30,17 +30,17 @@ Apply for Entry in the Declarants Records (EIDR) instead if you’re importing g
 
 EIDR lets you move the goods to your own premises or a storage facility while you carry out the import declaration. 
 
-You can’t use it for goods that require an import license [link] or certificate, eg weapons, fireworks or fresh foods.
+You can’t use it for [goods that require an import license](/guide/starting-to-export/export-licences.html) or certificate, eg weapons, fireworks or fresh foods.
 
 ##Apply to use SDP or EIDR
-
-Hydrocarbon oil exporters can't use these schemes.
 
 s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 s2. You’ll need a [duty deferment account](link to content on duty deferment) with HM Revenue and Customs (HMRC).
 s3. Complete [form C&E48](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374170/ce48.pdf) (PDF,149KB) to apply for SDP or EIDR.
 
-^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
+You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
+
+^Hydrocarbon oil exporters can't use these schemes.
 
 ##Bring goods into the UK temporarily
 There’s a different process to bring goods into the UK temporarily (eg as samples to show your customers). You can’t use SDP or EIDR.
