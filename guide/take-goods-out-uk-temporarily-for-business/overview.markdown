@@ -23,7 +23,7 @@ You don’t need permission to temporarily move goods to another EU country unle
 
 Most countries have a limit on the value of goods you can bring in duty free.
 
-You can usually get [an ATA Carnet](link to part 2) to avoid paying duty on goods you bring in temporarily for business reasons, including:
+You can usually get [an ATA Carnet](/guide/take-goods-out-uk-temporarily-for-business/get-an-ata.html) to avoid paying duty on goods you bring in temporarily for business reasons, including:
 
 - samples to show at trade fairs or sales meetings
 - publicity materials
