@@ -1,6 +1,6 @@
 ---
 layout: start
-title: Trade Tariff
+title: Use the Trade Tariff to look up commodity codes
 permalink: /start/trade-tariff.html
 breadcrumbs:
  - name: Home
@@ -12,7 +12,7 @@ breadcrumbs:
 start_button:
   url: 'https://www.gov.uk/trade-tariff/sections'
   label: Start now
-  will_continue_on: the HMRC website
+  will_continue_on: 
 ---
 {% contentfor intro %}
 
