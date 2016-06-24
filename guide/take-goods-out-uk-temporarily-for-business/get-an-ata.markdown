@@ -24,9 +24,9 @@ You can apply:
  * [online](http://www.londonchamber.co.uk/lccicarnet/index.aspx)  
  * [by post](http://www.londonchamber.co.uk/lcc_public/article.asp?aid=100)
 
-You'll need to pay a £325.96 fee and a security deposit. 
+It usually costs £325.96 and you'll need to pay a security deposit. 
 
-If you can’t use an ATA Carnet (or don’t want to pay the fee), use a [Duplicate List](link to part 3) instead.
+If you can’t use an ATA Carnet (or don’t want to pay the fee), use a [Duplicate List](/guide/take-goods-out-uk-temporarily-for-business/you-dont-use-ata.html) instead.
 
 ^If you’re sending goods to Taiwan, you can apply for a [Taiwan Carnet.](http://www.londonchamber.co.uk/lcc_public/article.asp?aid=100)
 
