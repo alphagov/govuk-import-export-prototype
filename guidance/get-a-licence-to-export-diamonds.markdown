@@ -14,6 +14,8 @@ You must get a 'Kimberley certificate' to:
 
 Rough diamonds can only be imported or exported to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
 
+[Question for SME: Is there a penalty if someone imports/exports to a non-KP scheme countries?]
+
 ##How to apply
 
 A Kimberley certificate costs £37. 
