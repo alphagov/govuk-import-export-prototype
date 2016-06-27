@@ -12,7 +12,7 @@ You must get a 'Kimberley certificate' to:
 - import rough diamonds into the UK
 - export rough diamonds outside the EU
 
-You must only import or export rough diamonds to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
+Rough diamonds can only be imported or exported to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
 
 ##How to apply
 
