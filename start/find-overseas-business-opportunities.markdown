@@ -21,7 +21,7 @@ Search for export opportunities by market and sector.
 {% endcontentfor %}
 {% contentfor more_information %}
 
-UKTI can also help you find overseas business opportunities by:
+UK Trade and Investment (UKTI) can also help you find overseas business opportunities by:
 
 - arranging introductions to potential overseas buyers, agents and distributors
 - helping you prepare for overseas visits
@@ -29,5 +29,7 @@ UKTI can also help you find overseas business opportunities by:
 
 [Contact your nearest International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more. 
 ^[You can also sign up for UKTI events, seminars and overseas visits.](https://www.events.ukti.gov.uk)^
+
+*[UKTI]: UK Trade and Investment
 
 {% endcontentfor %}
