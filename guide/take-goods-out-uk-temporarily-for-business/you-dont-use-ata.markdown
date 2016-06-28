@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Declare that you’re exporting goods outside the EU
+title: Take goods out of the UK temporarily for business purposes
 permalink: /guide/take-goods-out-uk-temporarily-for-business/you-dont-use-ata.html
 page_number: 3
 page_title: If you don't use an ATA carnet
