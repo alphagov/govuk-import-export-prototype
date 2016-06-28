@@ -20,4 +20,14 @@ Search online to find software suppliers.
 
 You can develop software that’s compatible with Intrastat, based on Electronic Data Interchange for Administration, Commerce and Transport (EDIFACT) messaging.
 
-Contact the [Intrastat helpline](/https://www.gov.uk/government/organisations/hm-revenue-customs/contact/intrastatlink) for details.
+Contact the Intrastat helpline.
+
+$C 
+
+**Intrastat helpline**     
+<intrastatenquiries@hmrc.gsi.gov.uk>   
+Telephone: 0300 059 4231  
+Monday to Friday, 9am to 5pm    
+[Find out about call charges](/call-charges)    
+
+$C 
