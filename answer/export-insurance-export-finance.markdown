@@ -12,23 +12,21 @@ breadcrumbs:
 ---
 {% contentfor summary %}
 
-UK Export Finance (UKEF) can help your bank or insurance company to provide insurance against not getting paid when you export.
+You can get help from UK Export Finance (UKEF) to get:
+
+- insurance to cover you if you don’t get paid when you export (when you can’t get insurance privately)
+- a bond or loan to win a new export contract
+- credit or a loan for overseas companies to buy from you
 
 {% endcontentfor %}
 
-Talk to an [approved broker](/government/publications/uk-export-finance-insurance-list-of-approved-brokers/export-insurance-approved-brokers) or contact UK Export Finance customer services to find out more about export insurance.
+^UKEF can't help to insure exports to EU countries (except Greece), Australia, Canada, Iceland, Japan, New Zealand, Norway, Switzerland and the USA.
 
-UKEF won’t help to insure:
+To find out more, contact:
 
-- contracts where cover is available from the private sector
-- exports to EU countries (except Greece)
-- exports to Australia, Canada, Iceland, Japan, New Zealand, Norway, Switzerland and the United States of America
-
-## Bond or loan guarantees
-
-UKEF can also help to guarantee a bond or loan you take out to help you win a new export contract (eg a working capital loan or export bond).
-
-Talk to your bank or contact UK Export Finance customer services to find out more. 
+- your bank
+- an [approved export insurance broker](/government/publications/uk-export-finance-insurance-list-of-approved-brokers/export-insurance-approved-brokers) 
+- UKEF customer services
 
 $C
 
@@ -41,8 +39,5 @@ Find out about [call charges](/call-charges)
 
 $C
 
-## Finance for overseas buyers
 
-UKEF can also help overseas buyers to buy from UK companies by guaranteeing credit or underwriting a bank loan to an overseas buyer (eg by guaranteeing a letter of credit).
 
-Contact your bank for details.
