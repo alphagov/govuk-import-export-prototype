@@ -28,7 +28,7 @@ UK Trade and Investment (UKTI) can also help you find overseas business opportun
 - providing [grants to attend overseas trade shows shows](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/482753/TAP_Programme_2015-16_full_year_03_Dec_2015.xlsx) - contact the organisation leading the event to apply
 
 [Contact your nearest International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more. 
-^[You can also sign up for UKTI events, seminars and overseas visits.](https://www.events.ukti.gov.uk)^
+^You can also sign up for [UKTI events, seminars and overseas visits.](https://www.events.ukti.gov.uk)^
 
 *[UKTI]: UK Trade and Investment
 
