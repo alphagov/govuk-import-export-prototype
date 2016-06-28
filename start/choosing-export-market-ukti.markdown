@@ -16,13 +16,12 @@ start_button:
 ---
 {% contentfor intro %}
 
-Get advice and support from UK Trade & Investment (UKTI) to grow your business overseas. UKTI can help you:
+Get advice and support from UK Trade and Investment (UKTI) to grow your business overseas. UKTI can help you:
 
 - get started with international trade
-- assess and develop your export capability 
+- develop your skills to make your exporting business a success 
 - carry out research on potential export markets
 - develop an international communications strategy
-- develop and implement an international online strategy
 - manage the language and cultural aspects of exporting
 
 {% endcontentfor %}
@@ -33,7 +32,7 @@ UKTI can also help you find specific [overseas business opportunities.](https://
 
 You can sign up for [UKTI events, seminars and webinars.](https://www.events.ukti.gov.uk)
 
-*[UKTI]: UK Trade & Investment
+*[UKTI]: UK Trade and Investment
 
 {% endcontentfor %}
 
