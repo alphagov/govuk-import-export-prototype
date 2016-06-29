@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export furs, skins and other animal products
+title: Get a licence to export animal products and by-products
 summary: You must have a licence to export furs, skins and other animal products.
 permalink: /guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html
 topic:
