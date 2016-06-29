@@ -20,7 +20,7 @@ When they've read this page, the user will:
 Animal products and by-products include:
 
 * skins, wool, leathers and furs    
-* semen, ova, embryos from cattle, sheep, goats or pigs - the rules are different if they're from a different animal [link to endangered animal content]    
+* semen, ova, embryos from cattle, sheep, goats, pigs or boars - the rules are different if they're from a different animal [link to endangered animal content]    
 * bones, carsasses and blood    
 * collagen or any animal part used to manufacture drugs   
 
