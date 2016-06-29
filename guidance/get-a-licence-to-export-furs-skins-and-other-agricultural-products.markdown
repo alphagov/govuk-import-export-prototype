@@ -24,7 +24,7 @@ Animal products and by-products include:
 * bones, carsasses and blood    
 * collagen or any animal part used to manufacture drugs   
 
-##Moving animal products within the EU or EFTA
+##Moving animal products within the EU 
 You’ll need an Intra Trade Animal Health Certificate (ITAHC).
 You must keep this document for at least 3 years.
 
