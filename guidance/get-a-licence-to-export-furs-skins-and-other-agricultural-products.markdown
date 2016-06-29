@@ -20,13 +20,16 @@ When they've read this page, the user will:
 Animal products and by-products include:
 
 * skins, wool, leathers and furs    
-* semen, ova, embryos from cattle, sheep, goats, pigs or boars - the rules are different if they're from a different animal [link to endangered animal content]    
+* semen, ova, embryos from cattle, sheep, goats and pigs - the rules are different if they're from a different animal [link to endangered animal content]    
 * bones, carsasses and blood    
 * collagen or any animal part used to manufacture drugs   
 
+[Question for SME: Does sheep and goat semen, ova, embryos follow the Balai rules? There seems to be some contradiction]
+
 ##Moving animal products within the EU 
 You’ll need an Intra Trade Animal Health Certificate (ITAHC).
-You must keep this document for at least 3 years.
+
+You must keep this document for at least 3 years and it'll only be valid for only one species or one type of product at a time.
 
 [Question for SME: how much does it cost to get a certificate?]
 
@@ -47,7 +50,7 @@ You must nominate an official veterinarian (OV) to inspect your goods when you a
 - ask your local veterinary practice if there’s an OV working there
 - contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
 
-Your ITAHC will be valid for 10 days after the inspection
+Your ITAHC will be valid for 10 days after the inspection.
 
 ###Moving animal by-products inside the EU
 You'll also need to fill in a corporate document - this is a signed list including:
