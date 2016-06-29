@@ -43,18 +43,21 @@ You can either:
 
 ###Nominate a vet
 You must nominate an official veterinarian (OV) to inspect your goods when you apply. You can either:
+
 - ask your local veterinary practice if there’s an OV working there
 - contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
+
 Your ITAHC will be valid for 10 days after the inspection
 
 ###Moving animal by-products inside the EU
-You'll also need to fill in a corporate document
- - this is a signed list including:
-*a description of the goods, eg what they are and how much you’re moving 
-*the date you’re transporting them and registration number for the vehicle
-*where you’re sending the goods from and who you’re sending them to
-*the factory approval or registration number
-(Is this just a declaration, if you we can’t link to the guide)
+You'll also need to fill in a corporate document - this is a signed list including:
+
+* a description of the goods, eg what they are and how much you’re moving 
+* the date you’re transporting them and registration number for the vehicle
+* where you’re sending the goods from and who you’re sending them to
+* the factory approval or registration number
+
+[Is this just a declaration, if you we can’t link to the guide]
 
 ##Exporting animal products outside the EU
 
