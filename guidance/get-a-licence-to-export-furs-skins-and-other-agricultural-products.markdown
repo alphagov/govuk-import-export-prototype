@@ -57,7 +57,7 @@ You'll also need to fill in a corporate document - this is a signed list includi
 * where you’re sending the goods from and who you’re sending them to
 * the factory approval or registration number
 
-[Is this just a declaration, if you we can’t link to the guide]
+[Is this just a declaration, if so we can’t link to the guide]
 
 ##Exporting animal products outside the EU
 
