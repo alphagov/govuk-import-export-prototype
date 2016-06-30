@@ -57,7 +57,7 @@ When deciding whether to give a licence, ECO will consider whether there’s a r
 * the end user’s track record
 * the importing state’s views about the risk and their ability to regulate the risk (and whether they have import bans in place)
 
-They’ll also check if you’ve follow the [IAEA Code of Conduct on the Safety and Security.](http://www-ns.iaea.org/tech-areas/radiation-safety/code-of-conduct.asp)
+They’ll also check if you’ve follow the [IAEA Code of Conduct.](http://www-ns.iaea.org/tech-areas/radiation-safety/code-of-conduct.asp)
 
 ##Taking radioactive substances out of the UK temporarily
 
