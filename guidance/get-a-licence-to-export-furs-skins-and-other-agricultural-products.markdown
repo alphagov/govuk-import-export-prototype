@@ -22,22 +22,6 @@ You also need a certificate to export animal semen, ova, embryos and other germp
 
 ##Within the EU
 
-Fill in a corporate document to move animal by-products within the EU.
-
-This document is a signed list including:
-
-* a detailed description of the contents, including category, weight, volume and quantity
-* the date of transport
-* an address of origin and destination, and contact names at both
-* approval or registration numbers for the factory or vehicle
-* ear numbers and details of species, where carcasses have been taken from farms
-
-You should keep a copy of the commercial document for at least 2 years.
-
-[Question for SME: Is this just a community transit declaration, if so we can link to the guide]
-
-##Germplasm and animal by-products
-
 You need an Intra Trade Animal Health Certificate (ITAHC) to move germplasm and animal by-products within the EU. You need one for each species or animal product type.
 
 [Question for SME: how much does it cost to get a certificate?]
@@ -69,6 +53,20 @@ Your ITAHC will be valid for 10 days after the inspection.
 ###If there isn’t an ITAHC for your germplasm or animal by-product
 
 [Contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply.
+
+##Fill in a corporate document to move animal by-products within the EU
+
+This document is a signed list including:
+
+* a detailed description of the contents, including category, weight, volume and quantity
+* the date of transport
+* an address of origin and destination, and contact names at both
+* approval or registration numbers for the factory or vehicle
+* ear numbers and details of species, where carcasses have been taken from farms
+
+You should keep a copy of the commercial document for at least 2 years.
+
+[Question for SME: Is this just a community transit declaration, if so we can link to the guide]
 
 ##Outside the EU
 
