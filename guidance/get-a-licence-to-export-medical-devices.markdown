@@ -27,7 +27,7 @@ $C
 **MHRA CFS team**     
 < cfs@mhra.gsi.gov.uk>   
 Telephone: 020 3080 7171
-[Find out about call charges](/call-charges)    
+[Find out about call charges(/call-charges)      
 
 $C
 
