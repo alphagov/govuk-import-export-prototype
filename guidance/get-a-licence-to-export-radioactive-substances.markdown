@@ -58,7 +58,7 @@ When deciding whether to give a licence, ECO will consider whether there’s a r
 
 They’ll also check if you’ve follow the [IAEA Code of Conduct on the Safety and Security.](http://www-ns.iaea.org/tech-areas/radiation-safety/code-of-conduct.asp)
 
-### Sharing classified information
+### Sharing classified information during the export process
 
 You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means:
 
