@@ -59,6 +59,7 @@ This is a signed list including:
 * an address of origin and destination, and contact names at both
 * approval or registration numbers for the factory or vehicle
 * ear numbers and details of species, where carcasses have been taken from farms
+
 You should keep a copy of the commercial document for at least 2 years.
 
 [Question for SME: Is this just a community transit declaration, if so we can link to the guide]
