@@ -38,7 +38,7 @@ $C
 
 ##Within the EU
 
-You don’t need a licence to export ODS, HFCs and other F-gases within the EU.
+You don’t need a licence to move ODS, HFCs and other F-gases within the EU.
 
 *[EU]: European Union
 *[ODS]: Ozone-Depleting Substances
