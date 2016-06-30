@@ -10,7 +10,7 @@ topic:
 
 You need a certificate or commercial document to export animal by-products, for example:
 
-* skins and wool   
+* skins,leathers and wool   
 * bones, carsasses and blood    
 * collagen or any animal part used to manufacture drugs   
 
@@ -36,9 +36,9 @@ You should keep a copy of the commercial document for at least 2 years.
 
 [Question for SME: Is this just a community transit declaration, if so we can link to the guide]
 
-##Germplasm 
+##Germplasm and animal by-products
 
-You need an Intra Trade Animal Health Certificate (ITAHC) to move germplasm within the EU. You need one for each species or animal product type.
+You need an Intra Trade Animal Health Certificate (ITAHC) to move germplasm and animal by-products within the EU. You need one for each species or animal product type.
 
 [Question for SME: how much does it cost to get a certificate?]
 
@@ -66,7 +66,7 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 [Question for SME: Does the exporter need to do anything else once the vet has signed it?]
 
-###If there isn’t an ITAHC for your germplasm
+###If there isn’t an ITAHC for your germplasm or animal by-product
 
 [Contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply.
 
