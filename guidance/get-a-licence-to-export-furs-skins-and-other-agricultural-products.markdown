@@ -10,8 +10,8 @@ topic:
 
 You need a certificate or commercial document to export animal by-products, for example:
 
-* skins,leathers and wool   
-* bones, carsasses and blood    
+* skins,hides and wool   
+* bones, carsasses and blood   
 * collagen or any animal part used to manufacture drugs   
 
 You also need a certificate to export animal semen, ova, embryos and other germplasm from cattle, sheep, goats and pigs 
