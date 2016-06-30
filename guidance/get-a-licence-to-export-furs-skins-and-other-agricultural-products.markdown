@@ -20,7 +20,7 @@ You'll also need a special certificate to export animal germplasm like semen, ov
 
 [Question for SME: Does sheep and goat semen, ova, embryos follow the Balai rules? There seems to be some contradiction]
 
-###Fill in a corporate document to move animal by-products within the EU
+##Fill in a corporate document to move animal by-products within the EU
 
 This is a signed list including:
 
@@ -67,9 +67,9 @@ You must nominate an official veterinarian (OV) to inspect your goods when you a
 
 Your ITAHC will be valid for 10 days after the inspection.
 
-##Exporting animal products and by-products outside the EU
+##Exporting animal by-products and germplasm outside the EU
 
-You need an Export Health Certificate (EHC) to export animal by-products outside of the EU. 
+You need an Export Health Certificate (EHC) to export animal by-products and germplasm outside of the EU. 
 
 You must keep this document for at least 2 years.
 
