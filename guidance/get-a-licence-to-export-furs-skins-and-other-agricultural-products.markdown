@@ -10,7 +10,7 @@ topic:
 
 You need a certificate or commercial document to export animal by-products, for example:
 
-* skins, wool, leathers and furs    
+* skins and wool   
 * bones, carsasses and blood    
 * collagen or any animal part used to manufacture drugs   
 
