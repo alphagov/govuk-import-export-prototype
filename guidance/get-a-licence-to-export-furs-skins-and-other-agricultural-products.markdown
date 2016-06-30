@@ -14,7 +14,7 @@ You need a certificate or commercial document to export animal by-products, for 
 * bones, carsasses and blood    
 * collagen or any animal part used to manufacture drugs   
 
-You also need a different certificate to export animal semen, ova, embryos and other germplasm from cattle, sheep, goats and pigs 
+You also need a certificate to export animal semen, ova, embryos and other germplasm from cattle, sheep, goats and pigs 
 
 ^The rules are different if they're from other animals [link to endangered animal content].^
 
