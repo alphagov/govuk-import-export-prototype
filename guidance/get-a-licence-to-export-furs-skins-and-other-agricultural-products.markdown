@@ -28,7 +28,7 @@ You need an Intra Trade Animal Health Certificate (ITAHC) to move germplasm and 
 
 [Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
 
-###Applying for an ITAHC
+###Apply for an ITAHC
 
 Apply by using the EU’s Trade Control and Expert System (TRACES). 
 
@@ -54,9 +54,9 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 [Contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply.
 
-###Fill in a document to move by-products within the EU
+###Complete a document for by-products 
 
-This commercial document is a signed list including:
+A commercial document is a signed list used when moving most animal by-products, you'll need to include:
 
 * a detailed description of the contents, including category, weight, volume and quantity
 * the date of transport
