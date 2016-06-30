@@ -53,9 +53,9 @@ The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk)
 
 When deciding whether to give a licence, ECO will consider:
 
-whether there’s a risk of the substances being used for terrorism (based on any intelligence available to ECO, the end user’s track record, the importing state’s views about the risk and the importing state’s ability to regulate the risk)
-whether the exporter follows the [IAEA Code of Conduct on the Safety and Security of Radioactive Sources](http://www-ns.iaea.org/tech-areas/radiation-safety/code-of-conduct.asp)
-whether the importing country has any relevant import bans in place
+- whether there’s a risk of the substances being used for terrorism (based on any intelligence available to ECO, the end user’s track record, the importing state’s views about the risk and the importing state’s ability to regulate the risk)
+- whether the exporter follows the [IAEA Code of Conduct on the Safety and Security of Radioactive Sources](http://www-ns.iaea.org/tech-areas/radiation-safety/code-of-conduct.asp)
+- whether the importing country has any relevant import bans in place
 
 ##Taking radioactive substances out of the UK temporarily
 
@@ -108,10 +108,10 @@ The [ECO compliance code of practice](/government/publications/compliance-code-o
 
 ## Contact the Export Control Organisation (ECO)
 
-ECO helpline
-Email: <eco.help@bis.gsi.gov.uk
-Telephone: 0202 7215 4594
-Fax: 020 7215 2635
+ECO helpline <br>
+Email: <eco.help@bis.gsi.gov.uk> <br>
+Telephone: 0202 7215 4594 <br>
+Fax: 020 7215 2635 <br>
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to check if you need a licence or to get advice from ECO on how to classify radioactive substances.
 
