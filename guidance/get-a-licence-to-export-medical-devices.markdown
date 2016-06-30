@@ -7,7 +7,9 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-You’ll need a Certificate of Free Sale (CFS) to export medical devices outside the EU. This includes both general devices and specialist ones such as:
+You’ll need a Certificate of Free Sale (CFS) to export medical devices outside the EU. 
+
+This includes both general devices and specialist ones such as:
 
 * active implantable devices
 * in-vitro diagnostic devices
