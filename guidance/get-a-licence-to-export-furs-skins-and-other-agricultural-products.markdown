@@ -54,7 +54,7 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 [Contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply.
 
-##Fill in a document to move by-products within the EU
+###Fill in a document to move by-products within the EU
 
 This document is a signed list including:
 
