@@ -17,7 +17,7 @@ When they've read this page, the user will:
 * understands how much it costs
 * understands what they have to do with it once they have a licence
 
-Animal products and by-products include:
+You'll neeed extra documents to export animal products and by-products, this includes:
 
 * skins, wool, leathers and furs    
 * semen, ova, embryos from cattle, sheep, goats and pigs - the rules are different if they're from a different animal [link to endangered animal content]    
@@ -90,7 +90,7 @@ Your OV can carry out any examination, inspection, testing, sampling or treatmen
 
 Check the ‘Notes For Guidance’ that come with your EHC to find out if you need to get it signed by a local authority inspector or OV.
 
-Contact [your local authority]
+Contact [your local authority]to get your EHC signed by an inspector.
 
 ###Create a new EHC
 
