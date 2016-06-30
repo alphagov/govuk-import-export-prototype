@@ -24,7 +24,7 @@ You'll also need a special certificate to export animal germplasm like semen, ov
 
 This is a signed list including:
 
-* a detailed description of the contents, including category and quantity
+* a detailed description of the contents, including category, weight, volume and quantity
 * the date of transport
 * an address of origin and destination, and contact names at both
 * approval or registration numbers for the factory or vehicle
