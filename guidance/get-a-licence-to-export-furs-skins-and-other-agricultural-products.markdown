@@ -56,7 +56,9 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 ###Complete a document for by-products 
 
-A commercial document is a signed list used when moving most animal by-products, you'll need to include:
+Fill in a commercial document to move most animal by-products within the EU.
+
+This is a signed list, including:
 
 * a detailed description of the contents, including category, weight, volume and quantity
 * the date of transport
