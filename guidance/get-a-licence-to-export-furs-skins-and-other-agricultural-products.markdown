@@ -56,7 +56,7 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 ###Fill in a document to move by-products within the EU
 
-This document is a signed list including:
+This commercial document is a signed list including:
 
 * a detailed description of the contents, including category, weight, volume and quantity
 * the date of transport
@@ -64,7 +64,7 @@ This document is a signed list including:
 * approval or registration numbers for the factory or vehicle
 * ear numbers and details of species, where carcasses have been taken from farms
 
-You should keep a copy of the commercial document for at least 2 years.
+You should keep a copy for at least 2 years.
 
 [Question for SME: Is this just a community transit declaration, if so we can link to the guide]
 
