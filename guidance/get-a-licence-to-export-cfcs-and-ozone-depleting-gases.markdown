@@ -11,7 +11,7 @@ You can only export ozone-depleting substances (ODS) outside the EU in special s
 
 - HCFCs used for refrigeration, foam blowing fire-fighting or solvents 
 - CFCs or CTCs for laboratory or analytical use
-- for feedstock
+- all ODS used for feedstock
 - [other special situations](https://circabc.europa.eu/sd/a/6e32df10-ab7d-4bc0-83e1-ae3ef90cc45e/0%20General%20Informaton%20manual%20EN%20v1.0)
 
 
