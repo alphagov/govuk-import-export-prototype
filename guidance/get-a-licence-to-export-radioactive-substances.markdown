@@ -52,7 +52,8 @@ Apply as far in advance as possible, [you can check](https://www.exportcontroldb
 [Question for SME: how much does it cost to get a licence?]
 
 When deciding whether to give a licence, ECO will consider whether there’s a risk of the substances being used for terrorism based on:
-* any intelligence available to ECO
+
+* any intelligence available to ECO  
 * the end user’s track record
 * the importing state’s views about the risk and their ability to regulate the risk (and whether they have import bans in place)
 
