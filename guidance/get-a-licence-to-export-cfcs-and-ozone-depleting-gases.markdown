@@ -18,10 +18,9 @@ You can only export ozone-depleting substances (ODS) in special situations. You 
 [Apply for an export licence](http://ec.europa.eu/clima/policies/ozone/ods/) on the European Commission website.
 
 
-[Questions for SME: How long does it take to get a licence? How much does it cost? What does an exporter do with the licence when they've got it?]
-[Question for SME: Is there a list of these substances that we can link to?]
+[Questions for SME: How long does it take to get a licence? How much does it cost? What does an exporter do with the licence when they've got it? Is there a list of these ODS that we can link to?]
 
-#HFCs and other F-gases
+##HFCs and other F-gases
 
 HFCs and other [F-gases](https://www.gov.uk/government/collections/eu-f-gas-regulation-guidance-for-users-producers-and-traders#regulated-gases-and-supporting-guidance) are also used in refrigeration and air conditioning systems, solvents or aerosols.
 
