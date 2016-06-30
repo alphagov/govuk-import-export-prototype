@@ -16,7 +16,7 @@ You need a certificate or commerical document to export animal by-products, for 
 
 You'll also need a special certificate to export animal germplasm like semen, ova, embryos from cattle, sheep, goats and pigs 
 
-^The rules are different if they're from other animals [link to endangered animal content].
+^The rules are different if they're from other animals [link to endangered animal content].^
 
 [Question for SME: Does sheep and goat semen, ova, embryos follow the Balai rules? There seems to be some contradiction]
 
