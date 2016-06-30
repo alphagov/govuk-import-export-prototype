@@ -8,16 +8,31 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need a certificates and documents to export animal by-products, for example::
+You need a certificate or commerical documents to export animal by-products, for example::
 
 * skins, wool, leathers and furs    
-* semen, ova, embryos from cattle, sheep, goats and pigs - the rules are different if they're from other animals [link to endangered animal content]    
 * bones, carsasses and blood    
 * collagen or any animal part used to manufacture drugs   
 
+You'll also need certificates to export animal germplasm like semen, ova, embryos from cattle, sheep, goats and pigs - the rules are different if they're from other animals [link to endangered animal content].
+
 [Question for SME: Does sheep and goat semen, ova, embryos follow the Balai rules? There seems to be some contradiction]
 
-##Moving animal by-products within the EU 
+###Fill in a corporate document to move animal by-products within the EU
+
+This is a signed list including:
+
+* a detailed description of the contents, including category and quantity
+* the date of transport
+* an address of origin and destination, and contact names at both
+* approval or registration numbers for the factory or vehicle
+* ear numbers and details of species, where carcasses have been taken from farms
+
+You should keep a copy of the commercial document for at least 2 years.
+
+[Question for SME: Is this just a community transit declaration, if so we can link to the guide]
+
+##Moving germplasm within the EU 
 
 You’ll need an Intra Trade Animal Health Certificate (ITAHC).
 
@@ -50,21 +65,7 @@ You must nominate an official veterinarian (OV) to inspect your goods when you a
 
 Your ITAHC will be valid for 10 days after the inspection.
 
-###Fill in a corporate document
-
-This is a signed list including:
-
-* a detailed description of the contents, including category and quantity
-* the date of transport
-* an address of origin and destination, and contact names at both
-* approval or registration numbers for the factory or vehicle
-* ear numbers and details of species, where carcasses have been taken from farms
-
-You should keep a copy of the commercial document for at least 2 years.
-
-[Question for SME: Is this just a community transit declaration, if so we can link to the guide]
-
-##Exporting animal by-products outside the EU
+##Exporting animal products and by-products outside the EU
 
 You need an Export Health Certificate (EHC) to export animal by-products outside of the EU. 
 
