@@ -34,7 +34,7 @@ Apply by using the EU’s Trade Control and Expert System (TRACES).
 
 You can either:
 
-- [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of the animals you're exporting - you must tell the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official vet (OV)
+- [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of what you're exporting - you must tell the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official vet (OV)
 - fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf)(PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) 
 
 Once you have your ITAHC, you must keep it for 3 years.
