@@ -7,7 +7,7 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-You can only export ozone-depleting substances (ODS) in special situations. You can get an export licence for:
+You can only export ozone-depleting substances (ODS) outside the EU in special situations. You can get an export licence for:
 
 - HCFCs used for refrigeration, foam blowing fire-fighting or solvents 
 - CFCs or CTCs for laboratory or analytical use
