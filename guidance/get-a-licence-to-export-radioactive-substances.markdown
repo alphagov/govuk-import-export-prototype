@@ -58,21 +58,6 @@ When deciding whether to give a licence, ECO will consider whether there’s a r
 
 They’ll also check if you’ve follow the [IAEA Code of Conduct on the Safety and Security.](http://www-ns.iaea.org/tech-areas/radiation-safety/code-of-conduct.asp)
 
-### Sharing classified information during the export process
-
-You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means:
-
-- information or equipment classified as [‘official-sensitive’ or higher](/government/publications/government-security-classifications)
-- information or equipment classified as ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
-
-Use MOD form 680 on the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for approval.
-
-Contact your usual desk officer or email <ACP-ELC@mod.uk> if you have a question about MOD form 680 applications.
-
-
-[Question for SME: does the requirement to complete MOD form 680 apply here?]
-
-
 ##Taking radioactive substances out of the UK temporarily
 
 You still need to get an export licence to take something that’s on the consolidated military list out of the country temporarily.
@@ -93,7 +78,7 @@ Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login
 
 [Question for SME: are these the applicable rules on trafficking and brokering?]
 
-## When you have your licence
+## Your license responsibilities
 
 You're responsible for making sure that your licence is still valid when you export the goods.
 
@@ -107,6 +92,20 @@ The [ECO compliance code of practice](/government/publications/compliance-code-o
 - what compliance processes to put in place
 - how to train staff
 - how ECO compliance audits work
+
+### Sharing classified information during the export process
+
+You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means:
+
+- information or equipment classified as [‘official-sensitive’ or higher](/government/publications/government-security-classifications)
+- information or equipment classified as ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
+
+Use MOD form 680 on the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for approval.
+
+Contact your usual desk officer or email <ACP-ELC@mod.uk> if you have a question about MOD form 680 applications.
+
+
+[Question for SME: does the requirement to complete MOD form 680 apply here?]
 
 ## Contact the Export Control Organisation (ECO)
 
