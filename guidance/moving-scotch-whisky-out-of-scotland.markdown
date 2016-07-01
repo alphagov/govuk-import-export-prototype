@@ -27,7 +27,9 @@ You may need to [check if you meet the criteria](https://www.gov.uk/government/u
 
 ##Moving whisky around the UK
 
-If you’re outside Scotland and want to receive Scotch whisky in bulk to sell it on to be blended, bottled or labelled, you’ll need to apply for the verification scheme.
+If you’re outside Scotland and want to receive Scotch whisky in bulk, you’ll need to apply for the verification scheme.
+
+[Do they only need to apply if they plan to sell them to be blended, bottled or labelled?]
 
 ###Applying 
 
