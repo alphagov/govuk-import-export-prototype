@@ -21,7 +21,7 @@ You can’t move single grain Scotch whisky, blended malt Scotch whisky, blended
 
 You can move single malt whisky in smaller quantities.
 
-You may need to [check if you meet the criteria](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/236297/scotch-whisky-technical-file-130829.pdf) for Scotch Whisky first.
+You may need to [check if you meet the criteria](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/236297/scotch-whisky-technical-file-130829.pdf) for Scotch whisky first.
 
 [Question for SME: What quantity qualifies as ‘bulk’?]
 
