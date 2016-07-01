@@ -34,7 +34,7 @@ If you’re outside Scotland and want to receive Scotch whisky in bulk to sell i
 You’ll need to:
 
 * [register as a bulk importer](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvbulkimporter.htm)
-*[sign up for the ‘undertaking cover’](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvundertaking.htm)to move your goods outside the UK
+* [sign up for the ‘undertaking cover’](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvundertaking.htm)to move your goods outside the UK  
 
 ###Pay a fee
 
