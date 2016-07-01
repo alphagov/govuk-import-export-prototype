@@ -8,11 +8,13 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need a certificate or commercial document to export animal by-products, for example:
+You need a certificate or commercial document to export animal by-products.
+
+These are animal parts which won't be consumed by humans, for example:
 
 * skins,hides and wool   
-* bones, carsasses and blood   
-* collagen or any animal part used to manufacture drugs   
+* bones, carsasses, blood and gelatin -[when they're not directly being exported as food](link to food guide)
+* manure
 
 You also need a certificate to export animal semen, ova, embryos and other germplasm from cattle, sheep, goats and pigs 
 
