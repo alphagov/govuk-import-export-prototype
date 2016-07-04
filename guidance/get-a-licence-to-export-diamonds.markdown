@@ -9,9 +9,12 @@ topic:
 ---
 You can export diamonds, gold and precious metals without a licence or certificate unless the diamonds are uncut (rough diamonds).
 
+
 $CTA
+
 You must not export gold, precious metals or diamonds to Syria.
 $CTA
+
 
 ##Rough diamonds
 You must get a 'Kimberley certificate' to:
