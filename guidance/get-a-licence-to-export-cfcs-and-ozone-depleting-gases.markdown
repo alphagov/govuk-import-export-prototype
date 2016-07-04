@@ -9,7 +9,7 @@ topic:
 ---
 ##Within the EU
 
-You don’t need a licence to move ODS, HFCs and other F-gases within the EU.
+You don’t need a licence to move ozone-depleting substances (ODS) and fluorinated greenhouse gases (F-gases) within the EU.
 
 ##Outside the EU
 
