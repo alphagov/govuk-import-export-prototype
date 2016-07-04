@@ -177,19 +177,6 @@ DLCU will send you a written invoice to the registered address on your customer 
 
 If you need a purchase order number to be quoted on the invoice, please state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
 
-#####How to pay
-
-You can pay your fees either by:
-
-- Bankers Automated Clearing Service (BACS)
-- Clearing House Automated Payment System (CHAPS)
-- cheque to Shared Service Connected Limited, HO Box 5003, Newport NP20 9BB
-- credit or debit card over the phone - 08450 100 125
-
-Include your invoice number on either the cheque or in the reference section of your bank transfer.
-
-Your fee will be refunded if your application is refused or you withdraw it.
-
 ##Export barbiturates
 
 You need permission from the Export Control Organisation (ECO) to export outside the EU some drugs that may be used in lethal injections. These are ‘short and intermediate acting barbiturate anaesthetic agents’.
