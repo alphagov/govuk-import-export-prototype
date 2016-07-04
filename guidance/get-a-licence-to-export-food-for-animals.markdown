@@ -89,7 +89,7 @@ Talk to your importer to find out about import conditions in the country you wan
 
 Send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) for them to consider negotiating a new EHC.
 
-##Get a Certificate of Free Sale 
+##Additional rules outside the EU
 
 If you’re exporting outside the EU, you may need a Certificate of Free Sale for the following products:
 
