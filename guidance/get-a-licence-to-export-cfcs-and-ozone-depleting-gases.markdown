@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Licences and special rules for exporting ozone-depleting gases and F-gases
-summary: Licences and special rules for exporting ozone-depleting gases and F-gases.
+title: Licences and special rules for exporting ozone-depleting substances and F-gases
+summary: Licences and special rules for exporting ozone-depleting substances and F-gases.
 permalink: /guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html
 topic:
   name: Exporting and doing business abroad
