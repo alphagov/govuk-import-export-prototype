@@ -116,9 +116,9 @@ Contact the RPA.
 $C 
 
 **Rural Payments Agency**       
-Telephone: 03000 200 301
-Monday to Friday, 8.30am to 5pm
-[Find out about call charges](/call-charges)    
+Telephone: 03000 200 301  
+Monday to Friday, 8.30am to 5pm  
+[Find out about call charges](/call-charges)      
 
 $C
 
