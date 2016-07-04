@@ -28,7 +28,7 @@ The bottle must be:
 
 ##Other Scotch whiskies
 
-You can only export single grain, blended malt, blended grain or blended Scotch whisky outside Scotland to an ‘[approved bulk importer.](https://customs.hmrc.gov.uk/sdvlookup/showAllBulkImporter.action)’ This is someone outside Scotland who blends, bottles or labels Scotch whisky to sell on.
+You can only export single grain, blended malt, blended grain or blended Scotch whisky outside Scotland to an ‘[approved bulk importer.](https://customs.hmrc.gov.uk/sdvlookup/showAllBulkImporter.action)’ This includes businesses outside Scotland that blend, bottle or label Scotch whisky to sell on.
 
 You must not export these whiskies in a wooden cask or holder.
 
@@ -37,16 +37,20 @@ The bottle must be:
 - labelled 'retail sale'
 - glass, or another substance that's 'inert' (not chemically reactive)
 
-###Apply to blend, bottle or label Scotch outside Scotland
+###Apply to bulk import, blend, bottle or label Scotch outside Scotland
 
 You need to:
 
-* [register as a bulk importer](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvbulkimporter.htm)
+* [register](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvbulkimporter.htm)
 * [sign up for the ‘undertaking cover’](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvundertaking.htm) to export your goods outside Scotland
 
 You'll need to pay a fee of £xxx. 
 
 
 [Question for SME: How much is the fee? How long does it take to register and to get undertaking cover?]
+
+##How to get help
+
+Contact enquiries.sdvs@hmrc.gsi.gov.uk if you need help.
 
 
