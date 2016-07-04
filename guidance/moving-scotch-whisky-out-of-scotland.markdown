@@ -14,51 +14,39 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You can’t move single grain Scotch whisky, blended malt Scotch whisky, blended grain Scotch whisky or blended Scotch whisky outside Scotland unless it’s:
+There are special rules for exporting Scotch whisky outside of Scotland.
 
-* in bulk
-* being sent to someone who’s [met all the requirements](https://customs.hmrc.gov.uk/sdvlookup/showAllBulkImporter.action)
+##Single malt whisky 
 
-You can move single malt whisky in smaller quantities.
+Single malt Scotch whisky must not be bottled, or re-bottled, outside Scotland.
 
-You may need to [check if you meet the criteria](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/236297/scotch-whisky-technical-file-130829.pdf) for Scotch whisky first.
+The bottle must be:
 
-[Question for SME: What quantity qualifies as ‘bulk’?]
+- no more than 2 litres
+- glass, or another substance that's 'inert' (not chemically reactive)
+- labelled 'retail sale'
 
-##Moving whisky around the UK
+##Other Scotch whiskies
 
-If you’re outside Scotland and want to receive Scotch whisky in bulk, you’ll need to apply for the verification scheme.
+You can only export single grain, blended malt, blended grain or blended Scotch whisky outside Scotland to an ‘[approved bulk importer.](https://customs.hmrc.gov.uk/sdvlookup/showAllBulkImporter.action)’ This is someone outside Scotland who blends, bottles or labels Scotch whisky to sell on.
 
-[Do they only need to apply if they plan to sell them to be blended, bottled or labelled?]
+You must not export these whiskies in a wooden cask or holder.
 
-###Applying 
+The bottle must be:
 
-You’ll need to:
+- labelled 'retail sale'
+- glass, or another substance that's 'inert' (not chemically reactive)
+
+###Apply to blend, bottle or label Scotch outside Scotland
+
+You need to:
 
 * [register as a bulk importer](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvbulkimporter.htm)
-* [sign up for the ‘undertaking cover’](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvundertaking.htm)to move your goods outside the UK  
+* [sign up for the ‘undertaking cover’](http://www.hmrc.gov.uk/tools/spiritdrinksapplication/sdvundertaking.htm) to export your goods outside Scotland
 
-###Pay a fee
+You'll need to pay a fee of £xxx. 
 
-You’ll get an invoice covering the fee for your registration and verification. You should pay the amount you owe within 30 days of the date on the invoice.
 
-[Question for SME: Could we indicate how much this will be or how it’s calculated?]
-
-##Moving whisky outside the UK
-
-You can’t move any Scotch whisky unless it’s in a bottle made from inert material with a label for ‘retail sale’.
-
-You can’t move the following products in a wooden cask or holder:
-
-* single grain Scotch whisky  
-* blended malt Scotch whisky  
-* blended grain Scotch whisky  
-* blended Scotch whisky  
-
-###Single malt Scotch whisky
-
-If you move single malt Scotch whisky your bottle must also be a maximum of 2 litres.
-
- Single Malt Scotch Whisky may not be bottled, or re-bottled, outside Scotland. 
+[Question for SME: How much is the fee? How long does it take to register and to get undertaking cover?]
 
 
