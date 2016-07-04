@@ -50,8 +50,6 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 [Contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply.
 
-You may also need a Certificate of Free Sale (CFS) to export 
-
 ##Outside the EU
 
 You need an Export Health Certificate (EHC) to export food for animals outside of the EU. 
