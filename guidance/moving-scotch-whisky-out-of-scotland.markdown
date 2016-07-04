@@ -55,7 +55,7 @@ You can’t move the following products in a wooden cask or holder:
 * blended grain Scotch whisky  
 * blended Scotch whisky  
 
-##Single malt Scotch whisky
+###Single malt Scotch whisky
 
 If you move single malt Scotch whisky your bottle must also be a maximum of 2 litres.
 
