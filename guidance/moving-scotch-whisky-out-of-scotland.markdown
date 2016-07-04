@@ -49,10 +49,11 @@ You’ll get an invoice covering the fee for your registration and verification.
 You can’t move any Scotch whisky unless it’s in a bottle made from inert material with a label for ‘retail sale’.
 
 You can’t move the following products in a wooden cask or holder:
-*single grain Scotch whisky
-*blended malt Scotch whisky
-*blended grain Scotch whisky
-*blended Scotch whisky
+
+*single grain Scotch whisky  
+*blended malt Scotch whisky  
+*blended grain Scotch whisky  
+*blended Scotch whisky  
 
 ##Single malt Scotch whisky
 
