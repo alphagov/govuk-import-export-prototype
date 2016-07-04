@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: How to export diamonds, gold and precious metals
-summary: How to export diamonds, gold and precious metals.
+title: Licences and special rules for exporting diamonds, gold and precious metals
+summary: Licences and special rules for exporting diamonds, gold and precious metals.
 permalink: /guidance/get-a-licence-to-export-diamonds.html
 topic:
   name: Exporting and doing business abroad
