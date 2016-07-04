@@ -1,16 +1,23 @@
 ---
 layout: guidance
-title: Get a certificate to export rough diamonds
-summary: How to import or export rough diamonds.
+title: How to export diamonds, gold and precious metals
+summary: How to export rough diamonds.
 permalink: /guidance/get-a-licence-to-export-diamonds.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
+You can export diamonds, gold and precious metals without a licence or certificate unless the diamonds are uncut (rough diamonds).
+
+$CTA
+You must not export gold, precious metals or diamonds to Syria.
+$CTA
+
+##Rough diamonds
 You must get a 'Kimberley certificate' to:
 
-- import rough diamonds into the UK
 - export rough diamonds outside the EU
+- import rough diamonds into the UK
 
 Rough diamonds can only be imported or exported to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
 
