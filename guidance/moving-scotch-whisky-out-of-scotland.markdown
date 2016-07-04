@@ -17,7 +17,7 @@ topic:
 You can’t move single grain Scotch whisky, blended malt Scotch whisky, blended grain Scotch whisky or blended Scotch whisky outside Scotland unless it’s:
 
 * in bulk
-* being sent someone who’s [met all the requirements](https://customs.hmrc.gov.uk/sdvlookup/showAllBulkImporter.action)
+* being sent to someone who’s [met all the requirements](https://customs.hmrc.gov.uk/sdvlookup/showAllBulkImporter.action)
 
 You can move single malt whisky in smaller quantities.
 
