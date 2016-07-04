@@ -27,7 +27,7 @@ Rough diamonds can only be imported or exported to [countries in the Kimberley P
 
 [Question for SME: Is there a penalty if someone imports/exports to a non-KP scheme countries?]
 
-##How to apply
+###How to apply
 
 A Kimberley certificate costs £37. 
 
@@ -36,6 +36,7 @@ A Kimberley certificate costs £37.
 Contact the Government Diamond Office to apply - you must have a certificate before you import or export your goods.
 
 [Question for SME: what does a person do the certificate when they've got it? Attach it to their consignment?
+
 
 **Government Diamond Office**  
 <kpuk@fco.gov.uk>  
