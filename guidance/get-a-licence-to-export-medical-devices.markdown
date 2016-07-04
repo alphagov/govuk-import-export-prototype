@@ -17,7 +17,9 @@ The manufacturer, legal manufacturer or authorised representative must be based 
 * a CE marking or equivalent 
 
 ##How to apply
+
 [Sign up](https://aic.mhra.gov.uk/CFS/cfsSystem.nsf/cfsRegA?Open) or [log in](https://aic.mhra.gov.uk/cfs/cfssystem.nsf/frmlogin) to apply for a CFS.
+
 Contact the Medicines and Healthcare products Regulatory Agency (MHRA) if you need help.
 
 [Question for SME: Is there a cost? How long does it take to get one? What happens once they have the Certificate of Free Sale?]
