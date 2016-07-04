@@ -11,7 +11,6 @@ You can export diamonds, gold and precious metals without a licence or certifica
 
 
 $CTA
-
 You must not export gold, precious metals or diamonds to Syria.
 $CTA
 
