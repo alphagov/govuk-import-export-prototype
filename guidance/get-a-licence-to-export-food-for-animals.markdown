@@ -91,15 +91,15 @@ Send any officially-issued import conditions to [Centre for International Trade 
 
 ##Get a Certificate of Free Sale 
 
-If you’re exporting outside the EU, you may need a Certificate of Free Sale. Check with the importing country’s authority or embassy.
-
-They may be required for the following products:
+If you’re exporting outside the EU, you may need a Certificate of Free Sale for the following products:
 
 * protein crops for animals 
 * animal feeding stuff
 * pet food
 
-If you need a CFS for animal food which isn’t on this list, contact the Rural Payments Agency (RPA).
+Check with the importing country’s authority or embassy.
+
+If you're asked for a CFS for animal food which isn’t on this list, contact the Rural Payments Agency (RPA).
 
 ###Apply
 
@@ -107,7 +107,7 @@ Fill in the [application](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/vi
 
 Send it to trader@rpa.gsi.gov.uk, you’ll usually get your certificate within 5 working days.
 
-It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
+It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
 
 ##If you need help
 
