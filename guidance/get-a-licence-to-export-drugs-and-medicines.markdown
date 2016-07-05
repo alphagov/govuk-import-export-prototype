@@ -127,7 +127,7 @@ You can get extra copies of certificates for £34 each.
 
 You'll need a licence to export ‘controlled drugs’ eg morphine, cannabis.
 
-s1. Check current [list of controlled drugs](/government/publications/controlled-drugs-list--2).
+s1. Check the current [list of controlled drugs](/government/publications/controlled-drugs-list--2).
 s2. Get named applicants an [enhanced disclosure check](#dbs).
 s3. Apply for a [controlled drugs licence](#apply-licence).
 s4. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
