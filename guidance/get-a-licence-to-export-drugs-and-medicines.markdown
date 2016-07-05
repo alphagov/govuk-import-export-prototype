@@ -163,7 +163,7 @@ You should get a decision within 16 weeks.
 
 You’ll also need to [register for an account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) to apply for an export licence from the National Drugs control System (NDS).
 
-You must submit a copy of the import permit from the country you’re importing to. You’ll also need to [send DLCU](#contact-dlcu) the original import permit. 
+You must submit a copy of the import permit from the country you’re importing to. You’ll also need to [send the Drug Licensing and Compliance Unit](#contact-dlcu) (DLCU) the original import permit. 
 
 You must put your [company number](https://www.gov.uk/get-information-about-a-company) in the notes field of your NDS application.
 
