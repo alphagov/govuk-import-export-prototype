@@ -107,7 +107,6 @@ Get them to fill in form for either:
 
 [Question for SME: What does the exporter do with this form? And what if the person they’re exporting to isn’t the end-user - do they still have to complete the form?]
 
----
 ###Apply for an export licence
 {:#apply-export-licence}
 
