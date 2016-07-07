@@ -53,16 +53,16 @@ You don’t need a licence or follow special rules to:
 
 - move [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb) of category 2 chemicals within the EU
 - move category 3 chemicals within the EU
-- export [small quantities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb) of category 3 chemicals to [most countries outside the EU](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb)
+- export [small quantities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb) of category 3 chemicals outside the EU, unless you're exporting to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb)
 
-Otherwise, you need to complete certain tasks.
+Otherwise, you need to complete these tasks.
 
 s1. Get named applicants an [enhanced DBS check](#dbs).
-s2. [Register with the Controlled Drugs Licensing System](/precursor chemical licence) and apply for a licence (category 1 chemicals only).
-s3. Get a [declaration from the end-user]. This isn’t required for category 2B chemicals.
-s4. Apply for an export licence, if you’re exporting outside the EU. For category 2 or 3 chemicals, you only need a licence to export to certain countries.
+s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration) and apply for a licence (you only need a licence for category 1 chemicals).
+s3. Get a [declaration from the end-user](#end-user). This isn’t required for category 2B chemicals.
+s4. [Apply for an export licence](#apply-export-licence), if you’re exporting outside the EU. For category 2 or 3 chemicals, you only need a licence to export to certain countries.
 
-If you export [small amounts] of category 3 chemicals to [certain countries] outside the EU, you only need an export licence. Don’t complete the other steps.
+If you export [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) of category 3 chemicals to [certain countries] outside the EU, you only need an export licence. Don’t complete the other steps.
 
 ###Get an enhanced disclosure check
 {:#dbs}
@@ -109,6 +109,7 @@ Get them to fill in form for either:
 
 ---
 ###Apply for an export licence
+{:#apply-export-licence}
 
 You need an export licence for:
 
