@@ -8,17 +8,6 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-When they have read this page, the user will:
-
-- understands if they need a licence or certificate
-- understands how to apply
-- understands who to contact if they have a question
-- understands how long it takes to get a licence
-* understands how much it costs
-* understands what they have to do with it once they have a licence
- 
-
----
 ##Precursor chemicals
 
 You may need a licence or follow special rules to export ‘precursor chemicals’ or move them within the EU. 
@@ -28,32 +17,30 @@ Precursors are  chemicals that can be used to manufacture controlled drugs. The 
 
 | Precursor                                   | Category |
 |---------------------------------------------|----------|
-|                                             |          |
-|                                             |          |
+| 1-phenyl-2-propanone (BMK)                  | 1        |
+| 3-4 Methylenedioxy-Phenylpropan-2-one (PMK) | 1        |
+| Alpha-phenylacetoacetonitrile (APAAN)       | 1        |
 | Ephedrine                                   | 1        |
 | Ergometrine                                 | 1        |
 | Ergotamine                                  | 1        |
-| Lysergic Acid                               | 1        |
-| 1-phenyl-2-propanone (BMK)                  | 1        |
-| Pseudoephedrine                             | 1        |
-| N-acetylanthranilic acid                    | 1        |
-| 3-4 Methylenedioxy-Phenylpropan-2-one (PMK) | 1        |
 | Isosafrole                                  | 1        |
+| Lysergic Acid                               | 1        |
+| N-acetylanthranilic acid                    | 1        |
+| Norephedrine                                | 1        |
+| Pseudoephedrine                             | 1        |
 | Piperonal                                   | 1        |
 | Safrole                                     | 1        |
-| Norephedrine                                | 1        |
-| Alpha-phenylacetoacetonitrile (APAAN)       | 1        |
 | Acetic Anhydride                            | 2A       |
-| Potassium Permanganate                      | 2B       |
-| Phenylacetic Acid                           | 2B       |
 | Anthranilic Acid                            | 2B       |
+| Phenylacetic Acid                           | 2B       |
 | Piperidine                                  | 2B       |
+| Potassium Permanganate                      | 2B       |
 | Acetone                                     | 3        |
 | Ethyl Ether                                 | 3        |
+| Hydrochloric Acid                           | 3        |
 | Methyl Ethyl Ketone (MEK)                   | 3        |
 | Toluene                                     | 3        |
 | Sulphuric Acid                              | 3        |
-| Hydrochloric Acid                           | 3        |
 
 The rules for precursor chemicals also apply to products that include them unless:
 
