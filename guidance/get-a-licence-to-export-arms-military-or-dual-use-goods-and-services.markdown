@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export arms, military or dual use goods and services
-summary: You must have a licence to export anything on the consolidated list of strategic military and dual use items (the ‘consolidated military list’).
+summary: You must have a licence to export anything on the 'consolidated contol lists' of strategic military and dual use items.
 permalink: /guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html
 breadcrumbs:
  - name: Home
@@ -14,15 +14,15 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-It’s a criminal offence to export something on the consolidated military list outside the UK without the right licence.
+It’s a criminal offence to export something on the consolidated control lists outside the UK without the right licence.
 
 $CTA
 
-[Download the consolidated military list](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf) (PDF, 3.28MB).
+[Download the consolidated control lists](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf) (PDF, 3.28MB).
 
 $CTA
 
-The consolidated military list includes:
+The consolidated control lists include:
 
 - weapons
 - other goods, technology or services that are used for military purposes (eg cryptographic technology or training materials for a weapons system)
@@ -30,12 +30,12 @@ The consolidated military list includes:
 
 ‘Dual use’ items can be raw materials, components or finished systems.
 
-##Exporting goods that aren’t on the consolidated military list
+##Exporting goods that aren’t on the consolidated control lists
 
-You must contact the Export Control Organisation (ECO) if you find out that something you’re exporting will be used for military purposes, even if it doesn’t appear on the consolidated military list. For example:
+You must contact the Export Control Organisation (ECO) if you find out that something you’re exporting will be used for military purposes, even if it doesn’t appear on the consolidated control lists. For example:
 
-components that will be used to make weapons
-chemicals or biological agents that will be used to make a weapon of mass destruction
+- components that will be used to make weapons
+- chemicals or biological agents that will be used to make a weapon of mass destruction
 
 These are called ‘end use’ or ‘catch all’ controls.
 
@@ -70,7 +70,7 @@ ECO also looks at the ‘[incorporation factors](http://www.publications.parliam
 
 ###Export licences for the EU
 
-You don’t need a licence to export some military goods within the EU. These goods are listed in annex 1 of the consolidated military list.
+You don’t need a licence to export some military goods within the EU. These goods are listed in annex 1 of the consolidated control lists.
 
 ###How ECO decides whether to give licences
 
