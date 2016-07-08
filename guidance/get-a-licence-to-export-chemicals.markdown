@@ -24,23 +24,23 @@ Precursors are  chemicals that can be used to manufacture controlled drugs. The 
 | Ergometrine                                 | 1        |
 | Ergotamine                                  | 1        |
 | Isosafrole                                  | 1        |
-| Lysergic Acid                               | 1        |
+| Lysergic acid                               | 1        |
 | N-acetylanthranilic acid                    | 1        |
 | Norephedrine                                | 1        |
 | Pseudoephedrine                             | 1        |
 | Piperonal                                   | 1        |
 | Safrole                                     | 1        |
-| Acetic Anhydride                            | 2A       |
-| Anthranilic Acid                            | 2B       |
-| Phenylacetic Acid                           | 2B       |
+| Acetic anhydride                            | 2A       |
+| Anthranilic acid                            | 2B       |
+| Phenylacetic acid                           | 2B       |
 | Piperidine                                  | 2B       |
-| Potassium Permanganate                      | 2B       |
+| Potassium permanganate                      | 2B       |
 | Acetone                                     | 3        |
-| Ethyl Ether                                 | 3        |
-| Hydrochloric Acid                           | 3        |
-| Methyl Ethyl Ketone (MEK)                   | 3        |
+| Ethyl ether                                 | 3        |
+| Hydrochloric acid                           | 3        |
+| Methyl ethyl ketone (MEK)                   | 3        |
 | Toluene                                     | 3        |
-| Sulphuric Acid                              | 3        |
+| Sulphuric acid                              | 3        |
 
 The rules for precursor chemicals also apply to products that include them unless:
 
