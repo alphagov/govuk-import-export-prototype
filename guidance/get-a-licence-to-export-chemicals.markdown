@@ -44,7 +44,7 @@ Precursors are  chemicals that can be used to manufacture controlled drugs. The 
 
 The rules for precursor chemicals also apply to products that include them unless:
 
-- the product is for medicinal use by humans (but ephedrine and pseudoephedrine are exceptions that always need an export licence)
+- the product is for medicinal use by humans (ephedrine and pseudoephedrine are exceptions to this that always need an export licence)
 - the precursor chemical can’t be easily used or extracted 
 
 ###Tasks you need to complete
@@ -58,11 +58,11 @@ You don’t need a licence or follow special rules to:
 Otherwise, you need to complete these tasks.
 
 s1. Get named applicants an [enhanced DBS check](#dbs).
-s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration) and apply for a licence (you only need a licence for category 1 chemicals).
+s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration). You also need to apply a licence for category 1 chemicals.
 s3. Get a [declaration from the end-user](#end-user). This isn’t required for category 2B chemicals.
 s4. [Apply for an export licence](#apply-export-licence), if you’re exporting outside the EU. For category 2 or 3 chemicals, you only need a licence to export to certain countries.
 
-If you export [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) of category 3 chemicals to [certain countries] outside the EU, you only need an export licence. Don’t complete the other steps.
+If you export [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) of category 3 chemicals to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb) outside the EU, you only need an export licence. Don’t complete the other steps.
 
 ###Get an enhanced disclosure check
 {:#dbs}
@@ -81,9 +81,9 @@ $C
 ###Register with the Controlled Drugs Licensing System
 {:#domestic-licence-registration}
 
-[Register with the Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml). 
+[Register with the Controlled Drugs Licensing System.](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
 
-Once you’ve registered, [log into your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for your precursor chemicals licence (category 1 chemicals only).
+For category 1 chemicals, you can then [log in to your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a precursor chemicals licence.
 
 You should get a decision about the licence within 16 weeks. If you’re applying for the first time, your premises will be visited as part of your application.
 
@@ -113,7 +113,7 @@ Get them to fill in form for either:
 You need an export licence for:
 
 - all category 1 chemicals
-- category 2 or 3 chemicals you export to [certain countries]
+- category 2 or 3 chemicals you export to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb)
 
 To apply, either:
 
@@ -133,13 +133,13 @@ The export licence costs £24. A replacement licence costs £45.
 
 DLCU will send you a written invoice to the registered address on your customer account.
 
-If you need a purchase order number to be quoted on the invoice, state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
+If you need a purchase order number on the invoice, state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
 
-###Annual returns
+##Annual returns
 
 You must tell the Home Office about the precursor drugs you export each year.
 
-Complete the [annual return form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/275020/Precursor_chemicals_AR_form-2013.xlsx) and email it by 31 January to the address on the form.
+Complete the [annual return form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/275020/Precursor_chemicals_AR_form-2013.xlsx) (XLS, 151kb) and email it by 31 January to the address on the form.
 
 [Question for SME: this from is from 2013 - is there an up-to-date version of the form available?]
 
@@ -150,8 +150,8 @@ Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exportin
 
 $C
 **Drug Licensing and Compliance Unit**  
-Telephone: 020 7035 6330
-Email: [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffice.gsi.gov.uk)
+<DLCUCommsOfficer@homeoffice.gsi.gov.uk>
+Telephone: 020 7035 6330  
 [Find out about call charges](/call-charges)
 $C
 
