@@ -135,6 +135,14 @@ DLCU will send you a written invoice to the registered address on your customer 
 
 If you need a purchase order number to be quoted on the invoice, state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
 
+###Annual returns
+
+You must tell the Home Office about the precursor drugs you export each year.
+
+Complete the [annual return form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/275020/Precursor_chemicals_AR_form-2013.xlsx) and email it by 31 January to the address on the form.
+
+[Question for SME: this from is from 2013 - is there an up-to-date version of the form available?]
+
 ##Contact
 
 Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exporting precursor chemicals.
