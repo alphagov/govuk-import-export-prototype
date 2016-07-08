@@ -7,7 +7,6 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-
 You can export a medicine if you have a drug [manufacturer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
 
 If you want to export a medicine that you haven’t manufactured, you’ll need a [wholesaler dealer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
@@ -201,7 +200,7 @@ ECO will refuse any application if either:
 - the stated use of the drug is execution
 - ECO considers that there is an unacceptable risk the drug will be diverted for use in execution
 
-##Apply for an export licence
+###Apply for an export licence
 
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
