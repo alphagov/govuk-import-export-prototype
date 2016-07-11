@@ -12,7 +12,7 @@ You’ll need certificates and licenses when you’re exporting food or anything
 
 ## Animal products within the EU 
 
-You need an Intra Trade Animal Health Certificate (ITAHC) to move animal products that are used as food within the EU. These include:
+You need an Intra Trade Animal Health Certificate (ITAHC) to move animal products that are used as food within the EU. This includes:
 
 * fresh and game meat
 * fish and seafood
@@ -60,7 +60,7 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 ##Plant products within the EU
 
-If you’re moving certain plants which will be used as food within the UK or the EU, you might need a passport, a supplier documents or both.
+If you’re moving certain plants which will be used as food within the UK or the EU, you might need a passport, a supplier document or both.
 
 ###When you need a plant passport or document
 
@@ -170,13 +170,13 @@ If you’re already part of the [Plant Health Propagation Scheme](https://www.go
 
 You must fill in a form for:
 
-*[plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
+* [plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
 
-*[potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)      
+* [potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)      
+
+* there’s a different [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf) if you’re exporting goods (with a certificate) which came back to England or Wales from a non-EU country and were stored, repacked, or split up
 
 [Question for SME: Is eDomero still in use? It is not mentioned in any of the current guidance]
-
-There’s a different [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf) if you’re exporting goods (with a certificate) which came back to England or Wales from a non-EU country and were stored, repacked, or split up.  
 
 Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - if you grow potatoes, you may need to fill in a [soil form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling).  
 
@@ -184,9 +184,9 @@ Ask if you need to wash soil from the roots of the plants you export. The USA, N
 
 ###Fees  
 
-It usually costs £13.87 to get a plant health certificate if you don’t need an inspection or laboratory examination.
+It costs £13.87 to get a plant health certificate and £36.35 for a lab examination.
 
-If you need to test soil samples, the certificate will cost a minimum of £99.36
+If an inspector needs to come to your site to test potatoe soil, £49.68 for every 15 minutes and a a minimum of £99.36.
 
 ###Reduced fees
 
