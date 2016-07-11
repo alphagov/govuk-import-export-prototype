@@ -303,7 +303,7 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 
 ###Australia                                                                                                                                                
 | country  | need an import permit | pests to test for |                                                    
-|----------|-----------------------|--------------------------------------------------|
+|----------|-----------------------|-------------------|
 | Australia | yes | send a sample and request a 1% admixture test from AHPA |
 
 ###Applying for a plant health certificate
