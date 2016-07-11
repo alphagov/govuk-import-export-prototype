@@ -388,9 +388,11 @@ s2.Fill in this [form](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views
 
 s3. Provide a “security” deposit this will be returned to you (ask the RPA how to calculate this) - if you’re applying for a tender licence you’ll only need to pay this if your quote is accepted
 
-s4. Add your licence to your CHIEF declaration (link to declaration content) or get a paper one if the country you're exporting to requires this.
+s4. You licence will be issued on the CHIEF system within 5 days and will appear when you make your declaration(link to declaration content). You can also ask for a paper one if the countries you're exporting to or your goods are going through require this.
 
 If you want to send your application by email rather by than fax or post you need to [get approval](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html?uuid=a5765123-3a7c-450e-e981-9c5e37f84ad1)
+
+If you'd like to cancel or amend your application you must do this before 12 pm on the day you apply.
 
 [Question for SME: The form appears to be out of date. Is there a new one?]
 
