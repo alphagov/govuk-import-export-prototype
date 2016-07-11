@@ -190,9 +190,7 @@ If you need to test soil samples, the certificate will cost a minimum of £99.36
 
 ###Reduced fees
 
-You may be entitled to 50% discount for the first £500 of APHA services in a financial year
-
-If you’re both:
+You may be entitled to 50% discount for the first £500 of APHA services in a financial year if you’re both:
 
 * not registered for VAT 
 * your certified exports were worth less £5000 in the last financial year
@@ -309,19 +307,15 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 | Uruguay | yes | no | yes |   
 
 ###Australia                                                                                                                                                
-| country  | need an import permit | pests to test for                                                      
-|----------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| country  | need an import permit | pests to test for |                                                    
+|----------|-----------------------|------------------------------------------------ --|
 | Australia | yes | send a sample and request an admixture test from AHPA |
-
 
 ##Applying for a plant health certificate
 
 s1. If you don’t need to send a sample fill in all 3 sections of this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB) or if you do, complete complete sections I and 2 to send it with your 1kg sample. 
-
 s2. If you’re sending goods to Algeria, Serbia, Bosnia, Montenegro, China or Vietnam prepare a second 1 kg sample for the official lab in a paper bag sealed inside a plastic bag.
-
 s3. Send your forms 5 days before you want to export, if you’re unable to, please [contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
-
 s4. Contact the port you’re exporting from to ask for a trade inspector to inspect your grain (they must have a special AHPA qualification to check it).
 
 [Do users need to know about the country specific tests for Cuba and Vietnam or will the inspectors know what to test for according to the destination country?]
