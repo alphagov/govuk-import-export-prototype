@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Licences and special rules for trading diamonds, gold and precious metals
-summary: Licences and special rules for importing or exporting diamonds, gold and precious metals.
+title: Licences and special rules for exporting diamonds, gold and precious metals
+summary: Licences and special rules for exporting diamonds, gold and precious metals.
 permalink: /guidance/get-a-licence-to-export-diamonds.html
 topic:
   name: Exporting and doing business abroad
@@ -14,14 +14,11 @@ Exports to Syria are banned.
 
 ##Rough diamonds
 
-Rough diamonds can only be imported from or exported to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
+You can only export rough diamonds to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
 
-You must get a certificate to:
+You must get a certificate to export rough diamonds outside the EU.
 
-- export rough diamonds outside the EU
-- import rough diamonds into the UK
-
-[Question for SME: Is there a penalty if someone imports/exports to a non-KP scheme countries?]
+[Question for SME: Is there a penalty if someone exports to a non-KP scheme countries?]
 
 ###How to apply
 
