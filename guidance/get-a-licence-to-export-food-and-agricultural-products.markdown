@@ -152,7 +152,7 @@ Monday to Friday: 8.30am to 5pm
 
 $C
 
-##Exporting plants outside the EU from England or Wales
+##Exporting plants from England or Wales
 
 You’ll need a health certificate (‘phytosanitary certificate’) to export plants that will be used as food like:
 
@@ -313,7 +313,7 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 |----------|-----------------------|------------------------------------------------ --|
 | Australia | yes | send a sample and request a 1% admixture test from AHPA |
 
-##Applying for a plant health certificate
+###Applying for a plant health certificate
 
 s1. If you don’t need to send a sample fill in all 3 sections of this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB) or if you do, complete complete sections I and 2 to send it with your 1kg sample. 
 s2. If you’re sending goods to Algeria, Serbia, Bosnia, Montenegro, China or Vietnam prepare a second 1 kg sample for the official lab in a paper bag sealed inside a plastic bag.
@@ -341,7 +341,7 @@ You must pay:
 * £59.53 to APHA, if the country you’re exporting to demands that you send samples to test for specific pests
 Small importers will be eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
 
-##Exporting plants or grain outside the EU from Scotland or Northern Ireland
+##Exporting plants or grain from Scotland or Northern Ireland
 
 Contact Science and Advice for Scottish Agriculture (SASA) if you’re exporting from Scotland:
 
