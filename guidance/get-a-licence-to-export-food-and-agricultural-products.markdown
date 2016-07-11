@@ -201,13 +201,13 @@ Fill in this [form](https://www.gov.uk/government/uploads/system/uploads/attachm
 
 ##Exporting grain from England and Wales
 
-Before you export, check:
+Before you export, check if:
 
-* if you need a plant health certificate to export grain - [contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) if you’re exporting to a country which is not on this list
+* you need a plant health certificate to export grain - [contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) if you’re exporting to a country which is not on this list
 
-* if you’re exporting to countries that require you for a sample test - this means that you need to send a 1kg sample to an official laboratory before your grain leaves the UK 
+* you’re exporting to countries that require you for a sample test - this means that you need to send a 1kg sample to an official laboratory before your grain leaves the UK 
  
-* if the country you’re exporting to asks for an import permit - you’ll need to contact them to get this and keep a copy
+* the country you’re exporting to asks for an import permit - you’ll need to contact them to get this and keep a copy
 
 Sometimes you’ll also need a declaration to add to your plant certificate to prove you’ve tested for certain pests. This is required in:
 
