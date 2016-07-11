@@ -297,8 +297,16 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 
 | country  | plant health certificate | import permit | sample test                                                                                                                                                                                                                                                                                    |
 |----------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bolivia | yes  | no | yes |                                                                                               | Chile | yes | yes |  no |                                                                                                 | Colombia | yes  | no |  no |                                                                                              | Cuba  | yes | no | no | 
-| Haiti | yes | no | no |                                                                                                   | Jamaica | yes  | no | no |                                                                                                | Mexico | yes | yes | no |                                                                                                 | Panama | yes  | no |  no |                                                                                                | Peru | yes | no |  no |                                                                                                   | Uruguay | yes | no | yes |   
+| Bolivia |yes| no |yes|                                                                                               
+| Chile |yes|yes|  no |                                                                                                 
+| Colombia |yes| no |no|                                                                                              
+| Cuba  | yes | no | no | 
+| Haiti | yes | no | no |
+| Jamaica | yes  | no | no |                                                                                       
+| Mexico | yes | yes | no |                                                                                                 
+| Panama | yes  | no |  no |                                                                                                
+| Peru | yes | no |  no |                                                                                                 
+| Uruguay | yes | no | yes |   
 
 ###Australia                                                                                                                                                
 | country  | need an import permit | pests to test for                                                      
