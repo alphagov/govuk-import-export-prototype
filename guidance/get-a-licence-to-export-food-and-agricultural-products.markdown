@@ -139,7 +139,7 @@ Send it to trader@rpa.gsi.gov.uk, you’ll usually get your certificate within 5
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
 
-##If you need help
+###If you need help
 
 Contact the RPA.
 
@@ -199,7 +199,7 @@ Fill in this [form](https://www.gov.uk/government/uploads/system/uploads/attachm
 
 ^You must tell AHPA when you are no longer eligible for this concession
 
-##Exporting grain from England and Wales
+###Exporting grain from England and Wales
 
 Before you export, check:
 
@@ -328,7 +328,7 @@ You must fill in a another copy of this [form](https://www.gov.uk/government/upl
 
 You’ll need to have your grain treated by a professional company.
 
-It will usually take from 10 to 20 days for your grain to be ready for export.
+It will usually take from 10 to 20 days for your grain to be ready for export but you may be able to get your grain treated in transit.
 
 ###Fees
 
@@ -339,7 +339,7 @@ You must pay:
 * £59.53 to APHA, if the country you’re exporting to demands that you send samples to test for specific pests
 Small importers will be eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
 
-##Exporting plants or grain outside the EU from Scotland or Northern Ireland
+###Exporting plants or grain outside the EU from Scotland or Northern Ireland
 
 Contact Science and Advice for Scottish Agriculture (SASA) if you’re exporting from Scotland:
 
@@ -356,14 +356,14 @@ EH12 9FJ
 
 [Contact the Department of Agriculture and Rural Development of Northern Ireland (DARDNI)](https://www.daera-ni.gov.uk/contact) if you’re exporting from Northern Ireland.
 
-##Get a license to export agricultural products
+##Get a license to export agricultural products 
 
-If you’re exporting some agricultural products in [large quantities](https://www.gov.uk/trade-tariff/sections) you may need an mandatory export licence for:
+If you’re exporting some agricultural products called Cultural Agriculural Policy (CAP) goods in [large quantities](https://www.gov.uk/trade-tariff/sections) you may need an mandatory export licence for:
 
 * sugar
 * cereals and rice 
 
-If you’ve given a quote to public authority outside the EU you can get a licence  in advance to speed up the process. This applies to goods like:
+If you’ve given a quote to public authority outside the EU you can get a licence in advance to speed up the process. This applies to goods like:
 
 * dairy products
 * fresh or processed meat (including edible offal)
