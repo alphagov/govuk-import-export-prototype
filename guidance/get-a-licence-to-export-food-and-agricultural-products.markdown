@@ -186,7 +186,7 @@ Ask if you need to wash soil from the roots of the plants you export. The USA, N
 
 It costs £13.87 to get a plant health certificate and £36.35 for a lab examination.
 
-If an inspector needs to come to your site to test potatoe soil, £49.68 for every 15 minutes and a a minimum of £99.36.
+If an inspector needs to come to your site to test potatoe soil it costs £49.68 for every 15 minutes and a a minimum of £99.36.
 
 ###Reduced fees
 
