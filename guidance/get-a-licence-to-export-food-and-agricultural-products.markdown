@@ -154,7 +154,7 @@ $C
 
 ##Exporting plants outside the EU from England or Wales
 
-You’ll need a health certificate (‘phytosanitary certificate’) to export plants that will be used as food to most EU countries, these include:
+You’ll need a health certificate (‘phytosanitary certificate’) to export plants that will be used as food like:
 
 * fruit and vegetables
 * potatoes (including seed potatoes)
