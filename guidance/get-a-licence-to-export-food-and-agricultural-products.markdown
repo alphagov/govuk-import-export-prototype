@@ -9,7 +9,9 @@ topic:
 ---
 
 You’ll need certificates and licenses when you’re exporting food or anything that will be eaten by humans.
+
 ## Animal products within the EU 
+
 You need an Intra Trade Animal Health Certificate (ITAHC) to move animal products that are used as food within the EU. These include:
 
 * fresh and game meat
@@ -42,6 +44,7 @@ You can either:
 Once you have your ITAHC, you must keep it for 3 years.
 
 ###Nominate a vet
+
 You must nominate an official veterinarian (OV) to inspect your goods when you apply. You can either:
 
 - ask your local veterinary practice if there’s an OV working there
@@ -142,10 +145,10 @@ Contact the RPA.
 
 $C 
 
-**Rural Payments Agency**       
-Telephone: 03000 200 301
-Monday to Friday, 8.30am to 5pm
-[Find out about call charges](/call-charges)    
+**Rural Payments Agency**         
+Telephone: 03000 200 301  
+Monday to Friday: 8.30am to 5pm  
+[Find out about call charges](/call-charges)      
 
 $C
 
@@ -156,6 +159,7 @@ You’ll need a health certificate (‘phytosanitary certificate’) to export p
 * fruit and vegetables
 * potatoes (including seed potatoes)
 * grain  
+
 ###Getting a plant health certificate in England and Wales
 
 In most cases you can send your food to the APHA lab for inspection, it’ll be tested and you’ll receive your certificate in 7 days if you pass.
@@ -210,7 +214,7 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 
 * Hungary for acarus siro L  
 * Vietnam for tilletia indica (karnal bunt) only  
-*Kyrgyzstan for tilletia indica and Trogoderma granarium
+* Kyrgyzstan for tilletia indica and Trogoderma granarium
 
 [Question for SME: How do users do this? It’s not on the form]
 
@@ -292,17 +296,11 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 
 | country  | plant health certificate | import permit | sample test                                                                                                                                                                                                                                                                                    |
 |----------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bolivia | yes  | no | yes |                                                                                                                                                                                                                                                                                | Chile | yes | yes |  no |                                                                                                                                                                                                                                                                                           | Colombia | yes  | no |  no |                                                                                                                                                                                                                                                                                                
-| Cuba  | yes | no | no | 
-| Haiti | yes | no | no |                                                                                                                                                                                                                                                                                            
-| Jamaica | yes  | no | no |                                                                                                                                                                                                                                                                                        | Mexico | yes | yes | no |                                                                                                                                                                                                                                                                                             
-| Panama | yes  | no |  no |                                                                                                                                                                                                                                                                                                  
-| Peru | yes | no |  no |                                                                                                                                                                                                                                                                                               
-| Uruguay | yes | no | yes |   
+| Bolivia | yes  | no | yes |                                                                                               | Chile | yes | yes |  no |                                                                                                 | Colombia | yes  | no |  no |                                                                                              | Cuba  | yes | no | no | 
+| Haiti | yes | no | no |                                                                                                   | Jamaica | yes  | no | no |                                                                                                | Mexico | yes | yes | no |                                                                                                 | Panama | yes  | no |  no |                                                                                                | Peru | yes | no |  no |                                                                                                   | Uruguay | yes | no | yes |   
 
-###Australia                                                                                                                                                                                                                                                             
-
-| country  | need an import permit | pests to test for                                                                                                                                                                                                                                                                                    |
+###Australia                                                                                                                                                
+| country  | need an import permit | pests to test for                                                      
 |----------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Australia | yes | send a sample and request an admixture test from AHPA |
 
@@ -334,48 +332,58 @@ You’ll need to have your grain treated by a professional company.
 It will usually take from 10 to 20 days for your grain to be ready for export.
 
 ###Fees
-You must pay
+
+You must pay:
+
 * £59.53 to get phytosanitary certificates
 * £59.53 for a trade inspector to inspect your grain
 * £59.53 to APHA, if the country you’re exporting to demands that you send samples to test for specific pests
 Small importers will be eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
+
 ##Exporting plants or grain outside the EU from Scotland or Northern Ireland
+
 Contact Science and Advice for Scottish Agriculture (SASA) if you’re exporting from Scotland:
 
 $C
-**Horticulture & Marketing Unit **  
-<hort.marketing@scotland.gsi.gov.uk>  
-Telephone: 0131 244 8935
+** Horticulture & Marketing Unit **      
+<hort.marketing@scotland.gsi.gov.uk>    
+Telephone: 0131 244 8935  
 $C
 
 
 A20 Roddinglaw Road,
 Edinburgh 
 EH12 9FJ 
+
 [Contact the Department of Agriculture and Rural Development of Northern Ireland (DARDNI)](https://www.daera-ni.gov.uk/contact) if you’re exporting from Northern Ireland.
+
 ##Get a license to export agricultural products
 
 If you’re exporting some agricultural products in [large quantities](https://www.gov.uk/trade-tariff/sections) you may need an mandatory export licence for:
-*sugar
-*cereals and rice 
+
+* sugar
+* cereals and rice 
 
 If you’ve given a quote to public authority outside the EU you can get a licence  in advance to speed up the process. This applies to goods like:
-*dairy products
-*fresh or processed meat (including edible offal)
-*sugar, syrup, molasses and honey
+
+* dairy products
+* fresh or processed meat (including edible offal)
+* sugar, syrup, molasses and honey
 *cereals and rice (including milled products, starch, gluten and insulin)
-*eggs
-*fresh or processed fruit and vegetables
-*coffee, tea and spices
-*cocoa beans and shells
-*oils and fats
-*fish, crustaceans and molluscs (fresh or processed)
-*fermented drinks
-*tobacco
-*cork  
-*flax and hemp  
-*processed goods, eg products such as biscuits which have one or more of the goods listed above as a basic ingredient
+* eggs
+* fresh or processed fruit and vegetables
+* coffee, tea and spices
+* cocoa beans and shells
+* oils and fats
+* fish, crustaceans and molluscs (fresh or processed)
+* fermented drinks
+* tobacco
+* cork  
+* flax and hemp  
+* processed goods, eg products such as biscuits which have one or more of the goods listed above as a basic ingredient
+
 ###Applying
+
 You need to:
 
 s1.Call the Rural Payments Agency (RPA) to get a your trader registration number and check if you need a licence or if there is a levy on your goods
