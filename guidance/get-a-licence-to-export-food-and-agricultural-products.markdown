@@ -311,8 +311,8 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 
 s1. If you don’t need to send a sample fill in all 3 sections of this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB) or if you do, complete complete sections I and 2 to send with your 1kg sample. 
 s2. If you’re sending goods to Algeria, Serbia, Bosnia, Montenegro, China or Vietnam prepare a second 1 kg sample for the official lab in a paper bag sealed inside a plastic bag.
-s3. Send your forms 5 days before you want to export, if you’re unable to, please [contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
-s4. Contact the port you’re exporting from to ask for a trade inspector to inspect your grain (they must have a special AHPA qualification to check it).  
+s3. Send your form 5 days before you want to export, if you’re unable to, please [contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
+s4. Contact the port you’re exporting from to ask a trade inspector to inspect your grain (they must have a special AHPA qualification to check it).  
 
 [Do users need to know about the country specific tests for Cuba and Vietnam or will the inspectors know what to test for according to the destination country?]
 
