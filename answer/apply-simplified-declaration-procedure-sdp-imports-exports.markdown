@@ -21,7 +21,7 @@ Regular importers or exporters can apply to make simpler declarations.
 Apply for Simplified Declaration Procedure (SDP) to:
 
 - delay making a full declaration when you import or export goods  
-- import goods into a [customs warehouse](/guide/processing-under-customs-control-relief-customs-warehousing/overview.html) without making a declaration
+- import goods into a [customs warehouse](/guide/duty-relief-import-goods-processing/overview.html) without making a declaration
 - make it cheaper to [delay paying duty](/delay-paying-customs-duty-when-you-import-goods.html) on your goods.  
 
 ##If you’re importing goods you won’t sell directly
@@ -30,7 +30,7 @@ Apply for Entry in the Declarants Records (EIDR) instead if you’re importing g
 
 EIDR lets you move the goods to your own premises or a storage facility while you carry out the import declaration. 
 
-You can’t use it for [goods that require an import license](/guide/starting-to-export/export-licences.html) or certificate, eg weapons, fireworks or fresh foods.
+You can’t use it for [goods that require an import license](/guide/starting-to-import/import-licences.html) or certificate, eg weapons, fireworks or fresh foods.
 
 ##Apply to use SDP or EIDR
 
