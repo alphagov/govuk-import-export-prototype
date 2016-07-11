@@ -30,7 +30,7 @@ Apply for Entry in the Declarants Records (EIDR) instead if you’re importing g
 
 EIDR lets you move the goods to your own premises or a storage facility while you carry out the import declaration. 
 
-You can’t use it for [goods that require an import license](/guide/starting-to-import/import-licences.html) or certificate, eg weapons, fireworks or fresh foods.
+You can’t use it for [goods that require an import licence](/guide/starting-to-import/import-licences.html) or certificate, eg weapons, fireworks or fresh foods.
 
 ##Apply to use SDP or EIDR
 
