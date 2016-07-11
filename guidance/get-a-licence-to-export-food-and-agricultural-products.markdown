@@ -339,6 +339,7 @@ You must pay:
 * £59.53 to get phytosanitary certificates
 * £59.53 for a trade inspector to inspect your grain
 * £59.53 to APHA, if the country you’re exporting to demands that you send samples to test for specific pests
+
 Small importers will be eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
 
 ##Exporting plants or grain from Scotland or Northern Ireland
