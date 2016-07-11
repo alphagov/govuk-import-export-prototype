@@ -286,10 +286,6 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 | Togo | yes | yes | no |
 | Uganda | yes | yes | no |
 
-
-
-
-
 ###Central and South America
 
 | country  | plant health certificate | import permit | sample test                                                                                                                                                                                                                                                                                    |
@@ -358,12 +354,12 @@ EH12 9FJ
 
 ##Get a license to export agricultural products 
 
-If you’re exporting some agricultural products called Cultural Agriculural Policy (CAP) goods in [large quantities](https://www.gov.uk/trade-tariff/sections) you may need an mandatory export licence for:
+If you’re exporting some agricultural products called Common Agriculural Policy (CAP) goods in [large quantities](https://www.gov.uk/trade-tariff/sections) you may need an mandatory export licence for:
 
 * sugar
 * cereals and rice 
 
-If you’ve given a quote to public authority outside the EU you can get a licence in advance to speed up the process. This applies to goods like:
+If you’ve given a quote to export to a public authority outside the EU you can get a licence before it's accepted. This applies to goods like:
 
 * dairy products
 * fresh or processed meat (including edible offal)
@@ -391,7 +387,7 @@ s2.Fill in this [form](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views
 
 s3. Provide a “security” deposit this will be returned to you (ask the RPA how to calculate this) - if you’re applying for a tender licence you’ll only need to pay this if your quote is accepted
 
-s4. Get a paper licence to attach to your goods or add one to your CHIEF declaration(link to declaration content)
+s4. Add your licence to your CHIEF declaration (link to declaration content) or get a paper one if the country you're exporting to requires this.
 
 If you want to send your application by email rather by than fax or post you need to [get approval](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html?uuid=a5765123-3a7c-450e-e981-9c5e37f84ad1)
 
@@ -399,7 +395,7 @@ If you want to send your application by email rather by than fax or post you nee
 
 ###Tender licences
 
-You usually have 21 days to let the RPA if your quote has been accepted. 
+You usually have 21 days to let know the RPA if your quote has been accepted. 
 
 If your tender deadline is extended by 10 days, you can get an extra 21 days to let the RPA know if it’s been accepted. 
 
@@ -407,8 +403,7 @@ If it’s extended by more than 10 days you’ll have to apply for a new licence
 
 [Question for SME: The guidance says that “you can apply for a tender licence up to 15 days before but no later than midday on the closing date for submitting tenders. What is the closing date?] 
 
-
-
+[Question for SME: The ban on trading with agricultural products with Russia was meant to last until August 2016. Has it been lifted now?]
 
  
 
