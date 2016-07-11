@@ -32,6 +32,7 @@ Rail and inland waters traffic | 2 hours before departure
 Road traffic | 1 hour before departure
 Supplies for ships and aircraft | 15 minutes before departure
 
+If the goods are passing through another EU country on their way out of the EU, the deadline counts from the time when they leave the EU. Not when they leave the UK.
 
 [Question for SME: Are these time limits just for online declarations for all types of export declaration?]
 
