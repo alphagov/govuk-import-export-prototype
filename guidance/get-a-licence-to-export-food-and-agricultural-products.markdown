@@ -199,7 +199,7 @@ Fill in this [form](https://www.gov.uk/government/uploads/system/uploads/attachm
 
 ^You must tell AHPA when you are no longer eligible for this concession
 
-###Exporting grain from England and Wales
+##Exporting grain from England and Wales
 
 Before you export, check:
 
@@ -341,7 +341,7 @@ You must pay:
 * £59.53 to APHA, if the country you’re exporting to demands that you send samples to test for specific pests
 Small importers will be eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
 
-###Exporting plants or grain outside the EU from Scotland or Northern Ireland
+##Exporting plants or grain outside the EU from Scotland or Northern Ireland
 
 Contact Science and Advice for Scottish Agriculture (SASA) if you’re exporting from Scotland:
 
