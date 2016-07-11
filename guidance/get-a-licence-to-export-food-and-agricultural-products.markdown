@@ -180,17 +180,17 @@ You must fill in a form for:
 
 Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - if you grow potatoes, you may need to fill in a [soil form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling).  
 
-Ask if you need to wash soil from the roots of the plants you export. The USA, New Zealand and other countries require this.  
+Ask if you need to wash soil from the roots of the plants you export. The USA, New Zealand and other countries require this.
 
 ###Fees  
 
 It costs £13.87 to get a plant health certificate and £36.35 for a lab examination.
 
-If an inspector needs to come to your site to test potatoe soil it costs £49.68 for every 15 minutes and a a minimum of £99.36.
+If an inspector needs to come to your site to test soil for potato cyst nematodes it costs £49.68 for every 15 minutes and a minimum of £99.36.
 
 ###Reduced fees
 
-You may be entitled to 50% discount for the first £500 of APHA services in a financial year if you’re both:
+You may be entitled to a 50% discount for the first £500 of APHA services in a financial year if you’re both:
 
 * not registered for VAT 
 * your certified exports were worth less £5000 in the last financial year
@@ -312,7 +312,7 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 
 ###Applying for a plant health certificate
 
-s1. If you don’t need to send a sample fill in all 3 sections of this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB) or if you do, complete complete sections I and 2 to send it with your 1kg sample. 
+s1. If you don’t need to send a sample fill in all 3 sections of this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB) or if you do, complete complete sections I and 2 to send with your 1kg sample. 
 s2. If you’re sending goods to Algeria, Serbia, Bosnia, Montenegro, China or Vietnam prepare a second 1 kg sample for the official lab in a paper bag sealed inside a plastic bag.
 s3. Send your forms 5 days before you want to export, if you’re unable to, please [contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
 s4. Contact the port you’re exporting from to ask for a trade inspector to inspect your grain (they must have a special AHPA qualification to check it).
