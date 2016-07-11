@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: "Choosing export markets colon get advice from UKTI"
+title: "Choosing export markets: get advice from UKTI"
 permalink: /answer/choosing-export-market-ukti.html
 breadcrumbs:
  - name: Home
