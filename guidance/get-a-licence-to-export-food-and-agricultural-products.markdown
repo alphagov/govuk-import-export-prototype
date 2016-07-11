@@ -394,7 +394,7 @@ If you want to send your application by email rather by than fax or post you nee
 
 If you'd like to cancel or amend your application you must do this before 12 pm on the day you apply.
 
-[Question for SME: The form appears to be out of date. Is there a new one?]
+[Question for SME: The form appears to be out of date. Is there a new one? The guidance makes reference to faxing things before midday as this is rarely used, have the rules changed?]
 
 ###Tender licences
 
