@@ -170,9 +170,9 @@ If you’re already part of the [Plant Health Propagation Scheme](https://www.go
 
 You must fill in a form for:
 
-*[plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)  
+*[plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
 
-*[potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)  
+*[potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)      
 
 [Question for SME: Is eDomero still in use? It is not mentioned in any of the current guidance]
 
