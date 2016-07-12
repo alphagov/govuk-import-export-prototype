@@ -72,7 +72,7 @@ Check if your plants need a passport for:
 
 You also need to check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
-Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potatoe Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
+Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
 
 ###When you don't need a supplier document
 
