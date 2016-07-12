@@ -72,6 +72,8 @@ Check if your plants need a passport for:
 
 You also need to check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
+Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potatoe Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
+
 ##When you don't need a supplier document
 
 You don't need a make supplier documents if:
@@ -79,15 +81,19 @@ You don't need a make supplier documents if:
 * you goods are for retail sale
 * you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
 
-You're considered a small producer if you meet any of the following conditions:
+You're considered a small producer if:
 
 * you don't trade in plants that are covered by the plant passport scheme
-* you raise less than 1,000 metres squared of plants overall and less than 100 metres squared is under protection
+* you have less than 1,000 metres squared of plants overall and less than 100 metres squared is under protection
 * the charge for 2 inspections would be more than 10% of your turnover
 
-##Get permission to make passports and supplier documents
+##Get permission to make passports or supplier documents
 
-Complete the [form](https://www.gov.uk/government/publications/plant-passports-application) and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
+You can
+
+* complete the [form](https://www.gov.uk/government/publications/plant-passports-application) and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
+
+* [register for eDomero](https://signon.defra.gov.uk/Login.aspx) and do it online
 
 They’ll inspect your plants and you’ll get a unique registration number if you pass.
  
@@ -122,15 +128,9 @@ In all cases label them ‘EU Plant Passport’ and include:
 *  the letters ‘ZP’ and a protected zone code when you’re moving plants in these places
 *  the country of origin of the consignment, if it’s originally come from a non-EU country
 
-###Creating a supplier document
-
-If you want to create a supplier document you can follow the same process but add “EU Label”, the date you make it and the common name for vegetables
-
-If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
-
 ###Making a plant passport for fruit
 
-If your plant passport is for fruit, you must confirm that the fruit either
+It must include all standard passport details and you must confirm that the fruit either:
 
 * is free of pests and diseases
 * has a [Plant Health Propagation Scheme (PHPS)](https://www.gov.uk/plant-health-propagation-scheme) grade - state the grade on the passport
@@ -140,8 +140,17 @@ If your plant passport is for fruit, you must confirm that the fruit either
 You need replacement passport if you split a consignment of plants which already have a passport, it must include all standard passport details and:
 
 * the letters 'RP' - for replacement passport
-* the registration number of the original supplier 
-* your registration number and your serial, week, batch or invoice number
+* the registration number of the original supplier
+
+[Question for SME: Do we need to add that the original supplier might be them?]
+
+If you don't want to share supplier details you can put your own code on the passport and record the supplier number in case AHPA ask.
+
+###Creating a supplier document
+
+If you want to create a supplier document you can follow the same process but add “EU Label”, the date you make it and the common name for vegetables
+
+If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
 
 ## Keeping records
 
@@ -153,8 +162,6 @@ You don’t have to keep supplier documents, unless part of them forms the plant
 
 You can also [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) and pay them to issue plant passports for you.
 
-
-
 ##Outside the EU
 
 ###Health Certificates
@@ -162,7 +169,6 @@ You can also [contact APHA](https://www.gov.uk/government/organisations/animal-a
 You need an Export Health Certificate (EHC) to export animal products which are eaten by humans outside of the EU. 
 
 You must check that your EHC meets the requirements of the country you’re exporting to and if there are any other rules.
-
 
 ###Apply for an EHC
 
@@ -258,11 +264,11 @@ You must fill in a form for:
 
 * there’s a different [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf) if you’re exporting goods (with a certificate) which came back to England or Wales from a non-EU country and were stored, repacked, or split up
 
-[Question for SME: Is eDomero still in use? It is not mentioned in any of the current guidance]
-
 Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - if you grow potatoes, you may need to fill in a [soil form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling).  
 
 Ask if you need to wash soil from the roots of the plants you export. The USA, New Zealand and other countries require this.
+
+[Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
 ###Fees  
 
