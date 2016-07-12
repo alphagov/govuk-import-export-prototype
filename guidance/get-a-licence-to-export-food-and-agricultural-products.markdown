@@ -72,6 +72,88 @@ Check if your plants need a passport for:
 
 You also need to check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
+##When you don't need a supplier document
+
+You don't need a make supplier documents if:
+
+* you goods are for retail sale
+* you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
+
+You're considered a small producer if you meet any of the following conditions:
+
+* you don't trade in plants that are covered by the plant passport scheme
+* you raise less than 1,000 metres squared of plants overall and less than 100 metres squared is under protection
+* the charge for 2 inspections would be more than 10% of your turnover
+
+##Get permission to make passports and supplier documents
+
+Complete the [form](https://www.gov.uk/government/publications/plant-passports-application) and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
+
+They’ll inspect your plants and you’ll get a unique registration number if you pass.
+ 
+Your permission will last a year but you may need more inspections if your site has a higher risk of diseases.
+
+^You only need to apply to make supplier documents separately if you're not already authorised to issue plant passports.
+
+### Inspection fees
+
+You’ll have to pay £46.10 for every 15 mins that an inspection takes, including the time it takes inspectors to travel to your site.
+
+The minimum fee for any inspection is £92.19. 
+
+You have to pay these fees again if you renew your application the next year.
+
+You won’t have to pay if APHA only authorises you to make supplier documents.
+
+###Creating a standard passport 
+
+You can make this in different formats.
+
+If you use a label or sticker you have to make one for each plant of the same kind, grown by the same producer and going to the same place. 
+
+You can also create a single delivery note for the whole consignment (including plants which don’t need a passport).
+
+In all cases label them ‘EU Plant Passport’ and include:
+
+* ”‘UK” and “EW” (this is the code for APHA)
+*  your unique APHA registration number and an individual serial, week, batch or invoice number
+*  the botanical name of the plant or plants 
+*  the quantity
+*  the letters ‘ZP’ and a protected zone code when you’re moving plants in these places
+*  the country of origin of the consignment, if it’s originally come from a non-EU country
+
+###Creating a supplier document
+
+If you want to create a supplier document you can follow the same process but add “EU Label”, the date you make it and the common name for vegetables
+
+If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
+
+###Making a plant passport for fruit
+
+If your plant passport is for fruit, you must confirm that the fruit either
+
+* is free of pests and diseases
+* has a [Plant Health Propagation Scheme (PHPS)](https://www.gov.uk/plant-health-propagation-scheme) grade - state the grade on the passport
+
+### Replacement plant passports
+
+You need replacement passport if you split a consignment of plants which already have a passport, it must include all standard passport details and:
+
+* the letters 'RP' - for replacement passport
+* the registration number of the original supplier 
+* your registration number and your serial, week, batch or invoice number
+
+## Keeping records
+
+You must keep all plant passports that you issue for 1 year so that APHA can investigate any pest or disease outbreaks.
+
+You don’t have to keep supplier documents, unless part of them forms the plant passport.
+
+## Paying APHA to issue plant passports
+
+You can also [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) and pay them to issue plant passports for you.
+
+
 
 ##Outside the EU
 
