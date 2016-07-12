@@ -148,7 +148,7 @@ If you don't want to share supplier details you can put your own code on the pas
 
 ###Creating a supplier document
 
-If you want to create a supplier document you can follow the same process but add “EU Label”, the date you make it and the common name for vegetables
+If you want to create a supplier document you can follow the same process but add “EU Quality”, the date you make it and the common name for vegetables
 
 If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
 
