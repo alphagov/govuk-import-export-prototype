@@ -89,7 +89,7 @@ You're considered a small producer if:
 
 ##Get permission to make passports or supplier documents
 
-You can
+You need to either:
 
 * complete the [form](https://www.gov.uk/government/publications/plant-passports-application) and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
 
@@ -148,7 +148,12 @@ If you don't want to share supplier details you can put your own code on the pas
 
 ###Creating a supplier document
 
-If you want to create a supplier document you can follow the same process but add “EU Quality”, the date you make it and the common name for vegetables
+If you want to create a supplier document you can follow the same process but add:
+
+* “EU Quality”
+* the date you make it 
+* your company name
+* the common name for vegetables
 
 If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
 
