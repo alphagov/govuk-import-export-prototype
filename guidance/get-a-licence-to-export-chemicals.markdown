@@ -165,12 +165,10 @@ Each person named on your application must have a Disclosure and Barring Service
 
 Contact Security Watchdog to apply for a DBS enhanced disclosure.
 
-$C
 **Security Watchdog**  
 Telephone: 0114 241 3280  
 Monday to Friday, 9am to 5:30pm  
 [Find out about call charges](/call-charges)
-$C
 
 ###Register with the Controlled Drugs Licensing System
 {:#domestic-licence-registration}
