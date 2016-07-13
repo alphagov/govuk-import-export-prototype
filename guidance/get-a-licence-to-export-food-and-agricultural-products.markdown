@@ -485,22 +485,39 @@ Check the table to see how much you need to pay for sugar:
 | 1701 (non-quota sugar) |  €0.3 |
 | 1702 9080 (inulin syrup) | €0.6|
 
-You don’t need to pay a security if:
+You don’t need to pay a security if you meet the conditions of your licence and:
 
 * your total comes to €100 or less
-* your total comes to €500 but you committ to paying any invoices sent by the RPA if the conditions of your licence arn't  met.[link to form]
-* you're a humanitarian organisation exporting goods for aid (as long as you meet the conditions of the licence)
-
-Your security will be refunded in full if you export at least 95% of the quantity on the licence and return it to the RPA within 2 months of its expiry date. 
+* your total comes to €500 but you commit to paying any invoices sent by the RPA if the conditions of your licence arn't  met.[link to form]
+* you're a humanitarian organisation exporting goods for aid 
 
 [Question for SME: Is there a version of the €500 form which isn’t embedded within the leaflets? It seems that calling RPA to get the words might not be that efficient?]
 
+###How to pay 
 
+You can do so:
 
- 
+* in a single payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439547/fdgs6t_-_IX6S_-_V2.0_Jun_2015.pdf)(PDF, 132KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439546/fdgs13_-_IX6U_-_V4.0_Jun_2015.pdf)(PDF, 159KB)
 
+* in a group or 'block' payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf)(PDF, 101KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439544/fdgs10t_-_IX5U_-_V2.0_Jun_2015.pdf)(PDF, 43.2KB)
 
+* by cash, cheque, banker's draft or any other payments agreed by the RPA 
 
+If you choose block payments you should receive statements from the RPA to tell you how much you still owe. You can commit to the block payments as a [group of traders](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf)(PDF, 51.7KB) or [change the name](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439550/fdgs5_-_IX8_-_v5.0_Jun_2015.pdf)(PDF, 65.3KB) on the 'contract'.
+
+Pay your security to:
+
+Bank: RBS (NatWest) 
+Sort code: 60-70-80 
+Account number: 550/00/85014583 
+BIC: NWBKGB2L 
+IBAN: GB48 NWBK 6072 0385 0145 83 
+
+###Getting your security back
+
+Your security will be refunded in full if you export at least 95% of the quantity on the licence and return it to the RPA within 2 months of its expiry date. 
+
+[Question for SME: How can people who don't have a paper licence do this? Is the expiration date written on the licence or in CHIEF?
 
 
 
