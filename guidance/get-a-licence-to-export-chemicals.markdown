@@ -52,12 +52,10 @@ Chemicals in parts 2 and 3 of Annex 1 may take longer or be refused because they
 
 You first need an online account. Email the Health and Safety Executive (HSE), including specific information.
 
-$C
 
 **Health and Safety Executive**
 <UKDNA@hse.gov.uk>
 
-$C
 
 Using the subject line ‘Edexim account request’, tell HSE:
 
@@ -100,7 +98,6 @@ This includes products like cars, batteries or telephones.
 You don’t need to follow the other rules for chemicals (eg for labelling).
 
 Contact HSE if you need help.
-
 
 ##Precursor chemicals
 
