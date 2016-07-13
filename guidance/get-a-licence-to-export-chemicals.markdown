@@ -7,6 +7,102 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
+You must follow certain rules if you export chemicals outside the EU. This includes single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
+
+You must:
+
+- pack and label them to [EU standards](http://www.hse.gov.uk/chemical-classification/labelling-packaging/index.htm), even if you’re exporting them outside of the EU
+- include a [safety data sheet](http://www.hse.gov.uk/chemical-classification/labelling-packaging/safety-data-sheets.htm) to each importer
+- translate the label and safety data sheet into the language of the country you’re exporting to
+- not export them within 6 months of their expiry date
+- for restricted chemicals, [apply for a reference identification number] (RIN) 
+
+You also need a licence if you export:
+
+- chemicals with [military or potential military uses](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
+- [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or the chemicals in them (‘[precursors]’)
+- [ozone-depleting substances](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html), eg HCFCs
+- [barbiturates](/guidance/get-a-licence-to-export-drugs-and-medicines.html#export-barbiturates) that can be used in lethal injections
+
+$CTA
+
+Also check the import rules of the country that you’re exporting the chemicals to, which may be less or more strict than in the UK. You can [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+
+$CTA
+
+##Get a RIN for restricted chemicals
+
+You need to include a reference identification number (RIN) in your [export declaration] if either:
+
+- the chemical is restricted - classed as ‘Annex 1’
+- you export 10kg or less of any non-restricted chemical for research or analysis
+
+Search for Annex 1 chemicals using the [tool on the European Chemicals Agency (ECHA) website](http://echa.europa.eu/information-on-chemicals/pic/chemicals). If your chemical is classed as Annex 1, also note:
+
+- which ‘parts’ of Annex 1 the chemical is in (part 1, part 2, part 3) - there are more restrictions on chemicals in parts 2 and 3
+- the CAS number
+
+Chemicals classed as Annex 5 are banned and can’t be exported without an exemption. Contact xxx.
+
+[Question for SME: Who should someone contact to find out about exemptions]
+
+###Making an online notification
+
+To get a RIN you need to make an online notification at least 30 days before you first export restricted chemicals. Allow 15 days for notifications you make after this.
+
+Chemicals in parts 2 and 3 of Annex 1 may take longer or be refused because they must be authorised by the country you’re exporting to. 
+
+You first need an online account. Email the Health and Safety Executive (HSE), including specific information.
+
+$C
+
+**Health and Safety Executive**
+<UKDNA@hse.gov.uk>
+
+$C
+
+Using the subject line ‘Edexim account request’, tell HSE:
+
+- the chemical you want to export and its CAS number
+- your company details - its name, address, website and [Companies House number](https://beta.companieshouse.gov.uk/), if it’s a limited company
+- your preferred username - up to 16 characters (use letters, numbers and underscore only)
+
+Once you’re registered, you can make your online notification. 
+
+[Question for SME: What is the URL for online notifications? http://edexim.jrc.ec.europa.eu/ doesn’t seem to work.]
+
+You can use the same RIN for all exports of the same chemical in the same calendar year. You don’t need to make a notification.
+
+When transporting restricted chemicals, you’ll need to follow the rules for moving [dangerous goods](/guidance/moving-dangerous-goods).
+
+
+###If your company is registered outside the UK
+
+Apply for a RIN from the  authority in the country you’re exporting to instead.
+
+
+###Annual reporting requirements
+
+Every year you must tell HSE about the Annex 1 chemicals you’ve exported.
+
+Fill in the [annual return template](http://www.hse.gov.uk/pic/exporters/exporter-tonnage-return.xls) (XLS, 15kb) and email it to HSE by 31 March the year after.
+
+[Question for SME: Which email address should someone use to return the form?]
+
+
+###Products that contain highly restricted chemicals
+
+You need a RIN number if you export a product that both:
+
+- includes a chemical in part 2 or 3 of Annex 1
+- is classed as an [article](http://www.hse.gov.uk/reach/definitions.htm#article)
+
+This includes products like cars, batteries or telephones.
+
+You don’t need to follow the other rules for chemicals (eg for labelling).
+
+Contact HSE if you need help.
+
 
 ##Precursor chemicals
 
