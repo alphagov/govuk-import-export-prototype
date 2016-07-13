@@ -33,7 +33,7 @@ $CTA
 ##Get a RIN for restricted chemicals
 {:#restricted-chemicals}
 
-You need to include a reference identification number (RIN) in your [export declaration] if either:
+You need to include a reference identification number (RIN) in your [export declaration](/guide/declare-exporting-goods-from-eu/) if either:
 
 - the chemical is restricted - classed as ‘Annex 1’
 - you export 10kg or less of any non-restricted chemical for research or analysis
