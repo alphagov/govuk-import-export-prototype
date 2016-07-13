@@ -468,7 +468,7 @@ If you want to send your application by email rather by than fax or post you nee
 
 If you'd like to cancel or amend your application you must do this before 12 pm on the day you apply.
 
-[Question for SME: The form appears to be out of date. Is there a new one? The guidance makes reference to faxing things before midday as this is rarely used, have the rules changed?]
+You can export 105% of the quantity you put on the form without having to get a new licence.
 
 ###Calculate your security rate
 
@@ -503,7 +503,7 @@ You can do so:
 
 * by cash, cheque, banker's draft or any other payments agreed by the RPA 
 
-If you choose block payments you should receive statements from the RPA to tell you how much you still owe. You can commit to the block payments as a [group of traders](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf)(PDF, 51.7KB) or [change the name](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439550/fdgs5_-_IX8_-_v5.0_Jun_2015.pdf)(PDF, 65.3KB) on the 'contract'.
+If you choose block payments you should receive statements from the RPA to tell you how much you still owe. You can commit to the block payments as a [group of traders](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf)(PDF, 51.7KB). You can also apply to [change the name](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439550/fdgs5_-_IX8_-_v5.0_Jun_2015.pdf)(PDF, 65.3KB) on the 'contract'.
 
 Pay your security to:
 
@@ -515,9 +515,12 @@ IBAN: GB48 NWBK 6072 0385 0145 83
 
 ###Getting your security back
 
-Your security will be refunded in full if you export at least 95% of the quantity on the licence and return it to the RPA within 2 months of its expiry date. 
+Your security will be refunded in full if you export at least 95% of the quantity on the licence within 2 months of its expiry date - this will happen automatically if you used CHIEF.
 
-[Question for SME: How can people who don't have a paper licence do this? Is the expiration date written on the licence or in CHIEF?
+If you're using a paper licence, you'll need to return it to the RPA within 2 months of its expiry with any supporting documents and your securities will usually be returned to you within 21 days of receiving your proof.
+
+If you use your licence in stages, you can ask us for the security in stages, as long as you can prove that at least 5% of the total quantity has been imported or exported.
+
 
 
 
