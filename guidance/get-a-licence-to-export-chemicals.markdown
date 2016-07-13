@@ -15,19 +15,17 @@ You must:
 - include a [safety data sheet](http://www.hse.gov.uk/chemical-classification/labelling-packaging/safety-data-sheets.htm) to each importer
 - translate the label and safety data sheet into the language of the country you’re exporting to
 - not export them within 6 months of their expiry date
-- for restricted chemicals, [apply for a reference identification number] (RIN) 
+- for restricted chemicals, [apply for a reference identification number](#get-a-rin-for-restricted-chemicals) (RIN) 
 
 You also need a licence if you export:
 
 - chemicals with [military or potential military uses](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
-- [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or the chemicals in them (‘[precursors]’)
+- [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or the chemicals in them (‘[precursors](#precursor-chemicals)’)
 - [ozone-depleting substances](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html), eg HCFCs
 - [barbiturates](/guidance/get-a-licence-to-export-drugs-and-medicines.html#export-barbiturates) that can be used in lethal injections
 
 $CTA
-
 Also check the import rules of the country that you’re exporting the chemicals to, which may be less or more strict than in the UK. You can [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
-
 $CTA
 
 ##Get a RIN for restricted chemicals
