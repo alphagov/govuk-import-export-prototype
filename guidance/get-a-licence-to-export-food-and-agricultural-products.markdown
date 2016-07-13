@@ -470,6 +470,30 @@ If you'd like to cancel or amend your application you must do this before 12 pm 
 
 [Question for SME: The form appears to be out of date. Is there a new one? The guidance makes reference to faxing things before midday as this is rarely used, have the rules changed?]
 
+###Calculate your security rate
+
+Your security rate for rice and cereals must be of 3 euros per tonne.
+
+
+Check the table to see how much you need to pay for sugar:
+
+| sugar commodity code | security rate for 100 kilos |
+|------------------------|------------------|
+| 1701 | 11 euros |
+| 1702, 2106 and 1702 6095 | 4.2 euros |
+| 1703 (molasses) | 0.9 euros |
+| 1702 6080 (inulin syrup) | 8 euros |
+| 1701 (non-quota sugar) |  0.3 euros |
+| 1702 9080 (inulin syrup) | 0.6 euros |
+
+This security will be refunded in full if you export at least 95% of the quantity on the licence and return it to the RPA within 2 months of its expiry date. 
+
+You don’t need to pay a security if your total comes to 100 euros or less.
+
+You may also apply to waive the security up to the amount of €500.[link to form]
+
+[Question for SME: Is there a form which isn’t embedded within the leaflets?]
+
 
 
  
