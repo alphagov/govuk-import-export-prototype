@@ -155,6 +155,7 @@ s1. Get named applicants an [enhanced DBS check](#dbs).
 s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration). You also need to apply a licence for category 1 chemicals.
 s3. Get a [declaration from the end-user](#end-user). This isn’t required for category 2B chemicals.
 s4. [Apply for an export licence](#apply-export-licence), if you’re exporting outside the EU. For category 2 or 3 chemicals, you only need a licence to export to certain countries.
+s5. [Fill in an annual return](#annual-returns-precursors) by 31 January.
 
 If you export category 3 chemicals in [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb)  outside the EU to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb), you only need an export licence. Don’t complete the other steps.
 
@@ -227,7 +228,8 @@ DLCU will send you a written invoice to the registered address on your customer 
 
 If you need a purchase order number on the invoice, state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
 
-##Annual returns
+###Annual returns
+{:#annual-returns-precursors}
 
 You must tell the Home Office about the precursor drugs you export each year.
 
@@ -235,7 +237,7 @@ Complete the [annual return form](https://www.gov.uk/government/uploads/system/u
 
 [Question for SME: this from is from 2013 - is there an up-to-date version of the form available?]
 
-##Contact
+###Contact
 
 Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exporting precursor chemicals.
 {:#contact-dlcu}
