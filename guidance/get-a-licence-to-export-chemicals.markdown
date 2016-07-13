@@ -239,11 +239,10 @@ Complete the [annual return form](https://www.gov.uk/government/uploads/system/u
 Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exporting precursor chemicals.
 {:#contact-dlcu}
 
-$C
+
 **Drug Licensing and Compliance Unit**  
 <DLCUCommsOfficer@homeoffice.gsi.gov.uk>
 Telephone: 020 7035 6330  
 [Find out about call charges](/call-charges)
-$C
 
 Email DCLU to complain or make a suggestion: DLCU_Complaints_Section@homeoffice.gsi.gov.uk 
