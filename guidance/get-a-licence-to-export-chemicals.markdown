@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Get a licence to export chemicals
-summary: You must have a licence to export chemicals.
+title: Licences and special rules for exporting chemicals
+summary: Licences and special rules for exporting chemicals.
 permalink: /guidance/get-a-licence-to-export-chemicals.html
 topic:
   name: Exporting and doing business abroad
