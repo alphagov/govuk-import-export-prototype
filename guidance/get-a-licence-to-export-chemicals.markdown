@@ -15,7 +15,7 @@ You must:
 - include a [safety data sheet](http://www.hse.gov.uk/chemical-classification/labelling-packaging/safety-data-sheets.htm) to each importer
 - translate the label and safety data sheet into the language of the country you’re exporting to
 - not export them within 6 months of their expiry date
-- for restricted chemicals, [apply for a reference identification number](#get-a-rin-for-restricted-chemicals) (RIN) 
+- for restricted chemicals, [apply for a reference identification number](#restricted-chemicals) (RIN) 
 
 You also need a licence if you export:
 
@@ -25,10 +25,13 @@ You also need a licence if you export:
 - [barbiturates](/guidance/get-a-licence-to-export-drugs-and-medicines.html#export-barbiturates) that can be used in lethal injections
 
 $CTA
+
 Also check the import rules of the country that you’re exporting the chemicals to, which may be less or more strict than in the UK. You can [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+
 $CTA
 
 ##Get a RIN for restricted chemicals
+{:#restricted-chemicals}
 
 You need to include a reference identification number (RIN) in your [export declaration] if either:
 
