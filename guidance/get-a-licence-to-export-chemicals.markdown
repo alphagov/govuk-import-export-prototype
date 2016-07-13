@@ -42,7 +42,7 @@ Search for Annex 1 chemicals using the [tool on the European Chemicals Agency (E
 
 If your chemical is classed as Annex 1, note:
 
-- which ‘parts’ of Annex 1 the chemical is in (part 1, part 2, part 3) - there are more restrictions on chemicals in parts 2 and 3
+- which ‘parts’ of Annex 1 the chemical is in - there are more restrictions on chemicals in parts 2 and 3
 - the CAS number
 
 You'll need to include this information in an online notification - you'll get your RIN number once this has been approved.
