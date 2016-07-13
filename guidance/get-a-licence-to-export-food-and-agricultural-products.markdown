@@ -490,7 +490,7 @@ This security will be refunded in full if you export at least 95% of the quantit
 
 You don’t need to pay a security if your total comes to 100 euros or less.
 
-You may also apply to waive the security up to the amount of €500.[link to form]
+You won't need to pay security up to €500 if you sign a form saying you will still pay any invoices if the conditions of your licence weren't met.[link to form]
 
 [Question for SME: Is there a form which isn’t embedded within the leaflets?]
 
