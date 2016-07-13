@@ -455,24 +455,6 @@ If you’re exporting some agricultural products called Common Agriculural Polic
 * sugar
 * cereals and rice 
 
-If you’ve given a quote to export to a public authority outside the EU you can get a 'tender licence' before it's accepted. This applies to goods like:
-
-* dairy products
-* fresh or processed meat (including edible offal)
-* sugar, syrup, molasses and honey
-*cereals and rice (including milled products, starch, gluten and insulin)
-* eggs
-* fresh or processed fruit and vegetables
-* coffee, tea and spices
-* cocoa beans and shells
-* oils and fats
-* fish, crustaceans and molluscs (fresh or processed)
-* fermented drinks
-* tobacco
-* cork  
-* flax and hemp  
-* processed goods, eg products such as biscuits which have one or more of the goods listed above as a basic ingredient
-
 ###Applying
 
 You need to:
@@ -488,17 +470,7 @@ If you'd like to cancel or amend your application you must do this before 12 pm 
 
 [Question for SME: The form appears to be out of date. Is there a new one? The guidance makes reference to faxing things before midday as this is rarely used, have the rules changed?]
 
-###Tender licences
 
-You usually have 21 days to let know the RPA if your quote has been accepted. 
-
-If your tender deadline is extended by 10 days, you can get an extra 21 days to let the RPA know if it’s been accepted. 
-
-If it’s extended by more than 10 days you’ll have to apply for a new licence.
-
-[Question for SME: The guidance says that “you can apply for a tender licence up to 15 days before but no later than midday on the closing date for submitting tenders. What is the closing date?] 
-
-[Question for SME: The ban on trading with agricultural products with Russia was meant to last until August 2016. Has it been lifted now?]
 
  
 
