@@ -478,22 +478,22 @@ Check the table to see how much you need to pay for sugar:
 
 | sugar commodity code | security rate for 100 kilos |
 |------------------------|------------------|
-| 1701 | 11 euros |
-| 1702, 2106 and 1702 6095 | 4.2 euros |
-| 1703 (molasses) | 0.9 euros |
-| 1702 6080 (inulin syrup) | 8 euros |
-| 1701 (non-quota sugar) |  0.3 euros |
-| 1702 9080 (inulin syrup) | 0.6 euros |
+| 1701 | €11 |
+| 1702, 2106 and 1702 6095 | €4.2 |
+| 1703 (molasses) | €0.9 |
+| 1702 6080 (inulin syrup) | €8 |
+| 1701 (non-quota sugar) |  €0.3 |
+| 1702 9080 (inulin syrup) | €0.6|
 
-You don’t need to pay a security if
+You don’t need to pay a security if:
 
-your total comes to 100 euros or less.
+* your total comes to €100 or less
+* your total comes to €500 but you committ to paying any invoices sent by the RPA if the conditions of your licence arn't  met.[link to form]
+* you're a humanitarian organisation exporting goods for aid (as long as you meet the conditions of the licence)
 
 Your security will be refunded in full if you export at least 95% of the quantity on the licence and return it to the RPA within 2 months of its expiry date. 
 
-You won't need to pay security up to €500 if you sign a form saying you will still pay any invoices if the conditions of your licence weren't met.[link to form]
-
-[Question for SME: Is there a form which isn’t embedded within the leaflets?]
+[Question for SME: Is there a version of the €500 form which isn’t embedded within the leaflets? It seems that calling RPA to get the words might not be that efficient?]
 
 
 
