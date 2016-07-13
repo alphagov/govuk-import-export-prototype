@@ -45,7 +45,7 @@ If your chemical is classed as Annex 1, note:
 - which ‘parts’ of Annex 1 the chemical is in - there are more restrictions on chemicals in parts 2 and 3
 - the CAS number
 
-You'll need to include this information in an online notification - you'll get your RIN number once this has been approved.
+You'll need to include this information when you apply for a RIN. You do this by making an online notification.
 
 $CTA
 
