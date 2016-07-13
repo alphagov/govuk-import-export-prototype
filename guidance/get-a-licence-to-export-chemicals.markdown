@@ -38,12 +38,20 @@ You need to include a reference identification number (RIN) in your [export decl
 - the chemical is restricted - classed as ‘Annex 1’
 - you export 10kg or less of any non-restricted chemical for research or analysis
 
-Search for Annex 1 chemicals using the [tool on the European Chemicals Agency (ECHA) website](http://echa.europa.eu/information-on-chemicals/pic/chemicals). If your chemical is classed as Annex 1, note:
+Search for Annex 1 chemicals using the [tool on the European Chemicals Agency (ECHA) website](http://echa.europa.eu/information-on-chemicals/pic/chemicals). 
+
+If your chemical is classed as Annex 1, note:
 
 - which ‘parts’ of Annex 1 the chemical is in (part 1, part 2, part 3) - there are more restrictions on chemicals in parts 2 and 3
 - the CAS number
 
+You'll need to include this information in an online notification - you'll get your RIN number once this has been approved.
+
+$CTA
+
 Chemicals classed as Annex 5 are banned and can’t be exported without an exemption. Contact xxx.
+
+$CTA
 
 [Question for SME: Who should someone contact to find out about exemptions]
 
