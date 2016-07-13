@@ -472,8 +472,7 @@ If you'd like to cancel or amend your application you must do this before 12 pm 
 
 ###Calculate your security rate
 
-Your security rate for rice and cereals must be of 3 euros per tonne.
-
+Your security rate for rice and cereals will be 3 euros per tonne.
 
 Check the table to see how much you need to pay for sugar:
 
@@ -486,9 +485,11 @@ Check the table to see how much you need to pay for sugar:
 | 1701 (non-quota sugar) |  0.3 euros |
 | 1702 9080 (inulin syrup) | 0.6 euros |
 
-This security will be refunded in full if you export at least 95% of the quantity on the licence and return it to the RPA within 2 months of its expiry date. 
+You don’t need to pay a security if
 
-You don’t need to pay a security if your total comes to 100 euros or less.
+your total comes to 100 euros or less.
+
+Your security will be refunded in full if you export at least 95% of the quantity on the licence and return it to the RPA within 2 months of its expiry date. 
 
 You won't need to pay security up to €500 if you sign a form saying you will still pay any invoices if the conditions of your licence weren't met.[link to form]
 
