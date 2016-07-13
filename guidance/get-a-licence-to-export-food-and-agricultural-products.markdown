@@ -80,7 +80,7 @@ Seed potatoes always need a plant passport when moved around the UK or the EU. T
 
 You don't need a make supplier documents if:
 
-* you goods are for retail sale
+* your goods are for retail sale
 * you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
 
 You're considered a small producer if:
@@ -519,8 +519,19 @@ Your security will be refunded in full if you export at least 95% of the quantit
 
 If you're using a paper licence, you'll need to return it to the RPA within 2 months of its expiry with any supporting documents and your securities will usually be returned to you within 21 days of receiving your proof.
 
+If you're late or fail to do this, you won't get your full security back or won't get it back at all.
+
 If you use your licence in stages, you can ask us for the security in stages, as long as you can prove that at least 5% of the total quantity has been imported or exported.
 
+###If you need help
+
+Contact the RPA if you need help with CAP good exports:
+
+$C
+** RPA External Trade Helpline **      
+Telephone: 0191 226 5050
+Monday to Friday, 9am to 5pm
+$C
 
 
 
