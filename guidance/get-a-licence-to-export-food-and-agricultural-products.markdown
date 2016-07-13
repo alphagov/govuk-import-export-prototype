@@ -60,7 +60,9 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 ##Plant products within the EU
 
-If you’re moving certain plants which will be used as food within the UK or the EU, you might need a passport, a supplier document or both.
+You won't need a certificate to move plants which will be used as foodin most cases.
+
+Certain species will require a plant passport or a supplier document within the UK or the EU.
 
 ###When you need a plant passport or document
 
