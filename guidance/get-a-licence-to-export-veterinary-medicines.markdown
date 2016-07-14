@@ -67,7 +67,7 @@ You can ask for this information to be included for Defra-1, 2, or 4 certificate
 
 ##Apply for a certificate
 
-You have to [apply by email for a Defra-SFA certificate].
+You have to [apply by email for a Defra-SFA certificate](#apply-email).
 
 Otherwise, you register to apply online by emailing exportcert@vmd.defra.gsi.gov.uk.
 
@@ -84,19 +84,20 @@ As part of your application, you can ask for the following to be attached to you
 - Spanish or French versions of your documents
 
 ###Other ways to apply
+{:#apply-email}
 
 [Question for SME: With the exception of Defra-SFA, why would someone apply by email? Do many people use this route?]
 
-You can also apply by emailing <exportcert@vmd.defra.gsi.gov.uk>.
+You can apply by emailing <exportcert@vmd.defra.gsi.gov.uk>.
 
 Include:
 
 - a covering letter on headed paper
-- your email address for the invoice
+- an email address for the invoice to be sent to
 - if you’re not the manufacturer, a letter from them giving permission for their details to be used in your application (Defra-1, 3 or 4 only)
 - a completed ‘schedule’ template (not required for Defra-3)
 
-A schedule give specific information about your export. Download and fill in one of the following:
+A schedule gives specific information about your export. Download and fill in one of the following:
 
 - [Defra-1 schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421321/758549_Defra1_ScheduleTemplate.docx) (MS Word Document, 19KB)
 - [Defra-2 schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421323/761073_Defra2_ScheduleTemplate.docx) (MS Word Document, 18.5KB)
@@ -108,7 +109,7 @@ In the schedule, you can include that the product is ‘free from ingredients of
 ###Standard wording
 {:#wording}
 
-If you need [extra information](#extra-information}) on the certificate, you must also include the appropriate standard wording.
+If you need [extra information](#extra-information) on the certificate, you must also include the appropriate standard wording.
 
 Defra-1 and 4 wording:
 
