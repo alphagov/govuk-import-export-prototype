@@ -174,9 +174,12 @@ Ask if you need to wash soil from the roots of the plants you export. The USA, N
 It costs £13.87 to get a plant health certificate.
 
 It costs £65.24 for each 15 minutes of a site inspection.
+
 If the inspectors send your goods to a laboratory for testing it will cost £36.35
 The minimum cost of any inspection followed by tests is £130.48
+
 If your crops have a ‘growing inspection’ or soil test, it costs £49.68 for every 15 minutes and a minimum of £99.36.
+
 There might be additional charges if your goods need more tests to comply with the importing country’s health rules.
 
 ###Reduced fees
