@@ -107,6 +107,7 @@ You only need to apply to make supplier documents separately if you're not alrea
 
 $CTA
 
+
 ### Inspection fees
 
 You’ll have to pay £46.10 for every 15 mins that an inspection takes, including the time it takes inspectors to travel to your site.
