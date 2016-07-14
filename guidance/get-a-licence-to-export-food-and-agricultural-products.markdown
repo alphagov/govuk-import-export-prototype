@@ -265,7 +265,7 @@ If you’re already part of the [Plant Health Propagation Scheme](https://www.go
 
 ###Apply for inspection
 
-You must fill in a form for:
+You must fill in a form and send it to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate), for:
 
 * [plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
 
@@ -277,6 +277,7 @@ Contact APHA to check if the country you’re exporting to requires you to test 
 
 Ask if you need to wash soil from the roots of the plants you export. The USA, New Zealand and other countries require this.
 
+[Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
 ###Fees  
