@@ -71,7 +71,7 @@ You have to [apply by email for Defra-SFA](#apply-email).
 
 Otherwise, register to apply online by emailing <exportcert@vmd.defra.gsi.gov.uk>.
 
-You can then [sign in to apply for a certificate](https://www.vmd.defra.gov.uk/EC/Login.aspx).
+You can then [sign in to apply for a certificate](https://www.vmd.defra.gov.uk/EC/Login.aspx). You should get your certificate within 10 days.
 
 The fee is £30 (plus £15 for each certified copy, if you need these). You’ll get an invoice after you’ve applied.
 
@@ -81,6 +81,8 @@ When applying, you can ask for the following to be attached to your export docum
 - a summary of product characteristics (SPC) or product literature (or both)
 - a marketing authorisation certificate
 - Spanish or French versions of your documents
+ 
+[Question for SME: What does someone do with the certificate when they've got it? Attach it to their consignment?]
 
 ###Other ways to apply
 {:#apply-email}
