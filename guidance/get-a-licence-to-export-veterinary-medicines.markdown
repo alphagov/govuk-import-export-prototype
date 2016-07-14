@@ -31,7 +31,7 @@ There are 5 types of certificate. Which one you need will depend on what you nee
 
 ###Defra-2
 
-Defra-2 shows that the product is authorised for sale and supply in the UK.
+The Defra-2 certificate shows that the product is authorised for sale and supply in the UK.
 
 ###Defra-1 and Defra-3
 
