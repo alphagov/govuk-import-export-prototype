@@ -101,7 +101,11 @@ They’ll inspect your plants and you’ll get a unique registration number if y
  
 Your permission will last a year but you may need more inspections if your site has a higher risk of diseases.
 
-^You only need to apply to make supplier documents separately if you're not already authorised to issue plant passports.
+$CTA
+
+You only need to apply to make supplier documents separately if you're not already authorised to issue plant passports.
+
+$CTA
 
 ### Inspection fees
 
@@ -301,7 +305,11 @@ You may be entitled to a 50% discount for the first £500 of APHA services in a 
 
 Fill in this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515921/form-phe3.pdf) to apply.
 
-^You must tell AHPA when you are no longer eligible for this concession
+$CTA
+
+You must tell AHPA when you are no longer eligible for this concession
+
+$CTA
 
 ##Exporting grain from England and Wales
 
@@ -321,7 +329,11 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 
 [Question for SME: How do users do this? It’s not on the form]
 
-^All grain will need to be tested by a trade inspector 
+$CTA
+
+All grain will need to be tested by a trade inspector 
+
+$CTA
 
 [Question for SME: Is this list up to date?]
 
