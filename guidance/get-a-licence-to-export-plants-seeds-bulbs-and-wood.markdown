@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export plants, seeds, bulbs and wood
-summary: You must have a licence to export food and agricultural products.
+summary: You may need a certificate export plant, seed, bulbs or wood
 permalink: /guidance/get-a-licence-to-export-plants-seeds-bulbs-and-woods.html
 topic:
   name: Exporting and doing business abroad
