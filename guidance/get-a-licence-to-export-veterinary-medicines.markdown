@@ -58,6 +58,7 @@ Defra-SFA shows either:
 - that the Specified Feed Additive (SFA) in your product is a UK-authorised product
 
 ###If you need extra information on the certificate
+{:#extra-information}
 
 Some countries need information that are not on the standard certificates.
 
@@ -105,7 +106,9 @@ A schedule give specific information about your export. Download and fill in one
 In the schedule, you can include that the product is ‘free from ingredients of a ruminant origin’ (if requested by the importing country). You must make it clear that the statement is made by you and not the VMD.
 
 ###Standard wording
-{:wording}
+{:#wording}
+
+If you need [extra information](#extra-information}) on the certificate, you must also include the appropriate standard wording.
 
 Defra-1 and 4 wording:
 
