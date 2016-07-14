@@ -120,5 +120,22 @@ Monday to Friday, 8.30am to 5pm
 
 $C
 
+##Exporting unauthorised feed additives 
 
+There are certain rules about which additives you can put into animal food within the EU. Check [part 1](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03.pdf) and [2](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03_annex2.pdf) of the EU register to see which ones are allowed.
+
+If your feed contains additives which aren't listed you can export outside the EU if:
+
+* you get proof from the importing country that they are authorised there 
+* you tell the Food Standards Agency (FSA) if they're going to be exported through another EU country
+
+You must [contact FSA](https://www.food.gov.uk/business-industry/farmingfood/animalfeed/animalfeedlegislation/export-unauthorised-feed) and give them:
+
+* the name and type of product - including details of the unauthorised additives
+* batch number
+* quantity
+* date of despatch
+* point of exit from the UK, the EU country they're going to and any contact details in that country
+* final country of destination and contact details of the importer 
+* point of entry in any EU countries and in the final destination country
 
