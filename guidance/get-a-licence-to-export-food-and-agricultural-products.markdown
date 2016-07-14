@@ -457,12 +457,9 @@ EH12 9FJ
 
 [Contact the Department of Agriculture and Rural Development of Northern Ireland (DARDNI)](https://www.daera-ni.gov.uk/contact) if you’re exporting from Northern Ireland.
 
-##Get a license to export agricultural products 
+##Get a license to export sugar, cereals and rice
 
-If you’re exporting some agricultural products called Common Agriculural Policy (CAP) goods in [large quantities](https://www.gov.uk/trade-tariff/sections) you may need an mandatory export licence for:
-
-* sugar
-* cereals and rice 
+If you’re exporting these goods in [large quantities](https://www.gov.uk/trade-tariff/sections) you need a 'mandatory export licence'.
 
 ###Applying
 
