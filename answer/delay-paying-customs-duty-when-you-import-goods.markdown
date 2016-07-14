@@ -45,6 +45,12 @@ Monday to Friday, 8am to 6pm
 
 $C  
 
+## Get copies of your duty deferment statements
+
+Use the [Duty Deferment Electronic Statements (DDES) service](https://secure.hmce.gov.uk/ecom/login/index.html) to view, print or download your statements.
+
+You must be registered with the [Government Gateway](http://www.gateway.gov.uk/) to use the DDES servuice.
+
 ##Financial guarantees and Simplified Import VAT Accounting (SIVA)
 
 When you have a duty deferment account, you can use the Simplified Import VAT Accounting (SIVA) scheme to reduce the financial guarantee that HMRC needs.
