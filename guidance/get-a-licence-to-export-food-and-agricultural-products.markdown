@@ -255,6 +255,8 @@ You’ll need a health certificate (‘phytosanitary certificate’) to export p
 * potatoes (including seed potatoes)
 * grain - there are different rules for this
 
+Check if you need an importing permit in the country you're exporting your goods to.
+
 ###Getting a plant health certificate in England and Wales (except grain)
 
 In most cases you can send your food to the APHA lab for inspection, it’ll be tested and you’ll receive your certificate in 7 days if you pass.
