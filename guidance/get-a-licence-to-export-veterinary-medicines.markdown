@@ -25,6 +25,8 @@ You don’t need one of these licences for ‘over the counter’ medicines clas
 
 Talk to the importer who’s receiving your goods to find out which type of export certificate you need. 
 
+There are 5 types of certificate. Which one you need will depend on what you need to prove to the country you're exporting to.
+
 [Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
 
 ###Defra-2
@@ -33,7 +35,7 @@ Defra-2 shows that the product is authorised for sale and supply in the UK.
 
 ###Defra-1 and Defra-3
 
-Defra-1 and Defra-3 show:
+Both Defra-1 and Defra-3 show:
 
 - the product is manufactured in the UK
 - the product meets good manufacturing practice (GMP) requirements
