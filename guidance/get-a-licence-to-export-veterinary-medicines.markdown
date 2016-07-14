@@ -23,9 +23,9 @@ You don’t need one of these licences for ‘over the counter’ medicines clas
 
 ##Work out which export certificate you need
 
-Talk to the importer who’s receiving your goods to find out which type of export certificate you need. 
+There are 5 types of certificate. 
 
-There are 5 types of certificate. Which one you need will depend on what you need to prove to the country you're exporting to.
+Which one you need will depend on what you need to prove to the country you're exporting to. Talk to the importer who’s receiving your goods to find out.
 
 [Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
 
