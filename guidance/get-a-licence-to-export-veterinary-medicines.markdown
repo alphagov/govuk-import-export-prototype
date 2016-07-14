@@ -113,3 +113,6 @@ Defra-2 wording:
 
 > The VMD stamp and signature on this page confirm the veterinary medicines named on
 page two hold a Marketing Authorisation in the same name. It does not independently verify any of the other information contained on this page.
+
+*[VMD]: Veterinary Medicines Directorate
+*[AVM-GSL]: Authorised Veterinary Medicine - General Sales List
