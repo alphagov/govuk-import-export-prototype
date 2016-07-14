@@ -467,7 +467,7 @@ You need to:
 
 s1. Call the Rural Payments Agency (RPA) to get a your trader registration number 
 s2. Fill in this [form](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html) or apply in another format as long as you give the same information
-s3. Pay a “security” deposit (ask the RPA how to calculate this and when it will be returned) - if you’re applying for a tender licence you’ll only need to pay this if your quote is accepted
+s3. Pay a “security” deposit 
 s4. You licence will be issued on the CHIEF system within 5 days and will appear when you make your declaration(link to declaration content). You can also ask for a paper one if the countries you're trading with require this.
 
 If you want to send your application by email rather by than fax or post you need to [get approval](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html?uuid=a5765123-3a7c-450e-e981-9c5e37f84ad1).
