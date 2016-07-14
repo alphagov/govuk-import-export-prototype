@@ -73,7 +73,7 @@ Otherwise, you register to apply online by emailing <exportcert@vmd.defra.gsi.go
 
 You can then [sign in to apply](https://www.vmd.defra.gov.uk/EC/Login.aspx).
 
-The fee is £30 (£15 if you need a certified copy). You’ll get an invoice after you’ve applied from VMD.
+The fee is £30 (£15 for a certified copy, if you need one). You’ll get an invoice after you’ve applied from VMD.
 
 When applying, you can ask for the following to be attached to your export documentation:
 
