@@ -261,6 +261,8 @@ In most cases you can send your food to the APHA lab for inspection, it’ll be 
 
 If you’re already part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme) you may be able to show your results to get your certificate.
 
+[Question for SME: Do you growing season inspections also apply to food?]
+
 ###Apply for inspection
 
 You must fill in a form for:
