@@ -25,7 +25,7 @@ You don’t need one of these licences for ‘over the counter’ medicines clas
 
 Talk to the importer who’s receiving your goods to find out which type of export certificate you need. 
 
-[Question for SME: Will the importer know this? If not, how can someone find out which certificate they need? And are there countries that don’t require a certificate, eg within the EU?]
+[Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
 
 ###Defra-2
 
