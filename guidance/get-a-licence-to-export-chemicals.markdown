@@ -78,7 +78,7 @@ Once you’re registered, you can make your online notification.
 
 [Question for SME: What is the URL for online notifications? http://edexim.jrc.ec.europa.eu/ doesn’t seem to work.]
 
-You can use the same RIN for all exports of the same chemical in the same calendar year. You don’t need to make a notification.
+You can use the same RIN for all exports of the same chemical in the same calendar year. You don’t need to make another notification.
 
 When transporting restricted chemicals, you’ll need to follow the rules for moving [dangerous goods](/guidance/moving-dangerous-goods).
 
