@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-##Export veterinary medicines
+##Check you have a licence
 
 To export most veterinary medicines you must have one of the following:
 
@@ -21,7 +21,7 @@ To export most veterinary medicines you must have one of the following:
 You don’t need one of these licences for ‘over the counter’ medicines classed as AVM-GSL. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
 
 
-###Types of export certificates
+##Export certificates
 
 Talk to the importer who’s receiving your goods to find out which type of export certificate you need. 
 
@@ -62,7 +62,7 @@ Some countries need information that are not on the standard certificates.
 You can ask for this information to be included for Defra-1, 2, or 4 certificates, but you must also include some [standard wording](#wording) in your application.
 
 
-###Apply for a certificate
+##Apply for a certificate
 
 You have to [apply by email for a Defra-SFA certificate].
 
@@ -80,7 +80,7 @@ As part of your application, you can ask for the following to be attached to you
 - a marketing authorisation certificate
 - Spanish or French versions of your documents
 
-####Other ways to apply
+###Other ways to apply
 
 [Question for SME: With the exception of Defra-SFA, why would someone apply by email? Do many people use this route?]
 
@@ -102,7 +102,7 @@ A schedule give specific information about your export. Download and fill in one
 
 In the schedule, you can include that the product is ‘free from ingredients of a ruminant origin’ (if requested by the importing country). You must make it clear that the statement is made by you and not the VMD.
 
-####Standard wording
+###Standard wording
 {:wording}
 
 Defra-1 and 4 wording:
