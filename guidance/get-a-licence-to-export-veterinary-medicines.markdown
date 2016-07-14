@@ -69,13 +69,13 @@ You can ask for this information to be included for Defra-1, 2, or 4 certificate
 
 You have to [apply by email for a Defra-SFA certificate](#apply-email).
 
-Otherwise, you register to apply online by emailing exportcert@vmd.defra.gsi.gov.uk.
+Otherwise, you register to apply online by emailing <exportcert@vmd.defra.gsi.gov.uk>.
 
 You can then [sign in to apply](https://www.vmd.defra.gov.uk/EC/Login.aspx).
 
-The fee is £30 (£15 for a certified copy). You’ll get an invoice after you’ve applied from The VMD (Veterinary Medicines Directorate)
+The fee is £30 (£15 if you need a certified copy). You’ll get an invoice after you’ve applied from VMD.
 
-As part of your application, you can ask for the following to be attached to your export documentation:
+When applying, you can ask for the following to be attached to your export documentation:
 
 - manufacturing authorisation
 - a summary of product characteristics (SPC) or product literature (or both)
