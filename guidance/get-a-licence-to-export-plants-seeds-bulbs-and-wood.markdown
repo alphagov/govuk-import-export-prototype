@@ -25,11 +25,11 @@ Check if your plants need a passport for:
 
 * protected zones [in the EU including the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf)(PDF, 252KB) or [within Switzerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf)(PDF, 201KB)
 
-If you’re moving goods to be grown on, you’ll need a passport for certain:
+If you’re moving goods which will be 'grown on', you’ll need a passport for certain:
 
-* seeds and planting plants [in the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446527/plant-passports-seeds.pdf) or [to Swizerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447497/plant-passports-switzerland2.pdf)
+* seeds and planting plants [within the EU including the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446527/plant-passports-seeds.pdf) or [going to Swizerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447497/plant-passports-switzerland2.pdf)
 
-* bulbs or corms [in the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446530/plant-passports-bulbs.pdf) or [to Switzerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447498/plant-passports-switzerland3.pdf)
+* bulbs or corms [within the EU including in the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446530/plant-passports-bulbs.pdf) or [going to Switzerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447498/plant-passports-switzerland3.pdf)
 
 You need a supplier document if you’re moving the seeds, roots or any other plant ‘propagation material’ from ornamental plants.
 
