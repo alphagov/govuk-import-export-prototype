@@ -98,10 +98,10 @@ Include:
 
 A schedule give specific information about your export. Download and fill in one of the following:
 
-- [Defra-1] schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421321/758549_Defra1_ScheduleTemplate.docx) (MS Word Document, 19KB)
+- [Defra-1 schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421321/758549_Defra1_ScheduleTemplate.docx) (MS Word Document, 19KB)
 - [Defra-2 schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421323/761073_Defra2_ScheduleTemplate.docx) (MS Word Document, 18.5KB)
 - [Defra-4 schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421325/765798_Defra4_ScheduleTemplate.docx) (MS Word Document, 18.3KB)
-- [Defra-SFA schedule template])https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421326/766188_DefraSFA_ScheduleTemplate.docx) (MS Word Document, 16.5KB)
+- [Defra-SFA schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421326/766188_DefraSFA_ScheduleTemplate.docx) (MS Word Document, 16.5KB)
 
 In the schedule, you can include that the product is ‘free from ingredients of a ruminant origin’ (if requested by the importing country). You must make it clear that the statement is made by you and not the VMD.
 
