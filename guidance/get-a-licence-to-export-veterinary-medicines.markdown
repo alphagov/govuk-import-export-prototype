@@ -2,7 +2,7 @@
 layout: guidance
 title: Get a licence to export veterinary medicines
 summary: You must have a licence and a certificate to export animal medicines
-permalink: /guidance/get-a-licence-to-export-drugs-and-medicines.html
+permalink: /guidance/get-a-licence-to-export-veterinary-medicines.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
