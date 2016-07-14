@@ -288,6 +288,8 @@ It costs £13.87 to get a plant health certificate and £36.35 for a lab examina
 
 If an inspector needs to come to your site to test soil it costs £49.68 for every 15 minutes and a minimum of £99.36.
 
+There might be additional charges if your goods need more tests to comply with importing country’s health rules.
+
 [Question for SME: Does the inspection fee include a certificate or do you need pay a certificate fee on top of that?]
 
 ###Reduced fees
