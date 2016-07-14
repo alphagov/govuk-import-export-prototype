@@ -67,7 +67,7 @@ You can ask for this information to be included for Defra-1, 2, or 4 certificate
 
 ##Apply for a certificate
 
-You have to [apply by email for a Defra-SFA certificate](#apply-email).
+You have to [apply by email for Defra-SFA](#apply-email).
 
 Otherwise, register to apply online by emailing <exportcert@vmd.defra.gsi.gov.uk>.
 
