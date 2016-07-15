@@ -35,3 +35,12 @@ You must [make a community transit declaration](/guide/move-goods-eu/make-declar
 
 - any goods to Andorra
 - industrial goods to San Marino (these goods are classified in chapters 25 to 97 of the [Trade Tariff](/start/trade-tariff.html))
+
+##If you need help
+
+Contact HM Revenue and Customs (HMRC) if you need help with moving goods to EU special territiories.
+
+**VAT helpline**
+Telephone: 0300 200 3700
+Textphone: 0300 200 3719
+Monday to Friday, 8am to 6pm
