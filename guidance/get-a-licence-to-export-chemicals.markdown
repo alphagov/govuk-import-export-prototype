@@ -114,7 +114,7 @@ Contact HSE if you need help.
 
 ##Precursor chemicals
 
-You may need a licence or follow special rules to export ‘precursor chemicals’ or move them within the EU. 
+You may need a licence or to follow special rules to export ‘precursor chemicals’ or move them within the EU. 
 
 Precursors are  chemicals that can be used to manufacture controlled drugs. The table shows precursors and their category - this affects what you need to do to move or export them.
 
@@ -151,13 +151,15 @@ The rules for precursor chemicals also apply to products that include them unles
 - the product is for medicinal use by humans (ephedrine and pseudoephedrine are exceptions to this that always need an export licence)
 - the precursor chemical can’t be easily used or extracted 
 
-###Tasks you need to complete
+###When you don't need a licence
 
 You don’t need a licence or follow special rules to:
 
 - move of category 2 chemicals within the EU in [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb)
 - move category 3 chemicals within the EU
 - export of category 3 chemicals outside the EU in [small quantities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb), unless you're exporting to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb)
+
+##Tasks you need to complete if you need a licence
 
 Otherwise, you need to complete these tasks.
 
