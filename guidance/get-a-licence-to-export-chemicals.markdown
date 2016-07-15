@@ -7,17 +7,17 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-You must follow certain rules if you export chemicals outside the EU. This includes single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
+You must follow certain rules if you export chemicals. This includes single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
 
-You must:
+To export chemicals outside the EU, you must:
 
-- pack and label them to [EU standards](http://www.hse.gov.uk/chemical-classification/labelling-packaging/index.htm), even if you’re exporting them outside of the EU
+- pack and label them to [EU standards](http://www.hse.gov.uk/chemical-classification/labelling-packaging/index.htm)
 - include a [safety data sheet](http://www.hse.gov.uk/chemical-classification/labelling-packaging/safety-data-sheets.htm) to each importer
 - translate the label and safety data sheet into the language of the country you’re exporting to
 - not export them within 6 months of their expiry date
 - for restricted chemicals, [apply for a reference identification number](#restricted-chemicals) (RIN) 
 
-You also need a licence if you export:
+You also need a licence if you export [check which apply inside/outside EU]:
 
 - chemicals with [military or potential military uses](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
 - [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or the chemicals in them (‘[precursors](#precursor-chemicals)’)
