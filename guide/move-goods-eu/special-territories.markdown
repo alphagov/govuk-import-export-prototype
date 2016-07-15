@@ -42,9 +42,9 @@ Contact HM Revenue and Customs (HMRC) if you need help with moving goods to EU s
 
 $C
 
-**VAT helpline**
-Telephone: 0300 200 3700
-Textphone: 0300 200 3719
-Monday to Friday, 8am to 6pm
+**VAT helpline**  
+Telephone: 0300 200 3700  
+Textphone: 0300 200 3719  
+Monday to Friday, 8am to 6pm  
 
 $C
