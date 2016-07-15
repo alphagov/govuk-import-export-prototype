@@ -20,9 +20,9 @@ You only need to make a ‘community transit declaration’ if both:
 - the goods were originally brought in from outside the EU (or made from materials from outside the EU)
 - there’s still duty to pay on them
 
-If you need to, you can either:
+If you need to make a declaration, you can either:
 
-- pay an agent or freight forwarder to make the declaration for you
+- pay an agent or freight forwarder to do it for you
 - [make the community transit declaration yourself](/guide/move-goods-eu/make-declaration.html)
 
 %You may have to pay a penalty if you don’t make a declaration when you’re required to.
