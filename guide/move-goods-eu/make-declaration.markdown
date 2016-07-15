@@ -18,6 +18,8 @@ You can make a community transit declaration by:
 - using or developing software - this is faster and easier for making regular declarations, eg if you're a larger company
 - using the New Computerised Transit System (NCTS)
  
+You can also pay an agent or freight forwarder to make the declaration for you.
+
 ^If you make regular declarations, you can apply to use a simpler declaration process [link to community cosignor content].
 
 ##Using software
