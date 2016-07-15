@@ -110,6 +110,8 @@ You don’t need to follow the other rules for chemicals (eg for labelling).
 
 Contact HSE if you need help.
 
+<UKDNA@hse.gov.uk>
+
 ##Precursor chemicals
 
 You may need a licence or follow special rules to export ‘precursor chemicals’ or move them within the EU. 
