@@ -161,7 +161,7 @@ You don’t need a licence or follow special rules to:
 
 ##Tasks you need to complete if you need a licence
 
-Otherwise, you need to complete these tasks.
+You need to complete these tasks.
 
 s1. Get named applicants an [enhanced DBS check](#dbs).
 s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration). You also need to apply a licence for category 1 chemicals.
