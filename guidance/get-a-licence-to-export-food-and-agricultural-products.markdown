@@ -249,13 +249,13 @@ $C
 
 ##Exporting plants from England or Wales
 
-You’ll need a health certificate (‘phytosanitary certificate’) to export plants that will be used as food like:
+Most countries will require you to have a health certificate (‘phytosanitary certificate’) to export plants that will be used as food like:
 
 * fruit and vegetables
 * potatoes (including seed potatoes)
 * grain - there are different rules for this
 
-Check if you need an importing permit in the country you're exporting your goods to.
+Check if you need one in the country you're exporting your goods to.
 
 ###Getting a plant health certificate in England and Wales (except grain)
 
