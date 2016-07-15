@@ -40,7 +40,11 @@ You must [make a community transit declaration](/guide/move-goods-eu/make-declar
 
 Contact HM Revenue and Customs (HMRC) if you need help with moving goods to EU special territiories.
 
+$C
+
 **VAT helpline**
 Telephone: 0300 200 3700
 Textphone: 0300 200 3719
 Monday to Friday, 8am to 6pm
+
+$C
