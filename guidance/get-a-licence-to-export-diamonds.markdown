@@ -14,7 +14,7 @@ Exports to Syria are banned.
 
 ##Rough diamonds
 
-You can only export rough diamonds to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
+You can only export rough diamonds within the EU and to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
 
 You must get a certificate to export rough diamonds outside the EU.
 
