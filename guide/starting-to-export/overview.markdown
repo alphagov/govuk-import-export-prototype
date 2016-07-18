@@ -15,17 +15,17 @@ breadcrumbs:
 
 What you need to do to export from the UK depends on whether you’re exporting:
 
-- [inside the EU](/starting-to-export/inside-the-eu)
-- [outside the EU](/starting-to-export/outside-the-eu)
+- [inside the EU](/guide/starting-to-export/move-goods-inside-the-eu.html)
+- [outside the EU](/guide/starting-to-export/export-outside-the-eu.html)
 
 There are different processes if you either:
 
-- [send small, low value goods abroad](/send-goods-abroad) - eg after selling goods on an online auction site
+- [send small, low value goods abroad](https://www.gov.uk/send-goods-abroad) - eg after selling goods on an online auction site
 - [take goods out of the UK temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html) - eg to a trade fair
 
 ##Export advice and finance
 
-You can get help [choosing where to export](/start/choosing-export-market-ukti.html) and [finding overseas business opportunities](/start/find-overseas-business-opportunities.html).
+You can get help [choosing where to export](/answer/choosing-export-market-ukti.html) and [finding overseas business opportunities](/start/find-overseas-business-opportunities.html).
 
 You may be able to get [export insurance or finance](/export-insurance-export-finance.html) to:
 
