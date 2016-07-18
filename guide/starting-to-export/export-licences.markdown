@@ -36,7 +36,7 @@ You may need a licence before you can move some types of goods. These are called
 ##Diamonds and arts
 
 - [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-artworks-antiques-and-culturally-significant-goods.html)
-- [diamonds](/guidance/get-a-licence-to-export-diamonds.html)
+- [diamonds, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html)
 
 ##Weapons and torture goods
 
