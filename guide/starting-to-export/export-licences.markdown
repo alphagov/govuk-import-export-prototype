@@ -42,3 +42,17 @@ You may need a licence before you can move some types of goods. These are called
 
 - [arms, military or dual use goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
 - [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
+
+##High-tech products
+
+Some things you might not think need a licence may also have military use (called ‘dual use’ items). 
+`
+Dual use items are usually high-tech, often with military standard specifications. They include:
+
+- specialist computers, radios and other communications equipment
+- information (eg manuals, blueprints) that could be used to make weapons, as well as civilian goods
+- software that could be used for information security systems (eg cryptographic technology)
+
+[Check if your product is dual use and needs a licence].
+
+%It’s a criminal offence to export ‘dual use’ items without a licence.
