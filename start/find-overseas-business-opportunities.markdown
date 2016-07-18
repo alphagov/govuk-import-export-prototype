@@ -10,7 +10,7 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'
 start_button:
-  url: /
+  url: 'https://www.exportingisgreat.gov.uk/opportunities'
   label: Start now
   will_continue_on: on the Exporting is Great website
 ---
