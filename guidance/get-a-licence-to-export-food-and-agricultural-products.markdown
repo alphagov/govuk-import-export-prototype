@@ -227,7 +227,7 @@ If you need a CFS for food which isn’t on this list, contact the Rural Payment
 
 ###Apply
 
-Fill in the [application](Application for Certificates of Free Sale for export to non-EUcountries )(MS Word Document, 127KB).
+Fill in the [application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc)(MS Word Document, 127KB).
 
 Send it to trader@rpa.gsi.gov.uk, you’ll usually get your certificate within 5 working days.
 
