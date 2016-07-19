@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You don’t usually need to declare when you move goods within the [EU](/eu-eea) or to Switzerland, Turkey, Norway, Macedonia or Iceland.
+You don’t usually need to declare when you move goods within the [EU](http://www.gov.uk//eu-eea) or to Switzerland, Turkey, Norway, Macedonia or Iceland.
 
 You only need to make a ‘community transit declaration’ if both:
 
