@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/importing.html
 ---
 
-If you’re receiving plants, seeds and soil from the EU you won’t need an import licence unless they're ['prohibited'](#importing-prohibited-plants-and-soil-for-research).
+If you’re receiving plants, seeds and soil from the EU you won’t need an import licence unless they're [prohibited](#importing-prohibited-plants-and-soil-for-research).
 
 ##Importing plants outside the EU
 
@@ -33,6 +33,7 @@ s2. Make sure your goods have a plant health certificate (‘phytosanitary certi
 s3. Notify the government before the goods arrive.
 s4. Get the goods inspected
 s5. Send the original copy of your certificate once the goods have arrived
+
 
 ###Registering as an importer  
 
@@ -103,7 +104,7 @@ YO41 1LZ
 
 If your consignment travelled through another EU member state, the phytosanitary certificate will have been replaced with a ‘plant health movement document’. Send that instead.
 
-##Importing ‘prohibited’ plants and soil for research
+##Importing prohibited plants and soil for research
 
 If you’re importing certain plants which are banned, you can only bring them into the UK (with a license) for :
 
