@@ -38,7 +38,7 @@ Contact the NCTS helpline for details.
 $C 
 
 **NCTS helpline**    
-Email: <ncts.helpdesk@hmrc.gsi.gov.uk>    
+<ncts.helpdesk@hmrc.gsi.gov.uk>    
 Telephone: 0300 057 5988   
 Monday to Friday, 8am to 5pm     
 [Find out about call charges](/call-charges)    
