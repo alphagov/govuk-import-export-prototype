@@ -170,7 +170,7 @@ s1. Send a copy of your letter to the exporter
 s2. If they're in the EU - ask them to get your letter endorsed by their National Plant Protection Organisation (NPPO) 
 s3. Ask them to include a copy of the letter inside and outside each package
 
-###Get help
+###Get help  
 
 [Contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) for help.
 
