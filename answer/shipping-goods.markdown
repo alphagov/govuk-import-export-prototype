@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: Transporting goods overseas
+title: Transporting goods outside the UK
 permalink: /shipping-goods.html
 breadcrumbs:
  - name: Home
