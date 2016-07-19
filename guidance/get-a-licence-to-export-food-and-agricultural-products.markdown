@@ -180,7 +180,7 @@ You must check that your EHC meets the requirements of the country you’re expo
 
 Check the [list of EHCs that are available](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB).
 
-Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) to get application form and a copy of the EHC.
+Contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491835/contacts-international-trade.pdf) to get application form and a copy of the EHC.
 
 Send the form and EHC back to them once you've completed both.
 
