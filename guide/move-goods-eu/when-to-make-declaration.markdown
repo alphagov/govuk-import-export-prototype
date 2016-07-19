@@ -34,3 +34,4 @@ There are [different rules](/guide/move-goods-eu/special-territories.html) for m
 - Channel Islands and other EU special territories
 - Andorra and San Marino
 
+*[EU]:European Union
