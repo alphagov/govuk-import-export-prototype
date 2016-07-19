@@ -87,25 +87,28 @@ Within 3 days of your consignment reaching the UK, you must post the original ph
 For consignments landing at Heathrow or Gatwick send the certificate to:
 
 Animal and Plant Health Agency 
-10th Floor 
-Vista Centre 
-50 Salisbury Road 
-Hounslow 
-TW4 6JQ 
+10th Floor  
+Vista Centre  
+50 Salisbury Road   
+Hounslow   
+TW4 6JQ   
+
 
 For consignments landing anywhere else send the certificate to:
 
-Animal and Plant Health Agency 
-Room 11GA02 
-Sand Hutton 
-York 
+Animal and Plant Health Agency   
+Room 11GA02   
+Sand Hutton   
+York   
 YO41 1LZ
+
+
 
 If your consignment travelled through another EU member state, the phytosanitary certificate will have been replaced with a ‘plant health movement document’. Send that instead.
 
 ##Importing prohibited plants and soil for research
 
-If you’re importing certain plants which are banned, you can only bring them into the UK (with a license) for :
+If you’re importing certain plants which are banned, you can only bring them into the UK (with a licence) for :
 
 * scientific research or trials
 * testing new varieties of plants (varietal selection)
