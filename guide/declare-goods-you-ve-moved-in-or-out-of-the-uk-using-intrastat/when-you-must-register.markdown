@@ -12,7 +12,7 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html' 
 ---
-You must [register for Intrastat](https://www.uktradeinfo.com/ Intrastat/ElectronicSubmission/Internet/Pages/Internet.aspx) if, in the last calendar year, your business either:
+You must [register for Intrastat](https://www.uktradeinfo.com/Intrastat/ElectronicSubmission/Internet/Pages/RegisterforESubmission.aspx) if, in the last calendar year, your business either:
 
 - moved more than £250,000 worth of goods to other EU countries
 - received more than £1.5 million worth of goods from other EU countries
