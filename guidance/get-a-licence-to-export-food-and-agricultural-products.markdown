@@ -39,8 +39,7 @@ Apply by using the EU’s Trade Control and Expert System (TRACES).
 You can either:
 
 - [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of animal product you're exporting - you must tell the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official vet (OV)
-- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf)(PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) 
-
+- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf)(PDF, 657KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491835/contacts-international-trade.pdf) 
 Once you have your ITAHC, you must keep it for 3 years.
 
 ###Nominate a vet
@@ -93,7 +92,7 @@ You're considered a small producer if:
 
 You need to either:
 
-* complete the [form](https://www.gov.uk/government/publications/plant-passports-application) and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
+* complete the [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/500861/form-phar3.pdf) and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
 
 * [register for eDomero](https://signon.defra.gov.uk/Login.aspx) and do it online
 
