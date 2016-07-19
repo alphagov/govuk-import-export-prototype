@@ -274,7 +274,7 @@ You must fill in a form and send it to [your local AHPA office](https://www.gov.
 
 * there’s a different [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf) if you’re exporting goods (with a certificate) which came back to England or Wales from a non-EU country and were stored, repacked, or split up
 
-Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - you may need to fill in a [soil form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515940/form-ph13.pdf).  
+Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - you may need to fill in a [soil form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515940/form-ph13.pdf)(PDF, 240KB).  
 
 Ask if you need to wash soil from the roots of the plants you export. The USA, New Zealand and other countries require this.
 
@@ -469,7 +469,7 @@ s2. Fill in this [form](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/view
 s3. Pay a “security” deposit 
 s4. You licence will be issued on the CHIEF system within 5 days and will appear when you make your declaration(link to declaration content). You can also ask for a paper one if the countries you're trading with require this.
 
-If you want to send your application by email rather by than fax or post you need to [get approval](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html?uuid=a5765123-3a7c-450e-e981-9c5e37f84ad1).
+If you want to send your application by email rather by than fax or post you need to [get approval](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299696/TSO3_-_Email_licence_v3_May_08.doc).
 
 If you'd like to cancel or amend your application you must do this before 12 pm on the day you apply.
 
