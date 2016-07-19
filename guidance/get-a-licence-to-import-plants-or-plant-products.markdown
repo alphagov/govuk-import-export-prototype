@@ -12,9 +12,9 @@ If you’re receiving plants, seeds and soil from the EU you won’t need an imp
 
 ##Importing plants outside the EU
 
-If you’re exporting plants outside the EU, you’ll need special permission for ‘controlled’ plants, like:
+If you’re importing plants outside the EU, you’ll need special permission for ‘controlled’ plants, like:
 
-* all plants for planting
+* plants for planting
 * cut flowers
 * some seeds 
 
