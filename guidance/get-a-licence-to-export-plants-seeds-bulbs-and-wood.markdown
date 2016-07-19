@@ -111,9 +111,6 @@ If you want to create a supplier document you can follow the same process but ad
 
 If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
 
-
-
-
 ## Keeping records
 
 You must keep all plant passports that you issue for 1 year so that APHA can investigate any pest or disease outbreaks.
@@ -135,9 +132,10 @@ If you’re exporting wood  you’ll need to [register with the Forestry Commiss
 ##Exporting plants from England or Wales
 
 You’ll need a health certificate (‘phytosanitary certificate’) to export:
-*plants and plant products
-*bulbs
-*seeds for sowing
+
+* plants and plant products
+* bulbs
+* seeds for sowing
 
 ###Getting a plant health certificate in England and Wales 
 
@@ -145,21 +143,19 @@ If you’re exporting seeds for sowing an inspector will have to come to your si
 
 If you’re exporting flower bulbs or plants in a ‘dormant state’ you have to get a ‘growing season inspection’ to check for pests that don’t come up at the time of export - this might be required for other plants.
 
-
-
 If you’re already part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme) you may be able to show your results to get your certificate.
 
 ###Apply for inspection
 
 You must fill in a form and send it to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) for:
 
-*[plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
+* [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
 
-*[bulbs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515952/form-ko1.pdf) 
+* [bulbs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515952/form-ko1.pdf) 
 
-*[seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536160/form-phe90.pdf)
+* [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536160/form-phe90.pdf)
 
-*[”growing season inspections”](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf)
+* [”growing season inspections”](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf)
 
 * there’s a different [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf) if you’re exporting goods (with a certificate) which came back to England or Wales from a non-EU country and were stored, repacked, or split up
 
