@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/importing.html
 ---
 
-If you’re receiving plants, seeds and soil from the EU you won’t need an import licence unless you're exporting ['prohibited plants'](#importing-prohibited-plants-and-soil-for-research).
+If you’re receiving plants, seeds and soil from the EU you won’t need an import licence unless they're ['prohibited'](#importing-prohibited-plants-and-soil-for-research).
 
 ##Importing plants outside the EU
 
