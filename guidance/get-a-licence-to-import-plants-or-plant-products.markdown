@@ -147,7 +147,7 @@ You must give details of:
 * the layout of your facilities
 * the procedures you’ll follow during experiments
 
-[ADD MORE CONTENT FROM THIS](https://www.gov.uk/guidance/moving-prohibited-plants-plant-pests-pathogens-and-soil).
+[Work in progress, more content to check for gaps here: https://www.gov.uk/guidance/moving-prohibited-plants-plant-pests-pathogens-and-soil].
 
 
 
