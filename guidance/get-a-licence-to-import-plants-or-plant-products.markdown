@@ -22,7 +22,7 @@ If you’re unsure if your plant or seeds are controlled, [check the list](https
 
 There are different rules, if you’re travelling with them and they’re for [personal use](https://www.gov.uk/bringing-food-animals-plants-into-uk/pets-and-other-animals).
 
-If you’re importing ‘prohibited plants’ for scientific research or any other reason, you'll need a licence,
+If you’re importing ‘prohibited plants’ for scientific research or any other reason, [you'll need a licence](#importing-controlled-plants).
 
 ##Importing 'controlled' plants
 
@@ -103,35 +103,45 @@ YO41 1LZ
 
 If your consignment travelled through another EU member state, the phytosanitary certificate will have been replaced with a ‘plant health movement document’. Send that instead.
 
-Still to add:
-Wood restrictions
 ##Importing ‘prohibited’ plants and soil for research
+
 If you’re importing certain plants which are banned, you can only bring them into the UK (with a license) for :
+
 * scientific research or trials
 * testing new varieties of plants (varietal selection)
 * if AHPA have agreed to an exception (‘derogation’)
+
 [Check Annexe III](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF) to find the list of plants.
+
 If you’re importing plants which aren't on this list but that you can’t get an phytosanitary certificate for (eg plants collected from the wild), you should also get a licence.
 
 ###Prohibited soil
+
 You must have a licence to import, move, or keep soil from all countries outside Europe, apart from:
+
 * Belarus
 * Moldova
 * Russia
 * Turkey
 * Ukraine
+
 This also applies to any organic material which is capable of sustaining plant life and which contains solid organic matter, eg humus, peat other than pure and unused peat, moss and bark.
 
 You don’t need a licence for:
-*marine sediments
-*pure and unused peat
-*pure sand, clay, talc, rocks, volcanic pumice and chalk
-*water that isn’t contaminated by soil or organic matter
+
+* marine sediments
+* pure and unused peat
+* pure sand, clay, talc, rocks, volcanic pumice and chalk
+* water that isn’t contaminated by soil or organic matter
+
 You must have a licence for artificial growing product containing organic matter, (unless it’s made up entirely of unused peat).
 
 ##Apply for a licence
+
 [Register for eDomero](https://signon.defra.gov.uk/Login.aspx) and sign in to start your application.
+
 You must give details of: 
+
 * the security of your testing sites
 * how you’ll keep records of your imports
 *the layout of your facilities
