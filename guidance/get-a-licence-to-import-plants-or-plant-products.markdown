@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/importing.html
 ---
 
-If you’re receiving plants, seeds and soil from the EU, they’ll need to have a plant passport but this is the grower or exporter’s responsibility - you won’t need an import licence.
+If you’re receiving plants, seeds and soil from the EU you won’t need an import licence.
 
 ##Importing plants outside the EU
 
