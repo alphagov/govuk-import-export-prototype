@@ -12,7 +12,7 @@ If you’re receiving plants, seeds and soil from the EU you won’t need an imp
 
 ##Importing plants outside the EU
 
-If you’re importing plants outside the EU, you’ll need special permission for ‘controlled’ plants, like:
+If you’re importing plants outside the EU, you’ll need a certificate for ‘controlled’ plants, like:
 
 * plants for planting
 * cut flowers
@@ -21,6 +21,8 @@ If you’re importing plants outside the EU, you’ll need special permission fo
 If you’re unsure if your plant or seeds are controlled, [check the list](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/429934/plant-imports-categories.pdf). 
 
 There are different rules, if you’re travelling with them and they’re for [personal use](https://www.gov.uk/bringing-food-animals-plants-into-uk/pets-and-other-animals).
+
+If you’re importing ‘prohibited plants’ for scientific research or any other reason, you'll need a licence,
 
 ##Importing 'controlled' plants
 
@@ -31,8 +33,6 @@ s2. Make sure your goods have a plant health certificate (‘phytosanitary certi
 s3. Notify the government before the goods arrive.
 s4. Get the goods inspected
 s5. Send the original copy of your certificate once the goods have arrived
-
-If you’re importing ‘prohibited plants’ for scientific research or any other reason, there are different rules
 
 ###Registering as an importer
 
