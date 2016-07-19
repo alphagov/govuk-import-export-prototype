@@ -68,3 +68,6 @@ $C
 
 
 If NCTS is unavailable, you can make your declaration using [form C88](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374245/c88_1-8_.pdf) (PDF, 402KB). Use the [continuation sheet](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374246/c88_1-8_-cont.pdf) (PDF, 374KB) if you need to.
+
+*[NCTS]:New Computerised Transit System
+*[EORI]:Economic Operator Registration and Identification
