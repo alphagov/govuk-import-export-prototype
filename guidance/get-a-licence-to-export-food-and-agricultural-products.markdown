@@ -274,7 +274,7 @@ You must fill in a form and send it to [your local AHPA office](https://www.gov.
 
 * there’s a different [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf) if you’re exporting goods (with a certificate) which came back to England or Wales from a non-EU country and were stored, repacked, or split up
 
-Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - you may need to fill in a [soil form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling).  
+Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - you may need to fill in a [soil form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515940/form-ph13.pdf).  
 
 Ask if you need to wash soil from the roots of the plants you export. The USA, New Zealand and other countries require this.
 
