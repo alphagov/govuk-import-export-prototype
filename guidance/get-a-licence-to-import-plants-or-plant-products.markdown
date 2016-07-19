@@ -22,6 +22,8 @@ If you’re unsure if your plant or seeds are controlled, [check the list](https
 
 There are different rules, if you’re travelling with them and they’re for [personal use](https://www.gov.uk/bringing-food-animals-plants-into-uk/pets-and-other-animals).
 
+##Importing 'controlled' plants
+
 To import ‘controlled’ plants, you need to:
 
 s1. Register as an importer.
