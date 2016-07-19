@@ -34,11 +34,11 @@ s3. Notify the government before the goods arrive.
 s4. Get the goods inspected
 s5. Send the original copy of your certificate once the goods have arrived
 
-###Registering as an importer
+###Registering as an importer  
 
-[Register for PEACH](http://ehmipeach.defra.gov.uk/Default.aspx?Module=Register)
+[Register for PEACH](http://ehmipeach.defra.gov.uk/Default.aspx?Module=Register).
 
-###Making sure your goods have a plant health certificate
+###Make sure your goods have a plant health certificate
 
 ‘Controlled plants’ must travel with a phytosanitary certificate -this will be issued by the local plant authority in the country you’re importing from.
 
@@ -61,12 +61,13 @@ Use PEACH to notify customs at least:
 
 You also need to attach:
 
-* proof of the goods travelling, eg a bill of lading, cargo movement request or delivery company invoice.
+* proof that the goods moved, eg a bill of lading, cargo movement request or delivery company invoice.
 
 * This [spreadsheet](https://www.gov.uk/government/publications/importing-plant-material-record-of-details) with details of your plants
 
 ###Getting your goods inspected
-Your good will be inspected when they enter the UK through these [‘points of entry’](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479079/plant-imports-points-of-entry.pdf).
+
+Your good must be inspected when they enter the UK. They can only be inspected at these [‘points of entry’](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479079/plant-imports-points-of-entry.pdf).
 
 You can also arrange to have your goods inspected at alternative locations if you’re putting your goods into an external storage facility or using a simplified customs process[link to getting your goods through customs faster].
 
