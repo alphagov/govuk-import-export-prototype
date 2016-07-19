@@ -12,7 +12,7 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-You must make a declaration to export goods outside the [EU](www.gov.uk/eu-eea). 
+You must make a declaration to export goods outside the [EU](http://www.gov.uk/eu-eea). 
 
 You can either:
 
