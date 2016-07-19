@@ -147,6 +147,16 @@ You must give details of:
 * the layout of your facilities
 * the procedures you’ll follow during experiments
 
+##Fees
+
+Licences for plants cost £793.03. 
+
+This fee covers a licence for 5 types of material - you must pay a further £31.20 for each extra type of material.
+
+Licences for prohibited soil or other organic material cost £572.02.
+
+APHA will send you an invoice after you apply for a licence using the eDomero system.
+
 ###What to do with you licence
 
 When you receive your licence it will have a 'letter of authority' attached to it, you must keep this.
@@ -156,6 +166,9 @@ You must also
 s1. Send a copy of your letter to the exporter
 s2. If they're in the EU - ask them to get your letter endorsed by their National Plant Protection Organisation (NPPO) 
 s3. Ask them to include a copy of the letter inside and outside each package
+
+
+
 
 
 
