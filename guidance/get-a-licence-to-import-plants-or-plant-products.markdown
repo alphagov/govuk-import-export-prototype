@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/importing.html
 ---
 
-If you’re receiving plants, seeds and soil from the EU you won’t need an import licence.
+If you’re receiving plants, seeds and soil from the EU you won’t need an import licence unless you're exporting ['prohibited plants'](#importing-prohibited-plants-and-soil-for-research).
 
 ##Importing plants outside the EU
 
@@ -22,7 +22,7 @@ If you’re unsure if your plant or seeds are controlled, [check the list](https
 
 There are different rules, if you’re travelling with them and they’re for [personal use](https://www.gov.uk/bringing-food-animals-plants-into-uk/pets-and-other-animals).
 
-If you’re importing ‘prohibited plants’ for scientific research or any other reason, [you'll need a licence](#importing-controlled-plants).
+If you’re importing ‘prohibited plants’ for scientific research or any other reason, [you'll need a licence](#importing-prohibited-plants-and-soil-for-research).
 
 ##Importing 'controlled' plants
 
@@ -147,7 +147,16 @@ You must give details of:
 * the layout of your facilities
 * the procedures you’ll follow during experiments
 
-[Work in progress, more content to check for gaps here: https://www.gov.uk/guidance/moving-prohibited-plants-plant-pests-pathogens-and-soil].
+###What to do with you licence
+
+When you receive your licence it will have a 'letter of authority' attached to it, you must keep this.
+
+You must also
+
+s1. Send a copy of your letter to the exporter
+s2. If they're in the EU - ask them to get your letter endorsed by their National Plant Protection Organisation (NPPO) 
+s3. Ask them to include a copy of the letter inside and outside each package
+
 
 
 
