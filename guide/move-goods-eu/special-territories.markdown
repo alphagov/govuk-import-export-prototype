@@ -48,3 +48,6 @@ Textphone: 0300 200 3719
 Monday to Friday, 8am to 6pm  
 
 $C
+
+*[EU]: European Union
+*[HMRC]: HM Revenue and Customs
