@@ -144,8 +144,8 @@ You must give details of:
 
 * the security of your testing sites
 * how you’ll keep records of your imports
-*the layout of your facilities
-*the procedures you’ll follow during experiments
+* the layout of your facilities
+* the procedures you’ll follow during experiments
 
 
 
