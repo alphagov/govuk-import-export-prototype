@@ -13,8 +13,10 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-s1. Check if you need a [licence to export your goods](/guide/starting-to-export/export-licences.html) outside the EU and how long it will take to get one. If you don't get a licence when you need one, you could be fined and your goods  will be seized by customs.
+s1. Check if you need a [licence to export your goods](/guide/starting-to-export/export-licences.html) outside the EU and how long it will take to get one. 
 s2. Make an [export declaration](/guide/declare-exporting-goods-from-eu/overview.html) to export goods to a country outside the EU. 
+
+^If you don't get a licence when you need one, you could be fined and your goods  will be seized by customs.
 
 Use the [Trade Tariff](/start/trade-tariff.html) to check what commodity code you need on your export declaration.
 
