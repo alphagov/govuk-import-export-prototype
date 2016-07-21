@@ -256,8 +256,8 @@ Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exportin
 
 
 **Drug Licensing and Compliance Unit**  
-<DLCUCommsOfficer@homeoffice.gsi.gov.uk>
+<DLCUCommsOfficer@homeoffice.gsi.gov.uk>  
 Telephone: 020 7035 6330  
-[Find out about call charges](/call-charges)
+[Find out about call charges](/call-charges)  
 
-Email DCLU to complain or make a suggestion: DLCU_Complaints_Section@homeoffice.gsi.gov.uk 
+To complain or make a suggestion, email <DLCU_Complaints_Section@homeoffice.gsi.gov.uk>.
