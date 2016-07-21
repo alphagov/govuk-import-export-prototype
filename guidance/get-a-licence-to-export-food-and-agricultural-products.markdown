@@ -8,7 +8,52 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You’ll need certificates and licenses when you’re exporting food or anything that will be eaten by humans.
+You might need certificates and licenses when you’re exporting food or anything that will be eaten by humans.
+
+If you're exporting processed food you might need a Certificate of Free Sale. 
+
+If you're exporting raw animal products or plants products (including rice, cereal, grain and sugar) you will have to follow other rules to check your product is safe.
+
+##Get a Certificate of Free Sale for food
+
+If you’re exporting food outside the EU, you may need a Certificate of Free Sale. Check with the importing country’s authority or embassy.
+
+They may be required for the following products:
+
+* manufactured foods
+* soft drinks
+* health food supplements
+* food additives
+* tea, coffee, cocoa
+* herbs and spices
+* alcoholic drinks
+* milk and dairy
+* sugar and sugar products
+* malt and flour
+
+If you need a CFS for food which isn’t on this list, contact the Rural Payments Agency (RPA).
+
+###Apply
+
+Fill in the [application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc)(MS Word Document, 127KB).
+
+Send it to trader@rpa.gsi.gov.uk, you’ll usually get your certificate within 5 working days.
+
+It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
+
+###If you need help
+
+Contact the RPA.
+
+$C 
+
+**Rural Payments Agency**         
+Telephone: 03000 200 301  
+Monday to Friday: 8.30am to 5pm  
+[Find out about call charges](/call-charges)      
+
+$C
+
 
 ## Animal products within the EU 
 
@@ -205,46 +250,6 @@ Sometimes there won’t be an available EHC for your consignment and destination
 Talk to your importer to find out about import conditions in the country you want to export to.
 
 Send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) for them to consider negotiating a new EHC.
-
-##Get a Certificate of Free Sale for food
-
-If you’re exporting outside the EU, you may need a Certificate of Free Sale. Check with the importing country’s authority or embassy.
-
-They may be required for the following products:
-
-* manufactured foods
-* soft drinks
-* health food supplements
-* food additives
-* tea, coffee, cocoa
-* herbs and spices
-* alcoholic drinks
-* milk and dairy
-* sugar and sugar products
-* malt and flour
-
-If you need a CFS for food which isn’t on this list, contact the Rural Payments Agency (RPA).
-
-###Apply
-
-Fill in the [application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc)(MS Word Document, 127KB).
-
-Send it to trader@rpa.gsi.gov.uk, you’ll usually get your certificate within 5 working days.
-
-It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
-
-###If you need help
-
-Contact the RPA.
-
-$C 
-
-**Rural Payments Agency**         
-Telephone: 03000 200 301  
-Monday to Friday: 8.30am to 5pm  
-[Find out about call charges](/call-charges)      
-
-$C
 
 ##Exporting plants from England or Wales
 
