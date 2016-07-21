@@ -33,7 +33,7 @@ If you’re moving goods which will be 'grown on', you’ll need a passport for 
 
 You need a supplier document if you’re moving the seeds, roots or any other plant ‘propagation material’ from ornamental plants.
 
-There are different rules if you're exporting soil or prohibited plants.
+There are different rules if you're [moving soil or prohibited plants](#exporting-prohibited-plants-and-soil).
 
 ###When you don't need a supplier document
 
