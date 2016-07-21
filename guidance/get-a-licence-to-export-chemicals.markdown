@@ -159,7 +159,7 @@ You don’t need a licence or follow special rules to:
 - move category 3 chemicals within the EU
 - export of category 3 chemicals outside the EU in [small quantities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb), unless you're exporting to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb)
 
-##Tasks you need to complete if you need a licence
+###Tasks you need to complete if you need a licence
 
 You need to complete these tasks.
 
