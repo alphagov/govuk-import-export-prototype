@@ -33,6 +33,8 @@ If you’re moving goods which will be 'grown on', you’ll need a passport for 
 
 You need a supplier document if you’re moving the seeds, roots or any other plant ‘propagation material’ from ornamental plants.
 
+There are different rules if you're exporting soil or prohibited plants.
+
 ###When you don't need a supplier document
 
 You don't need a make supplier documents if:
@@ -211,6 +213,68 @@ EH12 9FJ
 Contact the importing country’s National Plant Protection Organisation to [check their plant health regulation](https://www.ippc.int/en/countries/all/list-countries/).
 
 If you’re exporting wood as packaging for your goods, [there are different rules](link to guide of packaging regulations].
+
+##Exporting prohibited plants and soil
+
+[Check Annexe III](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF) to find the list of plants which are banned by the EU. 
+
+There will be extra rules to export these inside the EU and there might be rules to export them outside the EU (if the importing country has some).
+
+###Prohibited soil
+
+This also applies if you're exporting soil (or any material containing organic stuff which you can grow plants in) from any countries outside Europe or from:
+
+* Belarus
+* Moldova
+* Russia
+* Turkey
+* Ukraine
+
+These extra rules doesn't apply to:
+
+* marine sediments
+* pure and unused peat
+* pure sand, clay, talc, rocks, volcanic pumice and chalk
+* water that isn’t contaminated by soil or organic matter
+
+###Moving prohibited plants and soil inside the EU
+
+If you’re moving prohibited plants or soil you can only send them to someone who has a licence to receive them.
+
+They will have a 'letter of authority' with their licence.
+
+You must
+
+* ask them to send you a copy of this letter 
+* send it to AHPA to be endorsed
+* attach the letter inside and outside all the packages once it's been endorsed
+
+If the recipient tells you that you don’t need a letter of authority, ask them to show you official confirmation of this from their National Plant Protection Organisation (NPPO) - you shouldn’t send your material until you’ve got this confirmation.
+
+[Question for SME: Does the inspection only happen for the person who gets a licence (the importer)?]
+
+###Exporting prohibited plants or soil outside the EU
+
+Contact AHPA to find out what the rules are in the importing country.
+
+###Packaging your prohibited plants or soil
+
+You must make sure any prohibited material you’re moving under a licence is stored in 3 layers of packaging.
+
+At least 1 of the layers must be escape and shatter-proof.
+
+###Get help  
+
+[Contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) for help.
+
+
+
+
+
+
+
+
+
 
 
 
