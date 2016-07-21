@@ -170,7 +170,8 @@ s1. Send a copy of your letter to the exporter
 s2. If they're in the EU - ask them to get your letter endorsed by their National Plant Protection Organisation (NPPO) 
 s3. Ask them to include a copy of the letter inside and outside each package
 
-###Once the consignment arrives   
+###Once the consignment arrives    
+
 
 The goods must go directly to the 'quanrantine containment facility' detailed on your licence.
 
