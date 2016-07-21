@@ -255,7 +255,7 @@ If the recipient tells you that you don’t need a letter of authority, ask them
 
 ###Exporting prohibited plants or soil outside the EU
 
-Contact AHPA to find out what the rules are in the importing country.
+[Contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out what the rules are in the importing country.
 
 ###Packaging your prohibited plants or soil
 
