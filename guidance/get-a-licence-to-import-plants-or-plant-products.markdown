@@ -176,7 +176,7 @@ The goods must go directly to the 'quanrantine containment facility' detailed on
 
 You must contact AHPA to inspect your goods once they arrive and keep them in quarantine until you do.
 
-The first inspection will be covered in the cost of your licence and the inspector will tell you how often you need to be inspected (most licenses will be reinspection every 2 or 3 years. 
+The first inspection will be covered in the cost of your licence and the inspector will tell you how often you need to be inspected (most licenses will require reinspection every 2 or 3 years). 
 
 If you fail the inspection, you will have to pay £42.75 an hour for another inspection.
 
