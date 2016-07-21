@@ -25,7 +25,7 @@ You may also need a licence, including if you trade within the EU, for exports o
 - [barbiturates](/guidance/get-a-licence-to-export-drugs-and-medicines.html#export-barbiturates) that can be used in lethal injections
 
 $CTA
-
+ 
 Also check the import rules of the country that you’re exporting the chemicals to, which may be less or more strict than in the UK. You can [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
