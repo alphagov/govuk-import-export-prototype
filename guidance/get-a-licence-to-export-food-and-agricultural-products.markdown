@@ -10,7 +10,7 @@ topic:
 
 You might need certificates and licenses when you’re exporting food or anything that will be eaten by humans.
 
-If you're exporting processed food you might need a Certificate of Free Sale. 
+If you're exporting processed food outside the EU you might need a Certificate of Free Sale, you won't need a licence inside the EU.
 
 If you're exporting raw animal products or plants products (including rice, cereal, grain and sugar) you will have to follow other rules to check your product is safe.
 
