@@ -45,7 +45,7 @@ If your chemical is classed as Annex 1, note:
 - which ‘parts’ of Annex 1 the chemical is in - there are more restrictions on chemicals in parts 2 and 3
 - the CAS number
 
-You'll need to include this information when you apply for a RIN. You do this by making an online notification.
+You'll need this information when you apply for a RIN. You do this by making an online notification.
 
 $CTA
 
@@ -64,8 +64,8 @@ Chemicals in parts 2 and 3 of Annex 1 may take longer or be refused because they
 You first need an online account. Email the Health and Safety Executive (HSE), including specific information.
 
 
-**Health and Safety Executive**
-<UKDNA@hse.gov.uk>
+**Health and Safety Executive**  
+<UKDNA@hse.gov.uk>  
 
 
 Using the subject line ‘Edexim account request’, tell HSE:
@@ -106,7 +106,7 @@ You need a RIN number if you export a product that both:
 
 This includes products like cars, batteries or telephones.
 
-You don’t need to follow the other rules for chemicals (eg for labelling).
+You don’t need to follow the [other rules for chemical substances and mixtures](/guidance/get-a-licence-to-export-chemicals.html).
 
 Contact HSE if you need help.
 
