@@ -218,7 +218,7 @@ If you’re exporting wood as packaging for your goods, [there are different rul
 
 [Check Annexe III](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF) to find the list of plants which are banned by the EU. 
 
-There will be extra rules to export these inside the EU and there might be rules to export them outside the EU (if the importing country has some).
+There will be extra rules to move these inside the EU and there might be rules to export them outside the EU (if the importing country has some).
 
 ###Prohibited soil
 
