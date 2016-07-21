@@ -71,7 +71,7 @@ You first need an online account. Email the Health and Safety Executive (HSE), i
 Using the subject line ‘Edexim account request’, tell HSE:
 
 - the chemical you want to export and its CAS number
-- your company details - its name, address, website and [Companies House number](https://beta.companieshouse.gov.uk/), if it’s a limited company
+- your company details - name, address, website and [Companies House number](https://beta.companieshouse.gov.uk/), if it’s a limited company
 - your preferred username - up to 16 characters (use letters, numbers and underscore only)
 
 Once you’re registered, you can make your online notification. 
@@ -166,7 +166,7 @@ You need to complete these tasks.
 s1. Get named applicants an [enhanced DBS check](#dbs).
 s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration). You also need to apply a licence for category 1 chemicals.
 s3. Get a [declaration from the end-user](#end-user). This isn’t required for category 2B chemicals.
-s4. [Apply for an export licence](#apply-export-licence), if you’re exporting outside the EU. For category 2 or 3 chemicals, you only need a licence to export to certain countries.
+s4. [Apply for an export licence](#apply-export-licence), if you’re exporting outside the EU. 
 s5. [Fill in an annual return](#annual-returns-precursors) by 31 January.
 
 If you export category 3 chemicals in [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb)  outside the EU to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb), you only need an export licence. Don’t complete the other steps.
@@ -186,9 +186,9 @@ Monday to Friday, 9am to 5:30pm
 ###Register with the Controlled Drugs Licensing System
 {:#domestic-licence-registration}
 
-[Register with the Controlled Drugs Licensing System.](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
+For all precursor chemicals, you must [register with the Controlled Drugs Licensing System.](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
 
-For category 1 chemicals, you can then [log in to your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a precursor chemicals licence.
+For category 1 chemicals only, you can then [log in to your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a precursor chemicals licence.
 
 You should get a decision about the licence within 16 weeks. If you’re applying for the first time, your premises will be visited as part of your application.
 
