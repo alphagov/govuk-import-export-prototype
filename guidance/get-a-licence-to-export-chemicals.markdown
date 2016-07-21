@@ -17,7 +17,7 @@ To export chemicals outside the EU, you must:
 - not export them within 6 months of their expiry date
 - for restricted chemicals, [apply for a reference identification number](#restricted-chemicals) (RIN) 
 
-You may also need a licence, including if you trade within the EU, if you export:
+You may also need a licence, including if you trade within the EU, for exports of:
 
 - chemicals with [military or potential military uses](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
 - [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or chemicals that can be used to make them (‘[precursors](#precursor-chemicals)’)
