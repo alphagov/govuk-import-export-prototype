@@ -170,6 +170,15 @@ s1. Send a copy of your letter to the exporter
 s2. If they're in the EU - ask them to get your letter endorsed by their National Plant Protection Organisation (NPPO) 
 s3. Ask them to include a copy of the letter inside and outside each package
 
+##Once the consignment arrives
+
+The goods must go directly to the 'quanrantine containment facility' detailed on your licence.
+
+You must contact AHPA to inspect your goods once they arrive and keep them in quarantine until you do.
+
+The first inspection will be covered in the cost of your licence and the inspector will tell you how often you need to be inspected (most licenses will be reinspection every 2 or 3 years. 
+
+If you fail the inspection, you will have to pay £42.75 an hour for another inspection.
 
 ###Get help  
 
