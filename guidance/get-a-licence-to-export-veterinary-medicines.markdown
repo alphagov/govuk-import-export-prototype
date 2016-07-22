@@ -69,7 +69,7 @@ You can ask for this information to be included for Defra-1, 2, or 4 certificate
 
 ##Apply for a certificate
 
-For for Defra-SFA, you have to [apply by email](#apply-email).
+For Defra-SFA, you have to [apply by email](#apply-email).
 
 For all other certificates, register to apply online by emailing <exportcert@vmd.defra.gsi.gov.uk>. You can then [sign in to apply for a certificate](https://www.vmd.defra.gov.uk/EC/Login.aspx). 
 
@@ -77,7 +77,7 @@ You should get your certificate within 10 days.
 
 The fee is £30 (plus £15 for each certified copy, if you need these). You’ll get an invoice after you’ve applied.
 
-When applying, you can ask for the following to be attached to your export documentation:
+The importing country may need more information about your export. When applying for your certificate, you can ask for the following to be attached to your export documentation:
 
 - manufacturing authorisation
 - a summary of product characteristics (SPC) or product literature (or both)
