@@ -8,42 +8,39 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You might need certificates and licenses when you’re exporting food or anything that will be eaten by humans.
+You may need a licence or follow special rules to export:
 
-If you're exporting processed food outside the EU you might need a Certificate of Free Sale, you won't need a licence inside the EU.
+- processed foods
+- unprocessed animal products, eg meat, fish, dairy, honey, gelatine
+- vegetables, fruit and other plants used as food
+- grain (outside the EU only)
+- sugar, cereals and rice (outside the EU only)
 
-If you're exporting raw animal products or plants products (including rice, cereal, grain and sugar) you will have to follow other rules.
+$CTA
 
-##Get a Certificate of Free Sale for food
+Also check the import rules of the country that you’re exporting to, which may be less or more strict than in the UK. You can [get help with overseas customs rules].
 
-If you’re exporting food outside the EU, you may need a Certificate of Free Sale. Check with the importing country’s authority or embassy.
+$CTA
 
-They may be required for the following products:
 
-* manufactured foods
-* soft drinks
-* health food supplements
-* food additives
-* tea, coffee, cocoa
-* herbs and spices
-* alcoholic drinks
-* milk and dairy
-* sugar and sugar products
-* malt and flour
 
-If you need a CFS for food which isn’t on this list, contact the Rural Payments Agency (RPA).
+##Processed foods
 
-###Apply
+Within the EU, you don't need a licence or follow special rules to move processed foods.
+
+Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'.
+
+###Apply for a certificate of free sale
 
 Fill in the [application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc)(MS Word Document, 127KB).
 
-Send it to trader@rpa.gsi.gov.uk, you’ll usually get your certificate within 5 working days.
+Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
 
 ###If you need help
 
-Contact the RPA.
+Contact the Rural Payments Agency (RPA).
 
 $C 
 
@@ -54,280 +51,144 @@ Monday to Friday: 8.30am to 5pm
 
 $C
 
+##Unprocessed animal products
 
-## Animal products within the EU 
+You need a certificate to export unprocessed animal products. This includes meat, fish, dairy, honey, gelatine, lard, blood or any other products that will be used as food.
 
-You need an Intra Trade Animal Health Certificate (ITAHC) to move animal products that are used as food within the EU. This includes:
+What you need to do depends on if you’re exporting [within the EU] or [outside the EU].
 
-* fresh and game meat
-* fish and seafood
-* eggs
-* honey and royal jelly
-* snails
-* frogs' legs
-* blood and blood products
-* bone
-* animal casing
-* lard and rendered fat
-* gelatine
+$CTA
 
-You need one for each product type.
+There are different rules for animal products that will be used as [food for animals].
+
+$CTA
+
+###Within the EU
+
+You need to apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal product that you’re moving within the EU.
 
 [Question for SME: how much does it cost to get a certificate?]
 
 [Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
 
-###Applying for an ITAHC
+s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
+s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
+s3. Sign in to TRACES and fill in the details of animal product you're exporting.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) - tell them that the ITAHC has been created and give them details of your official veterinarian.
 
-Apply by using the EU’s Trade Control and Expert System (TRACES). 
-
-You can either:
-
-- [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of animal product you're exporting - you must tell the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official vet (OV)
-- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf)(PDF, 657KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491835/contacts-international-trade.pdf) 
-Once you have your ITAHC, you must keep it for 3 years.
-
-###Nominate a vet
-
-You must nominate an official veterinarian (OV) to inspect your goods when you apply. You can either:
-
-- ask your local veterinary practice if there’s an OV working there
-- email <ovteam@alpha.gsi.gov.uk> or phone or write to the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester))
+Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf)(PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Your ITAHC will be valid for 10 days after the inspection.
 
 [Question for SME: Does the exporter need to do anything else once the vet has signed it?]
 
-###If there isn’t an ITAHC for your type of animal product
+If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-[Contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply.
+###Outside the EU
 
-##Plant products within the EU
+You need to apply for an Export Health Certificate (EHC) to export unprocessed animal products outside the EU.
 
-You won't need a certificate to move plants which will be used as food in most cases.
+s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
+s2. Check the [list of EHCs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB). Note the EHC number of what you’re exporting.
+s3. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) to get the application form and a copy of the EHC. Tell them the EHC number you require and the details of your official veterinarian.
+s4. Fill in the form and the EHC and return them. The address is on the form. 
+s5. Your official veterinarian will be asked to check if your products meet the requirements of the country you’re sending them to.
+s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). Check your EHC’s guidance notes to find out.
 
-Certain species will require a plant passport or a supplier document within the UK or the EU.
+When you get your completed EHC, you must keep it for at least 2 years.
 
-###When you need a plant passport or document
+##Vegetables, fruit and other plants used as food
 
-Check if your plants need a passport for:
+What you need to do depends on if you’re exporting [within the EU] or [outside the EU].
 
-* all mouvements [in the EU including the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446525/plant-passports-plant-products.pdf)(PDF, 212KB) or [to Switzerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447496/plant-passports-switzerland-1.pdf)(PDF, 108KB)
+###Within the EU
 
-* protected zones [in the EU including the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf)(PDF, 252KB) or [within Switzerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf)(PDF, 201KB)
+You don't need to follow special rules to move most plants that will be used as food unless you either need:
 
-You also need to check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
+- a plant passport
+- a supplier document
+
+###Plant passports
+Some plants need a plant passport - for example apples, citrus fruits, hops and beets. Check if the [plants] (PDF, 212KB) and [regions] (PDF, 108KB) where you need one.
 
 Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
 
-###When you don't need a supplier document
+If you’re exporting to Switzerland, there are different [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447496/plant-passports-switzerland-1.pdf) (PDF, 108KB) and [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf) (PDF, 201KB) that need a 
+passport.
 
-You don't need a make supplier documents if:
+###Supplier documents
+
+Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
+
+You don't need a make supplier documents if [both or either?]:
 
 * your goods are for retail sale
 * you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
 
-You're considered a small producer if:
+If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
-* you don't trade in plants that are covered by the plant passport scheme
-* you have less than 1,000 metres squared of plants overall and less than 100 metres squared is under protection
-* the charge for 2 inspections would be more than 10% of your turnover
+###Apply for a plant passport or supplier document
 
-##Get permission to make passports or supplier documents
+Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) if you need a plant passport or supplier document. They can also tell you what to do if you want to produce your own.
 
-You need to either:
+[Question for SME: how much does a passport / document cost? How long are they valid for? What does the user do with them when they have them?
 
-* complete the [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/500861/form-phar3.pdf) and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
+###Outside the EU
 
-* [register for eDomero](https://signon.defra.gov.uk/Login.aspx) and do it online
+Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export:
 
-They’ll inspect your plants and you’ll get a unique registration number if you pass.
- 
-Your permission will last a year but you may need more inspections if your site has a higher risk of diseases.
+* fruit
+* vegetables, including potatoes and seed potatoes
+* other plants to be used as food [like what?]
 
-^You only need to apply to make supplier documents separately if you're not already authorised to issue plant passports.
+Check with the country that you’re exporting to.
 
-### Inspection fees
-
-You’ll have to pay £46.10 for every 15 mins that an inspection takes, including the time it takes inspectors to travel to your site.
-
-The minimum fee for any inspection is £92.19. 
-
-You have to pay these fees again if you renew your application the next year.
-
-You won’t have to pay if APHA only authorises you to make supplier documents.
-
-###Creating a standard passport 
-
-You can make this in different formats.
-
-If you use a label or sticker you have to make one for each plant of the same kind, grown by the same producer and going to the same place. 
-
-You can also create a single delivery note for the whole consignment (including plants which don’t need a passport).
-
-In all cases label them ‘EU Plant Passport’ and include:
-
-* ”‘UK” and “EW” (this is the code for APHA)
-*  your unique APHA registration number and an individual serial, week, batch or invoice number
-*  the botanical name of the plant or plants 
-*  the quantity
-*  the letters ‘ZP’ and a protected zone code when you’re moving plants in these places
-*  the country of origin of the consignment, if it’s originally come from a non-EU country
-
-###Making a plant passport for fruit
-
-It must include all standard passport details and you must confirm that the fruit either:
-
-* is free of pests and diseases
-* has a [Plant Health Propagation Scheme (PHPS)](https://www.gov.uk/plant-health-propagation-scheme) grade - state the grade on the passport
-
-### Replacement plant passports
-
-You need replacement passport if you split a consignment of plants which already have a passport, it must include all standard passport details and:
-
-* the letters 'RP' - for replacement passport
-* the registration number of the original supplier
-
-[Question for SME: Do we need to add that the original supplier might be them?]
-
-If you don't want to share supplier details you can put your own code on the passport and record the supplier number in case AHPA ask.
-
-###Creating a supplier document
-
-If you want to create a supplier document you can follow the same process but add:
-
-* “EU Quality”
-* the date you make it 
-* your company name
-* the common name for vegetables
-
-If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
-
-## Keeping records
-
-You must keep all plant passports that you issue for 1 year so that APHA can investigate any pest or disease outbreaks.
-
-You don’t have to keep supplier documents, unless part of them forms the plant passport.
-
-## Paying APHA to issue plant passports
-
-You can also [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) and pay them to issue plant passports for you.
-
-##Outside the EU
-
-###Health Certificates
-
-You need an Export Health Certificate (EHC) to export animal products which are eaten by humans outside of the EU. 
-
-You must check that your EHC meets the requirements of the country you’re exporting to and if there are any other rules.
-
-###Apply for an EHC
-
-Check the [list of EHCs that are available](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB).
-
-Contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491835/contacts-international-trade.pdf) to get application form and a copy of the EHC.
-
-Send the form and EHC back to them once you've completed both.
-
-You must keep this document for at least 2 years.
-
-###Nominate a vet
-
-You must nominate an official veterinarian (OV) when you apply to get an EHC.
-
-Your OV can carry out any examination, inspection, testing, sampling or treatment to check if a consignment meets the requirements of the destination country.
-
-###Get your EHC signed
-
-Check the ‘Notes For Guidance’ that come with your EHC to find out if you need to get it signed by a local authority inspector or OV.
-
-Contact [your local authority] to get your EHC signed by an inspector.
-
-###Create a new EHC
-
-Sometimes there won’t be an available EHC for your consignment and destination (eg because of a trade ban or lack of demand).
-
-Talk to your importer to find out about import conditions in the country you want to export to.
-
-Send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) for them to consider negotiating a new EHC.
-
-##Exporting plants from England or Wales
-
-Most countries will require you to have a health certificate (‘phytosanitary certificate’) to export plants that will be used as food like:
-
-* fruit and vegetables
-* potatoes (including seed potatoes)
-* grain - there are different rules for this
-
-Check if you need one in the country you're exporting your goods to.
+There are different rules for [grain]. You apply a different way for all plants in [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
 
 ###Getting a plant health certificate in England and Wales (except grain)
 
-In most cases you can send your food to the APHA lab for inspection, it’ll be tested and you’ll receive your certificate in 7 days if you pass.
+Unless you're part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme), you must apply for your plants to be tested before you get a plant health certificate.
 
-If you’re already part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme) you may be able to show your results to get your certificate.
-
-[Question for SME: Do you growing season inspections also apply to food?]
-
-###Apply for inspection
-
-You must fill in a form and send it to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate), for:
+Apply by filling in the appropriate form for:
 
 * [plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
-
 * [potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)      
+* plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf)
 
-* there’s a different [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf) if you’re exporting goods (with a certificate) which came back to England or Wales from a non-EU country and were stored, repacked, or split up
+Return the completed form to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
 
-Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - you may need to fill in a [soil form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515940/form-ph13.pdf)(PDF, 240KB).  
+Your plants will be tested and you’ll receive your certificate in 7 days if you pass. It usually costs £13.87 to get a plant health certificate and £36.35 for a lab inspection.
 
-Ask if you need to wash soil from the roots of the plants you export. The USA, New Zealand and other countries require this.
+You can contact APHA to check whether:
 
+- you need a soil inspection for the plants you're exporting - use the [soil inspection form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) if you do
+- you'll need to wash soil from the roots of the plants you export - the USA, New Zealand and other countries require this
+
+[Question for SME: Do you growing season inspections also apply to food?]
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
-[Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
-###Fees  
-
-It costs £13.87 to get a plant health certificate and £36.35 for a lab examination.
-
-If an inspector needs to come to your site to test soil it costs £49.68 for every 15 minutes and a minimum of £99.36.
-
-There might be additional charges if your goods need more tests to comply with importing country’s health rules.
+If your soil needs to be tested, it costs £49.68 for every 15 minutes and a minimum of £99.36.
 
 [Question for SME: Does the inspection fee include a certificate or do you need pay a certificate fee on top of that?]
 
-###Reduced fees
+###Reduced fees for small businesses
 
-You may be entitled to a 50% discount for the first £500 of APHA services in a financial year if you’re both:
+You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515921/form-phe3.pdf) for the first £500 of APHA services in a financial year if both the following apply:
 
-* not registered for VAT 
-* your certified exports were worth less £5000 in the last financial year
+* you're not registered for VAT 
+* your certified exports were worth less £5,000 in the last financial year
 
-Fill in this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515921/form-phe3.pdf) to apply.
-
-You must tell AHPA when you are no longer eligible for this concession
+You must tell AHPA if you're no longer eligible.
 
 ##Exporting grain from England and Wales
 
-Before you export, check if:
+Check the table of countries for whether you need a [plant health certificate].
 
-* you need a plant health certificate to export grain - [contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) if you’re exporting to a country which is not on this list
+It also shows if you need:
+- to send a sample for testing when you apply for your certificate
+- an import permit - get this from the country you're exporting to
 
-* you’re exporting to countries that require you for a sample test - this means that you need to send a 1kg sample to an official laboratory before your grain leaves the UK 
- 
-* the country you’re exporting to asks for an import permit - you’ll need to contact them to get this and keep a copy
-
-Sometimes you’ll also need a declaration to add to your plant certificate to prove you’ve tested for certain pests. This is required in:
-
-* Hungary for acarus siro L  
-* Vietnam for tilletia indica (karnal bunt) only  
-* Kyrgyzstan for tilletia indica and Trogoderma granarium
-
-[Question for SME: How do users do this? It’s not on the form]
-
-All grain will need to be tested by a trade inspector 
-
-[Question for SME: Is this list up to date?]
+[Question for SME: Is the list up to date?]
 
 ###Europe
 
@@ -415,24 +276,28 @@ All grain will need to be tested by a trade inspector
 |-----------|---------------------------|--------------------|                                  
 | Australia | yes | send a sample and request an admixture test from AHPA |
 
-###Applying for a plant health certificate
+###Apply for a plant health certificate
 
-s1. If you don’t need to send a sample fill in all 3 sections of this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB) or if you do, complete complete sections I and 2 to send with your 1kg sample. 
-s2. If you’re sending goods to Algeria, Serbia, Bosnia, Montenegro, China or Vietnam prepare a second 1 kg sample for the official lab in a paper bag sealed inside a plastic bag.
-s3. Send your form 5 days before you want to export, if you’re unable to, please [contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
-s4. Contact the port you’re exporting from to ask a trade inspector to inspect your grain (they must have a special AHPA qualification to check it).  
+s1. If you need one, apply for an import permit from the country you're exporting to.
+s2. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB). Only fill in sections 1 and 2 if you need to send a sample. 
+s3. Return the form to [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) 5 days before you want to export. 
+s4. When returning your application form, include a 1kg sample if required. For Algeria, Serbia, Bosnia, Montenegro, China or Vietnam, send a second 1 kg sample in a paper bag sealed inside a plastic bag.
+s5. Contact the port you’re exporting from to ask a trade inspector to inspect your grain.
+s6. When you've passed your inspection, fill in another copy of the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)
 
-[Do users need to know about the country specific tests for Cuba and Vietnam or will the inspectors know what to test for according to the destination country?]
 
-###If you pass the inspection
+[Question for SME: Do users need to know about the country specific tests for Cuba and Vietnam or will the inspectors know what to test for according to the destination country?]
 
-You must fill in a another copy of this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)
+If you fail the inspection, you’ll need to have your grain treated by a professional company. This usually takes 10 to 20 days, but you may be able to get your grain treated in transit.
 
-###If you fail the inspection
+Sometimes you’ll also need a declaration to add to your plant certificate to prove you’ve tested for certain pests. This is required in:
 
-You’ll need to have your grain treated by a professional company.
+* Hungary for acarus siro L  
+* Vietnam for tilletia indica (karnal bunt) only  
+* Kyrgyzstan for tilletia indica and Trogoderma granarium
 
-It will usually take from 10 to 20 days for your grain to be ready for export but you may be able to get your grain treated in transit.
+[Question for SME: Do APHA provide these automatically? It’s not on the form]
+
 
 ###Fees
 
@@ -440,28 +305,11 @@ You must pay:
 
 * £59.53 to get phytosanitary certificates
 * £59.53 for a trade inspector to inspect your grain
-* £59.53 to APHA, if the country you’re exporting to demands that you send samples to test for specific pests
+* £59.53 to APHA, if you need to send a sample
 
-Small importers will be eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
+Small exporters are eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
 
-##Exporting plants or grain from Scotland or Northern Ireland
-
-Contact Science and Advice for Scottish Agriculture (SASA) if you’re exporting from Scotland:
-
-$C
-** Horticulture & Marketing Unit **      
-<hort.marketing@scotland.gsi.gov.uk>    
-Telephone: 0131 244 8935  
-$C
-
-
-A20 Roddinglaw Road,
-Edinburgh 
-EH12 9FJ 
-
-[Contact the Department of Agriculture and Rural Development of Northern Ireland (DARDNI)](https://www.daera-ni.gov.uk/contact) if you’re exporting from Northern Ireland.
-
-##Get a license to export sugar, cereals and rice
+##Get a licencse to export sugar, cereals and rice
 
 If you’re exporting these goods in [large quantities](https://www.gov.uk/trade-tariff/sections) you need a 'mandatory export licence'.
 
@@ -469,12 +317,12 @@ If you’re exporting these goods in [large quantities](https://www.gov.uk/trade
 
 You need to:
 
-s1. Call the Rural Payments Agency (RPA) to get a your trader registration number 
-s2. Fill in this [form](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html) or apply in another format as long as you give the same information
+s1. Call the Rural Payments Agency (RPA) to get a trader registration number .
+s2. Fill in the [application form - needs correct link].
 s3. Pay a “security” deposit 
 s4. You licence will be issued on the CHIEF system within 5 days and will appear when you make your declaration(link to declaration content). You can also ask for a paper one if the countries you're trading with require this.
 
-If you want to send your application by email rather by than fax or post you need to [get approval](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299696/TSO3_-_Email_licence_v3_May_08.doc).
+If you want to send your application by email rather by than fax or post you need to [get approval](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html?uuid=a5765123-3a7c-450e-e981-9c5e37f84ad1).
 
 If you'd like to cancel or amend your application you must do this before 12 pm on the day you apply.
 
@@ -542,6 +390,3 @@ $C
 Telephone: 0191 226 5050
 Monday to Friday, 9am to 5pm
 $C
-
-
-
