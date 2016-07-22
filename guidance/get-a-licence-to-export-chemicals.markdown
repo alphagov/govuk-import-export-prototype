@@ -7,11 +7,11 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-You must follow certain rules if you export chemicals. This includes single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
-
 Within the EU, there aren't special rules unless you export [controlled chemicals](#licences-controlled-chemicals), eg those with a military use or controlled drugs.
 
 Outside the EU, you must also follow the [additional export rules](#additional-export-rules).
+
+Export rules cover single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
 
 
 $CTA
