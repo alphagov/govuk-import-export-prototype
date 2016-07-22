@@ -10,15 +10,15 @@ topic:
 
 You may need a licence or follow special rules to export:
 
-- processed foods
-- unprocessed animal products, eg meat, fish, dairy, honey, gelatine
-- vegetables, fruit and other plants used as food
-- grain (outside the EU only)
-- sugar, cereals and rice (outside the EU only)
+- [processed foods]
+- [unprocessed animal products], eg meat, fish, dairy, honey, gelatine
+- [vegetables, fruit and other plants used as food]
+- [grain] (outside the EU only)
+- [sugar, cereals and rice] (outside the EU only)
 
 $CTA
 
-Also check the import rules of the country that you’re exporting to, which may be less or more strict than in the UK. You can [get help with overseas customs rules].
+Also check the import rules of the country that you’re exporting to, which may be less or more strict than in the UK. You can get [help with overseas customs rules].
 
 $CTA
 
@@ -32,7 +32,7 @@ Outside the EU, check with the country you're exporting to. They'll tell you if 
 
 ###Apply for a certificate of free sale
 
-Fill in the [application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc)(MS Word Document, 127KB).
+Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc)(MS Word Document, 127KB).
 
 Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
 
@@ -42,14 +42,10 @@ It’s free to apply and the certificates don’t expire (unless the country you
 
 Contact the Rural Payments Agency (RPA).
 
-$C 
-
 **Rural Payments Agency**         
 Telephone: 03000 200 301  
 Monday to Friday: 8.30am to 5pm  
 [Find out about call charges](/call-charges)      
-
-$C
 
 ##Unprocessed animal products
 
@@ -385,8 +381,6 @@ If you use your licence in stages, you can ask us for the security in stages, as
 
 Contact the RPA if you need help with CAP good exports:
 
-$C
 ** RPA External Trade Helpline **      
 Telephone: 0191 226 5050
 Monday to Friday, 9am to 5pm
-$C
