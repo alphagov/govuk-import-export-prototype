@@ -136,17 +136,19 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 
 ###Outside the EU
 
-Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export fruit, vegetables, or other plants to be used as food. There are different rules for [grain].
+Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export fruit, vegetables, or other plants to be used as food. 
 
 Check with the country that you’re exporting to find if you need a certificate.
 
-$CTA
-
-You apply a different way for all plants in [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
+There are different rules for [grain].
 
 $CTA
 
-###Getting a plant health certificate in England and Wales (except grain)
+You apply a different way to export plants from [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
+
+$CTA
+
+###Apply for a plant health certificate
 
 Unless you're part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme), you must apply for your plants to be tested before you get a plant health certificate.
 
@@ -158,7 +160,7 @@ Apply by filling in the appropriate form for:
 
 Return the completed form to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
 
-Your plants will be tested and you’ll receive your certificate in 7 days if you pass. It usually costs £13.87 to get a plant health certificate and £36.35 for a lab inspection.
+Your plants will be tested. If you pass, you’ll get your certificate in 7 days. It usually costs £13.87 to get a plant health certificate and £36.35 for a lab inspection.
 
 You can contact APHA to check whether:
 
@@ -183,7 +185,7 @@ You must tell AHPA if you're no longer eligible.
 
 ##Grain
 
-Check the table of countries for whether you need a [plant health certificate].
+Check the table of countries for whether you need a [plant health certificate] to export grain outside the EU.
 
 It also shows if you need:
 
@@ -370,7 +372,7 @@ You can pay:
 
 * by cash, cheque, banker's draft or any other payments agreed by the RPA 
 
-If you choose block payments you should receive statements from the RPA to tell you how much you still owe. You can commit to the block payments as a [group of traders](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf)(PDF, 51.7KB). You can also apply to [change the name](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439550/fdgs5_-_IX8_-_v5.0_Jun_2015.pdf)(PDF, 65.3KB) on the 'contract'.
+If you choose block payments you should get statements from the RPA to tell you how much you still owe. You can commit to the block payments as a [group of traders](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf)(PDF, 51.7KB). You can also apply to [change the name](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439550/fdgs5_-_IX8_-_v5.0_Jun_2015.pdf)(PDF, 65.3KB) on the 'contract'.
 
 Pay your security to:
 
