@@ -28,6 +28,8 @@ Which one you need will depend on what you need to prove to the country you're e
 
 [Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
 
+You can ask for [extra information](#extra-information) on the certifiate if the importing country requires it.
+
 ###Defra-2
 
 The Defra-2 certificate shows that the product is authorised for sale and supply in the UK.
@@ -59,14 +61,6 @@ Defra-SFA shows either:
 - the same things as in the Defra-1 and Defra-3 certificates
 - that the Specified Feed Additive (SFA) in your product is a UK-authorised product
 
-###If you need extra information on the certificate
-{:#extra-information}
-
-Some countries need information that are not on the standard certificates.
-
-You can ask for this information to be included for Defra-1, 2, or 4 certificates, but you must also include some [standard wording](#wording) in your application.
-
-
 ##Apply for a certificate
 
 For Defra-SFA, you have to [apply by email](#apply-email).
@@ -77,7 +71,16 @@ You should get your certificate within 10 days.
 
 The fee is £30 (plus £15 for each certified copy, if you need these). You’ll get an invoice after you’ve applied.
 
-The importing country may need more information about your export. When applying for your certificate, you can ask for the following to be attached to your export documentation:
+The importing country may need more information about your export
+
+###If you need extra information on the certificate
+{:#extra-information}
+
+Some countries need information that are not on the standard certificates.
+
+When you apply, you can ask for this information to be included for Defra-1, 2, or 4 certificates, but you must also include some [standard wording](#wording) in your application.
+
+You can also ask for the following to be attached to your export documentation:
 
 - manufacturing authorisation
 - a summary of product characteristics (SPC) or product literature (or both)
