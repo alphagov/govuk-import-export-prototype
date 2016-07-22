@@ -45,14 +45,10 @@ It’s free to apply and the certificates don’t expire (unless the country you
 
 Contact the RPA.
 
-$C 
-
 **Rural Payments Agency**         
 Telephone: 03000 200 301  
 Monday to Friday: 8.30am to 5pm  
 [Find out about call charges](/call-charges)      
-
-$C
 
 
 ## Animal products within the EU 
@@ -448,11 +444,9 @@ Small importers will be eligible for a [discounted fee](https://www.gov.uk/gover
 
 Contact Science and Advice for Scottish Agriculture (SASA) if you’re exporting from Scotland:
 
-$C
 ** Horticulture & Marketing Unit **      
 <hort.marketing@scotland.gsi.gov.uk>    
 Telephone: 0131 244 8935  
-$C
 
 
 A20 Roddinglaw Road,
@@ -537,11 +531,9 @@ If you use your licence in stages, you can ask us for the security in stages, as
 
 Contact the RPA if you need help with CAP good exports:
 
-$C
 ** RPA External Trade Helpline **      
 Telephone: 0191 226 5050
 Monday to Friday, 9am to 5pm
-$C
 
 
 
