@@ -43,7 +43,7 @@ Both Defra-1 and Defra-3 show:
 - the authorised operations at the UK manufacturing sites
 
 
-For Defra-1, you fill in a schedule that lets you give specific information about your export. You don't have this option with Defra-3.
+For Defra-1, you fill in a schedule that lets you give addititional specific information about your export. You don't have this option with Defra-3.
 
 ###Defra-4
 
