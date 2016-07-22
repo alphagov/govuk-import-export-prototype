@@ -56,10 +56,12 @@ Defra-4 shows both:
 
 ###Defra-SFA
 
-Defra-SFA shows either:
+Defra-SFA is for specified feed additives (SFA). It can show either:
 
 - the same things as in the Defra-1 and Defra-3 certificates
-- that the Specified Feed Additive (SFA) in your product is a UK-authorised product
+- that your product is UK-authorised
+ 
+Say which you'd like the certificate to show when you apply.
 
 ##Apply for a certificate
 
