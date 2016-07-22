@@ -269,7 +269,7 @@ You need a RIN number if you export a product that both:
 
 This includes products like cars, batteries or telephones.
 
-You don’t need to follow the [other rules for chemical substances and mixtures](/guidance/get-a-licence-to-export-chemicals.html).
+You don’t need to follow the other [additional export rules](#additional-export-rules) for chemical substances and mixtures.
 
 Contact HSE if you need help.
 
