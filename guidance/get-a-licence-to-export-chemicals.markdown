@@ -164,7 +164,7 @@ You don’t need a licence or follow special rules to:
 You need to complete these tasks.
 
 s1. Get named applicants an [enhanced DBS check](#dbs).
-s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration). You also need to apply a licence for category 1 chemicals.
+s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration). You also need to apply for a domestic licence for category 1 chemicals.
 s3. Get a [declaration from the end-user](#end-user). This isn’t required for category 2B chemicals.
 s4. [Apply for an export licence](#apply-export-licence), if you’re exporting outside the EU. 
 s5. [Fill in an annual return](#annual-returns-precursors) by 31 January.
@@ -188,9 +188,9 @@ Monday to Friday, 9am to 5:30pm
 
 For all precursor chemicals, you must [register with the Controlled Drugs Licensing System.](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
 
-For category 1 chemicals only, you can then [log in to your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a precursor chemicals licence.
+For category 1 chemicals only, you can then [log in to your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a domestic licence for precursor chemicals.
 
-You should get a decision about the licence within 16 weeks. If you’re applying for the first time, your premises will be visited as part of your application.
+You should get a decision about the domestic licence within 16 weeks. If you’re applying for the first time, your premises will be visited as part of your application.
 
 [SME question: What can they do if they haven't got a decision after 16 weeks?
 
