@@ -71,7 +71,7 @@ The rules for precursor chemicals also apply to products that include them unles
 - the product is for medicinal use by humans (ephedrine and pseudoephedrine are exceptions to this that always need an export licence)
 - the precursor chemical can’t be easily used or extracted 
 
-###When you don't need a licence
+###When you don't need a precursor licence
 
 You don’t need a licence or follow special rules to:
 
@@ -79,7 +79,7 @@ You don’t need a licence or follow special rules to:
 - move category 3 chemicals within the EU
 - export of category 3 chemicals outside the EU in [small quantities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb), unless you're exporting to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb)
 
-###Tasks you need to complete if you need a licence
+###Tasks you need to complete if you need a precursor licence
 
 You need to complete these tasks.
 
