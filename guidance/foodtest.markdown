@@ -49,7 +49,12 @@ Monday to Friday: 8.30am to 5pm
 
 ##Unprocessed animal products
 
-You need a certificate to export unprocessed animal products. This includes meat, fish, dairy, honey, gelatine, lard, blood or any other products that will be used as food.
+You need a certificate to export unprocessed animal products that will be used as food. This includes:
+
+- meat and fish
+- dairy
+- honey
+- gelatine, lard, blood or other products that will be food
 
 What you need to do depends on if you’re exporting [within the EU] or [outside the EU].
 
@@ -105,7 +110,7 @@ You don't need to follow special rules to move most plants that will be used as 
 - a supplier document
 
 ###Plant passports
-Some plants need a plant passport - for example apples, citrus fruits, hops and beets. Check if the [plants] (PDF, 212KB) and [regions] (PDF, 108KB) where you need one.
+Some plants need a plant passport - for example apples, citrus fruits, hops and beets. Check the [plants] (PDF, 212KB) and [regions] (PDF, 108KB) where you need one.
 
 Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
 
@@ -116,7 +121,7 @@ passport.
 
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
-You don't need a make supplier documents if [both or either?]:
+You don't need a supplier document if [both or either?]:
 
 * your goods are for retail sale
 * you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
@@ -131,15 +136,15 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 
 ###Outside the EU
 
-Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export:
+Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export fruit, vegetables, or other plants to be used as food. There are different rules for [grain].
 
-* fruit
-* vegetables, including potatoes and seed potatoes
-* other plants to be used as food [like what?]
+Check with the country that you’re exporting to find if you need a certificate.
 
-Check with the country that you’re exporting to.
+$CTA
 
-There are different rules for [grain]. You apply a different way for all plants in [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
+You apply a different way for all plants in [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
+
+$CTA
 
 ###Getting a plant health certificate in England and Wales (except grain)
 
@@ -147,8 +152,8 @@ Unless you're part of the [Plant Health Propagation Scheme](https://www.gov.uk/g
 
 Apply by filling in the appropriate form for:
 
-* [plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
-* [potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)      
+* [potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)   
+* other [plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
 * plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf)
 
 Return the completed form to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
@@ -176,13 +181,21 @@ You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/
 
 You must tell AHPA if you're no longer eligible.
 
-##Exporting grain from England and Wales
+##Grain
 
 Check the table of countries for whether you need a [plant health certificate].
 
 It also shows if you need:
+
 - to send a sample for testing when you apply for your certificate
 - an import permit - get this from the country you're exporting to
+
+
+$CTA
+
+You apply a different way in [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
+
+$CTA
 
 [Question for SME: Is the list up to date?]
 
@@ -275,9 +288,9 @@ It also shows if you need:
 ###Apply for a plant health certificate
 
 s1. If you need one, apply for an import permit from the country you're exporting to.
-s2. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB). Only fill in sections 1 and 2 if you need to send a sample. 
+s2. Fill in the [plant health certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB). Only fill in sections 1 and 2 if you need to send a sample. 
 s3. Return the form to [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) 5 days before you want to export. 
-s4. When returning your application form, include a 1kg sample if required. For Algeria, Serbia, Bosnia, Montenegro, China or Vietnam, send a second 1 kg sample in a paper bag sealed inside a plastic bag.
+s4. If required, include a 1kg sample if required when you return your application form. For Algeria, Serbia, Bosnia, Montenegro, China or Vietnam, send a second 1 kg sample in a paper bag sealed inside a plastic bag.
 s5. Contact the port you’re exporting from to ask a trade inspector to inspect your grain.
 s6. When you've passed your inspection, fill in another copy of the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)
 
@@ -305,9 +318,9 @@ You must pay:
 
 Small exporters are eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
 
-##Get a licencse to export sugar, cereals and rice
+##Sugar, cereals and rice
 
-If you’re exporting these goods in [large quantities](https://www.gov.uk/trade-tariff/sections) you need a 'mandatory export licence'.
+If you’re exporting these goods outside the EU in [large quantities](https://www.gov.uk/trade-tariff/sections) you need a 'mandatory export licence'.
 
 ###Applying
 
@@ -320,7 +333,7 @@ s4. You licence will be issued on the CHIEF system within 5 days and will appear
 
 If you want to send your application by email rather by than fax or post you need to [get approval](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html?uuid=a5765123-3a7c-450e-e981-9c5e37f84ad1).
 
-If you'd like to cancel or amend your application you must do this before 12 pm on the day you apply.
+If you'd like to cancel or amend your application you must do this before 12pm on the day you apply.
 
 You can export 105% of the quantity you put on the form without having to get a new licence.
 
@@ -328,7 +341,7 @@ You can export 105% of the quantity you put on the form without having to get a 
 
 Your security rate for rice and cereals will be 3 euros per tonne.
 
-Check the table to see how much you need to pay for sugar:
+Check the table to see how much you need to pay for sugar.
 
 | sugar commodity code | security rate for 100 kilos |
 |------------------------|------------------|
@@ -349,7 +362,7 @@ You don’t need to pay a security if you meet the conditions of your licence an
 
 ###How to pay 
 
-You can do so:
+You can pay:
 
 * in a single payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439547/fdgs6t_-_IX6S_-_V2.0_Jun_2015.pdf)(PDF, 132KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439546/fdgs13_-_IX6U_-_V4.0_Jun_2015.pdf)(PDF, 159KB)
 
@@ -361,11 +374,11 @@ If you choose block payments you should receive statements from the RPA to tell 
 
 Pay your security to:
 
-Bank: RBS (NatWest) 
-Sort code: 60-70-80 
-Account number: 550/00/85014583 
-BIC: NWBKGB2L 
-IBAN: GB48 NWBK 6072 0385 0145 83 
+Bank: RBS (NatWest)  
+Sort code: 60-70-80  
+Account number: 550/00/85014583  
+BIC: NWBKGB2L  
+IBAN: GB48 NWBK 6072 0385 0145 83  
 
 ###Getting your security back
 
@@ -379,8 +392,8 @@ If you use your licence in stages, you can ask us for the security in stages, as
 
 ###If you need help
 
-Contact the RPA if you need help with CAP good exports:
+Contact the RPA if you need help with CAP good exports.
 
-** RPA External Trade Helpline **      
+**RPA External Trade Helpline**      
 Telephone: 0191 226 5050
 Monday to Friday, 9am to 5pm
