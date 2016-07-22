@@ -24,7 +24,7 @@ $CTA
 ##Licences for controlled chemicals
 {:#licences-controlled-chemicals}
 
-You may also need a licence, including if you trade within the EU, for exports of:
+You may need a licence, including if you trade within the EU, for exports of:
 
 - chemicals with [military or potential military uses](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
 - [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or chemicals that can be used to make them (‘[precursors](#precursors)’)
