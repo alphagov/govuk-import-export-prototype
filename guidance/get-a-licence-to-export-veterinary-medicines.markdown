@@ -28,7 +28,7 @@ Which one you need will depend on what you need to prove to the country you're e
 
 [Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
 
-You can ask for [extra information](#extra-information) on the certifiate if the importing country requires it.
+You can ask for [extra information](#extra-information) on the certificate if the importing country requires it.
 
 ###Defra-2
 
