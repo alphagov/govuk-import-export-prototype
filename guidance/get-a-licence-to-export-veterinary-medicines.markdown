@@ -69,11 +69,11 @@ You can ask for this information to be included for Defra-1, 2, or 4 certificate
 
 ##Apply for a certificate
 
-You have to [apply by email for Defra-SFA](#apply-email).
+For for Defra-SFA, you have to [apply by email](#apply-email).
 
-Otherwise, register to apply online by emailing <exportcert@vmd.defra.gsi.gov.uk>.
+For all other certificates, register to apply online by emailing <exportcert@vmd.defra.gsi.gov.uk>. You can then [sign in to apply for a certificate](https://www.vmd.defra.gov.uk/EC/Login.aspx). 
 
-You can then [sign in to apply for a certificate](https://www.vmd.defra.gov.uk/EC/Login.aspx). You should get your certificate within 10 days.
+You should get your certificate within 10 days.
 
 The fee is £30 (plus £15 for each certified copy, if you need these). You’ll get an invoice after you’ve applied.
 
