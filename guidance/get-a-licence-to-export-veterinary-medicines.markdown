@@ -1,14 +1,12 @@
 ---
 layout: guidance
-title: Get a licence to export veterinary medicines
-summary: You must have a licence and certificate to export animal medicines outside the UK.
+title: Get a licence and a certificate to export veterinary medicines
+summary: You must have a licence and certificate to export animal medicines outside the UK, including within the EU.
 permalink: /guidance/get-a-licence-to-export-veterinary-medicines.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-You must have a licence and certificate to export veterinary medicines outside the UK. This includes moving them within the EU.
-
 ##Check you have a licence
 
 To export most veterinary medicines you must have one of the following:
