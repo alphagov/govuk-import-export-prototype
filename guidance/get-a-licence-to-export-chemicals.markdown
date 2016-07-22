@@ -34,7 +34,7 @@ You may need a licence, including if you trade within the EU, for exports of:
 ###Precursor chemicals
 {:#precursors}
 
-You may need a licence or to follow special rules to export ‘precursor chemicals’. This includes moving them within the EU.
+You may need a licence or to follow special rules to export precursor chemicals. This includes moving them within the EU.
 
 Precursors are chemicals that can be used to manufacture controlled drugs. The table shows precursors and their category - this affects what you need to do to move or export them.
 
