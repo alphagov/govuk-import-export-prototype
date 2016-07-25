@@ -18,7 +18,7 @@ If the waste you want to export isn't prohibited, you need to create a contract 
 
 Once you've got one, you need to either:
 
-* complete the form in the tool if your waste requires Article 18 controls 
+* complete the form in the [waste export control tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) if your waste requires Article 18 controls 
 * come back to this page if you need a notification control
 
 ##Apply for a notification control
