@@ -19,7 +19,7 @@ s2. Complete the form in the tool if your waste requires â€˜green list controlsâ
 
 ##Creating a contract for your waste export
 
-You must create a contract between you and the business receiving the waste before you submit your notification controls. It must include:
+You must create a contract between you and the business receiving the waste. It should include:
 
 * a certificate from the business recovering or disposing of the waste, confirming they will legally do this
 * your promise to take the waste back if the shipment, recovery or disposal does not go ahead, or if the shipment is illegal
