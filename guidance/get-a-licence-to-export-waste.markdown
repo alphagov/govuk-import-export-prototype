@@ -21,13 +21,10 @@ If you need a notification control you may also need to get insurance before you
 
 ###Register online to apply for a notification control
 
-$CTA
+Once this is ready:
 
-Once this is ready, register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and complete your application (including a financial guarantee before shipping).
-
-$CTA
-
-If your waste is going to another location to be stored or processed before it arrives at its final destination, [fill in this ‘interim operation’ form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf) and attach it.
+* register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and complete your application (including a financial guarantee before shipping).
+* If your waste is going to another location to be stored or processed before it arrives at its final destination, [fill in this ‘interim operation’ form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf) and attach it.
 
 [Question for SME: How do they attach the form to their application?]
 
@@ -60,7 +57,7 @@ If you’d like to increase your exports without applying for a new control:
 
 ###Contact the Environment Agency
 
-If you need help or want to s[p
+If you need help or want to apply for more shipment, content the 
 
 
 
