@@ -14,9 +14,10 @@ You need special permission to export waste inside and outside the EU.
  
 ##Get permission to export waste
 
-Complete the form in the tool if your waste requires ‘green list controls’ (Article 18 controls) or come back to this page if you need a ‘notification control’.
+s1. Create a contract before you export.
+s2. Complete the form in the tool if your waste requires ‘green list controls’ (Article 18 controls) or come back to this page if you need a ‘notification control’. 
 
-##Getting ‘notification controls’ 
+##Creating a contract for your waste export
 
 You must create a contract between you and the business receiving the waste before you submit your notification controls. It must include:
 
@@ -26,7 +27,7 @@ You must create a contract between you and the business receiving the waste befo
 
 You may also need to get third party insurance before you submit your application as the importing country may ask to see it.
 
-###Register online to apply
+###Register online to apply for a 'notification control'
 
 $CTA
 
@@ -42,7 +43,7 @@ If your waste is going to another location to be stored or processed before it a
 
 If you haven't heard back from the EA within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
 
-If you get permission to export your waste you’ll have between 1 and 3 years to do this before your ‘notification control’ expires - you’ll be told how long it lasts.
+You’ll have between 1 and 3 years to ship your goods before your ‘notification control’ expires - you’ll be told how long it lasts.
 
 ###Fees
 
