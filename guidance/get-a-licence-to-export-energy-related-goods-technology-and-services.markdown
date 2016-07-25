@@ -12,8 +12,9 @@ It’s a criminal offence to export any energy related goods, technologies and s
 
 ##Goods and services you can’t export
 There’s a complete ban on exporting energy related goods, technologies or services for use in:
-oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
-shale fracking
+
+- oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
+- shale fracking
 
 
 Download a full list of [restricted goods, services and technologies](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001)
