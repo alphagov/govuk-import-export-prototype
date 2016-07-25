@@ -6,6 +6,7 @@ permalink: /guidance/get-a-licence-to-export-energy-related-goods-technology-and
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
+  
 ---
 
 It’s a criminal offence to export any energy related goods, technologies and services without a licence that are subject to EU sanctions against Russia.
