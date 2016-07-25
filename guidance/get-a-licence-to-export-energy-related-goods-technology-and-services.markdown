@@ -49,7 +49,7 @@ $CTA
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for an export licence.
 
-$CTA
+$CTA 
 
 Applications take around 20 working days, but can take longer if the Export Control Organisation (ECO) needs to check your application with the government of the country you’re exporting to.
 
