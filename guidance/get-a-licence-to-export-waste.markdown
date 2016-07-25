@@ -17,7 +17,9 @@ You need special permission to export waste inside and outside the EU.
 s1. Create a contract before you export.
 s2. Complete the form in the tool if your waste requires green list controls (Article 18 controls) or come back to this page if you need a notification control. 
 
-##Creating a contract for your waste export  
+
+##Creating a contract for your waste export
+
 
 You must create a contract between you and the business receiving the waste. It should include:
 
