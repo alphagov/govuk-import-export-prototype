@@ -22,12 +22,6 @@ Download a full list of [restricted goods, services and technologies](http://eur
 
 ##Apply for an export licence
 
-You can apply for a licence if you're exporting goods, services or technologies for:
-
-- conventional oil and gas fields
-- construction of Liquefied natural gas (LNG) plants
-- downstream oil-refining facilities
-
 $CTA
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for an export licence.
