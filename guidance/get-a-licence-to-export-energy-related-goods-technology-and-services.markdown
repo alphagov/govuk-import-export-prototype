@@ -17,7 +17,7 @@ There’s a complete ban on exporting energy related goods or services for use i
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
 
-Download a full list of [restricted goods and services](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1)
+Download a full list of [goods and services](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1)that need a licence.
 
 ##Apply for an export licence
 
