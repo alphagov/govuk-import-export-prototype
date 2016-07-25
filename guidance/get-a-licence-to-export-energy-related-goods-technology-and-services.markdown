@@ -21,6 +21,8 @@ Download a full list of [restricted goods and services](http://eur-lex.europa.eu
 
 ##Apply for an export licence
 
+[Sanctioned but not banned items? Are renewable energy goods and services sanctioned?]
+
 $CTA
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for an export licence.
