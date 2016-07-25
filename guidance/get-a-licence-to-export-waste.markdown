@@ -19,22 +19,18 @@ s2. Complete the form in the tool if your waste requires Article 18 controls or 
 
 If you need a notification control you may also need to get insurance before you submit your application as the importing country may ask to see it.
 
-###Register online to apply for a notification control
+##Apply for a notification control
 
 Once this is ready:
 
-* register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and complete your application (including a financial guarantee before shipping).
-* If your waste is going to another location to be stored or processed before it arrives at its final destination, [fill in this ‘interim operation’ form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf) and attach it.
+* register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and complete your application (including a financial guarantee before shipping)
+* Complete and upload a [mouvement document](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf)
+* If your waste is going to another location to be stored or processed before it arrives at its final destination, [attach a completed an ‘interim operation’ form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf)
+* make sure a copy of the notification control and all supporing documents travels with your goods
 
 [Question for SME: How do they attach the form to their application?]
 
 If you haven't heard back from the EA within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
-
-$CTA
-
-A copy of the completed movement document and the consented notification document, including annexes, must go with the waste and stay with it throughout the journey.
-
-$CTA
 
 ###How long it lasts
 
