@@ -38,12 +38,13 @@ You’ll have 1 year to ship your goods before your ‘notification control’ e
 
 You will have to pay a fee for this service.
 
-The minimum fee for a ‘recovery’ shipment is £1,450 (for example if you’re recycling the waste)  
-and maximum cost is £14,380 for more than 500 shipments.
+The minimum fee for a ‘recovery’ shipment is £1,450 (for example if you’re recycling the waste) and maximum cost is £14,380 for over 500 shipments.
 
-If you’re disposing of the waste the minimum cost for one shipment is £1,540 and the maximum cost is £19,500 for 500 shipments.
+If you’re disposing the waste the minimum cost for one shipment is £1,540 and the maximum cost is £19,500 for 500.
 
-You will have to pay more if your journey includes an ‘interim’ stop, I'll cost a minimum of £1,700 and a maximum of £24,000 for 500 shipments
+You'll pay a minimum of £1,700 and maximu  of £24,000 if your journey has an ‘interim’ stop.
+
+You can apply for a refund if you don't send the goods within 12 months, if your notification or rejected or if you withdraw it before you get an answer.
 
 [Question for SME: Will they be sent an invoice?]
 
