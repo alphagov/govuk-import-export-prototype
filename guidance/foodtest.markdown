@@ -143,7 +143,7 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 ###Outside the EU
 {:#plants-outside-EU}
 
-Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export fruit, vegetables, or other plants to be used as food. 
+Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export fruit, vegetables or other plants to be used as food. 
 
 Check with the country that you’re exporting to find if you need a certificate.
 
@@ -167,17 +167,17 @@ Apply by filling in the appropriate form for:
 
 Return the completed form to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
 
-Your plants will be tested. If you pass, you’ll get your certificate in 7 days. It usually costs £13.87 to get a plant health certificate and £36.35 for a lab inspection.
+Your plants will be tested. If they pass, you’ll get your certificate in 7 days. It usually costs £13.87 for the plant health certificate and £36.35 for a lab inspection.
 
-You can contact APHA to check whether:
+You can contact APHA to check whether you need:
 
-- you need a soil inspection for the plants you're exporting - use the [soil inspection form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) if you do
-- you'll need to wash soil from the roots of the plants you export - the USA, New Zealand and other countries require this
+- a soil inspection for the plants you're exporting - use the [soil inspection form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) if you do
+- to wash soil from the roots of the plants you export - the USA, New Zealand and other countries require this
 
 [Question for SME: Do you growing season inspections also apply to food?]
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
-If your soil needs to be tested, it costs £49.68 for every 15 minutes and a minimum of £99.36.
+If your soil needs to be tested, it costs £49.68 for every 15 minutes of inspection time. There's a minimum fee of £99.36.
 
 [Question for SME: Does the inspection fee include a certificate or do you need pay a certificate fee on top of that?]
 
@@ -188,14 +188,12 @@ You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/
 * you're not registered for VAT 
 * your certified exports were worth less £5,000 in the last financial year
 
-You must tell AHPA if you're no longer eligible.
-
 ##Grain
 {:#grain}
 
-Check the table of countries for whether you need a [plant health certificate] to export grain outside the EU.
+Check the table of countries for whether you need a [plant health certificate](#plant-health-certificate-grain) to export grain outside the EU.
 
-It also shows if you need:
+The table also shows if you need:
 
 - to send a sample for testing when you apply for your certificate
 - an import permit - get this from the country you're exporting to
@@ -296,6 +294,7 @@ $CTA
 | Australia | yes | send a sample and request an admixture test from AHPA |
 
 ###Apply for a plant health certificate
+{:#plant-health-certificate-grain}
 
 s1. If you need one, apply for an import permit from the country you're exporting to.
 s2. Fill in the [plant health certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB). Only fill in sections 1 and 2 if you need to send a sample. 
