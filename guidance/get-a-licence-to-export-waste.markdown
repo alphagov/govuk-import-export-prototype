@@ -14,9 +14,9 @@ You need special permission to export waste inside and outside the EU.
  
 ##Get permission to export waste
 
-If the waste you want to export isn't prohibited, you need to create a contract between you and the business you're sending waste to before you apply for permission ('controls').
+If the waste you want to export isn't prohibited, you need to create a contract between you and the business you're sending waste to before you apply for controls.
 
-You need to either
+Once you've got one, you need to either:
 
 * complete the form in the tool if your waste requires Article 18 controls 
 * come back to this page if you need a notification control
