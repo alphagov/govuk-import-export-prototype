@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Export energy related goods, technology and services to Russia
-summary: You must have a licence to export energy related goods, technology and services.
+title: Export energy related goods and services to Russia
+summary: You must have a licence to export energy related goods and services.
 permalink: /guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html
 topic:
   name: Exporting and doing business abroad
@@ -9,16 +9,15 @@ topic:
   
 ---
 
-It’s a criminal offence to export any energy related goods, technologies and services without a licence that are subject to EU sanctions against Russia.
+It’s a criminal offence to export any energy related goods and services without a licence that are subject to EU sanctions against Russia.
 
 ##Goods and services you can’t export
-There’s a complete ban on exporting energy related goods, technologies or services for use in:
+There’s a complete ban on exporting energy related goods or services for use in:
 
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
 
-Download a full list of [restricted goods, services and technologies](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1)
-
+Download a full list of [restricted goods and services and](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1)
 
 ##Apply for an export licence
 
@@ -68,8 +67,3 @@ ECO helpline <br>
 Email: <eco.help@bis.gsi.gov.uk> <br>
 Telephone: 0202 7215 4594 <br>
 Fax: 020 7215 2635 <br>
-
-
-
-
-
