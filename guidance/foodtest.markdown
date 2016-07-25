@@ -165,7 +165,7 @@ Apply by filling in the appropriate form for:
 * other [plants, including fruit and vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
 * plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf)
 
-Return the completed form to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
+Return the completed form to [your local APHA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
 
 Your plants will be tested. If they pass, you’ll get your certificate in 7 days. It usually costs £13.87 for the plant health certificate and £36.35 for a lab inspection.
 
@@ -291,17 +291,19 @@ $CTA
 
 | country  | need an import permit | pests to test for | 
 |-----------|---------------------------|--------------------|                                  
-| Australia | yes | send a sample and request an admixture test from AHPA |
+| Australia | yes | send a sample and request an admixture test from APHA |
 
-###Apply for a plant health certificate
+###Apply for a plant health certificate for grain
 {:#plant-health-certificate-grain}
 
 s1. If you need one, apply for an import permit from the country you're exporting to.
-s2. Fill in the [plant health certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)(PDF, 286KB). Only fill in sections 1 and 2 if you need to send a sample. 
+s2. Fill in the [plant health certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf) (PDF, 286KB). Only fill in sections 1 and 2 if you need to send a sample. 
 s3. Return the form to [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) 5 days before you want to export. 
-s4. If required, include a 1kg sample if required when you return your application form. For Algeria, Serbia, Bosnia, Montenegro, China or Vietnam, send a second 1 kg sample in a paper bag sealed inside a plastic bag.
-s5. Contact the port you’re exporting from to ask a trade inspector to inspect your grain.
-s6. When you've passed your inspection, fill in another copy of the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf)
+s4. If required, include a 1kg sample when you return your application form. For Algeria, Serbia, Bosnia, Montenegro, China or Vietnam, send a second 1 kg sample in a paper bag sealed inside a plastic bag.
+s5. Contact the port you’re exporting from to arrange for a trade inspector to inspect your grain.
+s6. When you've passed your inspection, fill in another copy of the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515947/form-hh93.pdf).
+
+[Question: What is the second application form in step 6 for? Where does the user have to send it?]
 
 
 [Question for SME: Do users need to know about the country specific tests for Cuba and Vietnam or will the inspectors know what to test for according to the destination country?]
@@ -332,24 +334,23 @@ Small exporters are eligible for a [discounted fee](https://www.gov.uk/governmen
 
 If you’re exporting these goods outside the EU in [large quantities](https://www.gov.uk/trade-tariff/sections) you need a 'mandatory export licence'.
 
-###Applying
-
-You need to:
+###Apply for a mandatory export licence
 
 s1. Call the Rural Payments Agency (RPA) to get a trader registration number .
 s2. Fill in the [application form - needs correct link].
-s3. Pay a “security” deposit 
-s4. You licence will be issued on the CHIEF system within 5 days and will appear when you make your declaration(link to declaration content). You can also ask for a paper one if the countries you're trading with require this.
+s3. Pay a [security deposit](#security-deposit).
+s4. Your licence will be issued on the CHIEF system within 5 days and will appear when you make your declaration (link to declaration content). You can also ask for a paper one if the countries you're trading with require this.
 
-If you want to send your application by email rather by than fax or post you need to [get approval](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html?uuid=a5765123-3a7c-450e-e981-9c5e37f84ad1).
+If you want to send your application by email rather by than fax or post you need to [get approval] [needs correct link].
 
 If you'd like to cancel or amend your application you must do this before 12pm on the day you apply.
 
 You can export 105% of the quantity you put on the form without having to get a new licence.
 
 ###Calculate your security rate
+{:#security-deposit}
 
-Your security rate for rice and cereals will be 3 euros per tonne.
+Your security rate for rice and cereals is 3 euros per tonne.
 
 Check the table to see how much you need to pay for sugar.
 
@@ -362,10 +363,10 @@ Check the table to see how much you need to pay for sugar.
 | 1701 (non-quota sugar) |  €0.3 |
 | 1702 9080 (inulin syrup) | €0.6|
 
-You don’t need to pay a security if you meet the conditions of your licence and:
+You don’t need to pay a security if you meet the conditions of your licence and one of the following applies:
 
 * your total comes to €100 or less
-* your total comes to €500 but you commit to paying any invoices sent by the RPA if the conditions of your licence arn't  met.[link to form]
+* your total comes to €500 [or less?] but you commit to paying any invoices sent by the RPA if the conditions of your licence arn't  met.[link to form]
 * you're a humanitarian organisation exporting goods for aid 
 
 [Question for SME: Is there a version of the €500 form which isn’t embedded within the leaflets? It seems that calling RPA to get the words might not be that efficient?]
@@ -374,13 +375,13 @@ You don’t need to pay a security if you meet the conditions of your licence an
 
 You can pay:
 
-* in a single payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439547/fdgs6t_-_IX6S_-_V2.0_Jun_2015.pdf)(PDF, 132KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439546/fdgs13_-_IX6U_-_V4.0_Jun_2015.pdf)(PDF, 159KB)
+* in a single payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439547/fdgs6t_-_IX6S_-_V2.0_Jun_2015.pdf) (PDF, 132KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439546/fdgs13_-_IX6U_-_V4.0_Jun_2015.pdf) (PDF, 159KB)
 
-* in a group or 'block' payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf)(PDF, 101KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439544/fdgs10t_-_IX5U_-_V2.0_Jun_2015.pdf)(PDF, 43.2KB)
+* in a group or 'block' payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf) (PDF, 101KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439544/fdgs10t_-_IX5U_-_V2.0_Jun_2015.pdf) (PDF, 43.2KB)
 
-* by cash, cheque, banker's draft or any other payments agreed by the RPA 
+* by cash, cheque, banker's draft or any other payments agreed by RPA 
 
-If you choose block payments you should get statements from the RPA to tell you how much you still owe. You can commit to the block payments as a [group of traders](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf)(PDF, 51.7KB). You can also apply to [change the name](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439550/fdgs5_-_IX8_-_v5.0_Jun_2015.pdf)(PDF, 65.3KB) on the 'contract'.
+If you choose block payments you should get statements from RPA to tell you how much you still owe. You can commit to the block payments as a [group of traders](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf) (PDF, 51.7KB). You can also apply to [change the name](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439550/fdgs5_-_IX8_-_v5.0_Jun_2015.pdf) (PDF, 65.3KB) on the 'contract'.
 
 Pay your security to:
 
