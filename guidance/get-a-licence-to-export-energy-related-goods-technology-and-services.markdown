@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Export energy related goods, techology and services to Russia
+title: Export energy related goods, technology and services to Russia
 summary: You must have a licence to export energy related goods, technology and services.
 permalink: /guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html
 topic:
