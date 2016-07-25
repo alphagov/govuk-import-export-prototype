@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export energy related goods, techology and services
+title: Export energy related goods, techology and services to Russia
 summary: You must have a licence to export energy related goods, technology and services.
 permalink: /guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html
 topic:
@@ -22,6 +22,24 @@ Download a full list of [restricted goods, services and technologies](http://eur
 
 ##Apply for an export licence
 
+You can apply for a licence if you're exporting goods, services or technologies for:
+
+- conventional oil and gas fields
+- construction of Liquefied natural gas (LNG) plants
+- downstream oil-refining facilities
+
+$CTA
+
+Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for an export licence.
+
+$CTA 
+
+Applications take around 20 working days, but can take longer if the Export Control Organisation (ECO) needs to check your application with the government of the country you’re exporting to.
+
+##Trafficking and brokering
+
+Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for a trade control licence.
+
 You must have a trade control licence if you or your company is involved in:
 
 - trafficking
@@ -35,26 +53,11 @@ Trafficking and brokering can include anything that helps to transfer items from
 - arranging intra company transfers
 - drop shipping
 
-$CTA
-
-Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for an export licence.
-
-$CTA 
-
-Applications take around 20 working days, but can take longer if the Export Control Organisation (ECO) needs to check your application with the government of the country you’re exporting to.
-
 [How much does a licence cost?]
 
 ##Your license responsibilities
 
 You’re responsible for making sure that your licence is still valid when you export goods, technologies and services.
-
-You must provide information on:
-
-- what you’re exporting
-- the recipient and user of the goods or service
-- any third party involved in the transaction
-- the intended use and location of the goods, including (where known) the project name
 
 Keep up to date with the [ECO notices to exporters](http://blogs.bis.gov.uk/exportcontrol/).
 
