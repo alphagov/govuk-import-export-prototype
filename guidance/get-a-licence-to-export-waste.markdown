@@ -33,13 +33,11 @@ If you need a notification control you may also need to get third party insuranc
 
 $CTA
 
-Once this is ready, register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and complete your application.
+Once this is ready, register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and complete your application (including a financial guarantee).
 
 $CTA
 
-Apply for financial guarantee (the form is in the online service).
-
-If your waste is going to another location to be stored or processed before it arrives at its final destination, you need also need to [fill in this ‘interim operation’ form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf).
+If your waste is going to another location to be stored or processed before it arrives at its final destination, you need also need to [fill in this ‘interim operation’ form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf) and attach it.
 
 [Question for SME: How do they attach the form to their application?]
 
