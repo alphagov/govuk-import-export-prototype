@@ -55,10 +55,19 @@ If you’d like to increase your exports without applying for a new control:
 * get written consent for your extra shipments from the importing country’s competent authorities’ (these are listed in your notification control application)
 * not exceed the maximum tonnage detailed in your notification document
 
-###Contact the Environment Agency
+Send your request to:
 
-If you need help or want to apply for more shipment, content the 
+International Waste Shipments Team 
+Environment Agency 
+Richard Fairclough House 
+Knutsford Road 
+Warrington 
+WA4 1HT 
 
+
+###If you need help
+
+Contact the [Environment Agency](https://www.gov.uk/government/organisations/environment-agency#org-contacts).
 
 
 
