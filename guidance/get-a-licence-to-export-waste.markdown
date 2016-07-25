@@ -26,7 +26,7 @@ Once you've got one, you need to either:
 s1. Register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and start your application.
 s2. Complete a financial guarantee (this must be accepted by the importer before you ship the waste).
 s3. Complete and upload a [mouvement document] for each shipment(http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf)(keep a copy of these).
-s4. If your waste is going to another location to be stored or processed before it arrives at its final destination, [attach a completed an interim operation form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf.
+s4. If your waste is going to another location to be stored or processed before it arrives at its final destination, [attach a completed an interim operation form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf).
 s5. Make sure a copy of the notification control and all supporting documents travels with your goods.
 
 You may need to get insurance before you submit your application as the importing country may ask to see it.
