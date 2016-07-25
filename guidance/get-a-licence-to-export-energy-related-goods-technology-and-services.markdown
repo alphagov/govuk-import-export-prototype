@@ -37,7 +37,7 @@ You have a licence if you or your company is involved in:
 - technical assistance
 - brokering services
 - financing and financial assistance
-- 
+
 Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
 
 - arranging or negotiating sales
