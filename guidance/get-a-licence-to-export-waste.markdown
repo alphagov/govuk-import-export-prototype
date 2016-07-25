@@ -30,6 +30,14 @@ Once this is ready:
 
 If you haven't heard back from the EA within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
 
+$CTA
+
+A copy of the completed movement document and the consented notification document, including annexes, must go with the waste and stay with it throughout the journey.
+
+$CTA
+
+###How long it lasts
+
 You’ll have 1 year to ship your goods before your ‘notification control’ expires unless the site you're exporting to has pre-consent status. If they do your control could last up to 3 years.
 
 [Question for SME: Does pre-consent only apply to imports? It says 'receive in the guidance.]
