@@ -30,7 +30,7 @@ Once this is ready:
 
 If you haven't heard back from the EA within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
 
-You’ll have 1 year to ship your goods before your ‘notification control’ expires.
+You’ll have 1 year to ship your goods before your ‘notification control’ expires unless the site you're exporting to has pre-consent status. If they do your control could last up to 3 years.
 
 [Question for SME: Does pre-consent only apply to imports? It says 'receive in the guidance.]
 
