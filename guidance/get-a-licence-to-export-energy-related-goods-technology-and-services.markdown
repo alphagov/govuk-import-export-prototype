@@ -16,6 +16,8 @@ There’s a complete ban on exporting energy related goods, technologies or serv
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
 - 
+###If you signed your contract before August 2014
+- 
 You can still apply for a licence if you agreed to provide the following services before 1 August 2014:
 
 - drilling  
@@ -25,12 +27,6 @@ You can still apply for a licence if you agreed to provide the following service
 
 
 Download a full list of [restricted goods, services and technologies](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001)
-
-Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
-
-- arranging or negotiating sales
-- arranging intra company transfers
-- drop shipping
 
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 
@@ -42,9 +38,12 @@ You have a licence if you or your company is involved in:
 - technical assistance
 - brokering services
 - financing and financial assistance
+- 
+Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
 
-###If you signed your contract before August 2014
-
+- arranging or negotiating sales
+- arranging intra company transfers
+- drop shipping
 
 $CTA
 
