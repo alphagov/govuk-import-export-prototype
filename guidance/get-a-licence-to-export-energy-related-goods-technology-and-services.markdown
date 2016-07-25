@@ -13,7 +13,7 @@ It’s a criminal offence to export any energy related goods and services withou
 
 ##Goods and services you can’t export
 
-There’s a complete ban on exporting energy related goods or services for use in:
+There’s a complete ban on exporting goods or services for use in:
 
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
@@ -21,8 +21,6 @@ There’s a complete ban on exporting energy related goods or services for use i
 Download a full list of [goods and services](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1)that need a licence.
 
 ##Apply for an export licence
-
-[Items that need a licence but are not subject to sanctions? Are renewable energy goods and services sanctioned?]
 
 $CTA
 
