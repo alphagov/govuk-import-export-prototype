@@ -16,7 +16,6 @@ There’s a complete ban on exporting energy related goods, technologies or serv
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
 
-
 ###If you signed your contract before August 2014
 
 You can still apply for a licence if you agreed to provide the following services before 1 August 2014:
