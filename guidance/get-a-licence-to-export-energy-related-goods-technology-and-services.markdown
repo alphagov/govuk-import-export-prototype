@@ -8,13 +8,20 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-It’s a criminal offence to export any energy related goods, technologies and services that are subject to [EU sanctions against Russia](https://www.gov.uk/government/publications/eu-sanctions-against-russia-information-for-exporters) 
+It’s a criminal offence to export any energy related goods, technologies and services without a licence that are subject to EU sanctions against Russia.
 
 ##Goods and services you can’t export
 There’s a complete ban on exporting energy related goods, technologies or services for use in:
 
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
+- 
+You can still apply for a licence if you agreed to provide the following services before 1 August 2014:
+
+- drilling  
+- well testing
+- logging and completion services
+- supply of specialised floating vessels
 
 
 Download a full list of [restricted goods, services and technologies](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001)
@@ -37,13 +44,6 @@ You have a licence if you or your company is involved in:
 - financing and financial assistance
 
 ###If you signed your contract before August 2014
-
-You may still get a licence if you agreed to provide the following services before 1 August 2014:
-
-- drilling  
-- well testing
-- logging and completion services
-- supply of specialised floating vessels
 
 
 $CTA
