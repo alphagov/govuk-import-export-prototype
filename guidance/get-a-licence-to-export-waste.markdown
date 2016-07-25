@@ -28,7 +28,11 @@ You may also need to get third party insurance before you submit your applicatio
 
 ###Register online to apply
 
+$CTA
+
 Once this is ready, register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and complete your application.
+
+$CTA
 
 Apply for financial guarantee (the form is in the online service).
 
