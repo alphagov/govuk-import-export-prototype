@@ -29,8 +29,6 @@ You must have a trade control licence if you or your company is involved in:
 - brokering services
 - financing and financial assistance
 
-Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
-
 Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
 
 - arranging or negotiating sales
