@@ -12,6 +12,7 @@ topic:
 It’s a criminal offence to export any energy related goods and services without a licence that are subject to EU sanctions against Russia.
 
 ##Goods and services you can’t export
+
 There’s a complete ban on exporting energy related goods or services for use in:
 
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
