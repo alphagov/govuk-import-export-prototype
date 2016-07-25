@@ -43,7 +43,9 @@ If your waste is going to another location to be stored or processed before it a
 
 If you haven't heard back from the EA within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
 
-You’ll have between 1 and 3 years to ship your goods before your ‘notification control’ expires - you’ll be told how long it lasts.
+You’ll have 1 to ship your goods before your ‘notification control’ expires.
+
+[Question for SME: Does pre-consent only apply to imports? It says 'receive in the guidance.]
 
 ###Fees
 
