@@ -10,11 +10,11 @@ topic:
 
 You may need a licence or follow special rules to export:
 
-- [processed foods]
-- [unprocessed animal products], eg meat, fish, dairy, honey, gelatine
-- [vegetables, fruit and other plants used as food]
-- [grain] (outside the EU only)
-- [sugar, cereals and rice] (outside the EU only)
+- [processed foods](#processed-foods)
+- [unprocessed animal products](#unprocessed-animal-products), eg meat, fish, dairy, honey, gelatine
+- [vegetables, fruit and other plants used as food](#plants)
+- [grain](#grain) (outside the EU only)
+- [sugar, cereals and rice](sugar) (outside the EU only)
 
 $CTA
 
@@ -25,6 +25,7 @@ $CTA
 
 
 ##Processed foods
+{:processed-foods}
 
 Within the EU, you don't need a licence or follow special rules to move processed foods.
 
@@ -48,6 +49,7 @@ Monday to Friday: 8.30am to 5pm
 [Find out about call charges](/call-charges)      
 
 ##Unprocessed animal products
+{:#unprocessed-animal-products}
 
 You need a certificate to export unprocessed animal products that will be used as food. This includes:
 
@@ -56,7 +58,7 @@ You need a certificate to export unprocessed animal products that will be used a
 - honey
 - gelatine, lard, blood or other products that will be food
 
-What you need to do depends on if you’re exporting [within the EU] or [outside the EU].
+What you need to do depends on if you’re exporting [within the EU](#unprocessed-animal-products-within-EU) or [outside the EU](#unprocessed-animal-products-outside-EU).
 
 $CTA
 
@@ -65,6 +67,7 @@ There are different rules for animal products that will be used as [food for ani
 $CTA
 
 ###Within the EU
+{:#unprocessed-animal-products-within-EU}
 
 You need to apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal product that you’re moving within the EU.
 
@@ -86,6 +89,7 @@ Your ITAHC will be valid for 10 days after the inspection.
 If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 ###Outside the EU
+{:#unprocessed-animal-products-outside-EU}
 
 You need to apply for an Export Health Certificate (EHC) to export unprocessed animal products outside the EU.
 
@@ -99,12 +103,14 @@ s6. You may need your EHC signed by your official veterinarian or an inspector f
 When you get your completed EHC, you must keep it for at least 2 years.
 
 ##Vegetables, fruit and other plants used as food
+{:#plants}
 
-What you need to do depends on if you’re exporting [within the EU] or [outside the EU].
+What you need to do depends on if you’re exporting [within the EU](#plants-within-EU) or [outside the EU](#plants-outside-EU).
 
 ###Within the EU
+{:#plants-within-EU}
 
-You don't need to follow special rules to move most plants that will be used as food unless you either need:
+You don't need to follow special rules for plants unless you either need:
 
 - a plant passport
 - a supplier document
@@ -135,12 +141,13 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 [Question for SME: how much does a passport / document cost? How long are they valid for? What does the user do with them when they have them?
 
 ###Outside the EU
+{:#plants-outside-EU}
 
 Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export fruit, vegetables, or other plants to be used as food. 
 
 Check with the country that you’re exporting to find if you need a certificate.
 
-There are different rules for [grain].
+There are different rules for [grain](#grain).
 
 $CTA
 
@@ -184,6 +191,7 @@ You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/
 You must tell AHPA if you're no longer eligible.
 
 ##Grain
+{:#grain}
 
 Check the table of countries for whether you need a [plant health certificate] to export grain outside the EU.
 
@@ -321,6 +329,7 @@ You must pay:
 Small exporters are eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
 
 ##Sugar, cereals and rice
+{:#sugar}
 
 If you’re exporting these goods outside the EU in [large quantities](https://www.gov.uk/trade-tariff/sections) you need a 'mandatory export licence'.
 
