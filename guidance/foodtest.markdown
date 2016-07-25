@@ -18,7 +18,7 @@ You may need a licence or follow special rules to export:
 
 $CTA
 
-Also check the import rules of the country that you’re exporting to, which may be less or more strict than in the UK. You can get [help with overseas customs rules].
+Also check the import rules of the country that you’re exporting to, which may be less or more strict than in the UK. You can get [help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
@@ -33,7 +33,7 @@ Outside the EU, check with the country you're exporting to. They'll tell you if 
 
 ###Apply for a certificate of free sale
 
-Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc)(MS Word Document, 127KB).
+Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB).
 
 Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
 
@@ -51,12 +51,12 @@ Monday to Friday: 8.30am to 5pm
 ##Unprocessed animal products
 {:#unprocessed-animal-products}
 
-You need a certificate to export unprocessed animal products that will be used as food. This includes:
+You need a certificate to export unprocessed animal products that will be used as food, for example:
 
 - meat and fish
 - dairy
 - honey
-- gelatine, lard, blood or other products that will be food
+- gelatine, lard or blood
 
 What you need to do depends on if you’re exporting [within the EU](#unprocessed-animal-products-within-EU) or [outside the EU](#unprocessed-animal-products-outside-EU).
 
@@ -80,7 +80,7 @@ s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/
 s3. Sign in to TRACES and fill in the details of animal product you're exporting.
 s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) - tell them that the ITAHC has been created and give them details of your official veterinarian.
 
-Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf)(PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Your ITAHC will be valid for 10 days after the inspection.
 
@@ -115,7 +115,7 @@ You don't need to follow special rules for plants unless you either need:
 - a plant passport
 - a supplier document
 
-###Plant passports
+###Check if you need a plant passport
 Some plants need a plant passport - for example apples, citrus fruits, hops and beets. Check the [plants] (PDF, 212KB) and [regions] (PDF, 108KB) where you need one.
 
 Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
@@ -123,7 +123,7 @@ Seed potatoes always need a plant passport when moved around the UK or the EU. T
 If you’re exporting to Switzerland, there are different [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447496/plant-passports-switzerland-1.pdf) (PDF, 108KB) and [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf) (PDF, 201KB) that need a 
 passport.
 
-###Supplier documents
+###Check if you need a supplier document
 
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
