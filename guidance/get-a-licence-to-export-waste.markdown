@@ -57,12 +57,13 @@ If you’d like to increase your exports without applying for a new control:
 
 Send your request to:
 
-International Waste Shipments Team 
-Environment Agency 
-Richard Fairclough House 
-Knutsford Road 
-Warrington 
-WA4 1HT 
+
+International Waste Shipments Team    
+Environment Agency   
+Richard Fairclough House   
+Knutsford Road    
+Warrington   
+WA4 1HT      
 
 
 ###If you need help
