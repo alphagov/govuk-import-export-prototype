@@ -55,7 +55,7 @@ You can apply for a refund from the Environment Agency if you:
 
 * don't send the goods within 12 months
 * if your notification control is rejected 
-* if you withdraw it before you get an answer
+* if you withdraw your application before you get an answer
 
 ###Increase the number of waste shipments
 
