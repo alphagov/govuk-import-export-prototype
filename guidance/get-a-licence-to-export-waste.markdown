@@ -8,8 +8,6 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need controls to export waste inside and outside the EU.
-
 [Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you or if the waste you’re exporting is prohibited, you need to:
 
 * complete the form in the tool if your waste requires Article 18 controls 
