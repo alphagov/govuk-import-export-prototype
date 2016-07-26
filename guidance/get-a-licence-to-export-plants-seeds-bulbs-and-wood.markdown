@@ -9,44 +9,37 @@ topic:
 ---
 You might need a health certificate to prove your plant, seeds, bulbs, wood or related products are free from pests and diseases.
 
-##In the EU
+What you need to do depends on if you’re exporting [within the EU](#plants-within-EU) or [outside the EU](#plants-outside-EU).
 
-You won't need a certificate to move plants plants, seeds, corms, roots or bulbs in most cases.
+###Within the EU
+{:#plants-within-EU}
 
-Certain species will require a plant passport or a supplier document within the UK or the EU.
+You don't need to follow special rules for plants unless you either need:
 
-If you’re moving plants for food, there are different rules[link to food content].
+- a plant passport
+- a supplier document
 
-###When you need a plant passport or document
+###Check if you need a plant passport
 
-Check if your plants need a passport for:
+Some plants need a plant passport. Check the [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446525/plant-passports-plant-products.pdf) (PDF, 212KB), [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446527/plant-passports-seeds.pdf)[bulbs or corns](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446530/plant-passports-bulbs.pdf) and the [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf) (PDF, 108KB) where you need one.
 
-* all mouvements [in the EU including the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446525/plant-passports-plant-products.pdf)(PDF, 212KB) or [to Switzerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447496/plant-passports-switzerland-1.pdf)(PDF, 108KB)
+Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
 
-* protected zones [in the EU including the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf)(PDF, 252KB) or [within Switzerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf)(PDF, 201KB)
-
-If you’re moving goods which will be 'grown on', you’ll need a passport for certain:
-
-* seeds and planting plants [within the EU including the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446527/plant-passports-seeds.pdf) or [going to Swizerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447497/plant-passports-switzerland2.pdf)
-
-* bulbs or corms [within the EU including in the UK](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446530/plant-passports-bulbs.pdf) or [going to Switzerland](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447498/plant-passports-switzerland3.pdf)
-
-You need a supplier document if you’re moving the seeds, roots or any other plant ‘propagation material’ from ornamental plants.
+If you’re exporting to Switzerland, there are different [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447496/plant-passports-switzerland-1.pdf) (PDF, 108KB), [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447497/plant-passports-switzerland2.pdf), [bulbs or corms](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447498/plant-passports-switzerland3.pdf) and the [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf) (PDF, 201KB) that need a 
+passport.
 
 There are different rules if you're [moving soil or prohibited plants](#exporting-prohibited-plants-and-soil).
 
-###When you don't need a supplier document
+###Check if you need a supplier document
 
-You don't need a make supplier documents if:
+You need a supplier document if you’re moving the seeds, roots or any other plant ‘propagation material’ from ornamental plants.
 
-* you goods are for retail sale
+You don't need a supplier document if both:
+
+* your goods are for retail sale
 * you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
 
-You're considered a small producer if:
-
-* you don't trade in plants that are covered by the plant passport scheme
-* you have less than 1,000 metres squared of plants overall and less than 100 metres squared is under protection
-* the charge for 2 inspections would be more than 10% of your turnover
+If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
 ##Get permission to make passports or supplier documents
 
