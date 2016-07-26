@@ -24,36 +24,38 @@ Once you've got one, you need to either:
 ##Apply for a notification control
 
 s1. Register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and start your application.
-s2. Complete a financial guarantee (this must be accepted by the importer before you ship the waste).
+s2. Download and complete the financial guarantee (this must be accepted by the importer before you ship the waste).
 s3. Complete and upload a [movement document](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf)for each shipment (keep a copy of these).
 s4. If your waste is going to another location to be stored or processed before it arrives at its final destination, [attach a completed an interim operation form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf).
 s5. Make sure a copy of the notification control and all supporting documents travels with your goods.
 
-You may need to get insurance before you submit your application as the importing country may ask to see it.
+[Question for SME: Can the movement document and the interim form be found within the online service?]
 
-[Question for SME: How do they attach the form to their application?]
+You may need to get insurance before you submit your application as the importing country may ask to see it.
 
 If you haven't heard back from the EA within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
 
 ###How long it lasts
 
-You’ll have 1 year to ship your goods before your ‘notification control’ expires unless the site you're exporting to has pre-consent status. If they do your control could last up to 3 years.
-
-[Question for SME: Does pre-consent only apply to imports? It says 'receive in the guidance.]
+You’ll have 1 year to ship your goods before your ‘notification control’ expires unless the site you're exporting to has pre-consent status. If they do, your control could last up to 3 years.
 
 ###Fees
 
-You will have to pay a fee for this service.
+You must pay a fee for this service.
 
 The minimum fee for a ‘recovery’ shipment is £1,450 (for example if you’re recycling the waste) and maximum cost is £14,380 for over 500 shipments.
 
-If you’re disposing the waste the minimum cost for one shipment is £1,540 and the maximum cost is £19,500 for 500.
+The minimum cost for disposal of one shipment is £1,540 and the maximum cost is £19,500 for 500.
 
-You'll pay a minimum of £1,700 and maximu  of £24,000 if your journey has an ‘interim’ stop.
-
-You can apply for a refund if you don't send the goods within 12 months, if your notification or rejected or if you withdraw it before you get an answer.
+You'll pay a minimum of £1,700 and maximumof £24,000 if your journey has an ‘interim’ stop.
 
 [Question for SME: Will they be sent an invoice?]
+
+You can apply for a refund from the Environment Agency if you:
+
+* don't send the goods within 12 months
+* if your notification control is rejected 
+* if you withdraw it before you get an answer
 
 ###Increase the number of waste shipments
 
