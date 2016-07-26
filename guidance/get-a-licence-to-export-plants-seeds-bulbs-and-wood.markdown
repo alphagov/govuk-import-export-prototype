@@ -45,7 +45,7 @@ You don't need a supplier document if both:
 
 If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
-##Get permission to make passports or supplier documents
+###Get permission to make passports or supplier documents
 
 You need to either:
 
@@ -110,7 +110,7 @@ If you want to create a supplier document you can follow the same process but ad
 
 If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
 
-## Keeping records
+###Keeping records
 
 You must keep all plant passports that you issue for 1 year so that APHA can investigate any pest or disease outbreaks.
 
@@ -183,30 +183,23 @@ You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/
 * you're not registered for VAT 
 * your certified exports were worth less £5,000 in the last financial year
 
-##Exporting prohibited plants and soil
-
-[Check Annexe III](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF) to find the list of plants which are banned by the EU. 
-
-There will be extra rules to move these inside the EU and there might be rules to export them outside the EU (if the importing country has some).
-
 ##Getting a plant passport for timber or wood
 
-What you need to do depends on if you’re exporting [within the EU](#plants-within-EU) or [outside the EU](#plants-outside-EU).
+What you need to do depends on if you’re exporting within the EU or outside the EU.
 
-##Within the EU
+###Within the EU
 
 If you’re exporting wood  you’ll need to [register with the Forestry Commission](http://www.forestry.gov.uk/forestry/infd-9nrkps#apply) and you might also need to apply for a plant certificate.
 
 [Check the list](http://www.forestry.gov.uk/forestry/INFD-9P2M34) of timber and wood that need a plant certificate - [this process for making one is different](http://www.forestry.gov.uk/forestry/infd-9nrkps#2 Issuing plant passports). 
 
-##Outside the EU
+###Outside the EU
 
 Contact the importing country’s National Plant Protection Organisation to [check their plant health regulation](https://www.ippc.int/en/countries/all/list-countries/).
 
 If you’re exporting wood as packaging for your goods, [there are different rules](link to guide of packaging regulations].
 
-
-##Prohibited plants and soil
+##Exporting prohibited plants and soil
 
 You can't usually export:
 
@@ -237,7 +230,7 @@ If the recipient tells you that you don’t need a letter of authority, ask for 
 
 [Question for SME: Does the inspection only happen for the person who gets a licence (the importer)?]
 
-##Outside the EU
+###Outside the EU
 
 [Contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out what you need to do, including what the rules are in the country you're exporting to.
 
