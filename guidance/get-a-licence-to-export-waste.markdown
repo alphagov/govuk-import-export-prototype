@@ -8,18 +8,18 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need special permission to export waste inside and outside the EU.
+You need controls to export waste inside and outside the EU.
 
-[Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you or if the waste you’re exporting is prohibited.
- 
-##Get permission to export waste
+[Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you or if the waste you’re exporting is prohibited, you need to:
 
-If the waste you want to export isn't prohibited, you need to create a contract between you and the business you're sending waste to before you apply for controls.
-
-Once you've got one, you need to either:
-
-* complete the form in the [waste export control tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) if your waste requires Article 18 controls 
+* complete the form in the if your waste requires Article 18 controls 
 * come back to this page if you need a notification control
+
+$CTA
+
+You need to create a contract between you and the business you're sending waste to before you ship your waste.
+
+$CTA
 
 ##Apply for a notification control
 
