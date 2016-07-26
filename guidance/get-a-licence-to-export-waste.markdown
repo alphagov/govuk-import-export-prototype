@@ -13,11 +13,11 @@ topic:
 * complete the form in the tool if your waste requires Article 18 controls 
 * come back to this page if you need a notification control
 
-You need to create a contract between you and the business you're sending waste to before you ship your waste.
+You need to create a contract between you and the business you're sending waste to before you ship it.
 
 $CTA
 
-Exporting hazardous or household waste is prohibited. So is waste for disposal except in special circumstances, for example if there's an emergency or a trial for new technology. 
+Exporting hazardous or household waste is prohibited. So is waste for disposal except in very special circumstances, for example if there's an emergency or a trial for new technology. 
 
 $CTA
 
@@ -32,7 +32,7 @@ s5. Make sure a copy of the notification control and all supporting documents tr
 
 You may need to get insurance before you submit your application as the importing country may ask to see it.
 
-If you haven't heard back from the EA within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
+If you haven't heard back from the Environment Agency within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
 
 ###How long it lasts
 
@@ -42,11 +42,7 @@ You’ll have 1 year to ship your goods before your ‘notification control’ e
 
 You must pay a fee for this service.
 
-The minimum fee for a ‘recovery’ shipment is £1,450 (for example if you’re recycling the waste) and maximum cost is £14,380 for over 500 shipments.
-
-The minimum cost for disposal of one shipment is £1,540 and the maximum cost is £19,500 for 500.
-
-You'll pay a minimum of £1,700 and maximum of £24,000 if your disposal journey has an ‘interim’ stop.
+The minimum fee for a 'recovery' shipment is £1,450 (for example if you’re recycling the waste) and maximum cost is £14,380 for over 500 shipments. You'll be told the exact fee in your notification control application.
 
 [Question for SME: Will they be sent an invoice?]
 
