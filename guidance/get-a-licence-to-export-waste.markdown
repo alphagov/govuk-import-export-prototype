@@ -12,24 +12,25 @@ You need controls to export waste inside and outside the EU.
 
 [Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you or if the waste you’re exporting is prohibited, you need to:
 
-* complete the form in the if your waste requires Article 18 controls 
+* complete the form in the tool if your waste requires Article 18 controls 
 * come back to this page if you need a notification control
+
+You need to create a contract between you and the business you're sending waste to before you ship your waste.
 
 $CTA
 
-You need to create a contract between you and the business you're sending waste to before you ship your waste.
+Exporting waste for disposal, hazardous or household waste is prohibited except in special circumstances, for example if there's an emergency or a trial for new technology. 
 
 $CTA
 
 ##Apply for a notification control
 
 s1. Register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and start your application.
-s2. Download and complete the financial guarantee (this must be accepted by the importer before you ship the waste).
-s3. Complete and upload a [movement document](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf)for each shipment (keep a copy of these).
-s4. If your waste is going to another location to be stored or processed before it arrives at its final destination, [attach a completed an interim operation form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf).
+s2. Download and complete the financial guarantee (this must be accepted before you ship the waste).
+s3. If your waste is going to another location to be stored or processed before it arrives at its final destination, [attach a completed an interim operation form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf)or 'movement document'.
 s5. Make sure a copy of the notification control and all supporting documents travels with your goods.
 
-[Question for SME: Can the movement document and the interim form be found within the online service?]
+[Question for SME: Can the movement document and the interim form be found within the online service? How to users know their financial guarantee has been accepted?]
 
 You may need to get insurance before you submit your application as the importing country may ask to see it.
 
