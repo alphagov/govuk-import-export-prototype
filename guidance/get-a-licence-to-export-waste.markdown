@@ -13,7 +13,7 @@ topic:
 * complete the form in the tool if your waste requires Article 18 controls 
 * come back to this page if you need a notification control
 
-You need to create a contract between you and the business you're sending waste to before you ship it.
+Create a contract between you and the business you're sending waste to before you ship it.
 
 $CTA
 
