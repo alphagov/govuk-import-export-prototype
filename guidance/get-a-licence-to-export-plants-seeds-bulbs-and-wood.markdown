@@ -28,7 +28,11 @@ Seed potatoes always need a plant passport when moved around the UK or the EU. T
 If you’re exporting to Switzerland, there are different [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447496/plant-passports-switzerland-1.pdf) (PDF, 108KB), [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447497/plant-passports-switzerland2.pdf), [bulbs or corms](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447498/plant-passports-switzerland3.pdf) and the [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf) (PDF, 201KB) that need a 
 passport.
 
+$CTA
+
 There are different rules if you're [moving soil or prohibited plants](#exporting-prohibited-plants-and-soil).
+
+$CTA
 
 ###Check if you need a supplier document
 
