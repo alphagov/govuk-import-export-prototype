@@ -116,7 +116,7 @@ You don't need to follow special rules for plants unless you either need:
 - a supplier document
 
 ###Check if you need a plant passport
-Some plants need a plant passport - for example apples, citrus fruits, hops and beets. Check the [plants] (PDF, 212KB) and [regions] (PDF, 108KB) where you need one.
+Some plants need a plant passport - for example apples, citrus fruits, hops and beets. Check the [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446525/plant-passports-plant-products.pdf) (PDF, 212KB) and [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf) (PDF, 108KB) where you need one.
 
 Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
 
@@ -127,7 +127,7 @@ passport.
 
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
-You don't need a supplier document if [both or either?]:
+You don't need a supplier document if both:
 
 * your goods are for retail sale
 * you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
@@ -136,9 +136,17 @@ If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/gover
 
 ###Apply for a plant passport or supplier document
 
-Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) if you need a plant passport or supplier document. They can also tell you what to do if you want to produce your own.
+Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) if you need a plant passport or supplier document to travel with your goods. They can also tell you what to do if you want to create your own.
 
-[Question for SME: how much does a passport / document cost? How long are they valid for? What does the user do with them when they have them?
+You’ll have to have an inspection and  pay £46.10 for every 15 mins that an inspection takes, (including the time it takes inspectors to travel to your site).
+
+The minimum fee for any inspection is £92.19. 
+
+You have to pay these fees again if you need more plant passports the next year.
+
+There is no charge for supplier documents 
+
+[Question for SME: How much is the charge to have a passport and can you have a supplier document made for you?]
 
 ###Outside the EU
 {:#plants-outside-EU}
@@ -289,9 +297,9 @@ $CTA
 
 ###Australia  
 
-| country  | need an import permit | pests to test for | 
+| country  | plant health certificate | need an import permit | pests to test for | 
 |-----------|---------------------------|--------------------|                                  
-| Australia | yes | send a sample and request an admixture test from APHA |
+| Australia | yes | yes | send a sample and request an admixture test from APHA |
 
 ###Apply for a plant health certificate for grain
 {:#plant-health-certificate-grain}
