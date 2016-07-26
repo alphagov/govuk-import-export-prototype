@@ -91,7 +91,7 @@ You need replacement passport if you split a consignment of plants which already
 
 [Question for SME: Do we need to add that the original supplier might be them?]
 
-^If you don't want to share supplier details you can put your own code on the passport and record the supplier number in case AHPA ask.^
+^If you don't want to share supplier details you can put your own code on the passport and record the supplier number in case APHA ask.^
 
 ###Creating a supplier document
 
@@ -112,10 +112,6 @@ You must keep all plant passports that you issue for 1 year so that APHA can inv
 
 You don’t have to keep supplier documents, unless part of them forms the plant passport.
 
-## Paying APHA to issue plant passports
-
-You can also [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) and pay them to issue plant passports for you.
-
 ##Getting a plant passport for timber or wood
 
 If you’re exporting wood  you’ll need to [register with the Forestry Commission](http://www.forestry.gov.uk/forestry/infd-9nrkps#apply) and you might also need to apply for a plant certificate.
@@ -126,23 +122,24 @@ If you’re exporting wood  you’ll need to [register with the Forestry Commiss
 
 ##Exporting plants from England or Wales
 
-You’ll need a health certificate (‘phytosanitary certificate’) to export:
+
+Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export:
 
 * plants and plant products
 * bulbs
 * seeds for sowing
 
-###Getting a plant health certificate in England and Wales 
+Check with the country that you’re exporting to find if you need a certificate.
 
-If you’re exporting seeds for sowing an inspector will have to come to your site to take a sample. If you pass you’ll get a certificate which will be valid for 2 years.
+$CTA
 
-If you’re exporting flower bulbs or plants in a ‘dormant state’ you have to get a ‘growing season inspection’ to check for pests that don’t come up at the time of export - this might be required for other plants.
+You apply a different way to export plants from [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
 
-If you’re already part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme) you may be able to show your results to get your certificate.
+$CTA
 
-###Apply for inspection
+###Applying for a plant health certificate in England and Wales 
 
-You must fill in a form and send it to [your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate) for:
+You must apply for your plants to be tested by filling in the appropriate form for:
 
 * [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
 
@@ -152,54 +149,40 @@ You must fill in a form and send it to [your local AHPA office](https://www.gov.
 
 * [”growing season inspections”](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf)
 
-* there’s a different [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf) if you’re exporting goods (with a certificate) which came back to England or Wales from a non-EU country and were stored, repacked, or split up
+* plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf)
 
-Contact APHA to check if the country you’re exporting to requires you to test the soil that your crops are grown in - you may need to fill in a [soil form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling).  
+You can contact APHA to check whether you need:
 
-Ask if you need to wash soil from the roots of the plants you export. The USA, New Zealand and other countries require this.
+- a soil inspection for the plants you're exporting - use the [soil inspection form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) if you do
+- to wash soil from the roots of the plants you export - the USA, New Zealand and other countries require this
 
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
+###What type of inspection you need
+
+If you’re exporting seeds for sowing an inspector will have to come to your site to take a sample - your certificate which will be valid for 2 years.
+
+If you’re exporting flower bulbs or plants in a ‘dormant state’ you have to get a inspectation during growing season to check for pests that don’t come up at the time of export - this might be required for other plants.
+
+If you’re already part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme) you may be able to show your results to get your certificate.
+
 ###Fees  
 
-It costs £13.87 to get a plant health certificate.
-
-It costs £65.24 for each 15 minutes of a site inspection.
+It usually costs £13.87 for the plant health certificate and £65.24 for each 15 minutes of a site inspection.
 
 If the inspectors send your goods to a laboratory for testing it will cost £36.35
 The minimum cost of any inspection followed by tests is £130.48
 
-If your crops have a ‘growing inspection’ or soil test, it costs £49.68 for every 15 minutes and a minimum of £99.36.
+If your crops have an inspection during growing season or soil test, it costs £49.68 for every 15 minutes and a minimum of £99.36.
 
 There might be additional charges if your goods need more tests to comply with the importing country’s health rules.
 
 ###Reduced fees
 
-You may be entitled to a 50% discount for the first £500 of APHA services in a financial year if you’re both:
+You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515921/form-phe3.pdf) for the first £500 of APHA services in a financial year if both the following apply:
 
-* not registered for VAT 
-* your certified exports were worth less £5000 in the last financial year
-
-Fill in this [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515921/form-phe3.pdf) to apply.
-
-^You must tell AHPA when you are no longer eligible for this concession
-
-##Exporting plants from Scotland or Northern Ireland
-
-Contact Science and Advice for Scottish Agriculture (SASA) if you’re exporting from Scotland:
-
-$C
-** Horticulture & Marketing Unit **      
-<hort.marketing@scotland.gsi.gov.uk>    
-Telephone: 0131 244 8935  
-$C
-
-
-A20 Roddinglaw Road,
-Edinburgh 
-EH12 9FJ 
-
-[Contact the Department of Agriculture and Rural Development of Northern Ireland (DARDNI)](https://www.daera-ni.gov.uk/contact) if you’re exporting from Northern Ireland.
+* you're not registered for VAT 
+* your certified exports were worth less £5,000 in the last financial year
 
 ##Exporting timber and wood outside the EU
 
@@ -213,54 +196,40 @@ If you’re exporting wood as packaging for your goods, [there are different rul
 
 There will be extra rules to move these inside the EU and there might be rules to export them outside the EU (if the importing country has some).
 
-###Prohibited soil
+##Prohibited plants and soil
 
-This also applies if you're exporting soil (or any material containing organic stuff which you can grow plants in) from any countries outside Europe or from:
+You can't usually export:
 
-* Belarus
-* Moldova
-* Russia
-* Turkey
-* Ukraine
+- prohibited plants - check the [list of plants](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF#page=38) (424kb, PDF) under Annex III
+- prohibited soil - this is all soil from outside Europe, and from Belarus, Moldova, Russia, Turkey or Ukraine
 
-These extra rules doesn't apply to:
+Prohibited soil includes other organic matter you can grow plants in, but not:
 
+* peat
 * marine sediments
-* pure and unused peat
-* pure sand, clay, talc, rocks, volcanic pumice and chalk
-* water that isn’t contaminated by soil or organic matter
+* pure sand, clay, talc, rocks, volcanic pumice or chalk
+* water that isn’t contaminated by soil or organic matter [why would anyone consider water to be soil?! can we delete this line?]
 
-###Moving prohibited plants and soil inside the EU
+How you export prohibited plants and soil depends on whether you're exporting within the EU or outside the EU.
 
-If you’re moving prohibited plants or soil you can only send them to someone who has a licence to receive them.
+###Within the EU
 
-They will have a 'letter of authority' with their licence.
+You can only send prohibited plants or soil to someone who has a licence to receive them. They will have a 'letter of authority' with their licence.
 
-You must
+You must:
 
-* ask them to send you a copy of this letter 
-* send it to AHPA to be endorsed
+* ask the recipient to send you a copy of their 'letter of authority'
+* send it to APHA to be endorsed
 * attach the letter inside and outside all the packages once it's been endorsed
+* store prohibited the plants or soil in 3 layers of packaging - at least 1 of the layers must be escape and shatter-proof
 
-If the recipient tells you that you don’t need a letter of authority, ask them to show you official confirmation of this from their National Plant Protection Organisation (NPPO) - you shouldn’t send your material until you’ve got this confirmation.
+If the recipient tells you that you don’t need a letter of authority, ask for their official confirmation of this from their national plant protection organisation. Don't send your material until you’ve got this.
 
 [Question for SME: Does the inspection only happen for the person who gets a licence (the importer)?]
 
-###Exporting prohibited plants or soil outside the EU
+##Outside the EU
 
-[Contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out what the rules are in the importing country.
-
-###Packaging your prohibited plants or soil
-
-You must make sure any prohibited material you’re moving under a licence is stored in 3 layers of packaging.
-
-At least 1 of the layers must be escape and shatter-proof.
-
-###Get help  
-
-[Contact AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) for help.
-
-
+[Contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out what you need to do, including what the rules are in the country you're exporting to.
 
 
 
