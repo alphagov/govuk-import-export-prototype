@@ -21,7 +21,7 @@ You don't need to follow special rules for plants unless you either need:
 
 ###Check if you need a plant passport
 
-Some plants need a plant passport. Check the [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446525/plant-passports-plant-products.pdf) (PDF, 212KB), [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446527/plant-passports-seeds.pdf),[bulbs or corns] (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446530/plant-passports-bulbs.pdf) and the [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf) (PDF, 108KB) where you need one.
+Some plants need a plant passport. Check the [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446525/plant-passports-plant-products.pdf)(PDF, 212KB),[seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446527/plant-passports-seed.pdf),[bulbs or corns](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446530/plant-passports-bulbs.pdf) and the [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf) (PDF, 108KB) where you need one.
 
 Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
 
