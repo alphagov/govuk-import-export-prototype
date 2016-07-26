@@ -19,7 +19,7 @@ You need to create a contract between you and the business you're sending waste 
 
 $CTA
 
-Exporting waste for disposal, hazardous or household waste is prohibited except in special circumstances, for example if there's an emergency or a trial for new technology. 
+Exporting hazardous or household waste is prohibited. So is waste for disposal except in special circumstances, for example if there's an emergency or a trial for new technology. 
 
 $CTA
 
