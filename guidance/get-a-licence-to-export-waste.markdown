@@ -62,7 +62,7 @@ You can apply for a refund from the Environment Agency if you:
 If you’d like to increase your exports without applying for a new control:
 
 * send the written request to the Environment Agency before any extra shipments take place
-* get written consent for your extra shipments from the importing country’s competent authorities’ (these are listed in your notification control application)
+* get written consent for your extra shipments from the importing country’s competent authorities’ (their contact details are listed in your notification control application)
 * not exceed the maximum tonnage detailed in your notification document
 
 Send your request to:
