@@ -47,7 +47,7 @@ The minimum fee for a ‘recovery’ shipment is £1,450 (for example if you’r
 
 The minimum cost for disposal of one shipment is £1,540 and the maximum cost is £19,500 for 500.
 
-You'll pay a minimum of £1,700 and maximumof £24,000 if your journey has an ‘interim’ stop.
+You'll pay a minimum of £1,700 and maximum of £24,000 if your disposal journey has an ‘interim’ stop.
 
 [Question for SME: Will they be sent an invoice?]
 
