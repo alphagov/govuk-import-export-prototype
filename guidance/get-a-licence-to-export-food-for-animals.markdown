@@ -30,123 +30,71 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You’ll need permission if you’re exporting pet food and animal feed to certain countries. 
+You need permission to export animal feed and pet food. What you need to do depends on if you’re exporting [within the EU] or [outside the EU].
 
 ##Within the EU 
 
-You need an Intra Trade Animal Health Certificate (ITAHC) to move food for animals within the EU. You need one for each product type.
+You need to apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal feed or pet food that you’re moving within the EU.
 
 [Question for SME: how much does it cost to get a certificate?]
 
 [Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
 
-###Applying for an ITAHC
+s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
+s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
+s3. Sign in to TRACES and fill in the details of animal product you're exporting.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) - tell them that the ITAHC has been created and give them details of your official veterinarian.
 
-Apply by using the EU’s Trade Control and Expert System (TRACES). 
+Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-You can either:
-
-- [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of the animal food you're exporting - you must tell the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official vet (OV)
-- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf)(PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) 
-
-Once you have your ITAHC, you must keep it for 3 years.
-
-###Nominate a vet
-
-You must nominate an official veterinarian (OV) to inspect your goods when you apply. You can either:
-
-- ask your local veterinary practice if there’s an OV working there
-- email <ovteam@alpha.gsi.gov.uk> or phone or write to the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester))
-
-Your ITAHC will be valid for 10 days after the inspection.
+Your ITAHC will be valid for 10 days after the inspection. You must keep it for 3 years.
 
 [Question for SME: Does the exporter need to do anything else once the vet has signed it?]
 
-###If there isn’t an ITAHC for your type of animal food
-
-[Contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply.
+If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 ##Outside the EU
 
-You need an Export Health Certificate (EHC) to export food for animals outside of the EU. 
+To export animal feed and pet food outside the EU, you need to:
 
-You must check that your EHC meets the requirements of the country you’re exporting to and if there are any other rules.
+- apply for an Export Health Certificate (EHC)
+- check if you need a certificate of free sale - ask the country you’re exporting to
 
+###Apply for an Export Health Certificate (EHC)
 
-###Apply for an EHC
+s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
+s2. Check the [list of EHCs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB). Note the EHC number of what you’re exporting.
+s3. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) to get the application form and a copy of the EHC. Tell them the EHC number you require and the details of your official veterinarian.
+s4. Fill in the form and the EHC and return them. The address is on the form. 
+s5. Your official veterinarian will be asked to check if your products meet the requirements of the country you’re sending them to.
+s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). Check your EHC’s guidance notes to find out.
 
-Check the [list of EHCs that are available](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB).
+When you get your completed EHC, you must keep it for at least 2 years.
 
-Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) to get application form and a copy of the EHC.
+###Apply for a certificate of free sale
+The country you’re exporting to may require you to have a 'certificate of free sale'.
 
-Send the form and EHC back to them once you've completed both.
+s1. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB).
+s2. Send it to <trader@rpa.gsi.gov.uk>. 
+s3. You’ll usually get your certificate within 5 working days.
 
-You must keep this document for at least 2 years.
+It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
 
-###Nominate a vet
+###Help with certificates of free sale
 
-You must nominate an official veterinarian (OV) when you apply to get an EHC.
+Contact the Rural Payments Agency (RPA).
 
-Your OV can carry out any examination, inspection, testing, sampling or treatment to check if a consignment meets the requirements of the destination country.
-
-###Get your EHC signed
-
-Check the ‘Notes For Guidance’ that come with your EHC to find out if you need to get it signed by a local authority inspector or OV.
-
-Contact [your local authority] to get your EHC signed by an inspector.
-
-###Create a new EHC
-
-Sometimes there won’t be an available EHC for your consignment and destination (eg because of a trade ban or lack of demand).
-
-Talk to your importer to find out about import conditions in the country you want to export to.
-
-Send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) for them to consider negotiating a new EHC.
-
-##Additional rules outside the EU
-
-If you’re exporting outside the EU, you may need a Certificate of Free Sale for the following products.
-
-Check with the importing country’s authority or embassy.
-
-If you're asked for a CFS for animal food which isn’t on this list, contact the Rural Payments Agency (RPA).
-
-###Apply
-
-Fill in the [application](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html)(MS Word Document, 122KB).
-
-Send it to trader@rpa.gsi.gov.uk, you’ll usually get your certificate within 5 working days.
-
-It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
-
-##If you need help
-
-Contact the RPA.
-
-$C 
-
-**Rural Payments Agency**       
+**Rural Payments Agency**         
 Telephone: 03000 200 301  
-Monday to Friday, 8.30am to 5pm  
-[Find out about call charges](/call-charges)      
+Monday to Friday: 8.30am to 5pm  
+[Find out about call charges](/call-charges)    
 
-$C
+##Exporting feed with unauthorised additives outside the EU
 
-##Exporting unauthorised feed additives 
+Additives used in animal feed in the EU must be authorised. 
 
-There are certain rules about which additives you can put into animal food within the EU. Check [part 1](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03.pdf) and [2](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03_annex2.pdf) of the EU register to see which ones are allowed.
+Check [part 1](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03.pdf) and [2](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03_annex2.pdf) of the EU register to see which ones are allowed.
 
-If your feed contains additives which aren't listed you can export outside the EU if:
+You can export feed with additives that aren’t on this list outside the EU if you get authorisation from the country you’re exporting to.
 
-* you get proof from the importing country that they are authorised there 
-* you tell the Food Standards Agency (FSA) if they're going to be exported through another EU country
-
-You must [contact FSA](https://www.food.gov.uk/business-industry/farmingfood/animalfeed/animalfeedlegislation/export-unauthorised-feed) and give them:
-
-* the name and type of product - including details of the unauthorised additives
-* batch number
-* quantity
-* date of despatch
-* point of exit from the UK, the EU country they're going to and any contact details in that country
-* final country of destination and contact details of the importer 
-* point of entry in any EU countries and in the final destination country
+If you’re exporting via another EU country, you must also [contact the Food Standards Agency and Veterinary Medicines Directorate](https://www.food.gov.uk/business-industry/farmingfood/animalfeed/animalfeedlegislation/export-unauthorised-feed). 
