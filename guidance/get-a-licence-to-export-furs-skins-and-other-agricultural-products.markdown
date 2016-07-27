@@ -13,7 +13,7 @@ You need permission to export animal by-products, for example:
 * skins, hides and wool   
 * bones, carsasses, blood and gelatin
 * manure
-* semen, ova, embryos and other germplasm from cattle, sheep, goats and pigs 
+* semen, ova, embryos and other germplasm from cattle or pigs 
 
 There are different rules for animal by-products that:
 
