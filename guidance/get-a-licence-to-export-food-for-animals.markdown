@@ -14,22 +14,6 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
----
-layout: guidance
-title: Get a licence to export food for animals
-summary: You must get permission to export food for animals
-breadcrumbs:
- - name: Home
-   url: '/'
- - name: Business and self employed
-   url: '/'
- - name: Exporting and doing business abroad
-   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'  
-topic:
-  name: Exporting and doing business abroad
-  url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
----
-
 You need permission to export animal feed and pet food. What you need to do depends on if you’re exporting [within the EU] or [outside the EU].
 
 ##Within the EU 
