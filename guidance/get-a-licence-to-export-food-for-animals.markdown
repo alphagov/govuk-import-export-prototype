@@ -14,6 +14,22 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
+---
+layout: guidance
+title: Get a licence to export food for animals
+summary: You must get permission to export food for animals
+breadcrumbs:
+ - name: Home
+   url: '/'
+ - name: Business and self employed
+   url: '/'
+ - name: Exporting and doing business abroad
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'  
+topic:
+  name: Exporting and doing business abroad
+  url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
+---
+
 You’ll need permission if you’re exporting pet food and animal feed to certain countries. 
 
 ##Within the EU 
@@ -89,11 +105,7 @@ Send any officially-issued import conditions to [Centre for International Trade 
 
 ##Additional rules outside the EU
 
-If you’re exporting outside the EU, you may need a Certificate of Free Sale for the following products:
-
-* protein crops for animals 
-* animal feeding stuff
-* pet food
+If you’re exporting outside the EU, you may need a Certificate of Free Sale for the following products.
 
 Check with the importing country’s authority or embassy.
 
@@ -138,4 +150,3 @@ You must [contact FSA](https://www.food.gov.uk/business-industry/farmingfood/ani
 * point of exit from the UK, the EU country they're going to and any contact details in that country
 * final country of destination and contact details of the importer 
 * point of entry in any EU countries and in the final destination country
-
