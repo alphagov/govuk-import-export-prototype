@@ -1,4 +1,5 @@
 ---
+
 layout: guidance
 title: Export energy related goods and services to Russia
 summary: You must have a licence to export energy related goods and services.
@@ -9,7 +10,9 @@ topic:
   
 ---
 
-It’s a criminal offence to export any energy related goods and services without a licence that are subject to EU sanctions against Russia.
+It’s a criminal offence to export certain equipment used to drill for oil or gas to Russia without a licence.
+
+Check the list of [goods and services](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1) covered by EU sanctions that need a licence.
 
 ##Goods and services you can’t export
 
@@ -18,7 +21,6 @@ There’s a complete ban on exporting goods or services for use in:
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
 
-Download a full list of [goods and services](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1) that need a licence.
 
 ##Apply for an export licence
 
@@ -32,8 +34,6 @@ Applications take around 20 working days, but can take longer if the Export Cont
 
 ##Trafficking and brokering
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for a trade control licence.
-
 You must have a trade control licence if you or your company is involved in:
 
 - trafficking
@@ -46,6 +46,8 @@ Trafficking and brokering can include anything that helps to transfer items from
 - arranging or negotiating sales
 - arranging intra company transfers
 - drop shipping
+
+Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for a trade control licence.
 
 [How much does a licence cost?]
 
@@ -68,5 +70,6 @@ ECO helpline <br>
 Email: <eco.help@bis.gsi.gov.uk> <br>
 Telephone: 0202 7215 4594 <br>
 Fax: 020 7215 2635 <br>
+
 
 
