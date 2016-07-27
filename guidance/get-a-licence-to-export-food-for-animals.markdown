@@ -14,7 +14,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need permission to export animal feed and pet food. What you need to do depends on if you’re exporting [within the EU] or [outside the EU].
+You need permission to export animal feed and pet food. What you need to do depends on if you’re exporting [within the EU](#within-the eu) or [outside the EU](#outside-the-eu).
 
 ##Within the EU 
 
