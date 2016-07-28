@@ -10,8 +10,8 @@ topic:
 
 You may need a licence or follow special rules to export:
 
-- [processed foods](#processed-foods)
-- [meat, dairy and other animal products](#meat-dairy-animal-products), eg fresh or frozen meat, fish, dairy, honey, gelatine
+- [processed foods](#processed-foods) like flour, spices and alcholic beverages
+- [meat, dairy and other animal products](#meat-dairy-animal-products) like fresh or frozen meat, fish, dairy, honey, gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
 - [sugar, cereals and rice](sugar) (outside the EU only)
@@ -29,9 +29,7 @@ $CTA
 
 Within the EU, you don't need a licence or follow special rules to move processed foods.
 
-Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'.
-
-If you're exporting  processed fish products to Australia or New Zealand
+Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'. In special cases, you might also need an [export health certificate](#meat-dairy-animal-products-outside-EU) if your food or drink contains animal products.
 
 ###Apply for a certificate of free sale
 
@@ -50,13 +48,13 @@ Telephone: 03000 200 301
 Monday to Friday: 8.30am to 5pm  
 [Find out about call charges](/call-charges)      
 
-##Unprocessed animal products
-{:#unprocessed-animal-products}
+##Meat, dairy and other animal products
+{:#meat-dairy-animal-products}
 
 You need a certificate to export unprocessed animal products that will be used as food, for example:
 
-- meat and fish
-- dairy
+- frozen or fresh meat and fish
+- dairy products
 - honey
 - gelatine, lard or blood
 
@@ -91,7 +89,7 @@ Your ITAHC will be valid for 10 days after the inspection.
 If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 ###Outside the EU
-{:#unprocessed-animal-products-outside-EU}
+{:#meat-dairy-animal-products-outside-EU}
 
 You need to apply for an Export Health Certificate (EHC) to export unprocessed animal products outside the EU.
 
