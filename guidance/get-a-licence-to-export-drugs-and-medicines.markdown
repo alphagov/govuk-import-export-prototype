@@ -124,12 +124,10 @@ You can get extra copies of certificates for £34 each.
 
 ##Export controlled drugs
 
-You'll need a licence to export ‘controlled drugs’ eg morphine, cannabis.
+You'll need a licence to export ‘controlled drugs’ - for example, morphine or codeine.
 
 s1. Check the current [list of controlled drugs](/government/publications/controlled-drugs-list--2).
-s2. Get named applicants an [enhanced disclosure check](#dbs).
-s3. Apply for a [controlled drugs licence](#apply-licence).
-s4. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
+s2. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
 
 
 ###Get an enhanced disclosure check
@@ -153,7 +151,7 @@ $C
 
 Once you’re registered, [log into your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a licence.
 
-You should get a decision within 16 weeks.
+If your application is successful, licences are usually sent out within 10 working days.
 
 [SME question: How much does this licence cost? Whar can they do if they haven't got a decision after 16 weeks? How lomng is this licence valid for?]
 
@@ -162,17 +160,15 @@ You should get a decision within 16 weeks.
 
 You’ll also need to [register for an account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) to apply for an export licence from the National Drugs control System (NDS).
 
-You must submit a copy of the import permit from the country you’re importing to. You’ll also need to [send the Drug Licensing and Compliance Unit](#contact-dlcu) (DLCU) the original import permit. 
-
-You must put your [company number](https://www.gov.uk/get-information-about-a-company) in the notes field of your NDS application.
+You must submit a copy of the import permit from the country you’re importing to.
 
 Your licence will be valid for up to 2 months. If the import licence of the country you’re exporting to is valid for less than 2 months, your licence will be issued for the same length of time.
 
 #####Fees
 
-The export licence costs £24. A replacement licence costs £45.
+The export licence costs £24.
 
-DLCU will send you a written invoice to the registered address on your customer account.
+DLCU will email you an invoice.
 
 If you need a purchase order number to be quoted on the invoice, please state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
 
@@ -228,16 +224,6 @@ Occasional exporters will need to apply for individual export authorisations for
 You must send a valid import permit from the competent authority with your application.
 
 [SME question: Where do you send your permit?]
-
-####Schedule 1 controlled drugs
-
-Each shipment of schedule 1 controlled drugs will require:
-
-- an individual export authorisation application
-- a valid import permit from the relevant authorities in the country where you’re exporting to
-- a domestic export licence
-
-[SME question: how do users get an individual export authorisation application and a domestic export licence?]
 
 ####Renew your licence
 
