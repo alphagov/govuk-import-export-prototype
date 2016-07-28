@@ -11,7 +11,7 @@ topic:
 You may need a licence or follow special rules to export:
 
 - [processed foods](#processed-foods)
-- [unprocessed animal products](#unprocessed-animal-products), eg meat, fish, dairy, honey, gelatine
+- [meat, dairy and other animal products](#meat-dairy-animal-products), eg fresh or frozen meat, fish, dairy, honey, gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
 - [sugar, cereals and rice](sugar) (outside the EU only)
@@ -30,6 +30,8 @@ $CTA
 Within the EU, you don't need a licence or follow special rules to move processed foods.
 
 Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'.
+
+If you're exporting  processed fish products to Australia or New Zealand
 
 ###Apply for a certificate of free sale
 
@@ -67,7 +69,7 @@ There are different rules for animal products that will be used as [food for ani
 $CTA
 
 ###Within the EU
-{:#unprocessed-animal-products-within-EU}
+{:#meat-dairy-animal-products-within-EU}
 
 You need to apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal product that you’re moving within the EU.
 
