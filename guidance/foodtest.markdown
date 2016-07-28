@@ -51,7 +51,7 @@ Monday to Friday: 8.30am to 5pm
 ##Meat, dairy and other animal products
 {:#meat-dairy-animal-products}
 
-You need a certificate to export animal products that will be used as food, for example:
+You need a commercial to export animal products that will be used as food, for example:
 
 - frozen or fresh meat and fish
 - dairy products
@@ -69,24 +69,11 @@ $CTA
 ###Within the EU
 {:#meat-dairy-animal-products-within-EU}
 
-You need to apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal product that you’re moving within the EU.
+You need to create a commercial document for animal products which will be eaten by humans. This should include:
 
-[Question for SME: how much does it cost to get a certificate?]
-
-[Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
-
-s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
-s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
-s3. Sign in to TRACES and fill in the details of animal product you're exporting.
-s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) - tell them that the ITAHC has been created and give them details of your official veterinarian.
-
-Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
-
-Your ITAHC will be valid for 10 days after the inspection.
-
-[Question for SME: Does the exporter need to do anything else once the vet has signed it?]
-
-If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+* details of the content of the consignment
+* your contact details
+* details of the business or person you're sending your goods to
 
 ###Outside the EU
 {:#meat-dairy-animal-products-outside-EU}
