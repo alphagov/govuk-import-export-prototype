@@ -121,7 +121,6 @@ You don’t have to keep supplier documents, unless part of them forms the plant
 
 ##Exporting plants from England or Wales
 
-
 Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export:
 
 * plants and plant products
@@ -211,7 +210,6 @@ Prohibited soil includes other organic matter you can grow plants in, but not:
 * peat
 * marine sediments
 * pure sand, clay, talc, rocks, volcanic pumice or chalk
-* water that isn’t contaminated by soil or organic matter [why would anyone consider water to be soil?! can we delete this line?]
 
 How you export prohibited plants and soil depends on whether you're exporting within the EU or outside the EU.
 
