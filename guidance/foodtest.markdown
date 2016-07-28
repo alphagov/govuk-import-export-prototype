@@ -51,7 +51,7 @@ Monday to Friday: 8.30am to 5pm
 ##Meat, dairy and other animal products
 {:#meat-dairy-animal-products}
 
-You need a certificate to export unprocessed animal products that will be used as food, for example:
+You need a certificate to export animal products that will be used as food, for example:
 
 - frozen or fresh meat and fish
 - dairy products
