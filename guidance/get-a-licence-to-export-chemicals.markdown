@@ -27,16 +27,16 @@ $CTA
 You may need a licence, including if you trade within the EU, for exports of:
 
 - chemicals with [military or potential military uses](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
-- [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or chemicals that can be used to make them (‘[precursors](#precursors)’)
+- [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or chemicals that can be used to make them (‘[drug precursors](#precursors)’)
 - [ozone-depleting substances](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html), eg HCFCs
 - [barbiturates](/guidance/get-a-licence-to-export-drugs-and-medicines.html#export-barbiturates) that can be used in lethal injections
 
-###Precursor chemicals
+###Drug precursor chemicals
 {:#precursors}
 
-You may need a licence or to follow special rules to export precursor chemicals. This includes moving them within the EU.
+You may need a licence or to follow special rules to export drug precursor chemicals. This includes moving them within the EU.
 
-Precursors are chemicals that can be used to manufacture controlled drugs. The table shows precursors and their category - this affects what you need to do to move or export them.
+Precursors are chemicals that can be used to manufacture controlled drugs. The table shows drug precursors and their category - this affects what you need to do to move or export them.
 
 
 | Precursor                                   | Category |
@@ -66,7 +66,7 @@ Precursors are chemicals that can be used to manufacture controlled drugs. The t
 | Toluene                                     | 3        |
 | Sulphuric acid                              | 3        |
 
-The rules for precursor chemicals also apply to products that include them unless:
+The rules for drug precursor chemicals also apply to products that include them unless:
 
 - the product is for medicinal use by humans (ephedrine and pseudoephedrine are exceptions to this that always need an export licence)
 - the precursor chemical can’t be easily used or extracted 
