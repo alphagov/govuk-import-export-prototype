@@ -18,7 +18,7 @@ You need permission to export animal feed and pet food. What you need to do depe
 
 ##Within the EU 
 
-You need to apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal feed or pet food that you’re moving within the EU.
+You need to apply for an Intra Trade Animal Health Certificate (ITAHC) if you move meat animal feed or pet food around the EU. You don't need an extra document for animal or pet feed of plant origin.
 
 [Question for SME: how much does it cost to get a certificate?]
 
@@ -39,7 +39,7 @@ If there isn’t an ITAHC for your type of animal product, [contact the Animal a
 
 ##Outside the EU
 
-To export animal feed and pet food outside the EU, you need to:
+To export most types of animal feed and pet food outside the EU, you need to:
 
 - apply for an Export Health Certificate (EHC)
 - check if you need a certificate of free sale - ask the country you’re exporting to
