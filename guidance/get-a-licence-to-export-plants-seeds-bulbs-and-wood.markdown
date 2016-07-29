@@ -7,7 +7,11 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-You might need a health certificate to prove your plant, seeds, bulbs, wood or related products are free from pests and diseases.
+You might need a health certificate to prove your plant, seeds, bulbs, wood or related products are free from pests and diseases. 
+
+There are different rules if your plant is endangered or prohibited.
+
+##The normal rules for plants
 
 What you need to do depends on if you’re exporting [within the EU](#plants-within-EU) or [outside the EU](#plants-outside-EU).
 
@@ -182,7 +186,7 @@ You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/
 * you're not registered for VAT 
 * your certified exports were worth less £5,000 in the last financial year
 
-##Getting a plant passport for timber or wood
+##Exporting timber or wood
 
 What you need to do depends on if you’re exporting within the EU or outside the EU.
 
