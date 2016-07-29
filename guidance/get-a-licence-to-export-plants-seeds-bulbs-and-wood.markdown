@@ -123,8 +123,6 @@ You don’t have to keep supplier documents, unless part of them forms the plant
 ###Outside the EU
 {:#plants-outside-EU}
 
-##Exporting plants from England or Wales
-
 Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export:
 
 * plants and plant products
@@ -210,8 +208,7 @@ The rules on exporting endangered plants are different depending on whether you�
 
 You don’t usually need a permit or licence to move endangered species around the EU unless your plant is listed in [appendix 1](http://www.speciesplus.net/).
 
-These types of plants can’t be used for commercial purposes but there are special circumstances when they can be traded with an internal trade certificate
- (for example if the plants were bred artificially and passed on to ensure the species survives).
+These types of plants can’t be used for commercial purposes but there are special circumstances when they can be traded with an internal trade certificate (for example if the plants were bred artificially and passed on to ensure the species survives).
 
 [Check with AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) if you think this could apply to you.
 
