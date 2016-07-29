@@ -198,6 +198,38 @@ Contact the importing country’s National Plant Protection Organisation to [che
 
 If you’re exporting wood as packaging for your goods, [there are different rules](link to guide of packaging regulations].
 
+##Exporting endangered plants
+
+The rules on exporting endangered plants are different depending on whether you’re within the EU or outside the EU
+
+###Within the EU
+
+You don’t usually need a permit or licence to move endangered species around the EU unless your plant is listed in [appendix 1](http://www.speciesplus.net/).
+
+These types of plants can’t be used for commercial purposes but there are special circumstances when they can be traded with an internal trade certificate
+ (for example if the plants were bred artificially and passed on to ensure the species survives).
+
+[Check with AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) if you think this could apply to you.
+
+###Outside the EU
+
+You must apply for a Convention on International Trade in Endangered Species (CITES) permit before you export endangered animals. 
+
+Check if the plant you want to export is [controlled by CITES.](http://www.speciesplus.net/)
+
+^You can’t export certain species to some countries - check the [CITES trade suspension list](https://cites.org/eng/resources/ref/suspend.php).^
+
+###Apply for a CITES permit
+
+Complete form [FED0172](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
+
+You must pay a £63 for an export licence and £37 for a re-export licence.
+
+Post your application to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts).
+
+APHA will contact you within 15 working days of receiving your application.
+
+
 ##Exporting prohibited plants and soil
 
 You can't usually export:
