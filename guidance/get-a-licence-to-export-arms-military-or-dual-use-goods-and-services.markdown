@@ -54,6 +54,8 @@ There’s a complete ban on exporting:
 
 ##Apply for an export licence
 
+Within the EU you don’t need a licence if your goods are listed under Annex I.
+
 $CTA
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
@@ -67,10 +69,6 @@ The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk)
 ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
 
 ECO also looks at the ‘[incorporation factors](http://www.publications.parliament.uk/pa/cm200102/cmhansrd/vo020708/text/20708w01.htm#column_652)’ if the goods will be incorporated into military equipment which will then be exported to another country.
-
-###Export licences for the EU
-
-You don’t need a licence to export some military goods within the EU. These goods are listed in annex 1 of the consolidated control lists.
 
 ###How ECO decides whether to give licences
 
