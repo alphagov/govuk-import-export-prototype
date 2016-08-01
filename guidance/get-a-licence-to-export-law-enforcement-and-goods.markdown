@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export law enforcement and torture goods
-summary: You must have a licence to export goods that could be used to cause cruel, inhuman or degrading treatment to people.
+summary: You must have a licence to export goods that could be used to cause cruel, inhumane or degrading treatment to people.
 permalink: /guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html
 topic:
   name: Exporting and doing business abroad
@@ -12,14 +12,14 @@ You’ll need a licence to export ‘torture goods’. Torture goods include equ
 
 - capital punishment
 - torture 
-- cruel, inhuman or degrading treatment
+- cruel, inhumane or degrading treatment
 
 This includes anything that could have legitimate applications but also be used to torture someone. These are called ‘dual use’ items.
 
 s1. Check if your product is on the [UK Strategic Export Control Lists](/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf). 
 s2. [Apply for an export licence online](#apply)
 
-$! It’s a criminal offence to export something on the export control lists without the right licence. $!
+It’s a criminal offence to export something on the export control lists without the right licence.
 
 ##Banned goods
 
