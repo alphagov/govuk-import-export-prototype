@@ -49,16 +49,13 @@ If your application for an export licence is accepted, you may need to follow ce
 
 ##Contact
 
-$A
 Export Licensing Unit    
 Arts Council England    
 21 Bloomsbury Street    
 London   
 WC1B 3HF   
-$A
 
-$C
 Email: <elu@artscouncil.org.uk>   
 Telephone: 020 7268 9606    
 [Find out about call charges](/call-charges)   
-$C
+
