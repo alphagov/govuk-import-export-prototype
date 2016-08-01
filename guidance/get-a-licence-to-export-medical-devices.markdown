@@ -32,7 +32,7 @@ Contact the Medicines and Healthcare products Regulatory Agency (MHRA) if you ne
 $C 
 
 **MHRA CFS team**     
-< cfs@mhra.gsi.gov.uk>   
+[cfs@mhra.gsi.gov.uk](mailto:cfs@mhra.gsi.gov.uk)   
 Telephone: 020 3080 7171
 [Find out about call charges](/call-charges)    
 
