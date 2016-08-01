@@ -26,7 +26,6 @@ $CTA
 
 Refer to the [list of drugs which are commonly used for recreational purposes ](/government/publications/controlled-drugs-list--2) and [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx) if your drug doesn't feature but you think it might have the properties of a controlled substance.
 
-
 ###Get an enhanced disclosure check
 {:#dbs}
 
