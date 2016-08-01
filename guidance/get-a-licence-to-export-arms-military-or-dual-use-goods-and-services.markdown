@@ -32,7 +32,7 @@ The consolidated control lists include:
 
 ##Exporting goods that aren’t on the consolidated control lists
 
-You must contact the Export Control Organisation (ECO) if you find out that something you’re exporting will be used for military purposes, even if it doesn’t appear on the consolidated control lists. For example:
+You must contact the [Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting will be used for military purposes, even if it doesn’t appear on the consolidated control lists. For example:
 
 - components that will be used to make weapons
 - chemicals or biological agents that will be used to make a weapon of mass destruction
