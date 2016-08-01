@@ -164,7 +164,7 @@ The [ECO compliance code of practice](/government/publications/compliance-code-o
 ##Contact the Export Control Organisation (ECO)
 
 ECO helpline
-Email: <eco.help@bis.gsi.gov.uk
+Email: [eco.help@bis.gsi.gov.uk](mailto:eco.help@bis.gsi.gov.uk)
 Telephone: 0202 7215 4594
 Fax: 020 7215 2635
 
