@@ -49,7 +49,7 @@ Once you’re registered, [log into your account](https://eforms.homeoffice.gov.
 
 If your application is successful, licences are usually sent out within 10 working days.
 
-[SME question: How much does this licence cost? Whar can they do if they haven't got a decision after 16 weeks? How lomng is this licence valid for?]
+[SME question: How much does this licence cost? What can they do if they haven't got a decision after 16 weeks? How long is this licence valid for?]
 
 ###Apply for a National Drugs control System export licence
 {:#apply-export-licence}
