@@ -18,7 +18,7 @@ It’s a criminal offence to export something on the consolidated control lists 
 
 $CTA
 
-[Search for your item on the consolidated control lists](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/).
+[Download the consolidated control lists](/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf)(PDF, 3.28 MB).
 
 $CTA
 
