@@ -24,6 +24,8 @@ The consolidated military list includes:
 
 ‘Dual use’ items can be raw materials, components or finished systems.
 
+The rules for radioactive substances apply both within the EU and outside the EU.
+
 ## Exporting substances that aren’t on the consolidated military list
 
 You must contact the Export Control Organisation (ECO) if you find out that something you’re exporting will be used for military purposes, even if it doesn’t appear on the consolidated military list. For example, components that will be used to make a weapon or weapon of mass destruction.
@@ -133,4 +135,5 @@ You can do an [online course](http://www.strategicexportcontrols.org).
 
 ECO can provide bespoke training sessions at your business premises. Sessions cost £1,000 plus VAT for a whole day, or £750 plus VAT for a half day.
 
-Email <denise.carter@bis.gsi.gov.uk> or call 020 7215 4459 for details.
+Email [denise.carter@bis.gsi.gov.uk](mailto:denise.carter@bis.gsi.gov.uk] or call 020 7215 4459 for details.
+
