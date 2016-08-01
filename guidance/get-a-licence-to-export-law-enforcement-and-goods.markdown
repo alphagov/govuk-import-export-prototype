@@ -48,13 +48,10 @@ The [Export Control Organisation reports and statistics website](https://www.exp
 
 ##Contact the Export Control Organisation
 
-
-$C
-
 Export Control Organisation helpline
 Email: <eco.help@bis.gsi.gov.uk
 Telephone: 0202 7215 4594
 Fax: 020 7215 2635
 [Find out about call charges](/call-charges)
 
-$C
+
