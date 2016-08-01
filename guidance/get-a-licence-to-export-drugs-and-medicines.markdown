@@ -28,6 +28,7 @@ $CTA
 s1. Check the [list of drugs which are commonly used for recreational purposes ](/government/publications/controlled-drugs-list--2).
 s2. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
 
+
 ###Get an enhanced disclosure check
 {:#dbs}
 
