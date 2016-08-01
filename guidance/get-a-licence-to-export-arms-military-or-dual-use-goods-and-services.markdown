@@ -18,7 +18,7 @@ It’s a criminal offence to export something on the consolidated control lists 
 
 $CTA
 
-[Download the consolidated control lists](/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf)(PDF, 3.28 MB).
+[Download the consolidated control lists](www.gov.uk/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf) (PDF, 3.28 MB).
 
 $CTA
 
