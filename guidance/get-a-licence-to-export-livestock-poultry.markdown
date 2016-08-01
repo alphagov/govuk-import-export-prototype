@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Get a licence to export livestock and poultry
-summary: How to export cattle, pigs, sheep, goats, poultry and bees.
+title: Get a certificate to export livestock and poultry
+summary: You must have a certificate to export cattle, pigs, sheep, goats, poultry and bees.
 permalink: /guidance/get-a-licence-to-export-livestock-poultry.html
 topic:
   name: Exporting and doing business abroad
