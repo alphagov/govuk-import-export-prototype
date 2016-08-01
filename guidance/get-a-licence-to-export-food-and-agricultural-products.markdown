@@ -29,6 +29,7 @@ Within the EU, you don't need a licence or follow special rules to move processe
 
 Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'. In special cases, you might also need an [export health certificate](#meat-dairy-animal-products-outside-EU) if your food or drink contains animal products.
 
+
 ###Apply for a certificate of free sale
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB).
