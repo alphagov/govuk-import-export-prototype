@@ -24,7 +24,7 @@ $CTA
 
 ##Export drugs which could be misused
 
-s1. Check the [list of drugs which are commonly used for recreational purposes ](/government/publications/controlled-drugs-list--2).
+s1. Refer to the [list of drugs which are commonly used for recreational purposes ](/government/publications/controlled-drugs-list--2) and contact the Home Office if your drug doesn't feature but you think it might have the properties of a controlled substance.
 s2. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
 
 
