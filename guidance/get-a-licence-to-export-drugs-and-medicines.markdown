@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export human drugs and medicines
+title: Get a licence to export drugs and medicines
 summary: You must have a licence to export certain drugs and medicines inside and outside the EU
 permalink: /guidance/get-a-licence-to-export-drugs-and-medicines.html
 topic:
@@ -12,7 +12,7 @@ You'll need a licence to export ‘controlled drugs’ that:
 * [have similar compounds or effects to class A, B and C illegal drugs](#export-drugs-which-could-be-misused), for example, opioids, stimulants or psycoactive substances
 * [could be used in lethal injections](#export-barbituates-which-could-be-used-for-lethal-injections) - these are called barbiturates
 
-There are separate rules if you’re exporting [any type of controlled drug to the Channel Islands](exporting-controlled-drugs to-the-channel-islands) or [propafol to the US](##export-propofol-to-the-US).
+There are extra rules if you’re exporting [any type of controlled drug to the Channel Islands](exporting-controlled-drugs to-the-channel-islands) or [propafol to the US](##export-propofol-to-the-US).
 
 
 $CTA
