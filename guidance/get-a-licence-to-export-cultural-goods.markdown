@@ -19,7 +19,7 @@ Cultural goods include:
 - manuscripts
 - archaeological items
 
-You need a licence if you’re exporting something inside or outside the European Union (EU). 
+You need a licence if you’re exporting something inside or outside the [EU](https://www.gov.uk/eu-eea). 
 
 You need a licence to export cultural goods on a temporary basis.
 
