@@ -9,10 +9,11 @@ topic:
 ---
 You'll need a licence to export ‘controlled drugs’ that:
 
-* could have ‘street value’, for example, morphine or codeine
-* could be used to torture or kill people - these are called barbiturates
+* [could have ‘street value’](#export-drugs-which-could-be-sold-recreationally), for example, morphine or codeine
+* [could be used in lethal injections](#export-barbituates-which-could-be-used-for-lethal-injections) - these are called barbiturates
 
 There are separate rules if you’re exporting any type of controlled drug to the Channel Islands or propanol to the US.
+
 
 $CTA
 
@@ -20,7 +21,9 @@ If you’re exporting drugs which only have medical use for humans, you’ll nee
 
 $CTA
 
-##Exporting controlled drugs inside and outside the EU
+
+
+##Export drugs which could be sold recreationally 
 
 s1. Check the [list of drugs which are commonly used for recreational purposes ](/government/publications/controlled-drugs-list--2).
 s2. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
@@ -32,12 +35,11 @@ Each person named on your applications must have a Disclosure and Barring Servic
 
 Contact Security Watchdog to apply for a DBS enhanced disclosure.
 
-$C
-**Security Watchdog**  
+**Security Watchdog** 
 Telephone: 0114 241 3280  
 Monday to Friday, 9am to 5:30pm  
 [Find out about call charges](/call-charges)
-$C
+
 
 ###Apply for a controlled drugs licence
 {:#apply-licence}
@@ -67,7 +69,7 @@ DLCU will email you an invoice.
 
 If you need a purchase order number to be quoted on the invoice, please state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
 
-##Export barbiturates
+##Export barbituates which could be used for lethal injections
 
 You need permission from the Export Control Organisation (ECO) to export outside the EU some drugs that may be used in lethal injections. These are ‘short and intermediate acting barbiturate anaesthetic agents’.
 
@@ -82,7 +84,7 @@ This applies to drugs that are packaged for human or veterinary use, not raw mat
 - thiopental (CAS RN 76-75-5)
 - thiopental sodium salt (CAS RN 71-73-8), also known as thiopentone sodium
 
-###Export propofol to the US
+##Export propofol to the US
 
 You’ll need a licence from ECO to export propofol from the UK to the US. 
 
@@ -136,26 +138,23 @@ You'll need to do a nil return for each month that you've not shipped for over a
 ##Contact
 
 
-$C
-
 BIS Import Licensing Branch Helpline
 Telephone: 01642 364 333
 
 Home Office Drugs Licensing and Compliance Unit
 Telephone: 020 7035 6330 - commercial applicants
 
-$C
 
 
 Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exporting controlled drugs.
 {:#contact-dlcu}
 
-$C
+
 **Drug Licensing and Compliance Unit**  
 Telephone: 020 7035 6330
 Email: [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffice.gsi.gov.uk)
 [Find out about call charges](/call-charges)
-$C
+
 
 Email DCLU to complain or make a suggestion: DLCU_Complaints_Section@homeoffice.gsi.gov.uk 
 
@@ -244,7 +243,7 @@ Send your application form to either:
 or 
 
 
-$A
+
 
 Export Certificate Group, 5th Floor
 The Medicines and Healthcare products Regulatory Agency
@@ -252,7 +251,7 @@ The Medicines and Healthcare products Regulatory Agency
 London
 SW1W 9SZ
 
-$A
+
 
 
 ###How much it costs
