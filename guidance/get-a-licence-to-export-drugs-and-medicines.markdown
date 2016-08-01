@@ -165,7 +165,7 @@ You may need an export certificate depending on which country you’re exporting
 
 There are 5 types of export certificate.
 
-###1.Certificate of a pharmaceutical product (licensed)
+###1. Certificate of a pharmaceutical product (licensed)
 
 The certificate shows details including:
 
@@ -244,15 +244,11 @@ Send your application form to either:
 or 
 
 
-
-
 Export Certificate Group, 5th Floor
 The Medicines and Healthcare products Regulatory Agency
 151 Buckingham Palace Road
 London
 SW1W 9SZ
-
-
 
 
 ###How much it costs
