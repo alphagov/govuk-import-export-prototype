@@ -98,10 +98,10 @@ The [ECO compliance code of practice](/government/publications/compliance-code-o
 
 ### Sharing classified information during the export process
 
-You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means:
+You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means information or equipment classified as:
 
-- information or equipment classified as [‘official-sensitive’ or higher](/government/publications/government-security-classifications)
-- information or equipment classified as ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
+- [‘official-sensitive’ or higher](/government/publications/government-security-classifications)
+- ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
 
 Use MOD form 680 on the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for approval.
 
