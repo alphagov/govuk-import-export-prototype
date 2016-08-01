@@ -9,10 +9,10 @@ topic:
 ---
 You'll need a licence to export ‘controlled drugs’ that:
 
-* [could have ‘street value’](#export-drugs-which-could-be-sold-recreationally), for example, morphine or codeine
+* [could have ‘street value’](#export-drugs-which-could-be-misused), for example, morphine or codeine
 * [could be used in lethal injections](#export-barbituates-which-could-be-used-for-lethal-injections) - these are called barbiturates
 
-There are separate rules if you’re exporting [any type of controlled drug to the Channel Islands](exporting-controlled-drugs to-the-channel-islands) or [Propanol to the US](##export-propofol-to-the-US).
+There are separate rules if you’re exporting [any type of controlled drug to the Channel Islands](exporting-controlled-drugs to-the-channel-islands) or [propafol to the US](##export-propofol-to-the-US).
 
 
 $CTA
@@ -23,7 +23,7 @@ $CTA
 
 
 
-##Export drugs which could be sold recreationally 
+##Export drugs which could be misused
 
 s1. Check the [list of drugs which are commonly used for recreational purposes ](/government/publications/controlled-drugs-list--2).
 s2. Apply for a National Drugs control System [export licence](#apply-export-licence) for each shipment.
@@ -165,7 +165,7 @@ You may need an export certificate depending on which country you’re exporting
 
 There are 5 types of export certificate.
 
-###1. Certificate of a pharmaceutical product (licensed)
+###1.Certificate of a pharmaceutical product (licensed)
 
 The certificate shows details including:
 
@@ -244,11 +244,15 @@ Send your application form to either:
 or 
 
 
+
+
 Export Certificate Group, 5th Floor
 The Medicines and Healthcare products Regulatory Agency
 151 Buckingham Palace Road
 London
 SW1W 9SZ
+
+
 
 
 ###How much it costs
