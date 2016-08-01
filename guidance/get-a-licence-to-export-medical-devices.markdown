@@ -14,6 +14,8 @@ You’ll need a Certificate of Free Sale (CFS) to export medical devices outside
 
 [Question to SME: Are these appropriate examples, what is the common case here?]
 
+You don’t need one to move them within the EU.
+
 ##Before you apply
 
 The manufacturer, legal manufacturer or authorised representative must be based in the UK and the medical devices you’re exporting must have the following:
