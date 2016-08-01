@@ -91,7 +91,7 @@ This could be because:
 
 If the EHC you want doesn’t exist, you should talk to your importer to find out about import conditions in the country you want to export to.
 
-You should send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) who will pass the details to Defra for them to consider negotiating a new EHC.
+You should send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) who will pass the details to the Department for Environment Food & Rural Affairs (Defra) for them to consider negotiating a new EHC.
 
 ##Exporting livestock through the EU to a non-EU country
 
