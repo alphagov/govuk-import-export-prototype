@@ -8,16 +8,21 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You’ll need a licence to export ‘torture goods’. Torture goods include equipment, drugs or products that could be used for:
+It’s a criminal offence to export ‘torture goods’ on the consolidated control lists outside the UK without the right licence.
+
+$CTA
+
+[Download the consolidated control lists](/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf)(PDF, 3.28 MB).
+
+$CTA
+
+Torture goods include equipment, drugs or products that could be used for:
 
 - capital punishment
 - torture 
 - cruel, inhumane or degrading treatment
 
 This includes anything that could have legitimate applications but also be used to torture someone. These are called ‘dual use’ items.
-
-s1. Check if your product is on the [UK Strategic Export Control Lists](/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf). 
-s2. [Apply for an export licence online](#apply)
 
 It’s a criminal offence to export something on the export control lists without the right licence.
 
