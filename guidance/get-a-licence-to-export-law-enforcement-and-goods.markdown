@@ -36,6 +36,8 @@ You can’t export any of the following goods, unless they’re going to be disp
 - automatic drug injection systems designed to execute human beings by the administering of lethal chemical substances
 - electric shock belts designed to restrain human beings by the administering electric shocks with a no-load voltage over 10,000 volts
 
+[Question for SME: how can exporters prove their goods are for museum use - do they need to be demonstrably inert/inactive?]
+
 ##Apply for an export licence online
 {:#apply}
 
