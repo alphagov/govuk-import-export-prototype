@@ -62,4 +62,3 @@ Email: <elu@artscouncil.org.uk>
 Telephone: 020 7268 9606    
 [Find out about call charges](/call-charges)   
 $C
-
