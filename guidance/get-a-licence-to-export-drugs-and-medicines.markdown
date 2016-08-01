@@ -12,7 +12,7 @@ You'll need a licence to export ‘controlled drugs’ that:
 * [could have ‘street value’](#export-drugs-which-could-be-sold-recreationally), for example, morphine or codeine
 * [could be used in lethal injections](#export-barbituates-which-could-be-used-for-lethal-injections) - these are called barbiturates
 
-There are separate rules if you’re exporting any type of controlled drug to the Channel Islands or propanol to the US.
+There are separate rules if you’re exporting [any type of controlled drug to the Channel Islands](exporting-controlled-drugs to-the-channel-islands) or [Propanol to the US](##export-propofol-to-the-US).
 
 
 $CTA
