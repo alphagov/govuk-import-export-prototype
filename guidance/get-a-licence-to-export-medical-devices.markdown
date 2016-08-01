@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export medical devices
+title: Get a certificate to export medical devices
 summary: You must have a certificate to export medical devices.
 permalink: /guidance/get-a-licence-to-export-medical-devices.html
 topic:
