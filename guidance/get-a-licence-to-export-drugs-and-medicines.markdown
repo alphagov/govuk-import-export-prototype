@@ -22,6 +22,8 @@ If you’re exporting drugs which only have [medical use for humans or animals](
 
 $CTA
 
+If you're exporting drugs outside the EU which are coated with or contain animal products (for example gelatin), you might also need a [health certificate](/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products).
+
 
 ##Export drugs which could be misused
 
