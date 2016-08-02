@@ -17,8 +17,9 @@ There are extra rules if you’re exporting [any type of controlled drug to the 
 
 $CTA
 
-If you’re exporting drugs which only have medical use for humans or animals you need to [get an export certificate](
-##exporting-human-and-veterinary-medicines).
+If you’re exporting drugs which only have medical use for humans or animals you might to [get an export certificate](
+##exporting-human-and-veterinary-medicines) - talk to the importer who’s receiving your goods to find out if you need one.
+
 
 $CTA
 
@@ -168,8 +169,6 @@ To export most veterinary and human medicines you must have one of the following
 - a marketing licence 
 
 [Apply for a licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) if you don’t have one.
-
-You may need an export certificate depending on which country you’re exporting to. Talk to the importer who’s receiving your goods to find out if you need an export certificate.
 
 There are 5 types of export certificate for  human medicine licences and [5 different types of veterinary licences](#exporting-veterinary-drugs).
 
