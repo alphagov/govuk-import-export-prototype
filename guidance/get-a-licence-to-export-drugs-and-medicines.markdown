@@ -207,7 +207,7 @@ You must also send a document on headed paper showing the formulation of the pro
 
 ###3. Certificate of manufacturing status
 
-You must have a [manufacturer licence](/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) to apply for a certificate of manufacturing status.
+[Apply for a certificate of manufacturing status](/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences).
 
 The certificate confirms the named sites on a specified manufacturer licence meet good manufacturing practice requirements. All or any of the sites named on the manufacture licence can be listed on the certificate. 
 
