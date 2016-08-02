@@ -20,7 +20,6 @@ $CTA
 If you’re exporting drugs which only have medical use for humans or animals you might to [get an export certificate](
 ##exporting-human-and-veterinary-medicines) - talk to the importer who’s receiving your goods to find out if you need one.
 
-
 $CTA
 
 
