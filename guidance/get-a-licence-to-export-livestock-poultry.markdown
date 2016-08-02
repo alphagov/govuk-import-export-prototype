@@ -11,7 +11,7 @@ topic:
 
 ##Exporting livestock within the EU
 
-You must have an Intra Trade Animal Health Certificate (ITAHC) to move the following animals within the EU:
+You must have an Intra Trade Animal Health Certificate (ITAHC) to move the following animals within the [EU](https://www.gov.uk/eu-eea):
 
 - cattle
 - sheep and goats
