@@ -9,7 +9,7 @@ topic:
 ---
 ##Within the EU
 
-You don’t need a licence to move ozone-depleting substances (ODS) and fluorinated greenhouse gases (F-gases) within the EU.
+You don’t need a licence to move ozone-depleting substances (ODS) and fluorinated greenhouse gases (F-gases) within the [EU](https://www.gov.uk/eu-eea).
 
 ##Outside the EU
 
