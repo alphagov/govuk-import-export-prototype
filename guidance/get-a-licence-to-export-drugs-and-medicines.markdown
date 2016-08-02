@@ -17,7 +17,7 @@ There are extra rules if you’re exporting [any type of controlled drug to the 
 
 $CTA
 
-If you’re exporting drugs which only have medical use for humans, you need to [get an export certificate](#exporting-medicines-inside-and-outside-the-EU)
+If you’re exporting drugs which only have medical use for humans, you need to [get an export certificate](#exporting-medicines-inside-and-outside-the-EU).
 
 $CTA
 
