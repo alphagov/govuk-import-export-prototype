@@ -283,7 +283,7 @@ $C
 
 $C
 
-**The Department for Environment, Food and Rural Affairs (Defra)**
+**Department for Environment, Food and Rural Affairs (Defra)**
 
 Email: <defra.helpline@defra.gsi.gov.uk>   
 Telephone: 0345 933 5577   
