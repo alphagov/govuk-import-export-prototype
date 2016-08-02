@@ -8,15 +8,6 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-
-##Get a horse passport
-
-You must [get a horse passport](/horse-passport) for every horse you own.
-
-If you’re exporting horses, their keeper or transporter must have each horse’s passport with them at all times.
-
-%You can be fined up to £5000 if your horse doesn’t have a valid horse passport.%
-
 ##Get an export welfare declaration
 
 If you’re exporting horses and ponies within or outside of the EU, you must print and complete an export licence application form, unless you have an exemption from the Secretary of State.
