@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export horses and ponies
-summary: How to export horses and ponies.
+summary: You must have a certificate to export horses and ponies.
 permalink: /guidance/get-a-licence-to-export-horses-ponies.html
 topic:
   name: Exporting and doing business abroad
