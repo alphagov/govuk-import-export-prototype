@@ -236,8 +236,8 @@ APHA will contact you within 15 working days of receiving your application.
 You must pay fees in pounds sterling by:
 
 - cheque or postal order made payable to APHA
-- credit or debit card - contact the Central Finance Department on 01904 455 395 or ssd.financeAR@defra.gsi.gov.uk (American Express not accepted)
-- Bankers’ Automated Clearing Services (BACS) - call 0117 372 3700 or email <wildlife.licensing@apha.gsi.gov.uk>
+- credit or debit card - contact the Central Finance Department on 01904 455 395 or [ssd.financeAR@defra.gsi.gov.uk](mailto:ssd.financeAR@defra.gsi.gov.uk) (American Express not accepted)
+- Bankers’ Automated Clearing Services (BACS) - call 0117 372 3700 or email [wildlife.licensing@apha.gsi.gov.uk](mailto:wildlife.licensing@apha.gsi.gov.uk)
 
 ##Exporting non-domestic ungulates within the EU
 
@@ -283,7 +283,7 @@ $C
 
 $C
 
-**Defra**
+**The Department for Environment, Food and Rural Affairs (Defra)**
 
 Email: <defra.helpline@defra.gsi.gov.uk>   
 Telephone: 0345 933 5577   
