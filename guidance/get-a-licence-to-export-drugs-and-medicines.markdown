@@ -19,7 +19,7 @@ If you’re exporting drugs which have a [medical use for humans or animals](
 
 $CTA
 
-You could need a licence and a certificate if you're exporting a medicine which could be misused.
+You could need a licence and a certificate for the same drug if you're exporting a medicine which could be misused.
 
 $CTA
 
