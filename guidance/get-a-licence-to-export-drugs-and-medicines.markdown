@@ -14,16 +14,14 @@ You'll need a licence to export ‘controlled drugs’ that:
 
 There are extra rules if you’re exporting [any type of controlled drug to the Channel Islands](£exporting-controlled-drugs to-the-channel-islands) or [propafol to the US](##export-propofol-to-the-US).
 
+If you’re exporting drugs which have a [medical use for humans or animals](
+##exporting-human-and-veterinary-medicines) you might also need to get an export certificate - talk to the importer who’s receiving your goods to find out if you need one.
 
 $CTA
 
-If you’re exporting drugs which only have [medical use for humans or animals](
-##exporting-human-and-veterinary-medicines) you might to get an export certificate - talk to the importer who’s receiving your goods to find out if you need one.
+You could need a licence and a certificate if you're exporting a medicine which could be misused.
 
 $CTA
-
-If you're exporting drugs outside the EU which are coated with or contain animal products (for example gelatin), you might also need a [health certificate](/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products).
-
 
 ##Export drugs which could be misused
 
