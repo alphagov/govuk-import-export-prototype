@@ -192,6 +192,7 @@ The table also shows if you need:
 - to send a sample for testing when you apply for your certificate
 - an import permit - get this from the country you're exporting to
 
+You don’t need a certificate or licence to export within the EU.
 
 $CTA
 
@@ -325,6 +326,8 @@ Small exporters are eligible for a [discounted fee](https://www.gov.uk/governmen
 
 ##Sugar, cereals and rice
 {:#sugar}
+
+You don’t need a certificate or licence to export within the EU.
 
 If you’re exporting these goods outside the EU in [large quantities](https://www.gov.uk/trade-tariff/sections) you need a 'mandatory export licence'.
 
