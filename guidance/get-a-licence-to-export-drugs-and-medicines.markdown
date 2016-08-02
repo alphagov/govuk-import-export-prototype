@@ -17,8 +17,8 @@ There are extra rules if you’re exporting [any type of controlled drug to the 
 
 $CTA
 
-If you’re exporting drugs which only have medical use for humans or animals you might to [get an export certificate](
-##exporting-human-and-veterinary-medicines) - talk to the importer who’s receiving your goods to find out if you need one.
+If you’re exporting drugs which only have [medical use for humans or animals](
+##exporting-human-and-veterinary-medicines) you might to get an export certificate - talk to the importer who’s receiving your goods to find out if you need one.
 
 $CTA
 
