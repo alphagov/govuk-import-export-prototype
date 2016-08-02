@@ -12,12 +12,13 @@ You'll need a licence to export ‘controlled drugs’ that:
 * [have similar compounds or effects to class A, B and C illegal drugs](#export-drugs-which-could-be-misused), for example, opioids, stimulants or psycoactive substances
 * [could be used in lethal injections](#export-barbituates-which-could-be-used-for-lethal-injections) - these are called barbiturates
 
-There are extra rules if you’re exporting [any type of controlled drug to the Channel Islands](exporting-controlled-drugs to-the-channel-islands) or [propafol to the US](##export-propofol-to-the-US).
+There are extra rules if you’re exporting [any type of controlled drug to the Channel Islands](£exporting-controlled-drugs to-the-channel-islands) or [propafol to the US](##export-propofol-to-the-US).
 
 
 $CTA
 
-If you’re exporting drugs which only have medical use for humans or animals you need to [get an export certificate](#exporting-medicines-inside-and-outside-the-EU).
+If you’re exporting drugs which only have medical use for humans or animals you need to [get an export certificate](
+##exporting-human-and-veterinary-medicines).
 
 $CTA
 
