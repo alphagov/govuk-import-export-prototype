@@ -173,7 +173,7 @@ There are 5 types of export certificate for  human medicine licences and [5 diff
 
 $CTA
 
-You don’t need one of these licences for ‘over the counter’ veterinary medicines classed as 'AVM-GSL'. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
+If your medecine is coated in or contain animal products (for example gelatine), you might need an [export health certificate](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products)
 
 $CTA
 
@@ -290,6 +290,12 @@ Which one you need will depend on what you need to prove to the country you're e
 [Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
 
 You can ask for [extra information](#extra-information) on the certificate if the importing country requires it.
+
+$CTA
+
+You don’t need one of these licences for ‘over the counter’ veterinary medicines classed as 'AVM-GSL'. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
+
+$CTA
 
 ###Defra-2
 
