@@ -169,11 +169,15 @@ To export most veterinary and human medicines you must have one of the following
 
 [Apply for a licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) if you don’t have one.
 
-You don’t need one of these licences for ‘over the counter’ veterinary medicines classed as 'AVM-GSL'. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
-
 You may need an export certificate depending on which country you’re exporting to. Talk to the importer who’s receiving your goods to find out if you need an export certificate.
 
 There are 5 types of export certificate for  human medicine licences and [5 different types of veterinary licences](#exporting-veterinary-drugs).
+
+$CTA
+
+You don’t need one of these licences for ‘over the counter’ veterinary medicines classed as 'AVM-GSL'. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
+
+$CTA
 
 ###1.Certificate of a pharmaceutical product (licensed)
 
