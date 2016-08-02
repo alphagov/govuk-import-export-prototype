@@ -158,7 +158,7 @@ Email: [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffi
 
 Email DCLU to complain or make a suggestion: DLCU_Complaints_Section@homeoffice.gsi.gov.uk 
 
-##Exporting human and vetinary medicines 
+##Exporting human and veterinary medicines 
 
 To export most veterinary and human medicines you must have one of the following:
 
