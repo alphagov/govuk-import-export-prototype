@@ -13,13 +13,11 @@ Outside the EU, you must also follow the [additional export rules](#additional-e
 
 Export rules cover single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
 
-
-$CTA
- 
-Also check the import rules of the country that you’re exporting the chemicals to, which may be less or more strict than in the UK. You can [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
-
 $CTA
 
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
 
 ##Licences for controlled chemicals
 {:#licences-controlled-chemicals}
