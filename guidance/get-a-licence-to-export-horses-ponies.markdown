@@ -18,6 +18,12 @@ Download an [export licence application form for ponies or horses that are short
 
 The pilot of the aircraft or master of the vessel that’s carrying the horses or ponies you're exporting must have a copy of the export welfare declaration.
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
+
 [Question for SME: how much does it cost to get a licence?]
 
 [Question for SME: what do you need to do with your licence when you have it? Is it a case of attaching it to your export declaration?]
