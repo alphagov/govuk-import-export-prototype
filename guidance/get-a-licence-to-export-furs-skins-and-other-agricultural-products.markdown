@@ -34,6 +34,7 @@ $CTA
 To move animal by-products within the EU, you must:
 
 - apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal by-product
+- complete a commercial document
 
 ###Apply for an Intra Trade Animal Health Certificate (ITAHC)
 
