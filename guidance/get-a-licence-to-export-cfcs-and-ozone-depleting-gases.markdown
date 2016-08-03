@@ -43,11 +43,11 @@ You don’t need a licence to export HFCs and other F-gases, but you may need to
 
 Contact the Environment Agency if you need help.
 
-$C
+
 **Environment Agency**  
-<f-gassupport@environment-agency.gov.uk>  
+[f-gassupport@environment-agency.gov.uk](mailto:f-gassupport@environment-agency.gov.uk)  
 Telephone: 03708 506 506
-$C
+
 
 
 *[EU]: European Union
