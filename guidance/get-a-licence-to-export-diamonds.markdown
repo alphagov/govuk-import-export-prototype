@@ -12,6 +12,12 @@ You can export diamonds, gold and precious metals without a licence or certifica
 
 Exports to Syria are banned.
 
+$CTA
+
+Also check the import rules of the country that you’re exporting the animals to, which may be less or more strict than in the UK. You can get [help with overseas customs rules].
+
+$CTA
+
 ##Rough diamonds
 
 You can only export rough diamonds within the EU and to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
