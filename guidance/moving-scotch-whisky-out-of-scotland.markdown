@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Moving Scotch whisky out of Scotland
-summary: There are certain rules to follow when moving Scotch whisky
+summary: There are certain rules to follow when moving Scotch whisky.
 permalink: /guidance/moving-scotch-whisky-out-of-scotland.html
 breadcrumbs:
  - name: Home
@@ -19,7 +19,7 @@ There are special rules for exporting Scotch whisky outside of Scotland.
 
 ##Single malt whisky 
 
-Single malt Scotch whisky must not be bottled, or re-bottled, outside Scotland.
+You must not bottle (or re-bottle) single malt Scotch whisky outside Scotland.
 
 The bottle must be:
 
@@ -52,6 +52,6 @@ You'll need to pay a fee of £xxx.
 
 ##How to get help
 
-Contact enquiries.sdvs@hmrc.gsi.gov.uk if you need help.
+Contact <enquiries.sdvs@hmrc.gsi.gov.uk> if you need help.
 
 
