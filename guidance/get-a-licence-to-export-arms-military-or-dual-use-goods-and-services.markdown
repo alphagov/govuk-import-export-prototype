@@ -52,6 +52,12 @@ There’s a complete ban on exporting:
 - man-portable air defence systems (MANPADs) to end users who aren’t states
 - nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or get help with overseas customs rules.
+
+$CTA
+
 ##Apply for an export licence
 
 Within the EU you don’t need a licence if your goods are listed under Annex I.
