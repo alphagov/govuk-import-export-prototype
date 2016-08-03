@@ -17,6 +17,12 @@ topic:
 
 There are special rules for exporting Scotch whisky outside of Scotland.
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+
+$CTA
+
 ##Single malt whisky 
 
 You must not bottle (or re-bottle) single malt Scotch whisky outside Scotland.
@@ -37,12 +43,6 @@ The bottle must be:
 
 - labelled 'retail sale'
 - glass, or another substance that's 'inert' (not chemically reactive)
-
-$CTA
-
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
-
-$CTA
 
 ###Apply to bulk import, blend, bottle or label Scotch outside Scotland
 
