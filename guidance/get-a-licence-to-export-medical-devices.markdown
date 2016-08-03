@@ -18,7 +18,7 @@ You don’t need one to move them within the EU.
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
@@ -37,14 +37,11 @@ Contact the Medicines and Healthcare products Regulatory Agency (MHRA) if you ne
 
 [Question for SME: Is there a cost? How long does it take to get one? What happens once they have the Certificate of Free Sale?]
 
-$C 
 
 **MHRA CFS team**     
 [cfs@mhra.gsi.gov.uk](mailto:cfs@mhra.gsi.gov.uk)   
 Telephone: 020 3080 7171
 [Find out about call charges](/call-charges)    
-
-$C
 
 [Question for SME: When is this line open?]
 
