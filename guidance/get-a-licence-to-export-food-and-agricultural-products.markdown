@@ -102,11 +102,6 @@ You don't need to follow special rules for plants unless you  need a supplier do
 
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
-You don't need a supplier document if both:
-
-* your goods are for retail sale
-* you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
-
 If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
 ###Apply for a supplier document
