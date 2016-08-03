@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Get a licence to export animal by-products
-summary: You must have permission to export bones, skins and other animal by-products.
+title: Get a certificate to export animal by-products
+summary: You must have a certificate to export bones, skins and other animal by-products.
 permalink: /guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html
 topic:
   name: Exporting and doing business abroad
@@ -27,8 +27,6 @@ What you need to do depends on whether you’re exporting [within the EU] or [ou
 To move animal by-products within the EU, you must:
 
 - apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal by-product
-- 
-
 
 ###Apply for an Intra Trade Animal Health Certificate (ITAHC)
 
