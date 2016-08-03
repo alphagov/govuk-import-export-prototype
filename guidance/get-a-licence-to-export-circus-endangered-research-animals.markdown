@@ -12,17 +12,17 @@ What you need to do to move or export animals depends on whether you’re export
 
 The EU rules also apply to exports to Switzerland, Liechtenstein, Norway and Iceland.
 
-There are different guides for [livestock, poultry and bees], [horses and ponies] and [fish and shellfish].
+There are different guides for [livestock, poultry and bees](/guidance/get-a-licence-to-export-livestock-poultry.html), [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html) and [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html).
 
 There are additional rules for:
 
-- [transporting animals]
-- [endangered animals]
-- [circuses]
+- [transporting animals](#transporting-animals)
+- [endangered animals](#endangered-animals)
+- [circuses](#circuses)
 
 $CTA
 
-Also check the import rules of the country that you’re exporting the animals to, which may be less or more strict than in the UK. You can get [help with overseas customs rules].
+Also check the import rules of the country that you’re exporting the animals to, which may be less or more strict than in the UK. You can get [help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
