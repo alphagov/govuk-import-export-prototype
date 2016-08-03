@@ -19,6 +19,11 @@ To export most veterinary medicines you must have one of the following:
 
 You don’t need one of these licences for ‘over the counter’ medicines classed as 'AVM-GSL'. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+
+$CTA
 
 ##Work out which export certificate you need
 
