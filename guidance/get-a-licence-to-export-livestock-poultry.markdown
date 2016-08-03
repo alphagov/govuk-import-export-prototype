@@ -128,7 +128,6 @@ There are  3 different categories of membership:
 
 To join the PHS, contact the Specialist Service Centre at APHA.
 
-$C
 
 Poultry Health Scheme Section   
 Animal and Plant Health Agency (APHA)    
@@ -141,8 +140,6 @@ WR5 2LQ
 Telephone: 03000 200 301  
 Fax: 01905 768649   
 Email: [AHspecialistservicecentreworcester@ahvla.gsi.gov.uk](mailto:AHspecialistservicecentreworcester@ahvla.gsi.gov.uk)   
-
-$C
 
 
 ###Business membership fees
