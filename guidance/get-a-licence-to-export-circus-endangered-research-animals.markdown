@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a certificate to export circus, display, research and endangered animals
+title: Get a certificate to export animals
 summary: You need a certificate to export animals.
 permalink: /guidance/get-a-licence-to-export-circus-endangered-research-animals.html
 topic:
