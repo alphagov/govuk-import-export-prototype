@@ -20,6 +20,12 @@ You must have an Intra Trade Animal Health Certificate (ITAHC) to move the follo
 
 You must keep this document for at least 3 years.
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
+
 [Question for SME: how much does it cost to get a certificate?]
 
 [Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
