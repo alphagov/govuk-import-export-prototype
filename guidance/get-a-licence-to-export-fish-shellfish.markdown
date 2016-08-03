@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Get a licence to export live fish and shellfish
-summary: How to export live fish, molluscs and crustaceans.
+title: Get a certificate to export live fish and shellfish
+summary: Check if you need a certificate to export live fish, molluscs and crustaceans.
 permalink: /guidance/get-a-licence-to-export-fish-shellfish.html
 topic:
   name: Exporting and doing business abroad
