@@ -22,6 +22,12 @@ There are different rules for animal by-products that:
 
 What you need to do depends on whether you’re exporting [within the EU] or [outside the EU].
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
+
 ##Within the EU
 
 To move animal by-products within the EU, you must:
