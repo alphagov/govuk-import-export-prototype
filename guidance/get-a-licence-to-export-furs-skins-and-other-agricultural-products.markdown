@@ -11,7 +11,7 @@ topic:
 You need permission to export animal by-products, for example:
 
 * skins, hides, leathers and wool   
-* bones, carsasses, blood and gelatin
+* bones, carcasses, blood and gelatin
 * manure
 * semen, ova, embryos and other germplasm
 
