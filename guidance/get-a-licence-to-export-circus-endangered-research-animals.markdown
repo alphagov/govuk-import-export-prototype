@@ -9,7 +9,6 @@ topic:
 ---
 
 What you need to do to move or export animals depends on whether you’re exporting them:
-
 -[within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
 -[outside the EU](#outside-EU)
 
