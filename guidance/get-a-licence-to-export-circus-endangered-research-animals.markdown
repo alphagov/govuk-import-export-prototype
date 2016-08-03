@@ -32,7 +32,7 @@ $CTA
 
 To move animals within the [EU](/eu-eea) you must:
 
-- [apply for an Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC) for each type of animal you’re moving
+- [apply for an Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC) for each type of animal
 - [check if your animal holding needs to be registered or approved](#register-approve-holding)
 
 ###Apply for an ITAHC
