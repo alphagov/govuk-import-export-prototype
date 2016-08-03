@@ -44,15 +44,15 @@ To move animals within the [EU](/eu-eea) you must:
 s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
 s3. Sign in to TRACES and fill in the details of animal product you're exporting.
-s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA office](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
 
-Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf)(PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Your ITAHC will be valid for 10 days after the inspection.
 
 [Question for SME: Does the exporter need to do anything else once the vet has signed it?]
 
-If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 ###Check if your animal holding needs to be registered or approved
 {:#register-approve-holding}
@@ -64,7 +64,7 @@ You must [register your holding](:#register-holding) to move:
 - hooved animals (ungulates) that aren’t livestock
 - birds that aren’t commercial poultry
 - rabbits and hares
-- dogs, cats and ferrets that don’t meet the usual rules for [pet travel] (eg rescue animals being rehomed abroad)
+- dogs, cats and ferrets that don’t meet the usual rules for [pet travel](/take-pet-abroad/) (for example rescue animals being rehomed abroad)
 
 You must [get your holding approved](#get-holding-approved) to move:
 
@@ -77,7 +77,7 @@ You don’t need to register or get approval to move other types of animal.
 ###Apply to register your holding
 {:#register-holding}
 
-Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to your local APHA office (there’s a different address for [Northern Ireland](https://www.daera-ni.gov.uk/contact).
+Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to your local [APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)).
 
 You’ll get a registration number to use on your animal health certificates.
 
@@ -88,8 +88,8 @@ You must get your holding approved before you can move animals to an approved ho
 
 Fill in [form EC3164](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501199/form-ec3164.pdf) (PDF, 172KB) and send it to your regional veterinary lead (RVL). To find your RVL, contact:
 
-- your [local APHA office]
-- a different address in [Northern Ireland]
+- your [local APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)
+- [DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland
 
 An inspector will arrange a visit to your holding to check that it has:
 
@@ -143,19 +143,20 @@ You must make sure you meet [animal welfare standards](https://www.gov.uk/govern
 
 [Search for the animal you’re exporting](http://www.speciesplus.net/). It’s endangered if it’s listed as ‘appendix I’.
 
-Within the EU, you usually can’t move endangered animals except in special cases (like for conservation necessary for the species to survive). [Contact APHA] to find out.
+Within the EU, you usually can’t move endangered animals except in special cases (like for conservation necessary for the species to survive). [Contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 Outside the EU, you need to:
 
 - check the [list of banned exports](https://cites.org/eng/resources/ref/suspend.php) - some animals to certain countries are banned outright
 - [apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB), if the animal isn’t banned
 
-Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
+Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
 
 APHA will contact you within 15 working days of receiving your application.
+
 ##If you need help
 
-You can talk to your vet or [contact APHA].
+You can talk to your vet or [contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening).
 
 ##Circuses
 
@@ -173,7 +174,7 @@ You must:
 - get passports for all animals in the circus or exhibition (apart from bees, salmon or trout) - these are issued by your official veterinarian when you register your circus to travel   
 - get an ITAHC before you travel
 - keep animals registered as part of the circus away from unregistered animals
-- put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species contact APHA)
+- put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species [contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening), or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland))
 
 You must take the following documents with you when you travel:
 
@@ -188,7 +189,7 @@ You must take the following documents with you when you travel:
 Your application must be received at least 40 working days before you want to travel.
 
 s1. Make sure all tests and vaccinations for your animals are up to date. Ensure they all have animal passports.
-s2. Choose an official veterinarian to carry out a registration visit - contact your [local APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA office](https://www.dardni.gov.uk/contact) in Northern Ireland) to find one. The official veterinarian will charge a fee for this.
+s2. Choose an official veterinarian to carry out a registration visit - contact your [local APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland) to find one. The official veterinarian will charge a fee for this.
 s3. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488776/form-et79.pdf) (PDF, 198KB) and send it to the address on the top of the form. You must include a £93 registration fee and passport fees.
 s4. APHA sends the registration document, unique registration number and animal passports to your official veterinarian. 
 s5. Your official veterinarian carries out a registration visit. If they’re satisfied with the checks, they’ll approve your application and give you the animal passports, registration document and a unique registration number for your circus or animal act.
