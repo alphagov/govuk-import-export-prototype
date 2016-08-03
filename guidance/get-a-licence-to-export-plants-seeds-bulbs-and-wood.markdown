@@ -49,11 +49,6 @@ $CTA
 
 You need a supplier document if you’re moving the seeds, roots or any other plant ‘propagation material’ from ornamental plants.
 
-You don't need a supplier document if both:
-
-* your goods are for retail sale
-* you're a small producer selling to the local market - you must sell your produce within a 50 metres radius of your site and mark it 'for direct sale to the public only'.
-
 If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
 ###Get permission to make passports or supplier documents
