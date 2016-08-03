@@ -87,4 +87,4 @@ Check [part 1](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_regi
 
 You can export feed with additives that aren’t on this list outside the EU if you get authorisation from the country you’re exporting to.
 
-If you’re exporting via another EU country, you must also [contact the Food Standards Agency and Veterinary Medicines Directorate](https://www.food.gov.uk/business-industry/farmingfood/animalfeed/animalfeedlegislation/export-unauthorised-feed). 
+If you’re exporting via another EU country, you must also [contact the Food Standards Agency and Veterinary Medicines Directorate](https://www.food.gov.uk/business-industry/farmingfood/animalfeed/animalfeedlegislation/export-unauthorised-feed).
