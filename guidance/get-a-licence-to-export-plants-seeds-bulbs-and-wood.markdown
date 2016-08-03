@@ -25,12 +25,12 @@ You don't need to follow special rules for plants unless you either need:
 
 ###Check if you need a plant passport
 
-Some plants need a plant passport. Check the [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446525/plant-passports-plant-products.pdf)(PDF, 212KB),[seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446527/plant-passports-seed.pdf),[bulbs or corns](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446530/plant-passports-bulbs.pdf) and the [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf) (PDF, 108KB) where you need one.
+Check if your plant is on this [form](https://www.gov.uk/government/publications/plant-passports-application) or [this list](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536168/form-phar3b-appendix.pdf).
 
-Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
+If it is, either:
 
-If you’re exporting to Switzerland, there are different [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447496/plant-passports-switzerland-1.pdf) (PDF, 108KB), [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447497/plant-passports-switzerland2.pdf), [bulbs or corms](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447498/plant-passports-switzerland3.pdf) and the [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf) (PDF, 201KB) that need a 
-passport.
+*complete the form and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
+*[apply through eDomero](http://edomero.defra.gov.uk/)
 
 $CTA
 
@@ -51,13 +51,7 @@ If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/gover
 
 ###Get permission to make passports or supplier documents
 
-You need to either:
-
-* complete the [form](https://www.gov.uk/government/publications/plant-passports-application) and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
-
-* [register for eDomero](https://signon.defra.gov.uk/Login.aspx) and do it online
-
-They’ll inspect your plants and you’ll get a unique registration number if you pass.
+AHPA will inspect your plants and you’ll get a unique registration number if you pass.
  
 Your permission will last a year but you may need more inspections if your site has a higher risk of diseases.
 
@@ -72,53 +66,6 @@ The minimum fee for any inspection is £92.19.
 You have to pay these fees again if you renew your application the next year.
 
 You won’t have to pay if APHA only authorises you to make supplier documents.
-
-###Creating a standard passport 
-
-You can make this in different formats.
-
-If you use a label or sticker you have to make one for each plant of the same kind, grown by the same producer and going to the same place. 
-
-You can also create a single delivery note for the whole consignment (including plants which don’t need a passport).
-
-In all cases label them ‘EU Plant Passport’ and include:
-
-* ”‘UK” and “EW” (this is the code for APHA)
-*  your unique APHA registration number and an individual serial, week, batch or invoice number
-*  the botanical name of the plant or plants 
-*  the quantity
-*  the letters ‘ZP’ and a protected zone code when you’re moving plants in these places
-*  the country of origin of the consignment, if it’s originally come from a non-EU country
-
-### Replacement plant passports
-
-You need replacement passport if you split a consignment of plants which already have a passport, it must include all standard passport details and:
-
-* the letters 'RP' - for replacement passport
-* the registration number of the original supplier
-
-[Question for SME: Do we need to add that the original supplier might be them?]
-
-^If you don't want to share supplier details you can put your own code on the passport and record the supplier number in case APHA ask.^
-
-###Creating a supplier document
-
-If you want to create a supplier document you can follow the same process but add:
-
-* “EU Quality”
-*  the date you make it 
-*  your company name
-*  the variety name for ‘rootstocks’ (part of a plant used to grow another) 
-*  the designation - if there’s no variety name
-* the name of the plant group your goods belong to
-
-If you’re moving a mix of plants that need passports and supplier documents just add “EU Label” to the existing the passport.
-
-###Keeping records
-
-You must keep all plant passports that you issue for 1 year so that APHA can investigate any pest or disease outbreaks.
-
-You don’t have to keep supplier documents, unless part of them forms the plant passport.
 
 ###Outside the EU
 {:#plants-outside-EU}
