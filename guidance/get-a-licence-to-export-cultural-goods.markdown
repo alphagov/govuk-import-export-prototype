@@ -25,7 +25,7 @@ You need a licence to export cultural goods on a temporary basis.
 
 $CTA
 
-Also check the import rules of the country that you’re exporting the animals to, which may be less or more strict than in the UK. You can get [help with overseas customs rules].
+Also check the import rules of the country that you’re exporting the animals to, which may be less or more strict than in the UK. You can get [help with overseas customs rules](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti.html).
 
 $CTA
 
