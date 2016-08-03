@@ -29,6 +29,12 @@ $CTA
 
 [Contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx) if your drug doesn't feature but you think it might have the properties of a controlled substance.
 
+$CTA
+
+Also check the import rules of the country that you’re exporting the animals to, which may be less or more strict than in the UK. You can get [help with overseas customs rules].
+
+$CTA
+
 ###Get an enhanced disclosure check
 {:#dbs}
 
