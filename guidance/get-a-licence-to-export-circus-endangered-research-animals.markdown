@@ -25,6 +25,7 @@ $CTA
 Also check the import rules of the country that you’re exporting the animals to, which may be less or more strict than in the UK. You can get [help with overseas customs rules].
 
 $CTA
+
 ##Within the EU
 {:#within-eu}
 
@@ -133,6 +134,7 @@ s5. Your official veterinarian will be asked to check if your products meet the 
 s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). Check your EHC’s guidance notes to find out.
 
 When you get your completed EHC, you must keep it for at least 2 years.
+
 ##Transporting animals
 
 You must make sure you meet [animal welfare standards](https://www.gov.uk/government/publications/2010-to-2015-government-policy-animal-welfare/2010-to-2015-government-policy-animal-welfare#appendix-1-animal-welfare-in-transport) when transporting animals.
@@ -155,6 +157,7 @@ APHA will contact you within 15 working days of receiving your application.
 You can talk to your vet or [contact APHA].
 
 ##Circuses
+
 Within the EU, you must register the circus and its animals if you take them outside the UK. As well as mammals, the rules also apply to any birds, bees, salmon or trout kept for exhibition or entertainment.
 
 Outside the EU, you don’t need to register your circus or its animals. You also don’t need to register circuses within the Channel Islands or the Isle of Man.
