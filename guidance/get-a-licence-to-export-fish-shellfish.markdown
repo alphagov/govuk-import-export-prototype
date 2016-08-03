@@ -26,7 +26,7 @@ You must check with the destination country's [embassy](/government/world/embass
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
