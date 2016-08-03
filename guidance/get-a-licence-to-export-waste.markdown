@@ -32,6 +32,12 @@ s5. Make sure a copy of the notification control and all supporting documents tr
 
 You may need to get insurance before you submit your application as the importing country may ask to see it.
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
+
 If you haven't heard back from the Environment Agency within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
 
 ###How long it lasts
