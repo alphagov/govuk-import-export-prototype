@@ -120,7 +120,6 @@ You don’t need a UK catch certificate to export:
 
 ##Contacts
 
-$C
 
 **Animal and Plant Health Agency (APHA)**
 
@@ -134,20 +133,13 @@ Temple Quay
 Bristol    
 BS1 6EB   
 
-$C
-
-$C
-
-**Defra**
+**Department for Environment, Food and Rural Affairs (Defra)**
 
 Email: <defra.helpline@defra.gsi.gov.uk>     
 Telephone: 0345 933 5577     
 Monday to Friday, 8am to 6pm     
 [Find out about call charges](/call-charges)      
 
-$C
-
-$C
 
 **Fish Health Inspectorate**
 
@@ -156,9 +148,6 @@ Email: <fhi@cefas.co.uk>
 Monday to Friday, 9am to 5pm    
 [Find out about call charges](/call-charges)    
 
-$C
-
-$C
 
 **UK llegal, unreported and unregulated (IUU) catch certificate centre**
 
@@ -167,7 +156,6 @@ Telephone: 0300 123 1032
 Fax: 0207 238 5147    
 Monday to Friday, 9am to 5pm    
 [Find out about call charges](/call-charges)    
-$C
 
 
 
