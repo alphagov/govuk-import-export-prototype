@@ -29,7 +29,7 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-To move animals within the EU you must:
+To move animals within the [EU](/eu-eea) you must:
 
 - [apply for an Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC) for each type of animal you’re moving
 - [check if your animal holding needs to be registered or approved](#register-approve-holding)
@@ -54,7 +54,7 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-###Getting your holding registered or approved
+###Check if your animal holding needs to be registered or approved
 {:#register-approve-holding}
 
 As well as an ITAHC, you may also need to register your holding or get it approved before you can move animals in the EU. Your holding is the place you keep your animals in the UK.
@@ -77,7 +77,7 @@ You don’t need to register or get approval to move other types of animal.
 ###Apply to register your holding
 {:#register-holding}
 
-Fill in [form EC3163] (PDF, 120KB). Send it to your local APHA office (there’s a different address for [Northern Ireland](https://www.daera-ni.gov.uk/contact).
+Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to your local APHA office (there’s a different address for [Northern Ireland](https://www.daera-ni.gov.uk/contact).
 
 You’ll get a registration number to use on your animal health certificates.
 
@@ -86,7 +86,7 @@ You must get your holding approved before you can move animals to an approved ho
 ###Apply to get your holding approved
 {:#get-holding-approved}
 
-Fill in form EC3164 (PDF, 172KB) and send it to your regional veterinary lead (RVL). To find your RVL, contact:
+Fill in [form EC3164](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501199/form-ec3164.pdf) (PDF, 172KB) and send it to your regional veterinary lead (RVL). To find your RVL, contact:
 
 - your [local APHA office]
 - a different address in [Northern Ireland]
