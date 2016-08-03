@@ -29,8 +29,8 @@ Check if your plant is on this [form](https://www.gov.uk/government/publications
 
 If it is, either:
 
-*complete the form and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
-*[apply through eDomero](http://edomero.defra.gov.uk/)
+* complete the form and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
+* [apply through eDomero](http://edomero.defra.gov.uk/)
 
 $CTA
 
