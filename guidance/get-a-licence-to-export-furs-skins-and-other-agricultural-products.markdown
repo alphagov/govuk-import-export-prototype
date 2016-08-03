@@ -17,10 +17,10 @@ You need permission to export animal by-products, for example:
 
 There are different rules for animal by-products that:
 
-- are [from endangered animals](/guidance/get-a-licence-to-export-circus-endangered-research-animals.html)
+- are [from endangered animals](/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#endangered-animals)
 - will be [used as food](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
 
-What you need to do depends on whether you’re exporting [within the EU] or [outside the EU].
+What you need to do depends on whether you’re exporting [within the EU](#within-eu) or [outside the EU](#outside-eu).
 
 $CTA
 
@@ -29,6 +29,7 @@ Also check the import rules of the country you’re exporting to. Talk to your i
 $CTA
 
 ##Within the EU
+{:#within-eu}
 
 To move animal by-products within the EU, you must:
 
@@ -68,6 +69,7 @@ You should keep a copy for at least 2 years.
 [Question for SME: Is the commercial document the same thing as a community transit declaration. If so, we can link to the guide rather than reproduce here.]
 
 ##Outside the EU
+{:#outside-eu}
 
 You need an Export Health Certificate (EHC) to export animal by-products and germplasm outside of the EU. 
 
