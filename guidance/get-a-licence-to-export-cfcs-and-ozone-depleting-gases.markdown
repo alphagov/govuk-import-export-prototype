@@ -22,6 +22,11 @@ You can only export ozone-depleting substances (ODS) outside the EU in special s
 - all ODS used as part of a chemical process to create another substance ('feedstock')
 - [other special situations](https://circabc.europa.eu/sd/a/6e32df10-ab7d-4bc0-83e1-ae3ef90cc45e/0%20General%20Informaton%20manual%20EN%20v1.0)
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
 
 [Apply for an export licence](http://ec.europa.eu/clima/policies/ozone/ods/) on the European Commission website.
 
