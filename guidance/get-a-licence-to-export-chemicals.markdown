@@ -9,7 +9,7 @@ topic:
 ---
 Within the EU, there aren't special rules unless you export [controlled chemicals](#licences-controlled-chemicals), eg those with a military use or controlled drugs.
 
-Outside the EU, you must also follow the [additional export rules](#additional-export-rules).
+Outside the EU, you must follow the rules for controlled chemicals as well as the [additional export rules](#additional-export-rules).
 
 Export rules cover single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
 
