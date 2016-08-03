@@ -24,6 +24,12 @@ This is free, but you need to give 5 working days’ notice.
 
 You must check with the destination country's [embassy](/government/world/embassies) that the fish you're exporting meets their requirements. 
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
+
 ###Get an Export Health Certificate
 
 You must get an Export Health Certificate (EHC) to export fish and shellfish outside the EU. You must keep this document for at least 2 years.
