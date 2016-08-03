@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Get a licence to export food for animals
-summary: You must get permission to export food for animals
+title: Get a certificate to export food for animals
+summary: You must get a certificate to export food for animals
 breadcrumbs:
  - name: Home
    url: '/'
