@@ -96,18 +96,7 @@ What you need to do depends on if you’re exporting [within the EU](#plants-wit
 ###Within the EU
 {:#plants-within-EU}
 
-You don't need to follow special rules for plants unless you either need:
-
-- a plant passport
-- a supplier document
-
-###Check if you need a plant passport
-Some plants need a plant passport - for example apples, citrus fruits, hops and beets. Check the [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446525/plant-passports-plant-products.pdf) (PDF, 212KB) and [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446531/plant-passports-protected-zones.pdf) (PDF, 108KB) where you need one.
-
-Seed potatoes always need a plant passport when moved around the UK or the EU. They must be part of the [Seed Potato Classification Scheme (SPCS)](https://www.gov.uk/guidance/the-seed-potato-classification-scheme).
-
-If you’re exporting to Switzerland, there are different [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447496/plant-passports-switzerland-1.pdf) (PDF, 108KB) and [regions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447499/plant-passports-switzerland4.pdf) (PDF, 201KB) that need a 
-passport.
+You don't need to follow special rules for plants unless you  need a supplier document
 
 ###Check if you need a supplier document
 
@@ -120,7 +109,7 @@ You don't need a supplier document if both:
 
 If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
-###Apply for a plant passport or supplier document
+###Apply for a supplier document
 
 Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) if you need a plant passport or supplier document to travel with your goods. They can also tell you what to do if you want to create your own.
 
