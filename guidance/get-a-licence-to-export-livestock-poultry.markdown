@@ -22,7 +22,7 @@ You must keep this document for at least 3 years.
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
@@ -193,8 +193,6 @@ For bee exports from Scotland, contact [Science and Advice for Scottish Agricult
 
 ##Contacts
 
-$C
-
 **Animal and Plant Health Agency (APHA)**   
 
 Telephone: +44 (0) 3000 200 301   
@@ -207,17 +205,13 @@ Temple Quay
 Bristol    
 BS1 6EB    
 
-$C
-
-$C
-
-**Defra**
+**Department for Environment, Food and Rural Affairs (Defra)**
 
 Email: <defra.helpline@defra.gsi.gov.uk>      
 Telephone: 0345 933 5577      
 Monday to Friday, 8am to 6pm     
 [Find out about call charges](/call-charges)      
-$C
+
 
 *[APHA]: Animal and Plant Health Agency
 *[ITAHC]: Intra Trade Animal Health Certificate
