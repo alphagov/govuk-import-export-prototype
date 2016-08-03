@@ -36,6 +36,8 @@ To move animal by-products within the EU, you must:
 - apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal by-product
 - complete a commercial document
 
+If you're exporting semen, ova or embryos, you must also [get your holding approved](#holding-approved).
+
 ###Apply for an Intra Trade Animal Health Certificate (ITAHC)
 
 s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
@@ -68,6 +70,47 @@ You must also fill in a commercial document to move animal by-products within th
 You should keep a copy for at least 2 years.
 
 [Question for SME: Is the commercial document the same thing as a community transit declaration. If so, we can link to the guide rather than reproduce here.]
+
+###If you're exporting semen, ova or embryos in the EU
+{:#holding-approved}
+
+As well as an ITAHC, you also need to get your holding approved to export within the EU. Your holding is the place you keep the semen, ova or embryos in the UK.
+
+Fill in [form EC3164](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501199/form-ec3164.pdf) (PDF, 172KB) and send it to your regional veterinary lead (RVL). To find your RVL, contact:
+
+- your [local APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)
+- [DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland
+
+An inspector will arrange a visit to your holding to check that it has:
+
+- walls, fences or other barriers separating it from the surrounding area
+- equipment, facilities and staff to catch, confine and isolate animals
+- quarantine facilities where you can isolate and test animals that come from non-approved holdings
+- a surveillance programme for incoming animals that’s been agreed with your vet
+- a clean and separated facility for carrying out post-mortems
+- a system for disposing of carcasses that’s been agreed with your vet
+
+You also must make sure you:
+
+- keep records of animals’ age, sex, species, blood tests and diseases
+- employ an official veterinarian - contact your local APHA office (or DEARA in Northern Ireland) to find one
+
+###Once your holding is approved
+
+Contact APHA to move animals from your holding. You’ll get an approval number to use on your animal health certificates.
+
+Your holding must be inspected annually. You’ll normally be contacted by your RVL, but it’s your responsibility that the inspection takes place.
+
+Your approval will be suspended if your holding breaks any of the approval conditions or if the RVL finds:
+
+- any [notifiable disease](www.gov.uk/government/collections/notifiable-diseases-in-animals)
+- viral enteritis or aleutian disease in mink
+- tuberculosis in apes and non-domestic cats
+- European foulbrood, varroasis or acariasis in bees
+- myxomatosis, viral haemorraghic disease, tularaemia in rabbits and hares
+
+You’ll be given time to fix the problem - but the RVL can withdraw your approval if you don’t.
+
 
 ##Outside the EU
 {:#outside-eu}
