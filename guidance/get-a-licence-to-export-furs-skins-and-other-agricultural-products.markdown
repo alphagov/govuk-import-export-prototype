@@ -13,7 +13,7 @@ You need permission to export animal by-products, for example:
 * skins, hides, leathers and wool   
 * bones, carsasses, blood and gelatin
 * manure
-* semen, ova, embryos and other germplasm from cattle or pigs 
+* semen, ova, embryos and other germplasm
 
 There are different rules for animal by-products that:
 
@@ -83,8 +83,3 @@ s6. Your official veterinarian will be asked to check if your products meet the 
 s7. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). Check your EHC’s guidance notes to find out.
 
 When you get your completed EHC, you must keep it for at least 2 years.
-
-
-
-
-
