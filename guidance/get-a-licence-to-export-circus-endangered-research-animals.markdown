@@ -9,8 +9,9 @@ topic:
 ---
 
 What you need to do to move or export animals depends on whether you’re exporting them:
--[within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
--[outside the EU](#outside-EU)
+
+- [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
+- [outside the EU](#outside-EU)
 
 There are different guides for [livestock, poultry and bees](/guidance/get-a-licence-to-export-livestock-poultry.html), [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html) and [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html).
 
