@@ -77,7 +77,7 @@ You don’t need to register or get approval to move other types of animal.
 ###Apply to register your holding
 {:#register-holding}
 
-Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to your local [APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)  ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to your local [APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)  (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 You’ll get a registration number to use on your animal health certificates.
 
