@@ -2,6 +2,7 @@
 layout: guidance
 title: Moving Scotch whisky out of Scotland
 summary: There are certain rules to follow when moving Scotch whisky
+permalink: /guidance/moving-scotch-whisky-out-of-scotland.html
 breadcrumbs:
  - name: Home
    url: '/'
