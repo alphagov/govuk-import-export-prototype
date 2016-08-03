@@ -139,8 +139,6 @@ You should look at each stage of the journey and make sure your consignment has 
 
 ##Contacts
 
-$C
-
 **Animal and Plant Health Agency (APHA)**
 
 Telephone: +44 (0) 3000 200 301   
@@ -152,10 +150,6 @@ Centre for International Trade - Bristol
 Temple Quay   
 Bristol   
 BS1 6EB   
-
-$C
-
-$C
 
 **Department for Environment Food & Rural Affairs (Defra)**
 
