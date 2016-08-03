@@ -69,7 +69,7 @@ You must [register your holding](:#register-holding) to move:
 You must [get your holding approved](#get-holding-approved) to move:
 
 - any animal to another approved holding
-- carnivores or primates, eg monkeys, apes, lemurs
+- carnivores or primates, for example monkeys, apes, lemurs
 - semen or embryos
 
 You don’t need to register or get approval to move other types of animal.
@@ -77,7 +77,7 @@ You don’t need to register or get approval to move other types of animal.
 ###Apply to register your holding
 {:#register-holding}
 
-Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to your local [APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)).
+Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to your local [APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)  ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 You’ll get a registration number to use on your animal health certificates.
 
@@ -103,7 +103,7 @@ An inspector will arrange a visit to your holding to check that it has:
 You also must make sure you:
 
 - keep records of animals’ age, sex, species, blood tests and diseases
-- employ an official veterinarian - contact your local APHA office (or the office in Northern Ireland) to find one
+- employ an official veterinarian - contact your local APHA office (or DEARA in Northern Ireland) to find one
 
 ###Once your holding is approved
 
