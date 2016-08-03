@@ -26,6 +26,12 @@ This includes anything that could have legitimate applications but also be used 
 
 The rules for torture goods apply both within the EU and outside the EU.
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
+
 ##Banned goods
 
 You can’t export any of the following goods, unless they’re going to be displayed in a museum:
