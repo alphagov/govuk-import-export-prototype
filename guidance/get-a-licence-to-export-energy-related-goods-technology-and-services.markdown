@@ -21,6 +21,11 @@ There’s a complete ban on exporting goods or services for use in:
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
 
+$CTA
+
+Also check the import rules of the country that you’re exporting the animals to, which may be less or more strict than in the UK. You can get [help with overseas customs rules].
+
+$CTA
 
 ##Apply for an export licence
 
