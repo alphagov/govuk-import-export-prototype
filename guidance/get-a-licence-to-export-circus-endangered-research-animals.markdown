@@ -54,7 +54,7 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-##Moving animals in the EU: getting your holding registered or approved
+###Getting your holding registered or approved
 {:#register-approve-holding}
 
 As well as an ITAHC, you may also need to register your holding or get it approved before you can move animals in the EU. Your holding is the place you keep your animals in the UK.
@@ -138,6 +138,7 @@ When you get your completed EHC, you must keep it for at least 2 years.
 ##Transporting animals
 
 You must make sure you meet [animal welfare standards](https://www.gov.uk/government/publications/2010-to-2015-government-policy-animal-welfare/2010-to-2015-government-policy-animal-welfare#appendix-1-animal-welfare-in-transport) when transporting animals.
+
 ##Endangered animals
 
 [Search for the animal you’re exporting](http://www.speciesplus.net/). It’s endangered if it’s listed as ‘appendix I’.
