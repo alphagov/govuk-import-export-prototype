@@ -137,13 +137,13 @@ When you get your completed EHC, you must keep it for at least 2 years.
 
 ##Transporting animals
 
-You must make sure you meet [animal welfare standards](https://www.gov.uk/government/publications/2010-to-2015-government-policy-animal-welfare/2010-to-2015-government-policy-animal-welfare#appendix-1-animal-welfare-in-transport) when transporting animals.
+You must make sure you meet [animal welfare standards](https://www.gov.uk/guidance/animal-welfare#animal-welfare-during-transport) when transporting animals.
 
 ##Endangered animals
 
 [Search for the animal you’re exporting](http://www.speciesplus.net/). It’s endangered if it’s listed as ‘appendix I’.
 
-Within the EU, you usually can’t move endangered animals except in special cases (like for conservation necessary for the species to survive). [Contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+Within the EU, you usually can’t move endangered animals except in special cases (like for conservation necessary for the species to survive). [Contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 Outside the EU, you need to:
 
@@ -154,10 +154,6 @@ Send the permit application form by post or email to [APHA](https://govuk-import
 
 APHA will contact you within 15 working days of receiving your application.
 
-##If you need help
-
-You can talk to your vet or [contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening).
-
 ##Circuses
 
 Within the EU, you must register the circus and its animals if you take them outside the UK. As well as mammals, the rules also apply to any birds, bees, salmon or trout kept for exhibition or entertainment.
@@ -166,15 +162,15 @@ Outside the EU, you don’t need to register your circus or its animals. You als
 
 You need a [licence for wild animals](/guidance/travelling-circus-with-wild-animals-get-a-licence), even if your circus stays within the UK.
 
-###What you need to do
+###Registering your circus to travel within the EU
 
-You must:
+If you take your circus outside the UK to another country in the EU, you must:
 
 - register the circus and animals
 - get passports for all animals in the circus or exhibition (apart from bees, salmon or trout) - these are issued by your official veterinarian when you register your circus to travel   
 - get an ITAHC before you travel
 - keep animals registered as part of the circus away from unregistered animals
-- put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species [contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening), or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland))
+- put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species [contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening), or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
 
 You must take the following documents with you when you travel:
 
