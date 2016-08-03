@@ -23,7 +23,7 @@ There’s a complete ban on exporting goods or services for use in:
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or get help with overseas customs rules.
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
 
 $CTA
 
