@@ -15,6 +15,12 @@ There are different rules if your plant is endangered or prohibited.
 
 What you need to do depends on if you’re exporting [within the EU](#plants-within-EU) or [outside the EU](#plants-outside-EU).
 
+$CTA
+
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
+
 ###Within the EU
 {:#plants-within-EU}
 
