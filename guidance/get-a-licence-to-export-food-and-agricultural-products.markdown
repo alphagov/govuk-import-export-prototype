@@ -96,9 +96,7 @@ What you need to do depends on if you’re exporting [within the EU](#plants-wit
 ###Within the EU
 {:#plants-within-EU}
 
-You don't need to follow special rules for plants unless you  need a supplier document
-
-###Check if you need a supplier document
+You don't need to follow special rules for plants unless you  need a supplier document.
 
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
@@ -106,17 +104,9 @@ If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/gover
 
 ###Apply for a supplier document
 
-Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) if you need a plant passport or supplier document to travel with your goods. They can also tell you what to do if you want to create your own.
+Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) if you need a supplier document to travel with your goods. 
 
-You’ll have to have an inspection and  pay £46.10 for every 15 mins that an inspection takes, (including the time it takes inspectors to travel to your site).
-
-The minimum fee for any inspection is £92.19. 
-
-You have to pay these fees again if you need more plant passports the next year.
-
-There is no charge for supplier documents 
-
-[Question for SME: How much is the charge to have a passport and can you have a supplier document made for you?]
+[Question for SME: Am I right in thinking supplier documents are free and that they are required for food?]
 
 ###Outside the EU
 {:#plants-outside-EU}
