@@ -16,6 +16,8 @@ topic:
 ---
 It’s a criminal offence to export something on the consolidated control lists outside the UK without the right licence.
 
+You must have a licence whether you’re exporting them within or outside the [EU](https://www.gov.uk/eu-eea).
+
 $CTA
 
 [Download the consolidated control lists](www.gov.uk/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf) (PDF, 3.28 MB).
