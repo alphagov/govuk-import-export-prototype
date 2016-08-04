@@ -96,9 +96,9 @@ What you need to do depends on if you’re exporting [within the EU](#plants-wit
 ###Within the EU
 {:#plants-within-EU}
 
-You don't need to follow special rules for plants unless you  need a supplier document.
-
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
+
+If they don't, you don't need to do anything but you'll have to comply with certain standards [to sell fresh fruit and vegetables](https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables).
 
 If you’re not sure or need to apply, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
