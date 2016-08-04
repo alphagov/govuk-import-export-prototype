@@ -27,6 +27,7 @@ The consolidated control lists include:
 - weapons
 - other goods, technology or services that are used for military purposes (eg cryptographic technology or training materials for a weapons system)
 - ‘dual use’ items - civilian goods, technology, documents or diagrams that can also be used for military purposes
+- intangible goods like software and data
 
 ‘Dual use’ items can be raw materials, components or finished systems.
 
