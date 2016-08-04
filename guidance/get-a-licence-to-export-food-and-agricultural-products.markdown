@@ -100,11 +100,7 @@ You don't need to follow special rules for plants unless you  need a supplier do
 
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
-If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
-
-###Apply for a supplier document
-
-Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) if you need a supplier document to travel with your goods. 
+If you’re not sure or need to apply, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
 [Question for SME: Am I right in thinking supplier documents are free and that they are required for food?]
 
