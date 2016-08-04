@@ -50,7 +50,7 @@ Monday to Friday: 8.30am to 5pm
 ##Meat, dairy and other animal products
 {:#meat-dairy-animal-products}
 
-You need a commercial to export animal products that will be used as food, for example:
+You need to follow special rules to export animal products that will be used as food, for example:
 
 - frozen or fresh meat and fish
 - dairy products
