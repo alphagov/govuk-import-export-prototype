@@ -11,7 +11,7 @@ topic:
 You may need a licence or follow special rules to export:
 
 - [processed food and drinks](#processed-foods) like flour, spices and alcoholic beverages
-- [meat, dairy and other animal products](#meat-dairy-animal-products) like fresh or frozen meat, fish, dairy, honey, gelatine
+- [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like dairy, honey, gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
 - [sugar, cereals and rice](sugar) (outside the EU only)
@@ -27,8 +27,7 @@ $CTA
 
 Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods.
 
-Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'. In special cases, you might also need an [export health certificate](#meat-dairy-animal-products-outside-EU) if your food or drink contains animal products.
-
+Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'. If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
 
 ###Apply for a certificate of free sale
 
