@@ -34,7 +34,7 @@ $CTA
 To move animal by-products within the EU, you must:
 
 - apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal by-product
-- complete a commercial document
+- complete a commercial document (not needed for semen, ova or embryos)
 
 If you're exporting semen, ova or embryos, you must also [get your holding approved](#holding-approved).
 
