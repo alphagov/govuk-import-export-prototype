@@ -53,7 +53,7 @@ If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/gover
 
 ###Get permission to make passports or supplier documents
 
-AHPA will inspect your plants and you’ll get a unique registration number if you pass.
+APHA will inspect your plants and you’ll get a unique registration number if you pass.
  
 Your permission will last a year but you may need more inspections if your site has a higher risk of diseases.
 
@@ -159,7 +159,7 @@ You don’t usually need a permit or licence to move endangered species around t
 
 These types of plants can’t be used for commercial purposes but there are special circumstances when they can be traded with an internal trade certificate (for example if the plants were bred artificially and passed on to ensure the species survives).
 
-[Check with AHPA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) if you think this could apply to you.
+[Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) if you think this could apply to you.
 
 ###Outside the EU
 
