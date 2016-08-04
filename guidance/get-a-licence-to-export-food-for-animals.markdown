@@ -45,10 +45,12 @@ If there isn’t an ITAHC for your type of animal product, [contact the Animal a
 
 ##Outside the EU
 
-To export most types of animal feed and pet food outside the EU, you need to:
+To export animal feed and pet food outside the EU, you need to:
 
 - apply for an Export Health Certificate (EHC)
 - check if you need a certificate of free sale - ask the country you’re exporting to
+ 
+These rules cover feed of both meat and plant origin.
 
 ###Apply for an Export Health Certificate (EHC)
 
