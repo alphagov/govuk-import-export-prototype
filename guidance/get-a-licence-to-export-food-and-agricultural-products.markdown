@@ -98,9 +98,14 @@ What you need to do depends on if you’re exporting [within the EU](#plants-wit
 
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
-If they don't, you don't need to do anything but you'll have to comply with certain standards [to sell fresh fruit and vegetables](https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables).
+Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices)to apply.
 
-If you’re not sure or need to apply, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
+$CTA
+
+If you don't need one, you don't have to do anything but you always have to comply with certain standards [to sell fresh fruit and vegetables](https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables).
+
+$CTA
+
 
 [Question for SME: Am I right in thinking supplier documents are free and that they are required for food?]
 
