@@ -29,6 +29,9 @@ You may need a licence, including if you trade within the EU, for exports of:
 - [ozone-depleting substances](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html), eg HCFCs
 - [barbiturates](/guidance/get-a-licence-to-export-drugs-and-medicines.html#export-barbiturates) that can be used in lethal injections
 
+If you supply [chemicals that could be used to make explosives](https://www.gov.uk/government/publications/supplying-explosives-precursors/supplying-explosives-precursors-and-poison#regulated-substances) to a member of the public in the EU, you must check they have a licence and a photo ID.
+You must report any suspicious transactions - [check the contact in the country you're exporting to](http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/crisis-and-terrorism/explosives/explosives-precursors/docs/list_of_competent_authorities_and_national_contact_points_en.pdf).
+
 ###Drug precursor chemicals
 {:#precursors}
 
@@ -88,6 +91,9 @@ s4. [Apply for an export licence](#apply-export-licence), if you’re exporting 
 s5. [Fill in an annual return](#annual-returns-precursors) by 31 January.
 
 If you export category 3 chemicals in [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb)  outside the EU to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb), you only need an export licence. Don’t complete the other steps.
+
+
+
 
 ###Get an enhanced disclosure check
 {:#dbs}
@@ -227,7 +233,6 @@ You first need an online account. Email the Health and Safety Executive (HSE), i
 
 **Health and Safety Executive**  
 <UKDNA@hse.gov.uk>  
-
 
 Using the subject line ‘Edexim account request’, tell HSE:
 
