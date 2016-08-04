@@ -179,7 +179,7 @@ There are 5 types of export certificate for  human medicine licences and [5 diff
 
 $CTA
 
-If your medecine is coated in or contain animal products (for example gelatine), you might need an [export health certificate](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products)
+If your medicine is coated in or contains animal products (for example gelatine), you might need an [export health certificate](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products).
 
 $CTA
 
