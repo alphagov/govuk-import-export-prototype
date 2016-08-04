@@ -10,7 +10,7 @@ topic:
 
 You may need a licence or follow special rules to export:
 
-- [processed foods](#processed-foods) like flour, spices and alcoholic beverages
+- [processed food and drinks](#processed-foods) like flour, spices and alcoholic beverages
 - [meat, dairy and other animal products](#meat-dairy-animal-products) like fresh or frozen meat, fish, dairy, honey, gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
