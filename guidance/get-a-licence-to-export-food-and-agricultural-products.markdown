@@ -35,7 +35,7 @@ Fill in the [application form](https://www.gov.uk/government/uploads/system/uplo
 
 Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
 
-It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
+It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
 
 ###If you need help
 
