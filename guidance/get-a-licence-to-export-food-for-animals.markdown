@@ -24,7 +24,7 @@ $CTA
 
 ##Within the EU 
 
-You need to apply for an Intra Trade Animal Health Certificate (ITAHC) if you move meat animal feed or pet food around the EU. You don't need an extra document for animal or pet feed of plant origin.
+You need to apply for an Intra Trade Animal Health Certificate (ITAHC) if you move meat animal feed or pet food around the EU. You don't need an ITAHC for feed of plant origin.
 
 [Question for SME: how much does it cost to get a certificate?]
 
