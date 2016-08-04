@@ -7,7 +7,7 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-Within the EU, there aren't special rules unless you export [controlled chemicals](#licences-controlled-chemicals), eg those with a military use or controlled drugs.
+Within the [EU](https://www.gov.uk/eu-eea), there aren't special rules unless you export [controlled chemicals](#licences-controlled-chemicals), eg those with a military use or controlled drugs.
 
 Outside the EU, you must follow the rules for controlled chemicals as well as the [additional export rules](#additional-export-rules).
 
