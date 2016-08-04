@@ -121,7 +121,7 @@ $CTA
 
 ###Apply for a plant health certificate
 
-Unless you're part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme), you must apply for your plants to be tested before you get a plant health certificate.
+You must apply for your plants to be tested before you get a plant health certificate.
 
 Apply by filling in the appropriate form for:
 
@@ -133,10 +133,11 @@ Return the completed form to [your local APHA office](https://www.gov.uk/governm
 
 Your plants will be tested. If they pass, you’ll get your certificate in 7 days. It usually costs £13.87 for the plant health certificate and £36.35 for a lab inspection.
 
-You can contact APHA to check whether you need:
+You can contact APHA to check whether you:
 
-- a soil inspection for the plants you're exporting - use the [soil inspection form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) if you do
-- to wash soil from the roots of the plants you export - the USA, New Zealand and other countries require this
+- need a soil inspection for the plants you're exporting - use the [soil inspection form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) if you do
+-  need to wash soil from the roots of the plants you export - the USA, New Zealand and other countries require this
+-  Can use your results from the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme) instead of applying (if you're already part of these schemes)
 
 [Question for SME: Do you growing season inspections also apply to food?]
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
