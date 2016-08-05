@@ -17,7 +17,7 @@ You need permission to export animal by-products, for example:
 
 There are different rules for animal by-products that:
 
-- are [from endangered animals](/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#endangered-animals)
+- are [from endangered animals](#endangered-animals)
 - will be [used as food](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
 
 What you need to do depends on whether you’re exporting [within the EU](#within-eu) or [outside the EU](#outside-eu).
@@ -126,3 +126,18 @@ s6. Your official veterinarian will be asked to check if your products meet the 
 s7. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). Check your EHC’s guidance notes to find out.
 
 When you get your completed EHC, you must keep it for at least 2 years.
+
+##Endangered animals
+
+[Search for the animal you’re exporting](http://www.speciesplus.net/). It’s endangered if it’s listed as ‘appendix I’.
+
+Within the EU, you usually can’t move endangered animals except in special cases (like for conservation necessary for the species to survive). [Contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+
+Outside the EU, you need to:
+
+- check the [list of banned exports](https://cites.org/eng/resources/ref/suspend.php) - some animals to certain countries are banned outright
+- [apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB), if the animal isn’t banned
+
+Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
+
+APHA will contact you within 15 working days of receiving your application.
