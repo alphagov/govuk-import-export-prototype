@@ -60,7 +60,7 @@ If there isn’t an ITAHC for your type of animal product, [contact the Animal a
 
 As well as an ITAHC, you may also need to register your holding or get it approved before you can move animals in the EU. Your holding is the place you keep your animals in the UK.
 
-You must [register your holding](:#register-holding) to move:
+You must [register your holding](#register-holding) to move:
 
 - hooved animals (ungulates) that aren’t livestock
 - birds that aren’t commercial poultry
