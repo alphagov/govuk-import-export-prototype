@@ -96,8 +96,8 @@ Thoroughbred horses don’t need an export declaration if a steward or secretary
 
 If you need an export declaration, download the form for:
 
-- [horses taller than 147cm (14.2 hands)] (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413965/exh6.pdf) (PDF, 99.8KB)
-- horses or ponies 147cm or less](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413969/exh7.pdf) (PDF, 102KB).
+- [horses taller than 147cm (14.2 hands)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413965/exh6.pdf) (PDF, 99.8KB)
+- [horses or ponies 147cm or less](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413969/exh7.pdf) (PDF, 102KB).
 
 Fill it in and give it to the aircraft or master of the vessel that’s carrying the horses or ponies.
 
