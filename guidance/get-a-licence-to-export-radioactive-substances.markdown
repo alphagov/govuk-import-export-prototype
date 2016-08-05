@@ -12,7 +12,7 @@ It’s a criminal offence to export something on the consolidated military list 
 
 $CTA
 
-[Check the consolidated military list](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new).
+[Check the consolidated control lists using the Goods Checker tool list](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
 
 $CTA
 
