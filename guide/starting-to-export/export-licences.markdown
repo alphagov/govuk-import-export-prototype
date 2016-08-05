@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Exporting and doing business abroad overview
+title: Exporting and doing business abroad
 permalink: /guide/starting-to-export/export-licences.html
 page_number: 4
 page_title: Export licences
