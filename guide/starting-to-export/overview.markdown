@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Exporting and doing business abroad overview
+title: Exporting and doing business abroad
 permalink: /guide/starting-to-export/overview.html
 page_number: 1
 page_title: How to export
