@@ -19,7 +19,7 @@ You must have a licence to sell military or 'dual use' goods, services and techn
 
 $CTA
 
-[Check the consolidated control lists using the Goods Checker tool list](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
+[Check the consolidated control lists using the Goods Checker tool](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
 
 $CTA
 
