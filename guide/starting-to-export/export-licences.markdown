@@ -37,12 +37,15 @@ You may need a licence before you can export some types of goods. These are call
 - [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
 - [diamonds, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html)
 
-
-Check if your product licence to  This applies whether you’re exporting within or outside the EU and includes:
-
-### Special rules for exporting high-tech products
+### Special rules for high-tech products
 
 Some goods, technologies and information that you might not think need a licence may also have military use (called dual use items). 
+
+This applies if you're exporting:
+
+- [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
+- [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
+- [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
 
  Dual use items are usually high-tech, often with military standard specifications. They include:
 
@@ -51,10 +54,5 @@ Some goods, technologies and information that you might not think need a licence
 - software that could be used for information security systems (eg cryptographic technology)
 - knowledge and skills that could be used for military purposes
 
-They apply to:
-
-- [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
-- [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
-- [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
 
 %It’s a criminal offence to export dual use items without a licence.
