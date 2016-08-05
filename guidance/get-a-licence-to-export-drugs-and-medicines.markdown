@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export drugs and medicines
-summary: You must have a licence to export certain drugs and medicines inside and outside the EU
+summary: You must have a licence to export certain drugs and medicines inside and outside the EU.
 permalink: /guidance/get-a-licence-to-export-drugs-and-medicines.html
 topic:
   name: Exporting and doing business abroad
@@ -9,13 +9,12 @@ topic:
 ---
 You'll need a licence to export ‘controlled drugs’ that:
 
-* [have similar compounds or effects to class A, B and C illegal drugs](#export-drugs-which-could-be-misused), for example, opioids, stimulants or psycoactive substances
+* [have similar compounds or effects to class A, B and C illegal drugs](#export-drugs-which-could-be-misused), for example opioids, stimulants or psychoactive substances
 * [could be used in lethal injections](#export-barbituates-which-could-be-used-for-lethal-injections) - these are called barbiturates
 
-There are extra rules if you’re exporting [any type of controlled drug to the Channel Islands](£exporting-controlled-drugs to-the-channel-islands) or [propafol to the US](##export-propofol-to-the-US).
+There are extra rules if you’re exporting any controlled drug to the [Channel Islands](#channel-islands) or [propafol to the US](##export-propofol-to-the-US).
 
-If you’re exporting drugs which have a [medical use for humans or animals](
-##exporting-human-and-veterinary-medicines) you might also need to get an export certificate - talk to the importer who’s receiving your goods to find out if you need one.
+Drugs that have a [medical use for humans or animals](#medicines) might also need to get an export certificate. 
 
 $CTA
 
@@ -112,7 +111,8 @@ The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk)
 ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
 
 
-##Exporting controlled drugs to the Channel Islands
+##Channel Islands
+{:#channel-islands}
 
 You’ll need an additional licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
 
@@ -165,13 +165,15 @@ Email: [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffi
 
 Email DCLU to complain or make a suggestion: DLCU_Complaints_Section@homeoffice.gsi.gov.uk 
 
-##Exporting human and veterinary medicines 
+##Medicines 
 
 To export most veterinary and human medicines you must have one of the following:
 
 - a drug manufacturer licence 
 - a wholesale dealer licence 
 - a marketing licence 
+ 
+Check with the importer who’s receiving your goods to find out if you need one.
 
 [Apply for a licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) if you don’t have one.
 
