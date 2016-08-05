@@ -198,7 +198,7 @@ You must arrange another official veterinarian visit if you get new circus anima
 
 Passports cost:
 
-- £2 for each individual circus animal ([dogs, cats, ferrets](https://govuk-import-export.herokuapp.com/take-pet-abroad) and [horses](https://govuk-import-export.herokuapp.com/horse-passport) need special passports)
+- £2 for each individual circus animal ([dogs, cats, ferrets](https://www.gov.uk/take-pet-abroad/overview) and [horses](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-horses-ponies.html) need special passports)
 - £2 for a group of birds or rodents (maximum of 15 ringed or microchipped birds or rodents per group, no limit on the number without rings or microchips)
 
 You need a separate passport for each species and breed.
