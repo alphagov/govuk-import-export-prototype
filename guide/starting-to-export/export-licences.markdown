@@ -37,7 +37,7 @@ You may need a licence before you can export some types of goods. These are call
 - [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
 - [diamonds, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html)
 
-### Special rules for high-tech products
+## Special rules for high-tech products
 
 Some goods, technologies and information that you might not think need a licence may also have military use (called dual use items). 
 
