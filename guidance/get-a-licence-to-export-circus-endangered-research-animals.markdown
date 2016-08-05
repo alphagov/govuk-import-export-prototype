@@ -114,7 +114,7 @@ Your holding must be inspected annually. You’ll normally be contacted by your 
 
 Your approval will be suspended if your holding breaks any of the approval conditions or if the RVL finds:
 
-- any [notifiable disease](www.gov.uk/government/collections/notifiable-diseases-in-animals)
+- any [notifiable disease](http://www.gov.uk/government/collections/notifiable-diseases-in-animals)
 - viral enteritis or aleutian disease in mink
 - tuberculosis in apes and non-domestic cats
 - European foulbrood, varroasis or acariasis in bees
