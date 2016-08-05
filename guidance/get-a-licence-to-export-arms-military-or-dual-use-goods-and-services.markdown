@@ -19,7 +19,7 @@ It’s a criminal offence to export something on the consolidated control lists 
 
 $CTA
 
-[Download the consolidated control lists](www.gov.uk/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf) (PDF, 3.28 MB).
+[Check the consolidated control lists](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new).
 
 $CTA
 
@@ -28,7 +28,7 @@ The consolidated control lists include:
 - weapons
 - other goods, technology or services that are used for military purposes (eg cryptographic technology or training materials for a weapons system)
 - ‘dual use’ items - civilian goods, technology, documents or diagrams that can also be used for military purposes
-- intangible goods like software and data
+- the transfer of knowledge and skills that could be used for military purposes
 
 ‘Dual use’ items can be raw materials, components or finished systems.
 
