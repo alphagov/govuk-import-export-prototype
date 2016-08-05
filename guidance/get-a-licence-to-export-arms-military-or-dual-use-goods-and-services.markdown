@@ -19,7 +19,7 @@ You must have a licence to export military or 'dual use' goods, services and tec
 
 $CTA
 
-[Check the consolidated control lists](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new).
+[Check the consolidated control lists](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
 
 $CTA
 
