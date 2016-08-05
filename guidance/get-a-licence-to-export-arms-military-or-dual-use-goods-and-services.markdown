@@ -15,7 +15,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-It’s a criminal offence to export something on the consolidated control lists outside the UK without the right licence. This applies whether you're exporting within or outside the [EU](https://www.gov.uk/eu-eea).
+You must have a licence to export military or 'dual use' goods, services and technologies overseas, or to share classified information with someone based overseas. This applies whether you're exporting within or outside the [EU](https://www.gov.uk/eu-eea).
 
 $CTA
 
