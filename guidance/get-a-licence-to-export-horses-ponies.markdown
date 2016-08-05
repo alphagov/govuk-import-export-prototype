@@ -26,7 +26,7 @@ $CTA
 To move horses or ponies within the [EU](/eu-eea) you must:
 
 - [apply for an Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC)
-- [check if you need an animal welfare declaration](#animal-welfare-declaration)
+- [check if you need an animal welfare declaration](#export-welfare-declaration)
 
 ###Apply for an ITAHC
 {:#animal-health-certificate}
@@ -57,7 +57,7 @@ If there isn’t an ITAHC for your type of horse, [contact the Animal and Plant 
 To export horses or ponies outside the EU you must:
 
 - [apply for an Export Health Certificate (EHC)](#export-health-certificate)
-- [check if you need an animal welfare declaration](#animal-welfare-declaration)
+- [check if you need an animal welfare declaration](#export-welfare-declaration)
 
 
 ###Apply for an EHC
