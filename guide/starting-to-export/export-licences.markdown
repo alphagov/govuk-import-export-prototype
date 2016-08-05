@@ -37,24 +37,24 @@ You may need a licence before you can export some types of goods. These are call
 - [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
 - [diamonds, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html)
 
-##Special rules
 
-You must have a licence to send certain goods and technologies, or share classified information with someone based overseas. This applies whether you’re exporting within or outside the EU and includes:
+Check if your product licence to  This applies whether you’re exporting within or outside the EU and includes:
 
-- [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
-- [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
-- [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
+### Special rules for exporting high-tech products
 
-### Exporting high-tech products
+Some goods, technologies and information that you might not think need a licence may also have military use (called dual use items). 
 
-Some things you might not think need a licence may also have military use (called dual use items). 
-
-Dual use items are usually high-tech, often with military standard specifications. They include:
+ Dual use items are usually high-tech, often with military standard specifications. They include:
 
 - specialist computers, radios and other communications equipment
 - information (eg manuals, blueprints) that could be used to make weapons, as well as civilian goods
 - software that could be used for information security systems (eg cryptographic technology)
+- knowledge and skills that could be used for military purposes
 
-[Check if your product is dual use and needs a licence](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html).
+They apply to:
+
+- [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
+- [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
+- [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
 
 %It’s a criminal offence to export dual use items without a licence.
