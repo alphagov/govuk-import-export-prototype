@@ -148,7 +148,7 @@ How you apply for the certificate depends on whether you’re exporting:
 There are additional rules if your medicine is [coated in or contains animal products](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products) like gelatine.
 
 ###Export certificates for medicines for humans
-{#human-medicines}
+{:#human-medicines}
 
 There are 5 types of certificate. 
 
