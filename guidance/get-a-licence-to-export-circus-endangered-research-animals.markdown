@@ -65,7 +65,7 @@ You must [register your holding](#register-holding) to move:
 - hooved animals (ungulates) that aren’t livestock
 - birds that aren’t commercial poultry
 - rabbits and hares
-- dogs, cats and ferrets that don’t meet the usual rules for [pet travel](https://govuk-import-export.herokuapp.com/take-pet-abroad/) (for example rescue animals being rehomed abroad)
+- dogs, cats and ferrets that don’t meet the usual rules for [pet travel](https://www.gov.uk/take-pet-abroad/overview) (for example rescue animals being rehomed abroad)
 
 You must [get your holding approved](#get-holding-approved) to move:
 
