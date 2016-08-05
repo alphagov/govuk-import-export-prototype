@@ -7,16 +7,12 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
+What you need to do to export horses or ponies depends on whether you’re exporting them:
 
-##Get an export welfare declaration
+- [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
+- [outside the EU](#outside-EU)
 
-If you’re exporting horses and ponies within or outside of the EU, you must print and complete an export licence application form, unless you have an exemption from the Secretary of State.
 
-Download an [export licence application form for horses taller than 147cm (14.2 hands)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413965/exh6.pdf) (PDF, 99.8KB).
-
-Download an [export licence application form for ponies or horses that are shorter than 147cm (14.2 hands)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413969/exh7.pdf) (PDF, 102KB).
-
-The pilot of the aircraft or master of the vessel that’s carrying the horses or ponies you're exporting must have a copy of the export welfare declaration.
 
 $CTA
 
@@ -24,141 +20,104 @@ Also check the import rules of the country you’re exporting to. Talk to your i
 
 $CTA
 
-[Question for SME: how much does it cost to get a licence?]
+##Within the EU
+{:#within-eu}
 
-[Question for SME: what do you need to do with your licence when you have it? Is it a case of attaching it to your export declaration?]
+To move horses or ponies within the [EU](/eu-eea) you must:
 
-###When you don’t need an export welfare declaration
+- [apply for an Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC)
+- [check if you need an animal welfare declaration](#animal-welfare-declaration)
 
-You don’t need an export welfare declaration if you’re moving:
+###Apply for an ITAHC
+{:#animal-health-certificate}
 
-- horses or ponies to Northern Ireland, the Channel Islands or the Isle of Man
-- horses over 147cm to the Republic of Ireland
+[Question for SME: how much does it cost to get a certificate?]
+
+[Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
+
+s1. Nominate an official veterinarian to inspect your horses. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
+s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
+s3. Sign in to TRACES and fill in the details.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA office](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+
+Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+
+Your ITAHC will be valid for 10 days after the inspection. You must keep it for 3 years.
+
+[Question for SME: Does the exporter need to do anything else once the vet has signed it?]
+
+If there isn’t an ITAHC for your type of horse, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+
+[Question for fact check - are there any types of horse that _don’t_ have an ITAHC? If not, can we delete the line above?]
+
+
+##Outside the EU
+{:#outside-eu}
+
+To export horses or ponies outside the EU you must:
+
+- [apply for an Export Health Certificate (EHC)](#export-health-certificate)
+- [check if you need an animal welfare declaration](#animal-welfare-declaration)
+
+
+###Apply for an EHC
+{:#export-health-certificate}
+
+s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
+s3. You'll be given the application form for the EHC you need. Fill it and return it to the address on the form.
+s4. Your EHC will be sent to you within xxx days/weeks.
+s4. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
+s5. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
+
+When you get your completed EHC, you must keep it for at least 2 years.
+
+[Questions for fact check: How long does it usually take to get a EHC? Is there a fee?]
+
+##Check if you need an export welfare declaration
+
+Whether you need an [export welfare declaration](#export-welfare-declaration) depends on the horses and where you’re exporting them to.
+
+You don’t need an export declaration if you’re moving:
+
 - horses by direct flight to countries outside of Europe
+- horses over 147cm to the Republic of Ireland
+- horses or ponies to Northern Ireland, the Channel Islands or the Isle of Man
+- [certain horses to France](#france)
 
-Thoroughbred horses don’t need an export declaration if a steward or secretary of [the Jockey Club](http://www.thejockeyclub.co.uk/contact/contact) certifies that:
+Thoroughbred horses don’t need an export declaration if a steward or secretary of [the Jockey Club](http://www.thejockeyclub.co.uk/contact/contact) certifies that any of the following apply:
 
 - they arrived in Great Britain no more than 1 month before the date of shipment to compete in a race
 - they’re being shipped for a race or for training
 - they’re being shipped to be used for breeding
 
+###Get an export welfare declaration
+{:#export-welfare-declaration}
+
+If you need an export declaration, download the form for:
+
+- [horses taller than 147cm (14.2 hands)] (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413965/exh6.pdf) (PDF, 99.8KB)
+- horses or ponies 147cm or less](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413969/exh7.pdf) (PDF, 102KB).
+
+Fill it in and give it to the aircraft or master of the vessel that’s carrying the horses or ponies.
+
+
 ###Export horses to France
+{:#france}
 
 You don’t need an export welfare declaration if you’re exporting:
 
 - thoroughbreds used for racing, breeding, training or that are moving to be sold
 - French registered Autre Que Pur Sang (AQPS) horses (a type of non-thoroughbred horse)
-sports horses competing in Federation Equestre Internationale (FEI) sponsored events
+competing in Federation Equestre Internationale (FEI) sponsored events
 - horses registered on the Weatherby’s non-thoroughbreds register
 
-You must make sure that each horse travels with a Commercial Document (DOCOM).
-
-You can get the DOCOM you need through:
+But you must make sure that each horse travels with a Commercial Document (DOCOM). You can get the document you need through:
 
 - [Weatherbys](https://www.weatherbys.co.uk/) - for thoroughbreds and horses on the Weatherby’s non-thoroughbreds register
 - [British Equestrian Federation](http://www.bef.co.uk/Contact.aspx) - for FEI horses
 - [British Horseracing Authority](http://www.britishhorseracing.com/bha/about-us/contact-bha/) - for racehorses
 
-##Export horses within the EU
-
-You must have an Intra Trade Animal Health Certificate (ITAHC) to move horses and ponies within the EU.
-
-You must keep this document for at least 3 years.
-
-###Using an existing ITAHC
-
-You can get an existing ITAHC reissued by using the EU’s Trade Control and Expert System (TRACES). 
-
-You can either:
-
-- [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of the animals you're exporting - you must [tell APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official veterinarian (OV)
-- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487433/form-exa31-livestock.pdf) (PDF, 755KB) and send it to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) - or use [form EXA31 (Poultry)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487438/form-exa31-poultry.pdf) (PDF, 617KB) instead if you're exporting poultry or hatching eggs
-
-###Applying for a new ITAHC
-
-[Contact the Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply for a new ITAHC.
-
-You must nominate an OV when you apply. You can either:
-
-- ask your local veterinary practice if there’s an OV working there
-- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
-
-##Export horses outside the EU
-
-You must get an Export Health Certificate (EHC) to export horses and ponies outside the EU. You must keep this document for at least 2 years.
-
-You must check that your EHC meets the requirements of authorities in the destination country, and any other requirements they may have.
-
-###Get an existing EHC issued
-
-There will usually already be an EHC for the type of horse or pony you’re exporting and where you’re exporting it to.
-
-Check the [List of EHCs that are available](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB) to see if the EHC you need already exists and is available for issue.
-
-If the certificate you want already exists, and is available for issue, contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) and ask them to send you an application form and a copy of the EHC.
-
-You must complete the application form and the EHC as fully as you can and send it back to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-
-###Nominate an OV
-
-You must nominate an OV when you apply to get an EHC.
-
-Your OV can carry out any examination, inspection, testing, sampling or treatment to check if a consignment meets the requirements of the destination country.
-
-To find an OV, you can either:
-
-- ask your local veterinary practice if there’s an OV working there
-- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
-
-###Get your EHC signed
-
-Check the ‘Notes For Guidance’ that come with your EHC to find out if you need to get it signed by a local authority inspector or OV.
-
-Contact [your local authority](/find-your-local-council) to get your EHC signed by an inspector.
-
-###Create a new EHC
-
-In some cases, there won’t be an available EHC that covers the type of consignment you want to send and the destination you’re sending it to.
-
-This could be because:
-
-- the EHC you want is on hold - eg due to a trade ban enforced by the destination country
-- there hasn’t been any previous demand for an EHC for the animal you’re exporting to the destination country
-- negotiations for the EHC you need are ongoing - agreeing new EHCs can take years or stall due to trade barriers
-
-If the EHC you want doesn’t exist, you should talk to your importer to find out about import conditions in the country you want to export to.
-
-You should send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) who will pass the details to Defra for them to consider negotiating a new EHC.
-
-##Exporting horses and ponies through the EU to a non-EU country
-
-If your consignment will travel through the EU on the way to a non EU country, you may need both an [ITAHC](##exporting-horses-and ponies-within-the-eu) and an [EHC](###get-an-export-health-certificate-ehc).
-
-You should look at each stage of the journey and make sure your consignment has the right certification for each.
-
-
-##Contacts
-
-**Animal and Plant Health Agency (APHA)**
-
-Telephone: +44 (0) 3000 200 301   
-Fax: +44 (0) 117 372 8206  
-Email: <wildlife.licensing@apha.gsi.gov.uk>   
-Centre for International Trade - Bristol    
-1/17 Temple Quay House    
-2 The Square    
-Temple Quay   
-Bristol   
-BS1 6EB   
-
-**Department for Environment Food & Rural Affairs (Defra)**
-
-Email: <defra.helpline@defra.gsi.gov.uk>   
-Telephone: 0345 933 5577   
-Monday to Friday, 8am to 6pm   
-[Find out about call charges](/call-charges)    
-
-$C
 
 
 *[APHA]: Animal and Plant Health Agency
