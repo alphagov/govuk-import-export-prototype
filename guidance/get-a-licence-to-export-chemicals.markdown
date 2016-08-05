@@ -9,7 +9,7 @@ topic:
 ---
 Within the [EU](https://www.gov.uk/eu-eea), there aren't special rules unless you export [controlled chemicals](#licences-controlled-chemicals), eg those with a military use or controlled drugs.
 
-Outside the EU, you must follow the rules for controlled chemicals as well as the [additional export rules](#additional-export-rules).
+Outside the EU, you must follow the [additional export rules](#additional-export-rules), as well the rules for any controlled chemicals.
 
 Export rules cover single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
 
@@ -186,7 +186,7 @@ Telephone: 020 7035 6330
 
 To complain or make a suggestion, email <DLCU_Complaints_Section@homeoffice.gsi.gov.uk>.
 
-##Additional export rules
+##Additional export rules for outside the EU
 {:#additional-export-rules}
 
 To export chemicals outside the EU, you must:
