@@ -15,7 +15,7 @@ breadcrumbs:
 
 Check if you need a licence or special documents to move your goods within the EU.
 
-If you don't get a licence when you need one, you could be fined and your goods will be seized by customs.^
+^If you don't get a licence when you need one, you could be fined and your goods will be seized by customs.^
 
 You'll only need to make a [community transit declaration](/guide/move-goods-eu/when-to-make-declaration.html) if your goods were made from materials from outside the EU and there’s still duty to be paid.
 
