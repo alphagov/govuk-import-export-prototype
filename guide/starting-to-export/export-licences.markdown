@@ -3,7 +3,7 @@ layout: guide
 title: Exporting and doing business abroad
 permalink: /guide/starting-to-export/export-licences.html
 page_number: 4
-page_title: Export licences
+page_title: Export licences and special rules
 breadcrumbs:
  - name: Home
    url: '/'
@@ -15,7 +15,7 @@ breadcrumbs:
 
 You may need a licence before you can move some types of goods. These are called ‘restricted goods’.
 
-##Animals and agricultural products
+## Exporting animals and agricultural products
 
 - [circus, endangered, laboratory and research animals](/guidance/get-a-licence-to-export-circus-endangered-research-animals.html)
 - [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html)
@@ -24,26 +24,28 @@ You may need a licence before you can move some types of goods. These are called
 - [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html)
 - [livestock and poultry](/guidance/get-a-licence-to-export-livestock-poultry.html)
 
-##Chemicals, drugs and waste
+## Exporting chemicals, drugs and waste
 
 - [CFCs and ozone depleting gases](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html)
 - [chemicals](/guidance/get-a-licence-to-export-chemicals.html)
 - [drugs and medicines](/guidance/get-a-licence-to-export-drugs-and-medicines.html)
 - [energy related goods, technology and services](/guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html)
-- [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
 - [waste](/guidance/get-a-licence-to-export-waste.html)
 
-##Diamonds and arts
+## Exporting diamonds and arts
 
 - [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
 - [diamonds, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html)
 
-##Weapons and torture goods
+##Special rules
+
+## Special rules for weapons, torture goods and radioactive substances
 
 - [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
 - [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
+- [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
 
-##High-tech products
+### Exporting high-tech products
 
 Some things you might not think need a licence may also have military use (called dual use items). 
 
