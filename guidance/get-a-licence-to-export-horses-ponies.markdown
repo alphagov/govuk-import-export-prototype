@@ -16,7 +16,7 @@ What you need to do to export horses or ponies depends on whether you’re expor
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
@@ -65,7 +65,7 @@ To export horses or ponies outside the EU you must:
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
-s3. You'll be given the application form for the EHC you need. Fill it and return it to the address on the form.
+s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to you within xxx days/weeks.
 s4. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
 s5. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
