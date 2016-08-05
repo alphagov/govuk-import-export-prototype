@@ -18,7 +18,7 @@ What you need to do to export from the UK depends on whether you’re exporting:
 - [inside the EU](/guide/starting-to-export/move-goods-inside-the-eu.html)
 - [outside the EU](/guide/starting-to-export/export-outside-the-eu.html)
 
-%Check [special rules](https://govuk-import-export.herokuapp.com/guide/starting-to-export/export-licences.html) for military, 'dual use' and radioactive goods, technologies and services.%
+%Check [special rules](https://govuk-import-export.herokuapp.com/guide/starting-to-export/export-licences.html#special-rules) for military, 'dual use' and radioactive goods, technologies and services.%
 
 There are different processes if you either:
 
