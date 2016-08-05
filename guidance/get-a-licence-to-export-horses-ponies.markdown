@@ -75,6 +75,7 @@ When you get your completed EHC, you must keep it for at least 2 years.
 [Questions for fact check: How long does it usually take to get a EHC? Is there a fee?]
 
 ##Check if you need an export welfare declaration
+{:#export-welfare-declaration}
 
 Whether you need an [export welfare declaration](#export-welfare-declaration) depends on the horses and where you’re exporting them to.
 
@@ -92,7 +93,6 @@ Thoroughbred horses don’t need an export declaration if a steward or secretary
 - they’re being shipped to be used for breeding
 
 ###Get an export welfare declaration
-{:#export-welfare-declaration}
 
 If you need an export declaration, download the form for:
 
