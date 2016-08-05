@@ -65,7 +65,7 @@ You must [register your holding](#register-holding) to move:
 - hooved animals (ungulates) that aren’t livestock
 - birds that aren’t commercial poultry
 - rabbits and hares
-- dogs, cats and ferrets that don’t meet the usual rules for [pet travel](/take-pet-abroad/) (for example rescue animals being rehomed abroad)
+- dogs, cats and ferrets that don’t meet the usual rules for [pet travel](https://govuk-import-export.herokuapp.com/take-pet-abroad/) (for example rescue animals being rehomed abroad)
 
 You must [get your holding approved](#get-holding-approved) to move:
 
@@ -132,7 +132,7 @@ s2. Check the [list of EHCs](https://www.gov.uk/government/uploads/system/upload
 s3. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) to get the application form and a copy of the EHC. Tell them the EHC number you require and the details of your official veterinarian.
 s4. Fill in the form and the EHC and return them. The address is on the form. 
 s5. Your official veterinarian will be asked to check if your products meet the requirements of the country you’re sending them to.
-s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). Check your EHC’s guidance notes to find out.
+s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](https://govuk-import-export.herokuapp.com/local-council). Check your EHC’s guidance notes to find out.
 
 When you get your completed EHC, you must keep it for at least 2 years.
 
@@ -171,7 +171,7 @@ If you take your circus outside the UK to another country in the EU, you must:
 - get passports for all animals in the circus or exhibition (apart from bees, salmon or trout) - these are issued by your official veterinarian when you register your circus to travel   
 - get an ITAHC before you travel
 - keep animals registered as part of the circus away from unregistered animals
-- put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](/guidance/pet-travel-quarantine) (for other species [contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening), or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+- put animals susceptible to rabies into quarantine when they enter the UK – see [rules for domestic animals](https://govuk-import-export.herokuapp.com/guidance/pet-travel-quarantine) (for other species [contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening), or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
 
 You must take the following documents with you when you travel:
 
@@ -196,9 +196,9 @@ You must arrange another official veterinarian visit if you get new circus anima
 
 ###Animal passport fees
 
-Animal passports cost:
+Passports cost:
 
-- £2 for each individual circus animal ([dogs, cats, ferrets](/take-pet-abroad) and [horses](/horse-passport) need special passports)
+- £2 for each individual circus animal ([dogs, cats, ferrets](https://govuk-import-export.herokuapp.com/take-pet-abroad) and [horses](https://govuk-import-export.herokuapp.com/horse-passport) need special passports)
 - £2 for a group of birds or rodents (maximum of 15 ringed or microchipped birds or rodents per group, no limit on the number without rings or microchips)
 
 You need a separate passport for each species and breed.
