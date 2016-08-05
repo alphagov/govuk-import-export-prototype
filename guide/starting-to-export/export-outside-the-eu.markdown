@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Starting to export
+title: Exporting and doing business abroad overview
 permalink: /guide/starting-to-export/export-outside-the-eu.html
 page_number: 3
 page_title: Export outside the EU
