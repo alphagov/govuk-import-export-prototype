@@ -137,10 +137,12 @@ How you apply for the certificate depends on whether you’re exporting:
 - [medicine for humans](#human-medicines)
 - [medicine for animals](#animal-medicines)
 
+[Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
+
 There are additional rules if your medicine is [coated in or contains animal products](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products) like gelatine.
 
 ###Export certificates for medicines for humans
-{#human-medicines)
+{#human-medicines}
 
 There are 5 types of certificate. 
 
@@ -251,8 +253,6 @@ You can get extra copies of certificates for £34 each.
 There are 5 types of certificate. 
 
 Which one you need will depend on what you need to prove to the country you're exporting to. Talk to the importer who’s receiving your goods to find out.
-
-[Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
 
 You can ask for [extra information](#extra-information) on the certificate if the importing country requires it.
 
