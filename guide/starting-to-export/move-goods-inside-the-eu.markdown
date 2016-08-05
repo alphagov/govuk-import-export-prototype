@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Starting to export
+title: Exporting and doing business abroad overview 
 permalink: /guide/starting-to-export/move-goods-inside-the-eu.html
 page_number: 2
 page_title: Move goods inside the EU
