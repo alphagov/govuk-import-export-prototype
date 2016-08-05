@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You may need a licence before you can move some types of goods. These are called ‘restricted goods’.
+You may need a licence before you can export some types of goods. These are called ‘restricted goods’.
 
 ## Exporting animals and agricultural products
 
@@ -39,7 +39,7 @@ You may need a licence before you can move some types of goods. These are called
 
 ##Special rules
 
-## Special rules for weapons, torture goods and radioactive substances
+You will need a licence to send certain goods and technologies or share classified information with someone based overseas. This applies whether you’re exporting within or outside the EU and includes:
 
 - [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
 - [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
