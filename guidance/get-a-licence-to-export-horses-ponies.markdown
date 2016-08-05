@@ -26,7 +26,7 @@ $CTA
 To move horses or ponies within the [EU](/eu-eea) you must:
 
 - [apply for an Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC)
-- [check if you need an animal welfare declaration](#export-welfare-declaration)
+- [check if you need an export welfare declaration](#export-welfare-declaration)
 
 ###Apply for an ITAHC
 {:#animal-health-certificate}
@@ -38,7 +38,7 @@ To move horses or ponies within the [EU](/eu-eea) you must:
 s1. Nominate an official veterinarian to inspect your horses. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
 s3. Sign in to TRACES and fill in the details.
-s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA office](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
 
 Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
@@ -57,7 +57,7 @@ If there isn’t an ITAHC for your type of horse, [contact the Animal and Plant 
 To export horses or ponies outside the EU you must:
 
 - [apply for an Export Health Certificate (EHC)](#export-health-certificate)
-- [check if you need an animal welfare declaration](#export-welfare-declaration)
+- [check if you need an export welfare declaration](#export-welfare-declaration)
 
 
 ###Apply for an EHC
