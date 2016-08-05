@@ -12,7 +12,7 @@ It’s a criminal offence to export something on the consolidated military list 
 
 $CTA
 
-[Download the consolidated military list](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf) (PDF, 3.28MB).
+[Check the consolidated military list](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new).
 
 $CTA
 
