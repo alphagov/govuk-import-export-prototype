@@ -7,31 +7,37 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-You'll need a licence to export ‘controlled drugs’ that:
+You need permission to export:
 
-* [have similar compounds or effects to class A, B and C illegal drugs](#export-drugs-which-could-be-misused), for example opioids, stimulants or psychoactive substances
-* [could be used in lethal injections](#export-barbituates-which-could-be-used-for-lethal-injections) - these are called barbiturates
+- [controlled drugs](#controlled-drugs) like opioids, stimulants or psychoactive substances
+- [drugs that can be used in lethal injections](#lethal-injections) outside the EU
+- [medicines](#medicines) for humans or animals
 
-There are extra rules for exports to the [Channel Islands](#channel-islands) or of [propofol to the US](#export-propofol-to-the-US).
-
-Drugs that have a [medical use for humans or animals](#medicines) might also need an export certificate. 
-
-$CTA
-
-You could need a licence and a certificate for the same drug if you're exporting a medicine that could be misused.
-
-$CTA
-
-##Export drugs which could be misused
-
-[Refer to the list of drug which are commonly used misused](www.gov.uk/government/publications/controlled-drugs-list--2).
-
-[Contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx) if your drug doesn't feature but you think it might have the properties of a controlled substance.
 
 $CTA
 
 Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
 
+$CTA
+
+
+##Controlled drugs
+{:#controlled-drugs}
+
+[Check the controlled drugs list](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation).
+
+If your drug isn’t on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
+
+There are different rules for controlled drugs in the [Channel Islands](#channel-islands).
+
+If your drug is on the list, you need to complete these tasks.
+
+s1. [Get named applicants an enhanced DBS check](#dbs).
+s2. [Apply for a controlled drugs licence](#apply-licence).
+s3. [Apply for a National Drugs control System export licence](#apply-export-licence), if you’re exporting outside the EU.
+
+$CTA
+Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exporting controlled drugs.
 $CTA
 
 ###Get an enhanced disclosure check
@@ -54,32 +60,42 @@ Monday to Friday, 9am to 5:30pm
 
 Once you’re registered, [log into your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a licence.
 
-If your application is successful, licences are usually sent out within 10 working days.
+You should get a decision about the domestic licence within 16 weeks. If you’re applying for the first time, your premises will be visited as part of your application.
+
+[SME question: What can they do if they haven’t got a decision after 16 weeks?
 
 [SME question: How much does this licence cost? What can they do if they haven't got a decision after 16 weeks? How long is this licence valid for?]
 
-###Apply for a National Drugs control System export licence
+###Apply for an export licence
 {:#apply-export-licence}
 
-You’ll also need to [register for an account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) to apply for an export licence from the National Drugs control System (NDS).
+You need an National Drugs control System (NDS) licence to export controlled drugs outside of the EU.
 
-You must submit a copy of the import permit from the country you’re importing to.
+To apply:
 
-Your licence will be valid for up to 2 months. If the import licence of the country you’re exporting to is valid for less than 2 months, your licence will be issued for the same length of time.
+- [register for an NDS account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
+- [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) once you’ve registered
 
-#####Fees
+You’ll need:
 
-The export licence costs £24.
+- your [company number](https://www.gov.uk/get-information-about-a-company) for the notes field
+- to submit a copy of the import permit from the country you’re exporting to - send the original to [the Drug Licensing and Compliance Unit](#contact-dlcu) (DLCU)
 
-DLCU will email you an invoice.
+Your licence will be valid for up to 2 months (or until your import permit expires, if sooner).
 
-If you need a purchase order number to be quoted on the invoice, please state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
+###Fees
 
-##Export barbituates which could be used for lethal injections
+The export licence costs £24. A replacement costs £45.
 
-You need permission from the Export Control Organisation (ECO) to export outside the EU some drugs that may be used in lethal injections. These are ‘short and intermediate acting barbiturate anaesthetic agents’.
+DLCU will send you a written invoice to the registered address on your customer account.
 
-This applies to drugs that are packaged for human or veterinary use, not raw materials that require further processing. The drugs are:
+If you need a purchase order number on the invoice, state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
+
+
+##Drugs that can be used for lethal injections
+{:#lethal-injections}
+
+You need a licence to export the following barbiturates outside of the EU:
 
 - amobarbital (CAS RN 57-43-2)
 - amobarbital sodium salt (CAS RN 64-43-7)
@@ -90,19 +106,16 @@ This applies to drugs that are packaged for human or veterinary use, not raw mat
 - thiopental (CAS RN 76-75-5)
 - thiopental sodium salt (CAS RN 71-73-8), also known as thiopentone sodium
 
-##Propofol to the US
+Raw materials that include these barbiturates that require further processing don’t need a licence.
 
-You’ll need a licence from ECO to export propofol from the UK to the US. 
-
-ECO will refuse any application if either:
+You need a licence to export propofol to the US. Your application will be refused if either:
 
 - the stated use of the drug is execution
-- ECO considers that there is an unacceptable risk the drug will be diverted for use in execution
+- the Export Control Organisation (ECO) considers that there is an unacceptable risk the drug will be diverted for use in execution
 
-###Apply for an export licence
+###Apply for a licence
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
-
 
 The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
 
@@ -111,79 +124,28 @@ The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk)
 ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
 
 
-##Channel Islands
-{:#channel-islands}
-
-You’ll need an additional licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
-
-If you export 24 or more shipments in a 12 month period you can [apply for a time-limited blanket export licence](https://www.gov.uk/government/publications/controlled-drugs-export-to-channel-islands). The licence will be valid for up to a year.
-
-If you export less than 24 shipments in a 12 month period you’ll need to [apply for an export licence](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login).
-
-Occasional exporters will need to apply for individual export authorisations for each consignment. 
-
-[SME question: What is the threshold for an occasional exporter?]
-
-You must send a valid import permit from the competent authority with your application.
-
-[SME question: Where do you send your permit?]
-
-####Renew your licence
-
-You’ll need to renew your licence at least 4 weeks before it expires.
-
-####Monthly returns of exports
-
-Exporters should complete the Channel Islands export monthly return form which must be sent to Channel_Islands@homeoffice.gsi.gov.uk.
- 
-Holders of frequent exporter licences must submit a monthly return form detailing the actual substances that have been shipped.
-
-You'll need to do a nil return for each month that you've not shipped for over a month. Your licence may be suspended if you don't send a monthly return form for each month you've held a licence.
-
-
-
-##Contact
-
-
-BIS Import Licensing Branch Helpline
-Telephone: 01642 364 333
-
-Home Office Drugs Licensing and Compliance Unit
-Telephone: 020 7035 6330 - commercial applicants
-
-
-
-Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exporting controlled drugs.
-{:#contact-dlcu}
-
-
-**Drug Licensing and Compliance Unit**  
-Telephone: 020 7035 6330
-Email: [DLCUCommsOfficer@homeoffice.gsi.gov.uk](Mailto:DLCUCommsOfficer@homeoffice.gsi.gov.uk)
-[Find out about call charges](/call-charges)
-
-
-Email DCLU to complain or make a suggestion: DLCU_Complaints_Section@homeoffice.gsi.gov.uk 
-
 ##Medicines 
+{:#medicines}
 
-To export most veterinary and human medicines you must have one of the following:
+To export veterinary and human medicines you must:
 
-- a drug manufacturer licence 
-- a wholesale dealer licence 
-- a marketing licence 
- 
-Check with the importer who’s receiving your goods to find out if you need one.
+- check you have a drug manufacturer, wholesale dealer or marketing licence - if you don’t, [apply for the licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences)
+- apply for an export certificate
 
-[Apply for a licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences) if you don’t have one.
+How you apply for the certificate depends on whether you’re exporting:
 
-There are 5 types of export certificate for  human medicine licences and [5 different types of veterinary licences](#exporting-veterinary-drugs).
+- [medicine for humans](#human-medicines)
+- [medicine for animals](#animal-medicines)
 
-$CTA
+There are additional rules if your medicine is [coated in or contains animal products](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products) like gelatine.
 
-If your medicine is coated in or contains animal products (for example gelatine), you might need an [export health certificate](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products).
+###Export certificates for medicines for humans
+{#human-medicines)
 
-$CTA
+There are 5 types of certificate. 
+
+Which one you need will depend on what you need to prove to the country you're exporting to. Talk to the importer who’s receiving your goods to find out.
+
 
 ###1.Certificate of a pharmaceutical product (licensed)
 
@@ -263,17 +225,11 @@ Send your application form to either:
 
 or 
 
-
-
-
 Export Certificate Group, 5th Floor
 The Medicines and Healthcare products Regulatory Agency
 151 Buckingham Palace Road
 London
 SW1W 9SZ
-
-
-
 
 ###How much it costs
 
@@ -289,7 +245,8 @@ If your application is successful, you’ll get the original version of your cer
 You can get extra copies of certificates for £34 each.
 
 
-###Exporting veterinary drugs
+###Export certificates for medicines for animals
+{:#animal-medicines}
 
 There are 5 types of certificate. 
 
@@ -338,7 +295,7 @@ Defra-SFA is for specified feed additives (SFA). It can show either:
  
 Say which you'd like the certificate to show when you apply.
 
-##Apply for a certificate
+##Apply for an animal medicine export certificate
 
 For Defra-SFA, you have to [apply by email](#apply-email).
 
@@ -348,7 +305,7 @@ You should get your certificate within 10 days.
 
 The fee is £30 (plus £15 for each certified copy, if you need these). You’ll get an invoice after you’ve applied.
 
-The importing country may need more information about your export
+The importing country may need more information about your export.
 
 ###If you need extra information on the certificate
 {:#extra-information}
@@ -402,6 +359,39 @@ Defra-2 wording:
 
 > The VMD stamp and signature on this page confirm the veterinary medicines named on
 page two hold a Marketing Authorisation in the same name. It does not independently verify any of the other information contained on this page.
+
+*[VMD]: Veterinary Medicines Directorate
+*[AVM-GSL]: Authorised Veterinary Medicine - General Sales List
+
+
+##Channel Islands
+{:#channel-islands}
+
+You’ll need an additional licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
+
+If you export 24 or more shipments in a 12 month period you can [apply for a time-limited blanket export licence](https://www.gov.uk/government/publications/controlled-drugs-export-to-channel-islands). The licence will be valid for up to a year.
+
+If you export less than 24 shipments in a 12 month period you’ll need to [apply for an export licence](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login).
+
+Occasional exporters will need to apply for individual export authorisations for each consignment. 
+
+[SME question: What is the threshold for an occasional exporter?]
+
+You must send a valid import permit from the competent authority with your application.
+
+[SME question: Where do you send your permit?]
+
+####Renew your licence
+
+You’ll need to renew your licence at least 4 weeks before it expires.
+
+####Monthly returns of exports
+
+Exporters should complete the Channel Islands export monthly return form which must be sent to Channel_Islands@homeoffice.gsi.gov.uk.
+ 
+Holders of frequent exporter licences must submit a monthly return form detailing the actual substances that have been shipped.
+
+You'll need to do a nil return for each month that you've not shipped for over a month. Your licence may be suspended if you don't send a monthly return form for each month you've held a licence.
 
 *[VMD]: Veterinary Medicines Directorate
 *[AVM-GSL]: Authorised Veterinary Medicine - General Sales List
