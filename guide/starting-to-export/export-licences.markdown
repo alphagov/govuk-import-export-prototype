@@ -39,7 +39,7 @@ You may need a licence before you can export some types of goods. These are call
 
 ##Special rules
 
-You will need a licence to send certain goods and technologies or share classified information with someone based overseas. This applies whether you’re exporting within or outside the EU and includes:
+You must have a licence to send certain goods and technologies, or share classified information with someone based overseas. This applies whether you’re exporting within or outside the EU and includes:
 
 - [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
 - [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
