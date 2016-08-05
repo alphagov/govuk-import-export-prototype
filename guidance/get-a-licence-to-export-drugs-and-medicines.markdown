@@ -36,9 +36,6 @@ s1. [Get named applicants an enhanced DBS check](#dbs).
 s2. [Apply for a controlled drugs licence](#apply-licence).
 s3. [Apply for a National Drugs control System export licence](#apply-export-licence), if you’re exporting outside the EU.
 
-$CTA
-Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exporting controlled drugs.
-$CTA
 
 ###Get an enhanced disclosure check
 {:#dbs}
@@ -90,6 +87,15 @@ The export licence costs £24. A replacement costs £45.
 DLCU will send you a written invoice to the registered address on your customer account.
 
 If you need a purchase order number on the invoice, state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
+
+###Help with controlled drugs
+
+Contact the Drug Licensing and Compliance Unit (DLCU) if you need help.
+
+**Drug Licensing and Compliance Unit**  
+Telephone: 020 7035 6330
+<DLCUCommsOfficer@homeoffice.gsi.gov.uk>
+[Find out about call charges](/call-charges)
 
 
 ##Drugs that can be used for lethal injections
