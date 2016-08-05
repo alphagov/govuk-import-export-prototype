@@ -10,7 +10,7 @@ topic:
 What you need to do to export horses or ponies depends on whether you’re exporting them:
 
 - [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
-- [outside the EU](#outside-EU)
+- [outside the EU](#outside-eu)
 
 
 
