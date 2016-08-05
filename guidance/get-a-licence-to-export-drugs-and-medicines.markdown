@@ -10,7 +10,7 @@ topic:
 You need permission to export:
 
 - [controlled drugs](#controlled-drugs) like opioids, stimulants or psychoactive substances
-- [drugs that can be used in lethal injections](#lethal-injections) outside the EU
+- [certain drugs that can be used in lethal injections](#lethal-injections) outside the EU
 - [medicines](#medicines) for humans or animals
 
 
