@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export drugs and medicines
-summary: You must have a licence to export certain drugs and medicines inside and outside the EU.
+summary: You must get permission to export certain drugs and medicines inside and outside the EU.
 permalink: /guidance/get-a-licence-to-export-drugs-and-medicines.html
 topic:
   name: Exporting and doing business abroad
@@ -12,19 +12,19 @@ You'll need a licence to export ‘controlled drugs’ that:
 * [have similar compounds or effects to class A, B and C illegal drugs](#export-drugs-which-could-be-misused), for example opioids, stimulants or psychoactive substances
 * [could be used in lethal injections](#export-barbituates-which-could-be-used-for-lethal-injections) - these are called barbiturates
 
-There are extra rules for exports to the [Channel Islands](#channel-islands) or of [propafol to the US](##export-propofol-to-the-US).
+There are extra rules for exports to the [Channel Islands](#channel-islands) or of [propofol to the US](#export-propofol-to-the-US).
 
-Drugs that have a [medical use for humans or animals](#medicines) might also need to get an export certificate. 
+Drugs that have a [medical use for humans or animals](#medicines) might also need an export certificate. 
 
 $CTA
 
-You could need a licence and a certificate for the same drug if you're exporting a medicine which could be misused.
+You could need a licence and a certificate for the same drug if you're exporting a medicine that could be misused.
 
 $CTA
 
 ##Export drugs which could be misused
 
-[Refer to the list of drug which are commonly used misused](/government/publications/controlled-drugs-list--2).
+[Refer to the list of drug which are commonly used misused](www.gov.uk/government/publications/controlled-drugs-list--2).
 
 [Contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx) if your drug doesn't feature but you think it might have the properties of a controlled substance.
 
@@ -90,7 +90,7 @@ This applies to drugs that are packaged for human or veterinary use, not raw mat
 - thiopental (CAS RN 76-75-5)
 - thiopental sodium salt (CAS RN 71-73-8), also known as thiopentone sodium
 
-##Export propofol to the US
+##Propofol to the US
 
 You’ll need a licence from ECO to export propofol from the UK to the US. 
 
