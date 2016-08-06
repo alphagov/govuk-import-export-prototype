@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export law enforcement and torture goods
+title: Get a licence to export goods that could be used for restraint, repression or inhumane treatment
 summary: You must have a licence to export goods that could be used to cause cruel, inhumane or degrading treatment to people.
 permalink: /guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html
 topic:
@@ -8,23 +8,23 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-It’s a criminal offence to export ‘torture goods’ on the consolidated control lists outside the UK without the right licence.
+It’s a criminal offence to export goods on the consolidated control lists outside the UK without the right licence.
 
 $CTA
 
-[Download the consolidated control lists](www.gov.uk/government/uploads/system/uploads/attachment_data/file/488993/controllist20151225.pdf) (PDF, 3.28 MB).
+[Check the consolidated control lists using the Goods Checker tool](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
 
 $CTA
 
-Torture goods include equipment, drugs or products that could be used for:
+The consolidated control lists includes equipment, drugs or products that could be used for:
 
-- capital punishment
+- restraint (eg some types of shackles)
+- repression (eg some types of riot control equipment and vehicles)
+- capital punishment (eg drugs that may be used in lethal injections)
 - torture 
 - cruel, inhumane or degrading treatment
 
-This includes anything that could have legitimate applications but also be used to torture someone. These are called ‘dual use’ items.
-
-The rules for torture goods apply both within the EU and outside the EU.
+The rules apply both within the EU and outside the EU.
 
 $CTA
 
@@ -51,15 +51,14 @@ Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/logi
 
 The [Export Control Organisation reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
 
-[Question for SME: how much does it cost to get a licence?]
-
+There's no charge for a licence.
 
 ##Contact the Export Control Organisation
 
-Export Control Organisation helpline
-Email: <eco.help@bis.gsi.gov.uk
-Telephone: 0202 7215 4594
-Fax: 020 7215 2635
+Export Control Organisation helpline<br>
+Email: <eco.help@bis.gsi.gov.uk<br>
+Telephone: 0202 7215 4594<br>
+Fax: 020 7215 2635<br>
 [Find out about call charges](/call-charges)
 
 
