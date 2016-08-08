@@ -114,7 +114,7 @@ competing in Federation Equestre Internationale (FEI) sponsored events
 
 But you must make sure that each horse travels with a Commercial Document (DOCOM). You can get the document you need through:
 
-- [Weatherbys](https://www.weatherbys.co.uk/) - for thoroughbreds and horses on the Weatherby’s non-thoroughbreds register
+- [Weatherbys](https://www.weatherbys.co.uk/horses-racing/bloodstock-studbook/import-export) - for thoroughbreds and horses on the Weatherby’s non-thoroughbreds register
 - [British Equestrian Federation](http://www.bef.co.uk/Contact.aspx) - for FEI horses
 - [British Horseracing Authority](http://www.britishhorseracing.com/bha/about-us/contact-bha/) - for racehorses
 
