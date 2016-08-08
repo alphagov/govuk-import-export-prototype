@@ -46,7 +46,7 @@ Your ITAHC will be valid for 10 days after the inspection. You must keep it for 
 
 [Question for SME: Does the exporter need to do anything else once the vet has signed it?]
 
-If there isn’t an ITAHC for your type of horse, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+If there isn’t an ITAHC for your type of horse, [contact the Animal and Plant Health Agency (APHA)](government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 [Question for fact check - are there any types of horse that _don’t_ have an ITAHC? If not, can we delete the line above?]
 
@@ -63,7 +63,7 @@ To export horses or ponies outside the EU you must:
 ###Apply for an EHC
 {:#export-health-certificate}
 
-s1. Contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to you within xxx days/weeks.
