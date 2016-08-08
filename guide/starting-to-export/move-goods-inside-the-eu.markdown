@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-Check if you need a licence or special documents to move your goods within the EU.
+Check if you need a [licence](/guide/starting-to-export/export-licences.html) or special documents to move your goods within the EU.
 
 %If you don't get a licence when you need one, you could be fined and your goods will be seized by customs.%
 
