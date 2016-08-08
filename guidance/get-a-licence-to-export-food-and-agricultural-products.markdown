@@ -78,14 +78,16 @@ You need to create a commercial document for animal products which will be eaten
 
 You need to apply for an Export Health Certificate (EHC) to export unprocessed animal products outside the EU.
 
-s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
-s2. Check the [list of EHCs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB). Note the EHC number of what you’re exporting.
-s3. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) to get the application form and a copy of the EHC. Tell them the EHC number you require and the details of your official veterinarian.
-s4. Fill in the form and the EHC and return them. The address is on the form. 
-s5. Your official veterinarian will be asked to check if your products meet the requirements of the country you’re sending them to.
-s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). Check your EHC’s guidance notes to find out.
+s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
+s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
+s4. Your EHC will be sent to you within xxx days/weeks.
+s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
+s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
 When you get your completed EHC, you must keep it for at least 2 years.
+
+[Questions for fact check: How long does it usually take to get a EHC? Is there a fee?]
 
 ##Vegetables, fruit and other plants used as food
 {:#plants}
