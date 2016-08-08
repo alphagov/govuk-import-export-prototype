@@ -32,53 +32,12 @@ $CTA
 
 ###Get an Export Health Certificate
 
-You must get an Export Health Certificate (EHC) to export fish and shellfish outside the EU. You must keep this document for at least 2 years.
-
-You must check that your EHC meets the requirements of authorities in the destination country, and any other requirements they may have.
-
-[Question for SME: how much does it cost to get a licence?]
-[Question for SME: what do you need to do with your licence when you have it? Is it a case of attaching it to your export declaration?]
-
-####Get an existing EHC issued
-
-There will usually already be an EHC for the type of fish or shellfish you’re exporting and where you’re exporting it to.
-
-Check the [List of EHCs that are available](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB) to see if the EHC you need already exists and is available for issue.
-
-If the certificate you want already exists, and is available for issue, contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) and ask them to send you an application form and a copy of the EHC.
-
-You must complete the application form and the EHC as fully as you can and send it back to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-
-####Nominate an official veterinarian
-
-You must nominate an official veterinarian (OV) when you apply to get an EHC.
-
-Your OV can carry out any examination, inspection, testing, sampling or treatment to check if a consignment meets the requirements of the destination country.
-
-To find an OV, you can either:
-
-- ask your local veterinary practice if there’s an OV working there
-- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
-
-####Get your EHC signed
-
-Check the ‘Notes For Guidance’ that come with your EHC to find out if you need to get it signed by a local authority inspector or OV.
-
-Contact [your local authority](/find-your-local-council) to get your EHC signed by an inspector.
-
-####Create a new EHC
-
-In some cases, there won’t be an available EHC that covers the type of consignment you want to send and the destination you’re sending it to.
-
-This could be because:
-
-- the EHC you want is on hold - eg due to a trade ban enforced by the destination country
-- there hasn’t been any previous demand for an EHC for the animal you’re exporting to the destination country
-- negotiations for the EHC you need are ongoing - agreeing new EHCs can take years or stall due to trade barriers
-
-If the EHC you want doesn’t exist, you should talk to your importer to find out about import conditions in the country you want to export to.
-
-You should send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) who will pass the details to Defra for them to consider negotiating a new EHC.
+s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
+s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
+s4. Your EHC will be sent to you within xxx days/weeks.
+s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
+s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
 
 ###Get a UK catch certificate
