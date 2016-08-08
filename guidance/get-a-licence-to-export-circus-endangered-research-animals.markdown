@@ -12,6 +12,7 @@ $CTA
 
 There are different guides for:
 
+- [pets](https://www.gov.uk/take-pet-abroad/)
 - [livestock, poultry and bees](/guidance/get-a-licence-to-export-livestock-poultry.html)
 - [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html)
 - [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html)
