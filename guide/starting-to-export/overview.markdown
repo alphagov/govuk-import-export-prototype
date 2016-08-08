@@ -13,12 +13,12 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-What you need to do to export from the UK depends on whether you’re exporting:
+What you need to do to export goods from the UK depends on whether you’re exporting:
 
 - [inside the EU](/guide/starting-to-export/move-goods-inside-the-eu.html)
 - [outside the EU](/guide/starting-to-export/export-outside-the-eu.html)
 
-^ Check [special rules](https://govuk-import-export.herokuapp.com/guide/starting-to-export/export-licences.html#special-rules-for-military-and-high-tech-products) for military, 'dual use' and radioactive goods, technologies and services. ^
+^If you're exporting services, [check if you need a licence](/guide/starting-to-export/export-licences.html).
 
 There are different processes if you either:
 
