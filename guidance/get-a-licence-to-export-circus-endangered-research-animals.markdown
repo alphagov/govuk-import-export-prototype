@@ -228,4 +228,3 @@ s3. Your official veterinarian visits you and certifies the health certificate. 
 *[PHS]: Poultry Health Scheme
 *[EU]: European Union
 *[CITES]: Convention on International Trade in Endangered Species
-
