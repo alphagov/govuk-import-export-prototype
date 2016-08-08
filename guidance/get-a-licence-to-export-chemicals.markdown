@@ -28,6 +28,7 @@ You may need a licence, including if you trade within the EU, for exports of:
 - [controlled drugs](/guidance/get-a-licence-to-export-drugs-and-medicines.html) (eg morphine or cannabis), or chemicals that can be used to make them (‘[drug precursors](#precursors)’)
 - [ozone-depleting substances](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html), eg HCFCs
 - [barbiturates](/guidance/get-a-licence-to-export-drugs-and-medicines.html#export-barbiturates) that can be used in lethal injections
+- [radioactive substances](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-radioactive-substances.html)
 
 If you supply [chemicals that could be used to make explosives](https://www.gov.uk/government/publications/supplying-explosives-precursors/supplying-explosives-precursors-and-poison#regulated-substances) to a member of the public in the EU, you must check they have a licence and a photo ID.
 You must report any suspicious transactions - [check the contact in the country you're exporting to](http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/crisis-and-terrorism/explosives/explosives-precursors/docs/list_of_competent_authorities_and_national_contact_points_en.pdf) (PDF, 478KB).
