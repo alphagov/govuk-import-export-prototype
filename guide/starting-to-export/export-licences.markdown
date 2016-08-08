@@ -44,7 +44,7 @@ You may need a licence or follow special rules to export restricted goods or to 
 
 - [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) - including trafficking or brokering
 
-##Goods that can be used for restraint, repression or inhumane treatment
+##Goods that can be used for restraint or repression
 - [goods that could be used for restraint, repression or inhumane treatment](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
 
 ##High-tech goods and services 
