@@ -215,7 +215,7 @@ $CTA
 | *Sri Lanka | Yes | No | No |
 | Syria | Yes | Yes | No |
 | Taiwan | Yes | No | No |
-| Turkey | Yes | yes | No | 
+| Turkey | Yes | Yes | No | 
 | UAE | Yes | No | No |
 | Vietnam | Yes | No | Yes |
 
@@ -231,7 +231,7 @@ $CTA
 | Eritrea | Yes | No | No |
 | Ethiopia | Yes | No | No |
 | Jordan | Yes | Yes | No |
-| Kenya | Yes | yes | No |
+| Kenya | Yes | Yes | No |
 | Libya | Yes | No | No |
 | Malawi | Yes | Yes | No |
 | Mauritania | Yes | No | No |
