@@ -13,45 +13,47 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You may need a licence before you can export some types of goods. These are called ‘restricted goods’.
+You may need a licence to export restricted goods or to sell certain services abroad. 
 
-## Exporting animals and agricultural products
+^Also check the import rules of the country you’re exporting to. Talk to your importer or get [help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
-- [circus, endangered, laboratory and research animals](/guidance/get-a-licence-to-export-circus-endangered-research-animals.html)
+## Animals and agricultural products
+
+- [livestock, poultry and bees](/guidance/get-a-licence-to-export-livestock-poultry.html)
+- [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html)
 - [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html)
+- [other live animals](/guidance/get-a-licence-to-export-circus-endangered-research-animals.html)
 - [food and agricultural products](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
 - [furs, skins and other animal products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html)
-- [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html)
-- [livestock and poultry](/guidance/get-a-licence-to-export-livestock-poultry.html)
 
-## Exporting chemicals, drugs and waste
+##Chemicals, drugs and waste
 
-- [CFCs and ozone depleting gases](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html)
 - [chemicals](/guidance/get-a-licence-to-export-chemicals.html)
 - [drugs and medicines](/guidance/get-a-licence-to-export-drugs-and-medicines.html)
-- [energy related goods, technology and services](/guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html)
+- [oil and gas related goods and services to Russia](/guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html)
+- [ozone-depleting substances and F-gases](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html)
 - [waste](/guidance/get-a-licence-to-export-waste.html)
+- [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html) - or other goods, technology or services that could make it possible to use a radioactive substance for military purposes
 
-## Exporting diamonds and arts
+##Diamonds and arts
 
 - [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
 - [diamonds, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html)
 
-## Special rules for military and high-tech products
+##Military goods and services
 
-Some goods, technologies and information that you might not think need a licence may also have military use (called dual use items). 
+- [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) - including trafficking or brokering
 
-This applies if you're exporting:
+##Goods that can be used for restraint, repression or inhumane treatment
+- [goods that could be used for restraint, repression or inhumane treatment](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
 
-- [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
-- [law enforcement and torture goods](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
-- [certain radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html)
+##High-tech goods and services 
 
- Dual use items are usually high-tech, often with military standard specifications. They include:
+Some goods, technologies and information that you might not think need a licence may also have military use. These things are called 'dual use'.
 
-- specialist computers, radios and other communications equipment
-- information (eg manuals, blueprints) that could be used to make weapons, as well as civilian goods
-- software that could be used for information security systems (eg cryptographic technology)
-- knowledge and skills that could be used for military purposes
+[Check if you need a licence](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) if you:
 
-%It’s a criminal offence to export dual use items without a licence.
+- export high-tech products like specialist computers, radios and other communications equipment
+- develop software that could be used for information security systems (eg cryptographic technology)
+- share information, knowledge or skills that could be used to make weapons
+
