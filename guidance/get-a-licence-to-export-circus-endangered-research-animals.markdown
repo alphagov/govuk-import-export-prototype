@@ -12,9 +12,9 @@ $CTA
 
 There are different guides for:
 
-- [livestock, poultry and bees](/guidance/get-a-licence-to-export-livestock-poultry.html
+- [livestock, poultry and bees](/guidance/get-a-licence-to-export-livestock-poultry.html)
 - [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html)
-- [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html).
+- [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html)
 
 $CTA
 
