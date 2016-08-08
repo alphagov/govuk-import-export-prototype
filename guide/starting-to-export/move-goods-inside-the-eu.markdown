@@ -23,8 +23,8 @@ You'll only need to make a [community transit declaration](/guide/move-goods-eu/
 
 ##After you export
 
-You must either:
+If you're VAT registered, you must both:
 
-- [make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html) for any month when you move goods worth over £250,000 (if you’re VAT registered).
+- [make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html) for any month when you move goods worth over £250,000
 
-- Provide details of the goods on your [VAT return](/vat-returns) if you're registered for VAT.
+- provide details of the goods on your [VAT return](/vat-returns)
