@@ -218,5 +218,5 @@ s3. Your official veterinarian visits you and certifies the health certificate. 
 *[EHC]: Export Health Certificate
 *[PHS]: Poultry Health Scheme
 *[EU]: European Union
-*[CITES]: Convention on International Trade in Endangered Species 
+*[CITES]: Convention on International Trade in Endangered Species
 
