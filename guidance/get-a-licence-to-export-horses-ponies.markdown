@@ -7,11 +7,11 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
+
 What you need to do to export horses or ponies depends on whether you’re exporting them:
 
 - [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
 - [outside the EU](#outside-eu)
-
 
 
 $CTA
@@ -40,7 +40,7 @@ s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/
 s3. Sign in to TRACES and fill in the details.
 s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
 
-Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Your ITAHC will be valid for 10 days after the inspection. You must keep it for 3 years.
 
@@ -63,7 +63,7 @@ To export horses or ponies outside the EU you must:
 ###Apply for an EHC
 {:#export-health-certificate}
 
-s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s1. Contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to you within xxx days/weeks.
