@@ -132,7 +132,7 @@ s2. Check the [list of EHCs](https://www.gov.uk/government/uploads/system/upload
 s3. Contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) to get the application form and a copy of the EHC. Tell them the EHC number you require and the details of your official veterinarian.
 s4. Fill in the form and the EHC and return them. The address is on the form. 
 s5. Your official veterinarian will be asked to check if your products meet the requirements of the country you’re sending them to.
-s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](https://govuk-import-export.herokuapp.com/local-council). Check your EHC’s guidance notes to find out.
+s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](https://www.gov.uk/local-council). Check your EHC’s guidance notes to find out.
 
 When you get your completed EHC, you must keep it for at least 2 years.
 
