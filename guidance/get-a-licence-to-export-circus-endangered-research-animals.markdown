@@ -138,7 +138,7 @@ You’ll be given time to fix the problem - but the RVL can withdraw your approv
 ##Outside the EU
 {:#outside-eu}
 
-You need to apply for an Export Health Certificate (EHC) to export animals outside the EU.
+You need to apply for an Export Health Certificate (EHC) to export animals outside the EU. 
 
 s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
 s2. Check the [list of EHCs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB). Note the EHC number of what you’re exporting.
@@ -148,6 +148,8 @@ s5. Your official veterinarian will be asked to check if your products meet the 
 s6. You may need your EHC signed by your official veterinarian or an inspector from your [local authority](https://www.gov.uk/local-council). Check your EHC’s guidance notes to find out.
 
 When you get your completed EHC, you must keep it for at least 2 years.
+
+There are different rules for [endangered animals](#endangered-animals).
 
 ##Transporting animals
 
