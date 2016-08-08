@@ -30,20 +30,20 @@ UK Trade and Investment (UKTI) can also help you find overseas business opportun
 [Contact your nearest International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more. 
 You can also sign up for [UKTI events, seminars and overseas visits.](https://www.events.ukti.gov.uk)
 
-## Defence, security and cyber security opportunities
+## Defence, security and cyber security
 
 Contact UKTI’s Defence and Security Organisation (UKTI DSO) to get help with: 
 
-presentations, product demonstrations and hosting delegations (including a bespoke hanger for exhibitions and [demonstration centre](https://cyberexchange.uk.net/#/cdc) for cyber security products)
-displaying your products on the UKTI DSO stand at [exhibitions and trade shows](https://www.gov.uk/government/publications/defence-and-security-exporting-event-and-exhibition-support) 
-booking military personnel to appear on your stand at an exhibition or trade show
-providing after sales training to customers
+- presentations, product demonstrations and hosting delegations (including a bespoke hanger for exhibitions and [demonstration centre](https://cyberexchange.uk.net/#/cdc) for cyber security products)
+- displaying your products on the UKTI DSO stand at [exhibitions and trade shows](https://www.gov.uk/government/publications/defence-and-security-exporting-event-and-exhibition-support) 
+- booking military personnel to appear on your stand at an exhibition or trade show
+- providing after sales training to customers
 
 $C
-UKTI DSO Export Support Team
-<UKTIEST-IHubMailbox@mod.uk>
-Phone: +44 (0)1980 845 361
-[Find out about call charges](/call-charges)
+UKTI DSO Export Support Team<br>
+<UKTIEST-IHubMailbox@mod.uk><br>
+Phone: +44 (0)1980 845 361<br>
+[Find out about call charges](/call-charges)<br>
 $C
 
 ### Media support from UKTI DSO
