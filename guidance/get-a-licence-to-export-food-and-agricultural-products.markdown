@@ -181,89 +181,89 @@ $CTA
 
 ###Europe
 
-| Country | plant health certificate | import permit | sample test |
+| Country | Plant health certificate | Import permit | Sample test |
 |------------|---------------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Albania | yes | no | yes |
-| Belarus | yes | no | no  |
-| Bosnia | yes | no | yes|
-| Georgia | yes | no | no |
-| Hungary | yes | no | yes |
-| Macedonia | yes | no | no |
-| Moldova | yes | yes | yes |
-| Montenegro| yes | yes | yes |
-| Serbia | yes | no | yes |
-| Ukraine | yes | yes | yes |
-| Russia | yes | yes | yes |
+| Albania | Yes | No | Yes |
+| Belarus | Yes | No | No  |
+| Bosnia | Yes | No | Yes|
+| Georgia | Yes | No | No |
+| Hungary | Yes | No | Yes |
+| Macedonia | Yes | No | No |
+| Moldova | Yes | Yes | Yes |
+| Montenegro| Yes | Yes | Yes |
+| Serbia | Yes | No | Yes |
+| Ukraine | Yes | Yes | Yes |
+| Russia | Yes | Yes | Yes |
 
 ###Asia and the Middle East
 
-| Country | plant health certificate | import permit | sample test |
+| Country | Plant health certificate | Import permit | Sample test |
 |-----------------|------------------------------|---------------------------|-----------------------------------------------------------------------------------------------|
-| Afghanistan | yes | no | yes |
-| Bangladesh | yes | no | no |
-| China | yes | yes | yes |
-| India | yes | no | no |
-| Iran| yes | yes | no |
-| Israel | yes | no | no |
-| Kyrgyzstan | yes | yes | no |
-| Lebanon | yes | no | no |
-| Muscat and Oman | yes | no | no |
-| North Korea | yes | no | no |
-| Pakistan | yes | yes | no |
-| Saudi Arabia  | yes | no | no | 
-| South Korea | yes | no | no |
-| *Sri Lanka | yes | no | no |
-| Syria | yes | yes | no |
-| Taiwan | yes | no | no |
-| Turkey | yes | yes | no | 
-| UAE | yes | no | no |
-| Vietnam | yes | no | yes |
+| Afghanistan | Yes | No | Yes |
+| Bangladesh | Yes | No | No |
+| China | Yes | Yes | Yes |
+| India | Yes | No | No |
+| Iran| Yes | Yes | No |
+| Israel | Yes | No | No |
+| Kyrgyzstan | Yes | Yes | No |
+| Lebanon | Yes | No | No |
+| Muscat and Oman | Yes | No | No |
+| North Korea | Yes | No | No |
+| Pakistan | Yes | Yes | No |
+| Saudi Arabia  | Yes | No | No | 
+| South Korea | Yes | No | No |
+| *Sri Lanka | Yes | No | No |
+| Syria | Yes | Yes | No |
+| Taiwan | Yes | No | No |
+| Turkey | Yes | yes | No | 
+| UAE | Yes | No | No |
+| Vietnam | Yes | No | Yes |
 
 *You only need a plant health certificate for wheat exports
 
 ###Africa
 
-| Country | plant health certificate | import permit | sample test |
+| Country | Plant health certificate | Import permit | Sample test |
 |--------------|-----------------------|------------------------------------|
-| Algeria | yes | no | no |
-| Canary Islands | yes | no | no | 
-| Egypt | yes | no | no |
-| Eritrea | yes | no | no |
-| Ethiopia | yes | no | no |
-| Jordan | yes | yes | no |
-| Kenya | yes | yes | no |
-| Libya | yes | no | no |
-| Malawi | yes | yes | no |
-| Mauritania | yes | no | no |
-| Morocco | yes | no | no |
-| Nigeria | yes | yes | no |
-| Rwanda | yes | no | no |
-| South Africa | yes | yes | no |
-| Sudan | yes | no | no |
-| Tanzania | yes | yes | no |
-| Togo | yes | yes | no |
-| Uganda | yes | yes | no |
+| Algeria | Yes | No | No |
+| Canary Islands | Yes | No | No | 
+| Egypt | Yes | No | No |
+| Eritrea | Yes | No | No |
+| Ethiopia | Yes | No | No |
+| Jordan | Yes | Yes | No |
+| Kenya | Yes | yes | No |
+| Libya | Yes | No | No |
+| Malawi | Yes | Yes | No |
+| Mauritania | Yes | No | No |
+| Morocco | Yes | No | No |
+| Nigeria | Yes | Yes | No |
+| Rwanda | Yes | No | No |
+| South Africa | Yes | Yes | No |
+| Sudan | Yes | No | No |
+| Tanzania | Yes | Yes | No |
+| Togo | Yes | Yes | No |
+| Uganda | Yes | Yes | No |
 
 ###Central and South America
 
-| country  | plant health certificate | import permit | sample test                                                                                                                                                                                                                                                                                    |
+| Country  | Plant health certificate | Import permit | Sample test                                                                                                                                                                                                                                                                                    |
 |----------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bolivia |yes| no |yes|                                                                                               
-| Chile |yes|yes|  no |                                                                                                 
-| Colombia |yes| no |no|                                                                                              
-| Cuba  | yes | no | no | 
-| Haiti | yes | no | no |
-| Jamaica | yes  | no | no |                                                                                       
-| Mexico | yes | yes | no |                                                                                                 
-| Panama | yes  | no |  no |                                                                                                
-| Peru | yes | no |  no |                                                                                                 
-| Uruguay | yes | no | yes |   
+| Bolivia |Yes| No |Yes|                                                                                               
+| Chile |Yes|Yes|  No |                                                                                                 
+| Colombia |Yes| No |No|                                                                                              
+| Cuba  | Yes | No | No | 
+| Haiti | Yes | No | No |
+| Jamaica | Yes  | No | No |                                                                                       
+| Mexico | Yes | yes | No |                                                                                                 
+| Panama | Yes  | No |  No |                                                                                                
+| Peru | Yes | No |  No |                                                                                                 
+| Uruguay | Yes | No | Yes |   
 
 ###Australia  
 
-| country  | plant health certificate | need an import permit | pests to test for | 
+| Country  | Plant health certificate | Need an import permit | Pests to test for | 
 |-----------|---------------------------|--------------------|                                  
-| Australia | yes | yes | send a sample and request an admixture test from APHA |
+| Australia | Yes | Yes | Send a sample and request an admixture test from APHA |
 
 ###Apply for a plant health certificate for grain
 {:#plant-health-certificate-grain}
