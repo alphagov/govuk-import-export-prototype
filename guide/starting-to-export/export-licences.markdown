@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You may need a licence to export restricted goods or to sell certain services abroad. 
+You may need a licence or follow special rules to export restricted goods or to sell certain services abroad. 
 
 ^Also check the import rules of the country you’re exporting to. Talk to your importer or get [help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
