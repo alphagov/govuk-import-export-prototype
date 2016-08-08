@@ -32,7 +32,7 @@ You can also:
 
 ## Defence, security and cyber security products and services
 
-UKTI’s Defence and Security Organisation (UKTI DSO) publishes free [basic country briefings]. 
+UKTI’s Defence and Security Organisation (UKTI DSO) publishes free [basic country briefings](https://www.gov.uk/government/collections/defence-and-security-exporting-country-briefings-and-reports). 
 
 Or contact UKTI DSO to:
 
@@ -43,8 +43,8 @@ Or contact UKTI DSO to:
 There’s a charge for detailed reports, custom reports and help with photo shoots and promotional videos.
 
 $C
-UKTI DSO
-<dso.businessservices@ukti.gsi.gov.uk>
-Phone: +44 (0)20 7215 8209
-[Find out about call charges](/call-charges)
+UKTI DSO<br>
+<dso.businessservices@ukti.gsi.gov.uk><br>
+Phone: +44 (0)20 7215 8209<br>
+[Find out about call charges](/call-charges)<br>
 $C
