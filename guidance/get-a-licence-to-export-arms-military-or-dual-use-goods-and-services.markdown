@@ -26,11 +26,11 @@ $CTA
 The consolidated control lists include:
 
 - weapons
-- other goods, technology or services that are used for military purposes (eg cryptographic technology or training materials for a weapons system)
-- ‘dual use’ items - civilian goods, technology, documents or diagrams that can also be used for military purposes
+- any goods, technology or services used for military purposes (like cryptographic technology or training materials for a weapons system)
+- civilian goods, technology, documents or diagrams that can also be used for military purposes (dual use)
 - the transfer of knowledge and skills that could be used for military purposes
 
-‘Dual use’ items can be raw materials, components or finished systems.
+Dual use items can be raw materials, components or finished systems.
 
 $CTA
 
