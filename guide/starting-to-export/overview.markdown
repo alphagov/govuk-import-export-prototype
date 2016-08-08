@@ -18,7 +18,7 @@ What you need to do to export goods from the UK depends on whether you’re expo
 - [inside the EU](/guide/starting-to-export/move-goods-inside-the-eu.html)
 - [outside the EU](/guide/starting-to-export/export-outside-the-eu.html)
 
-^If you're exporting services, [check if you need a licence](/guide/starting-to-export/export-licences.html).
+^If you're providing services abroad, [check if you need a licence](/guide/starting-to-export/export-licences.html).
 
 There are different processes if you either:
 
