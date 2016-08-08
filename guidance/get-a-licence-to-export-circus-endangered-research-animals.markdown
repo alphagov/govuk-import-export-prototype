@@ -24,11 +24,11 @@ What you need to do to move or export animals depends on whether you’re export
 - [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
 - [outside the EU](#outside-eu)
 
-There are additional rules for:
+There are additional rules for [circuses](#circuses).
 
-- [transporting animals](#transporting-animals)
-- [endangered animals](#endangered-animals)
-- [circuses](#circuses)
+
+
+
 
 $CTA
 
@@ -43,6 +43,10 @@ To move animals within the [EU](https://www.gov.uk/eu-eea) you must:
 
 - [apply for an Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC) for each type of animal
 - [check if your animal holding needs to be registered or approved](#register-approve-holding)
+- follow the rules for [transporting animals](#transporting-animals)
+
+There are different rules for [endangered animals](#endangered-animals).
+
 
 ###Apply for an ITAHC
 {:#animal-health-certificate}
