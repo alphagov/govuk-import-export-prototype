@@ -26,4 +26,3 @@ You must either:
 - [make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html) for any month when you move goods worth over £250,000 (if you’re VAT registered).
 
 - Provide details of the goods on your [VAT return](/vat-returns) if you're registered for VAT.
-
