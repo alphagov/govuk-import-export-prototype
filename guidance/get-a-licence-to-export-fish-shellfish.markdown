@@ -51,6 +51,7 @@ s4. Your EHC will be sent to you within xxx days/weeks.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](http://www.gov.uk/local-council). 
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
+[Question for fact check: how long does it take to get an EHC? Is it free? Do you have to attach the cerrtificate to the consignment?]
 
 ###Check if you need a UK catch certificate
 {:#catch-certificate}
