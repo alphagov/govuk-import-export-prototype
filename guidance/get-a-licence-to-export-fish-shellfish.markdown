@@ -9,20 +9,10 @@ topic:
 ---
 
 
-You need a health certificate to export fish and shellfish (molluscs and crustaceans) within the European Union (EU) and European Free Trade Association (EFTA) if the species are:
+What you need to do to export live fish or shellfish depends on whether you’re exporting them:
 
-- at risk of EU controlled diseases
-- carriers of EU controlled diseases
-
-###Get a health certificate
-
-Complete the [Notification to export fish to the EU](/government/publications/notification-to-export-live-fish-and-shellfish-form-exp1) form and send it to the [Fish Health Inspectorate](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-fish-shellfish.html#contacts) (FHI).
-
-This is free, but you need to give 5 working days’ notice.
-
-##Exporting live fish outside the EU
-
-You must check with the destination country's [embassy](/government/world/embassies) that the fish you're exporting meets their requirements. 
+- [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
+- [outside the EU](#outside-eu)
 
 $CTA
 
@@ -30,7 +20,30 @@ Also check the import rules of the country you’re exporting to. Talk to your i
 
 $CTA
 
-###Get an Export Health Certificate
+##Within the EU
+{:#within-eu}
+
+You may need health certificate to move live fish and shellfish within the [EU](/eu-eea).
+
+Check if the species carries, or is at risk of, [notifiable diseases](https://www.gov.uk/guidance/report-serious-fish-or-shellfish-diseases#notifiable-fish-and-shellfish-diseases). If it is, you’ll need a certificate. 
+
+[Question for fact check: what is meant by ‘at risk of’ disease? Does this mean that someone should get a certificate they export any species listed as susceptible in this document? https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/317259/Notifiable_fish_diseases.pdf If so, how do they know if they need a certificate or not to export a species of fresh and brackish water fish that isn’t specified in the section on EUS?]
+
+Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) form at least 5 working days before you export. Send it by email or post to the address on the form.
+
+The health certificate is free.
+
+If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
+##Outside the EU
+
+To export live fish and shellfish outside the EU, you must:
+
+- check with the destination country's [embassy](/government/world/embassies) that the fish you're exporting meets their requirements
+- [apply for an Export Health Certificate (EHC)](#export-health-certificate)
+- [check if you need a UK catch certificate](#catch-certificate)
+
+###Apply for an EHC
+{:#export-health-certificate}
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
@@ -40,9 +53,10 @@ s5. Check your EHC’s guidance notes to find out if you need your EHC signed by
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
 
-###Get a UK catch certificate
+###Check if you need a UK catch certificate
+{:#catch-certificate}
 
-You need a UK catch certificate for marine caught fish for human consumption if you're exporting fish to:
+You need a UK catch certificate for marine caught fish for human consumption to export fish to:
 
 - Iceland
 - Ivory Coast
@@ -52,33 +66,27 @@ You need a UK catch certificate for marine caught fish for human consumption if 
 - Thailand
 - Tunisia
 - Ukraine
+- any other non-EU country if you’ll re-import the fish back to the EU
 
-You'll also need a UK catch certificate to export fish caught by a UK fishing vessel to a non-EU country (for example, for processing) and then re-import them back to the EU.
+You don’t need a catch certificate to export:
+
+- farmed fish and shellfish, or freshwater fish
+- mussels, cockles, oysters and scallops
+- fish fry or larvae
+
 
 ###How to apply
 
-Complete a [UK catch certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/311517/uk-catch-certificate.pdf) (PDF, 95.1KB, 3 pages).
+Fill in a [UK catch certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/311517/uk-catch-certificate.pdf) (PDF, 95KB).
 
 Email your completed form to <UKIUUCCC@mfa.gsi.gov.uk>.
 
-If the fish has been sourced from more than one UK vessel then you need to fill in a [Multiple vessel schedule](https://www.gov.uk.government.uploads.system.uploads.attachment_data.file.459218.Multiple_vessel_schedule_template.xls) (MS Excel Spreadsheet, 524KB) and submit it alongside the catch certificate as an annex.
-
-###When you don’t need a catch certificate
-
-You don’t need a UK catch certificate to export:
-
-- fish to another EU country
-- outside the EU if the fish won’t be re-imported
-- farmed fish and shellfish
-- freshwater fish
-- some molluscs - including mussels, cockles, oysters, and scallops
-- fish fry or larvae
+If the fish came from more than one UK vessel, also fill in a [multiple vessel schedule](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/459218/Multiple_vessel_schedule_template.xls) (MS Excel Spreadsheet, 524KB). Submit it with the catch certificate application form.
 
 ^If you’re exporting live fish from Scotland, contact [Marine Scotland](http://www.gov.scot/Topics/marine/contact) to get the certificate.^
 
 
 ##Contacts
-
 
 **Animal and Plant Health Agency (APHA)**
 
@@ -108,7 +116,7 @@ Monday to Friday, 9am to 5pm
 [Find out about call charges](/call-charges)    
 
 
-**UK llegal, unreported and unregulated (IUU) catch certificate centre**
+**UK Illegal, unreported and unregulated (IUU) catch certificate centre**
 
 <UKIUUCCC@marinemanagement.org.uk>    
 Telephone: 0300 123 1032    
