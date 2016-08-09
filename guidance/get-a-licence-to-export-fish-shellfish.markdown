@@ -25,13 +25,11 @@ $CTA
 
 You may need health certificate to move live fish and shellfish within the [EU](/eu-eea).
 
-Check if the species carries, or is at risk of, [notifiable diseases](https://www.gov.uk/guidance/report-serious-fish-or-shellfish-diseases#notifiable-fish-and-shellfish-diseases). If it is, you’ll need a certificate. 
+Check if the species carries, or is at risk of, [notifiable diseases](https://www.gov.uk/guidance/report-serious-fish-or-shellfish-diseases#notifiable-fish-and-shellfish-diseases). If it is, you’ll need a free health certificate. 
 
 [Question for fact check: what is meant by ‘at risk of’ disease? Does this mean you need a certificate to export any species listed as susceptible in this document? https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/317259/Notifiable_fish_diseases.pdf If so, there are over 100 species susceptible to EUS - how would you know if they needed a certificate if your species wasn't listed?]
 
-Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) form at least 5 working days before you export. Send it by email or post to the address on the form.
-
-The health certificate is free.
+Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) form at least 5 working days before you export. Email or post it to the address on the form.
 
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
 ##Outside the EU
