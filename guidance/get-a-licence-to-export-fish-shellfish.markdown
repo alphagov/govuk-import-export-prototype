@@ -37,7 +37,7 @@ If you’re exporting to Norway, you may also need a [UK catch certificate](#cat
 
 To export live fish and shellfish outside the EU, you must:
 
-- check with the destination country's [embassy](/government/world/embassies) that the fish or shellfish meets their requirements
+- check with the destination country's [embassy](http://www.gov.uk/government/world/embassies) that the fish or shellfish meets their requirements
 - [apply for an Export Health Certificate (EHC)](#export-health-certificate)
 - [check if you need a UK catch certificate](#catch-certificate)
 
