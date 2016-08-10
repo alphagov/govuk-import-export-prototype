@@ -150,6 +150,8 @@ s6. Your official veterinarian will be asked to check that your animals meet the
 
 When you get your completed EHC, you must keep it for at least 2 years.
 
+[Question for fact check: how long does it take to get the EHC?]
+
 There are different rules for [endangered animals](#endangered-animals).
 
 ##Transporting animals
