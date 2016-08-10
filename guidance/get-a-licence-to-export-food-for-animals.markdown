@@ -81,10 +81,8 @@ Monday to Friday: 8.30am to 5pm
 
 ##Exporting feed with unauthorised additives outside the EU
 
-Additives used in animal feed in the EU must be authorised. 
+Additives used in animal feed in the EU must be authorised. Check [part 1](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03.pdf) and [2](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03_annex2.pdf) of the EU register to see which ones are allowed.
 
-Check [part 1](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03.pdf) and [2](http://ec.europa.eu/food/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03_annex2.pdf) of the EU register to see which ones are allowed.
-
-You can export feed with additives that aren’t on this list outside the EU if you get authorisation from the country you’re exporting to.
+You can export feed with unauthorised additives (those that aren’t on the lists) outside the EU if you get authorisation from the country you’re exporting to.
 
 If you’re exporting via another EU country, you must also [contact the Food Standards Agency and Veterinary Medicines Directorate](https://www.food.gov.uk/business-industry/farmingfood/animalfeed/animalfeedlegislation/export-unauthorised-feed).
