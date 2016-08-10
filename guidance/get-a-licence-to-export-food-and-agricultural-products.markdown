@@ -9,6 +9,7 @@ topic:
 ---
 
 You may need a licence or follow special rules to export:
+
 - [processed food and drinks](#processed-foods) including things like flour and spices
 - [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like dairy, honey and gelatine
 - [vegetables, fruit and other plants used as food](#plants)
@@ -59,7 +60,7 @@ What you need to do depends on if you’re exporting [within the EU](#unprocesse
 
 $CTA
 
-There are different rules for animal products that will be used as [food for animals].
+There are different rules for animal products that will be used as [food for animals](/guidance/get-a-licence-to-export-food-for-animals.html).
 
 $CTA
 
@@ -101,8 +102,6 @@ Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attac
 If you need a supplier document, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices)to apply.
 
 If you don't need one, you don't have to do anything to move plants used as food within the EU. But you always have to comply with the normal standards [to sell fresh fruit and vegetables](https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables).
-
-$CTA
 
 
 [Question for SME: Am I right in thinking supplier documents are free and that they are required for food?]
