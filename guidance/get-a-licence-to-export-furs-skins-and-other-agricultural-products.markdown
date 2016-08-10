@@ -78,7 +78,7 @@ As well as an ITAHC, you also need to get your holding approved to export within
 
 Fill in [form EC3164](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501199/form-ec3164.pdf) (PDF, 172KB) and send it to your regional veterinary lead (RVL). To find your RVL, contact:
 
-- your [local APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)
+- your [local APHA office](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)
 - [DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland
 
 An inspector will arrange a visit to your holding to check that it has:
@@ -103,13 +103,13 @@ Your holding must be inspected annually. You’ll normally be contacted by your 
 
 Your approval will be suspended if your holding breaks any of the approval conditions or if the RVL finds:
 
-- any [notifiable disease](www.gov.uk/government/collections/notifiable-diseases-in-animals)
+- any [notifiable disease](http://www.gov.uk/government/collections/notifiable-diseases-in-animals)
 - viral enteritis or aleutian disease in mink
 - tuberculosis in apes and non-domestic cats
 - European foulbrood, varroasis or acariasis in bees
 - myxomatosis, viral haemorraghic disease, tularaemia in rabbits and hares
 
-You’ll be given time to fix the problem - but the RVL can withdraw your approval if you don’t.
+The RVL can withdraw your approval if you don’t fix the problem.
 
 
 ##Outside the EU
@@ -130,7 +130,7 @@ When you get your completed EHC, you must keep it for at least 2 years.
 
 [Search for the animal you’re exporting](http://www.speciesplus.net/). It’s endangered if it’s listed as ‘appendix I’.
 
-Within the EU, you usually can’t move by-products from endangered animals except in special cases (like for research necessary for the species to survive). [Contact APHA](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+Within the EU, you usually can’t move by-products from endangered animals except in special cases (like for research necessary for the species to survive). [Contact APHA](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 Outside the EU, you need to:
 
