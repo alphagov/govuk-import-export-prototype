@@ -12,7 +12,7 @@ What you need to do to export plants, seeds and bulbs depends on whether you’r
 - [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
 - [outside the EU](#outside-EU)
 
-There are different rules for [timber or wood].
+There are different rules for [timber or wood](#timber).
 
 $CTA
 
@@ -118,6 +118,7 @@ You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/
 * your certified exports were worth less £5,000 in the last financial year
 
 ##Exporting timber or wood
+{:#timber}
 
 What you need to do depends on if you’re exporting within the EU or outside the EU.
 
