@@ -16,7 +16,7 @@ There are different rules for [timber or wood](#timber).
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
@@ -30,7 +30,7 @@ To move plants, seeds or bulbs within the [EU](/eu-eea) you must check if you ne
 
 If you don’t need either of these, you don’t need to follow any other special rules to move plants within the EU.
 
-There are different rules if you're moving [endangered](#endangered-plants) or [prohibited](#exporting-prohibited-plants-and-soil) plants.
+There are different rules if you're moving [endangered](#endangered-plants) or [prohibited](#prohibited-plants) plants.
 
 ###Check if you need a plant passport
 {:#plant-passport}
@@ -47,7 +47,7 @@ If it’s on either list, you’ll need to make a plant passport. You need permi
 form-phar3.pdf) and [send it to your local Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices)
 * [apply online through eDomero](http://edomero.defra.gov.uk/)
 
-APHA will arrange to inspect your plants. The fee is £46.10 for every 15 minutes of the inspector’s time, including travel. There’s a minimum fee of £92.19. 
+The Animal and Plant Health Agency (APHA) will arrange to inspect your plants. The fee is £46.10 for every 15 minutes of the inspector’s time, including travel. There’s a minimum fee of £92.19. 
 
 You can make plant passports when you pass your inspection - APHA will explain how to do this.
 
