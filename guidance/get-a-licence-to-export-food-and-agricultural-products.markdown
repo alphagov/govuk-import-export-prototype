@@ -22,10 +22,10 @@ Also check the import rules of the country that you’re exporting to, which may
 
 $CTA
 
-##Processed foods
+##Processed food and drinks
 {:processed-foods}
 
-Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods.
+Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods or drinks.
 
 Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'. If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
 
