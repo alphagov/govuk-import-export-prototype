@@ -130,7 +130,7 @@ If you’re exporting wood  you’ll need to [register with the Forestry Commiss
 
 ###Outside the EU
 
-Contact the importing country’s National Plant Protection Organisation to [check their plant health regulation](https://www.ippc.int/en/countries/all/list-countries/).
+Check what you need to do with the importing country’s [plant protection organisation](https://www.ippc.int/en/countries/all/list-countries/).
 
 There are different rules if you’re exporting [wood packaging](http://govuk-import-export.herokuapp.com/guidance/wood-packaging-requirements.html).
 
