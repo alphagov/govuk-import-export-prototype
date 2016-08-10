@@ -7,78 +7,73 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-You might need a health certificate to prove your plant, seeds, bulbs, wood or related products are free from pests and diseases. 
+What you need to do to export plants, seeds and bulbs depends on whether you’re exporting them:
 
-There are different rules if your plant is endangered or prohibited.
+- [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
+- [outside the EU](#outside-EU)
 
-##The normal rules for plants
-
-What you need to do depends on if you’re exporting [within the EU](#plants-within-EU) or [outside the EU](#plants-outside-EU).
-
-$CTA
-
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+There are different rules for [timber or wood].
 
 $CTA
 
-###Within the EU
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+
+$CTA
+
+##Within the EU
 {:#plants-within-EU}
 
-You don't need to follow special rules for plants unless you either need:
+To move plants, seeds or bulbs within the [EU](/eu-eea) you must check if you need a:
 
-- a plant passport
-- a supplier document
+- [plant passport](#plant-passport)
+- [supplier document](#supplier-document)
+
+If you don’t need either of these, you don’t need to follow any other special rules to move plants within the EU.
+
+There are different rules if you're moving [endangered](#endangered-plants) or [prohibited](#exporting-prohibited-plants-and-soil) plants.
 
 ###Check if you need a plant passport
+{:#plant-passport}
 
-Check if your plant is on this [form](https://www.gov.uk/government/publications/plant-passports-application) or [this list](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536168/form-phar3b-appendix.pdf).
+Check if your plant is:
 
-If it is, either:
+- [listed on the passport application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/500861/
+Form-phar3.pdf ) (PDF, 1.4MB)
+- [at risk of xylella fastidiosa](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536168/form-phar3b-appendix.pdf) (PDF, 227 KB)
 
-* complete the form and [send it to APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate)
-* [apply through eDomero](http://edomero.defra.gov.uk/)
+If it’s on either list, you’ll need to make a plant passport. You need permission before you can do this - either:
 
+* fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/500861/
+form-phar3.pdf) and [send it to your local Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices)
+* [apply online through eDomero](http://edomero.defra.gov.uk/)
 
-$CTA
+APHA will arrange to inspect your plants. The fee is £46.10 for every 15 minutes of the inspector’s time, including travel. There’s a minimum fee of £92.19. 
 
-There are different rules if you're [moving soil or prohibited plants](#exporting-prohibited-plants-and-soil).
+You can make plant passports when you pass your inspection - APHA will explain how to do this.
 
-$CTA
+Permission to make passports lasts a year, but you may need more inspections if your site has a higher risk of disease. If you renew your permission, you have to pay the fee again.
+
 
 ###Check if you need a supplier document
+{:#supplier-document}
 
-You need a supplier document if you’re moving the seeds, roots or any other plant ‘propagation material’ from ornamental plants.
+You need a supplier document to move the seeds, roots or any other plant ‘propagation material’ from ornamental plants within the EU.
 
-If you’re not sure, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
+Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) to:
 
-###Get permission to make passports or supplier documents
-
-APHA will inspect your plants and you’ll get a unique registration number if you pass.
- 
-Your permission will last a year but you may need more inspections if your site has a higher risk of diseases.
-
-^You only need to apply to make supplier documents separately if you're not already authorised to issue plant passports.
-
-### Inspection fees
-
-You’ll have to pay £46.10 for every 15 mins that an inspection takes, including the time it takes inspectors to travel to your site.
-
-The minimum fee for any inspection is £92.19. 
-
-You have to pay these fees again if you renew your application the next year.
-
-You won’t have to pay if APHA only authorises you to make supplier documents.
+- get permission and instructions to make supplier documents - you don’t need permission of you already make plant passports
+- check if you need one if you’re not sure
 
 ###Outside the EU
 {:#plants-outside-EU}
 
-Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export:
+Check with the country that you’re exporting to find if you need a health certificate (‘phytosanitary certificate’) to export:
 
 * plants and plant products
 * bulbs
 * seeds for sowing
 
-Check with the country that you’re exporting to find if you need a certificate.
+###Apply for a plant health certificate
 
 $CTA
 
@@ -86,9 +81,7 @@ You apply a different way to export plants from [Scotland](https://www.sasa.gov.
 
 $CTA
 
-###Applying for a plant health certificate in England and Wales 
-
-You must apply for your plants to be tested by filling in the appropriate form for:
+To get a health certificate, your plants must be inspected. Apply by filling in the appropriate form for:
 
 * [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
 
@@ -96,24 +89,15 @@ You must apply for your plants to be tested by filling in the appropriate form f
 
 * [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536160/form-phe90.pdf)
 
-* [”growing season inspections”](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf)
+* [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) if you’re exporting flower bulbs, or plants in a ‘dormant state’
 
 * plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf)
 
-You can contact APHA to check whether you need:
-
-- a soil inspection for the plants you're exporting - use the [soil inspection form](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) if you do
-- to wash soil from the roots of the plants you export - the USA, New Zealand and other countries require this
+* [the soil your plants are growing in](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) - if you need this
 
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
-###What type of inspection you need
-
-If you’re exporting seeds for sowing an inspector will have to come to your site to take a sample - your certificate which will be valid for 2 years.
-
-If you’re exporting flower bulbs or plants in a ‘dormant state’ you have to get a inspectation during growing season to check for pests that don’t come up at the time of export - this might be required for other plants.
-
-If you’re already part of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme) you may be able to show your results to get your certificate.
+If you’re a member of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme), you may not need an inspection. Contact APHA to find out.
 
 ###Fees  
 
@@ -147,47 +131,34 @@ If you’re exporting wood  you’ll need to [register with the Forestry Commiss
 
 Contact the importing country’s National Plant Protection Organisation to [check their plant health regulation](https://www.ippc.int/en/countries/all/list-countries/).
 
-If you’re exporting wood as packaging for your goods, [there are different rules](link to guide of packaging regulations].
+There are different rules if you’re exporting [wood packaging](http://govuk-import-export.herokuapp.com/guidance/wood-packaging-requirements.html).
 
-##Exporting endangered plants
+##Endangered plants
+{:#endangered-plants}
 
-The rules on exporting endangered plants are different depending on whether you’re within the EU or outside the EU
+[Search for the plant you’re exporting](http://www.speciesplus.net/). It’s endangered if it’s listed as ‘appendix 1’.
 
-###Within the EU
+Within the EU, you usually can’t move endangered plants except in special cases (like for conservation necessary for the species to survive). [Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out.
 
-You don’t usually need a permit or licence to move endangered species around the EU unless your plant is listed in [appendix 1](http://www.speciesplus.net/).
+Outside the EU, you need to:
 
-These types of plants can’t be used for commercial purposes but there are special circumstances when they can be traded with an internal trade certificate (for example if the plants were bred artificially and passed on to ensure the species survives).
+- check the [list of banned exports](https://cites.org/eng/resources/ref/suspend.php) - some plants to certain countries are banned outright
+- [apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB), if the plant isn’t banned
 
-[Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) if you think this could apply to you.
+Send the permit application form by post or email to [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening).
 
-###Outside the EU
-
-You must apply for a Convention on International Trade in Endangered Species (CITES) permit before you export endangered animals. 
-
-Check if the plant you want to export is [controlled by CITES.](http://www.speciesplus.net/)
-
-^You can’t export certain species to some countries - check the [CITES trade suspension list](https://cites.org/eng/resources/ref/suspend.php).^
-
-###Apply for a CITES permit
-
-Complete form [FED0172](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
-
-You must pay a £63 for an export licence and £37 for a re-export licence.
-
-Post your application to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts).
-
-APHA will contact you within 15 working days of receiving your application.
+APHA will contact you within 15 working days of receiving your application. You must pay a £63 for an export licence and £37 for a re-export licence.
 
 
-##Exporting prohibited plants and soil
+##Prohibited plants and soil
+{:#prohibited-plants}
 
 You can't usually export:
 
-- prohibited plants - check the [list of plants](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF#page=38) (424kb, PDF) under Annex III
-- prohibited soil - this is all soil from outside Europe, and from Belarus, Moldova, Russia, Turkey or Ukraine
+- [plants listed under Annex III](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF#page=38) (424kb, PDF)
+- soil from outside Europe, and from Belarus, Moldova, Russia, Turkey or Ukraine
 
-Prohibited soil includes other organic matter you can grow plants in, but not:
+As well as soil from these countries, you also can’t export other organic matter you can grow plants in, but not:
 
 * peat
 * marine sediments
@@ -213,20 +184,3 @@ If the recipient tells you that you don’t need a letter of authority, ask for 
 ###Outside the EU
 
 [Contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out what you need to do, including what the rules are in the country you're exporting to.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
