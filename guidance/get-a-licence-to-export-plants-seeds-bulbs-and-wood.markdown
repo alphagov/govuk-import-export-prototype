@@ -159,7 +159,7 @@ You can't usually export:
 - [plants listed under Annex III](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF#page=38) (424kb, PDF)
 - soil from outside Europe, and from Belarus, Moldova, Russia, Turkey or Ukraine
 
-As well as soil from these countries, you also can’t export other organic matter you can grow plants in, but not:
+As well as soil from these countries, you also can’t export other organic matter you can grow plants in, excluding:
 
 * peat
 * marine sediments
