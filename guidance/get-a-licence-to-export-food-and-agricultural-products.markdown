@@ -312,11 +312,11 @@ If you’re exporting these goods outside the EU in [large quantities](https://w
 ###Apply for a mandatory export licence
 
 s1. Call the Rural Payments Agency (RPA) to get a trader registration number .
-s2. Fill in the [application form - needs correct link].
+s2. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299695/Exports_-_Electronic_Licence_Application_Form.doc).
 s3. Pay a [security deposit](#security-deposit).
 s4. Your licence will be issued on the CHIEF system within 5 days and will appear when you make your declaration (link to declaration content). You can also ask for a paper one if the countries you're trading with require this.
 
-If you want to send your application by email rather by than fax or post you need to [get approval] [needs correct link].
+If you want to send your application by email rather by than fax or post you need to [get approval through form TS03](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299696/TSO3_-_Email_licence_v3_May_08.doc).
 
 If you'd like to cancel or amend your application you must do this before 12pm on the day you apply.
 
