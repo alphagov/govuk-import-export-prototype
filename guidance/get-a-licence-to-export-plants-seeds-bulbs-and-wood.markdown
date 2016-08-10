@@ -10,7 +10,7 @@ topic:
 What you need to do to export plants, seeds and bulbs depends on whether you’re exporting them:
 
 - [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
-- [outside the EU](#outside-EU)
+- [outside the EU](#outside-eu)
 
 There are different rules for [timber or wood](#timber).
 
@@ -64,8 +64,8 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 - get permission and instructions to make supplier documents - you don’t need permission of you already make plant passports
 - check if you need one if you’re not sure
 
-###Outside the EU
-{:#plants-outside-EU}
+##Outside the EU
+{:#outside-eu}
 
 Check with the country that you’re exporting to find if you need a health certificate (‘phytosanitary certificate’) to export:
 
