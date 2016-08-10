@@ -89,7 +89,7 @@ To get a health certificate, your plants must be inspected. Apply by filling in 
 
 * [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536160/form-phe90.pdf)
 
-* [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) if you’re exporting flower bulbs, or plants in a ‘dormant state’
+* [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) to export flower bulbs, or plants in a ‘dormant state’
 
 * plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf)
 
@@ -97,7 +97,7 @@ To get a health certificate, your plants must be inspected. Apply by filling in 
 
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
-If you’re a member of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme), you may not need an inspection. Contact APHA to find out.
+If you’re a member of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme), you may not need an inspection. [Contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out.
 
 ###Fees  
 
