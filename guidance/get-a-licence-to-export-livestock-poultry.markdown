@@ -48,7 +48,7 @@ Your ITAHC will be valid for 10 days after the inspection. You must keep it for 
 ##Outside the EU
 {:#outside-eu}
 
-To export livestock outside the EU you must [apply for an Export Health Certificate (EHC)](#export-health-certificate).
+To export livestock or poultry outside the EU you must apply for an Export Health Certificate (EHC).
 
 ###Apply for an EHC
 {:#export-health-certificate}
