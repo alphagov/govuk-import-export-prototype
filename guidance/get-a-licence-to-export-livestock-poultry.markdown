@@ -78,7 +78,7 @@ Look at each stage of the journey and make sure your consignment has the right c
 You must be a member of the Poultry Health Scheme (PHS) to export:
 
 - within the EU (unless you’re exporting 20 birds or hatching eggs or less)
-- outside the EU to certain countries - your EHC will say whether you need to join the scheme
+- outside the EU to certain countries - your EHC will say if you need to join the scheme
 
 To join the PHS, contact APHA.
 
@@ -100,7 +100,7 @@ Once APHA has received your application, a Veterinary Officer will inspect your 
 
 $CTA
 
-You can find more information, including about inspections, biosecurity and facility regulations, in the [PHS members' handbook (PDF, 538KB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/377556/phs-handbook.pdf).
+You can find more information, including about inspections, biosecurity and facility regulations, in the [PHS members' handbook](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/377556/phs-handbook.pdf) (PDF, 538KB).
 
 $CTA
 
