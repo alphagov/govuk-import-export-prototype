@@ -68,7 +68,7 @@ When you get your completed EHC, you must keep it for at least 2 years.
 ###Exporting outside the EU via another EU country
 {:#via-eu}
 
-If your consignment will travel through the EU on the way to a non EU country, you may need both an [ITAHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-within-the-eu) and an [EHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-outside-the-eu).
+If your consignment will travel through the EU on the way to a non EU country, you may need both an [ITAHC]({#animal-health-certificate}) and an [EHC](#export-health-certificate).
 
 Look at each stage of the journey and make sure your consignment has the right certification for each.
 
