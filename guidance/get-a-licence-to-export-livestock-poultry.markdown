@@ -112,7 +112,6 @@ $CTA
 | Registration (one year's membership) | £61 |
 | Inspection approval – flock or hatchery | £210 |
 | Inspection approval – combined flock or hatchery (per site) | £210 |
-| Inspection approval – combined flock or hatchery (per site) | £210 |
 | Veterinary Officer – fee to cover inspection time | £23 per half hour |
 
 
