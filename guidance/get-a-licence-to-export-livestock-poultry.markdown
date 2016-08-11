@@ -7,18 +7,12 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
+What you need to do to export livestock and poultry depends on whether you’re exporting them:
 
+- [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
+- [outside the EU](#outside-eu)
 
-##Exporting livestock within the EU
-
-You must have an Intra Trade Animal Health Certificate (ITAHC) to move the following animals within the [EU](https://www.gov.uk/eu-eea):
-
-- cattle
-- sheep and goats
-- pigs
-- poultry 
-
-You must keep this document for at least 3 years.
+There are different rules for [bees](#exporting-bees).
 
 $CTA
 
@@ -26,108 +20,72 @@ Also check the import rules of the country you’re exporting to. Talk to your i
 
 $CTA
 
-[Question for SME: how much does it cost to get a certificate?]
+##Within the EU
+{:#within-eu}
 
-[Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
+You must have an Intra Trade Animal Health Certificate (ITAHC) to move livestock within the [EU](https://www.gov.uk/eu-eea).
 
-###Use an existing ITAHC
+If you export poultry, you must also join the [Poultry Health Scheme](#poultry).
 
-You can get an existing ITAHC reissued by using the EU’s Trade Control and Expert System (TRACES). 
-
-You can either:
-
-- [register](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) with TRACES and fill in the details of the animals you're exporting - you must tell the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that the ITAHC has been created and give them details of your official veterinarian (OV)
-- fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487433/form-exa31-livestock.pdf) (PDF, 755KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) - use [form EXA31 (Poultry)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487438/form-exa31-poultry.pdf) (PDF, 617KB) instead if you're exporting poultry or hatching eggs
-
-###Applying for a new ITAHC
-
-[Contact APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to apply for a new ITAHC.
-
-You must nominate an official veterinarian (OV) when you apply. You can either:
-
-- ask your local veterinary practice if there’s an OV working there
-- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
-
-##Exporting livestock outside the EU
-
-You must get an Export Health Certificate (EHC) to export livestock outside the EU. You must keep this document for at least 2 years.
-
-You must check that your EHC meets the requirements of authorities in the destination country, and any other requirements they may have.
+###Apply for an ITAHC
+{:#animal-health-certificate}
 
 [Question for SME: how much does it cost to get a certificate?]
 
 [Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
 
-###Get an existing EHC issued
+s1. Nominate an official veterinarian to inspect your livestock. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
+s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
+s3. Sign in to TRACES and fill in the details.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA office](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
 
-There will usually already be an EHC for the type of livestock you’re exporting and where you’re exporting it to.
+Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-Check the [List of EHCs that are available](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479776/ehc-list.pdf) (PDF, 286KB) to see if the EHC you need already exists and is available for issue.
+Your ITAHC will be valid for 10 days after the inspection. You must keep it for 3 years.
 
-If the certificate you want already exists, and is available for issue, contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) and ask them to send you an application form and a copy of the EHC.
+[Question for SME: Does the exporter need to do anything else once the vet has signed it?]
 
-You must complete the application form and the EHC as fully as you can and send it back to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+##Outside the EU
+{:#outside-eu}
 
-###Nominate an OV
+To export livestock outside the EU you must [apply for an Export Health Certificate (EHC)](#export-health-certificate).
 
-You must nominate an OV when you apply to get an EHC.
+###Apply for an EHC
+{:#export-health-certificate}
 
-Your OV can carry out any examination, inspection, testing, sampling or treatment to check if a consignment meets the requirements of the destination country.
+s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
+s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
+s4. Your EHC will be sent to you within xxx days/weeks.
+s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
+s6. If you’re exporting poultry, check your EHC. It’ll say if you need to join the [Poultry Health Scheme](#poultry).
+s7. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
-To find an OV, you can either:
+When you get your completed EHC, you must keep it for at least 2 years.
 
-- ask your local veterinary practice if there’s an OV working there
-- contact the OV Team at the [Specialist Service Centre Worcester](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centre-worcester) or email the OV team at <ovteam@alpha.gsi.gov.uk> 
+[Questions for fact check: How long does it usually take to get a EHC? Is there a fee?]
 
-###Get your EHC signed
-
-Check the ‘Notes For Guidance’ that come with your EHC to find out if you need to get it signed by a local authority inspector or OV.
-
-Contact [your local authority](/find-your-local-council) to get your EHC signed by an inspector.
-
-###Create a new EHC
-
-In some cases, there won’t be an available EHC that covers the type of consignment you want to send and the destination you’re sending it to.
-
-This could be because:
-
-- the EHC you want is on hold - eg due to a trade ban enforced by the destination country
-- there hasn’t been any previous demand for an EHC for the animal you’re exporting to the destination country
-- negotiations for the EHC you need are ongoing - agreeing new EHCs can take years or stall due to trade barriers
-
-If the EHC you want doesn’t exist, you should talk to your importer to find out about import conditions in the country you want to export to.
-
-You should send any officially-issued import conditions to [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) who will pass the details to the Department for Environment Food & Rural Affairs (Defra) for them to consider negotiating a new EHC.
-
-##Exporting livestock through the EU to a non-EU country
+##Exporting outside the EU via another EU country
+{:#via-eu}
 
 If your consignment will travel through the EU on the way to a non EU country, you may need both an [ITAHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-within-the-eu) and an [EHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-outside-the-eu).
 
-You should look at each stage of the journey and make sure your consignment has the right certification for each.
+Look at each stage of the journey and make sure your consignment has the right certification for each.
 
 ##Exporting poultry
+{:#poultry}
 
-You must be a member of the Poultry Health Scheme (PHS) if you want to export:
+You must be a member of the Poultry Health Scheme (PHS) to export:
 
-- more than 20 birds or hatching eggs to another EU member state (as long as your business meets EU animal health and welfare rules)
-- export to certain countries - your EHC will state whether you need to be a member
+- within the EU, if you’re exporting more than 20 birds or hatching eggs
+- to some countries outside the EU - your EHC will say whether you need to join the scheme
 
-You must have had your flock for more than 6 weeks to export live poultry and hatching eggs to another EU country.
+To join the PHS, contact APHA.
 
-You can find more information on the scheme in the [Poultry Health Scheme members handbook (PDF, 538KB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/377556/phs-handbook.pdf), including inspections, biosecurity and facility regulations.
-
-###How to join the Poultry Health Scheme
-
-You can join the PHS as an individual or company and membership lasts for 1 year.
-
-There are  3 different categories of membership:
-
-- flock
-- hatchery
-- combined flock and hatchery
-
-To join the PHS, contact the Specialist Service Centre at APHA.
-
+<AHspecialistservicecentreworcester@ahvla.gsi.gov.uk>
+Telephone: 03000 200 301  
+Fax: 01905 768649   
+[Find out about call charges](/call-charges)   
 
 Poultry Health Scheme Section   
 Animal and Plant Health Agency (APHA)    
@@ -137,77 +95,61 @@ Whittington Road
 Worcester   
 WR5 2LQ    
 
-Telephone: 03000 200 301  
-Fax: 01905 768649   
-Email: [AHspecialistservicecentreworcester@ahvla.gsi.gov.uk](mailto:AHspecialistservicecentreworcester@ahvla.gsi.gov.uk)   
+Once APHA has received your application, a Veterinary Officer will inspect your premises before you join the scheme. 
 
 
-###Business membership fees
+$CTA
 
-There is a fee for registration, approval and renewal.
+You can find more information, including about inspections, biosecurity and facility regulations, in the [Poultry Health Scheme members handbook (PDF, 538KB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/377556/phs-handbook.pdf).
 
-The fees consist of a fixed administration charge, plus a variable charge for Veterinary Officer (VO) time. 
+$CTA
 
-The VO time to licence or approve for PHS costs £23 per half an hour or part half an hour.
 
-| Activity      | Fixed fee |
+###Fees
+
+| What you pay for      | Fee |
 |---------------|------------------|
-| Annual registration | £61 |
-| First year approval of scheme member’s flock or hatchery | £210 |
-| First year approval of a scheme member’s combined flock and hatchery, on one site and inspection by a Veterinary Officer | £233 |
-| Annual renewal of a scheme member’s flock or hatchery and inspection by a veterinary surgeon who isn’t a Veterinary Officer | £74 |
-| Annual renewal of a scheme member’s combined flock and hatchery, on one site and inspection by a veterinary surgeon who isn’t a Veterinary Officer | £78 |
-| Annual renewal of a scheme member’s flock or hatchery and inspection by a Veterinary Officer | £178 |
-|Annual renewal of a scheme member’s combined flock and hatchery, on one site and inspection by a Veterinary Officer | £183 |
+| Registration (one year's membership) | £61 |
+| Inspection approval – flock or hatchery | £210 |
+| Inspection approval – combined flock or hatchery (per site) | £210 |
+| Inspection approval – combined flock or hatchery (per site) | £210 |
+| Veterinary Officer – fee to cover inspection time | £23 per half hour |
 
-####Laboratory operator membership fees
 
-The fees to apply for an initial laboratory approval or annual renewal are £43. You’ll need to pay a fee for each proficiency test that you need.
+APHA will tell you if your flock or hatchery needs to be tested for salmonella and mycoplasma. If it does, you need to pay a fee for the laboratory and for each test that you need.
 
-| Proficiency test      |Fee per test |
+| What you pay for      | Fee |
 |---------------|------------------|
+| Laboratory fee | £43 |
 | Salmonella bacteriology (pullorum, gallinarum and arizonae) | £131 |
 | Salmonella serology (pullorum, gallinarum) | £336 |
 | Mycoplasma chicken serology (gallisepticum) | £336 |
 | Mycoplasma culture (gallisepticum and meleagridis) | £281 |
 | Mycoplasma turkey serology (gallisepticum and meleagridis) | £336 |
 
+##Renewal
 
-###Keeping records
+Your membership lasts for one year. You’ll get a letter one month before it’s due to expire.
 
-You must keep detailed records and have a standard operating procedure (SOP) for inspection at any time.
+When you renew, you need to pay for another year's registration and inspection approval (plus any laboratory tests you need). 
+
+The approval fees are lower than in the first year, and are reduced further if you choose to get an inspection from a surgeon who isn’t a Veterinary Officer.
+
+| Type of inspection approval      | Fee |
+|---------------|------------------|
+| Flock or hatchery – inspection by a veterinary surgeon | £74 |
+| Combined flock and hatchery – inspection by a veterinary surgeon (per site) | £78 |
+| Flock or hatchery – inspection by a Veterinary Officer | £178 |
+| Combined flock and hatchery – inspection by a Veterinary Officer (per site) | £183 |
+| Veterinary Officer – fee to cover inspection time, if used | £23 per half hour |
 
 ## Exporting bees
 
-### From England and Wales
+What you need to do depends on whether you’re exporting bees from:
 
-For bee export certificates from England and Wales, contact the [National Bee Unit](http://www.nationalbeeunit.com/index.cfm?sectionid=47).
-
-### From Scotland
-
-For bee exports from Scotland, contact [Science and Advice for Scottish Agriculture (SASA)](http://www.sasa.gov.uk/wildlife-environment/bee-health).
-
-
-##Contacts
-
-**Animal and Plant Health Agency (APHA)**   
-
-Telephone: +44 (0) 3000 200 301   
-Fax: +44 (0) 117 372 8206   
-Email: <wildlife.licensing@apha.gsi.gov.uk>   
-Centre for International Trade - Bristol    
-1/17 Temple Quay House    
-2 The Square     
-Temple Quay    
-Bristol    
-BS1 6EB    
-
-**Department for Environment, Food and Rural Affairs (Defra)**
-
-Email: <defra.helpline@defra.gsi.gov.uk>      
-Telephone: 0345 933 5577      
-Monday to Friday, 8am to 6pm     
-[Find out about call charges](/call-charges)      
+- [England and Wales](http://www.nationalbeeunit.com/index.cfm?sectionid=47)
+- [Scotland](http://www.sasa.gov.uk/wildlife-environment/bee-health)
+- [Northern Ireland](https://www.daera-ni.gov.uk/articles/honeybee-and-bumblebee-imports-and-exports)   
 
 
 *[APHA]: Animal and Plant Health Agency
