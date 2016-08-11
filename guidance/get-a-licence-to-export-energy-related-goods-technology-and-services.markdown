@@ -14,18 +14,18 @@ It’s a criminal offence to export certain equipment used to drill for oil or g
 
 Check the list of [goods and services](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1) covered by EU sanctions that need a licence.
 
+$CTA
+
+Also check Russia's import rules. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+
+$CTA
+
 ##Goods and services you can’t export
 
 There’s a complete ban on exporting goods or services for use in:
 
 - oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
 - shale fracking
-
-$CTA
-
-Also check Russia's import rules. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
-
-$CTA
 
 ##Apply for an export licence
 
