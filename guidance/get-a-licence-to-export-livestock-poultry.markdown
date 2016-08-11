@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Get a certificate to export livestock and poultry
-summary: You must have a certificate to export cattle, pigs, sheep, goats, poultry and bees.
+title: Get permission to export livestock, poultry or bees
+summary: You must have a certificate to export cattle, pigs, sheep, goats and poultry.
 permalink: /guidance/get-a-licence-to-export-livestock-poultry.html
 topic:
   name: Exporting and doing business abroad
@@ -23,7 +23,7 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-You must have an Intra Trade Animal Health Certificate (ITAHC) to move livestock within the [EU](https://www.gov.uk/eu-eea).
+You must have an Intra Trade Animal Health Certificate (ITAHC) to move livestock or poultry within the [EU](https://www.gov.uk/eu-eea).
 
 If you export poultry, you must also join the [Poultry Health Scheme](#poultry).
 
@@ -65,25 +65,25 @@ When you get your completed EHC, you must keep it for at least 2 years.
 
 [Questions for fact check: How long does it usually take to get a EHC? Is there a fee?]
 
-##Exporting outside the EU via another EU country
+###Exporting outside the EU via another EU country
 {:#via-eu}
 
 If your consignment will travel through the EU on the way to a non EU country, you may need both an [ITAHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-within-the-eu) and an [EHC](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-livestock-poultry.html#exporting-livestock-outside-the-eu).
 
 Look at each stage of the journey and make sure your consignment has the right certification for each.
 
-##Exporting poultry
+##Poultry
 {:#poultry}
 
 You must be a member of the Poultry Health Scheme (PHS) to export:
 
-- within the EU, if you’re exporting more than 20 birds or hatching eggs
-- to some countries outside the EU - your EHC will say whether you need to join the scheme
+- within the EU (unless you’re exporting 20 birds or hatching eggs or less)
+- outside the EU to certain countries - your EHC will say whether you need to join the scheme
 
 To join the PHS, contact APHA.
 
-<AHspecialistservicecentreworcester@ahvla.gsi.gov.uk>
-Telephone: 03000 200 301  
+<AHspecialistservicecentreworcester@ahvla.gsi.gov.uk>  
+Telephone: 03000 200 301   
 Fax: 01905 768649   
 [Find out about call charges](/call-charges)   
 
@@ -100,7 +100,7 @@ Once APHA has received your application, a Veterinary Officer will inspect your 
 
 $CTA
 
-You can find more information, including about inspections, biosecurity and facility regulations, in the [Poultry Health Scheme members handbook (PDF, 538KB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/377556/phs-handbook.pdf).
+You can find more information, including about inspections, biosecurity and facility regulations, in the [PHS members' handbook (PDF, 538KB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/377556/phs-handbook.pdf).
 
 $CTA
 
@@ -127,7 +127,7 @@ APHA will tell you if your flock or hatchery needs to be tested for salmonella a
 | Mycoplasma culture (gallisepticum and meleagridis) | £281 |
 | Mycoplasma turkey serology (gallisepticum and meleagridis) | £336 |
 
-##Renewal
+###Renewing PHS membership
 
 Your membership lasts for one year. You’ll get a letter one month before it’s due to expire.
 
@@ -143,7 +143,7 @@ The approval fees are lower than in the first year, and are reduced further if y
 | Combined flock and hatchery – inspection by a Veterinary Officer (per site) | £183 |
 | Veterinary Officer – fee to cover inspection time, if used | £23 per half hour |
 
-## Exporting bees
+##Bees
 
 What you need to do depends on whether you’re exporting bees from:
 
