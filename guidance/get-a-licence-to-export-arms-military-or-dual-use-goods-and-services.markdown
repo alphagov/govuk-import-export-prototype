@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export arms, military or dual use goods and services
+title: Get a licence to export military or dual use goods, services or technology
 summary: You must have a licence to export anything on the 'consolidated contol lists' of strategic military and dual use items.
 permalink: /guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html
 breadcrumbs:
