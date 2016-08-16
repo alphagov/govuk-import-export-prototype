@@ -35,17 +35,22 @@ You may need a licence or follow special rules to export restricted goods or to 
 - [waste](/guidance/get-a-licence-to-export-waste.html)
 - [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html) - or other goods, technology or services that could make it possible to use a radioactive substance for military purposes
 
-##Diamonds and arts
+##Diamonds, precious metals and arts
 
 - [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
 - [diamonds, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html)
 
-##Military goods and services
-
-- [arms, military or 'dual use' goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) - including trafficking or brokering
-
 ##Goods that can be used for restraint or repression
 - [goods that could be used for restraint, repression or inhumane treatment](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
+
+##Military goods, services and technology
+
+You must [get a licence](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) to:
+
+- export military goods, or sell military services or technology outside the UK
+- arrange the sale of military goods, services or technology outside the UK
+- arrange the transfer of military goods, services or technology between two countries outside the UK
+- provide classified military information to someone based outside the UK
 
 ##High-tech goods and services 
 
@@ -56,4 +61,3 @@ Some goods, technologies and information that you might not think need a licence
 - export high-tech products like specialist computers, radios and other communications equipment
 - develop software that could be used for information security systems (eg cryptographic technology)
 - share information, knowledge or skills that could be used to make weapons
-
