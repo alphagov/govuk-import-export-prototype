@@ -107,7 +107,7 @@ If you’re a member of the [Plant Health Propagation Scheme](https://www.gov.uk
 It usually costs £13.87 for the plant health certificate and £65.24 for each 15 minutes of a site inspection.
 
 If the inspectors send your goods to a laboratory for testing it will cost £36.35
-The minimum cost of any inspection followed by tests is £130.48
+The minimum cost of any inspection followed by tests is £130.48.
 
 If your crops have an inspection during growing season or soil test, it costs £49.68 for every 15 minutes and a minimum of £99.36.
 
