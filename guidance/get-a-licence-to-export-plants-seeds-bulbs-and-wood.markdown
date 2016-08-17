@@ -89,11 +89,14 @@ To get a health certificate, your plants must be inspected. Apply by filling in 
 
 * [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536160/form-phe90.pdf)
 
+* plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf).
+
+
+You might also need to fill in a form for:
+
 * [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) to export flower bulbs, or plants in a ‘dormant state’
 
-* plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf)
-
-* [the soil your plants are growing in](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) - if you need this
+* [the soil your plants are growing in](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) - if the country you're exporting to says you need this
 
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
