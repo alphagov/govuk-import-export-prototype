@@ -32,7 +32,7 @@ Commodity codes classify goods for import and export so you can:
 
 You'll usually need to search or browse by the main material your goods are made from.
 
-You can get advice from the Trade Tariff classification service by filling in the [enquiry form.](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf)
+You can get advice from the Trade Tariff classification service by filling in the [enquiry form.](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf#page=3)
 
 ## If your goods aren’t listed in the Trade Tariff
 
