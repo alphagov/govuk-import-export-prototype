@@ -28,9 +28,9 @@ Method of transport | Deadline for making a declaration
 ‘Deep sea’ containerised cargo | 24 hours before goods are loaded
 ‘Short sea’ containerised cargo | 2 hours before leaving the port
 Air traffic | 30 minutes before departure
-Rail and inland waters traffic | 2 hours before departure
-Road traffic | 1 hour before departure
-Supplies for ships and aircraft | 15 minutes before departure
+Road and inland waters traffic | 2 hour before departure
+Rail traffic | 2 hours before departure
+Non containerised cargo | 2 hours before departure
 
 If the goods are passing through another EU country on their way out of the EU, the deadline counts from the time when they leave the EU. Not when they leave the UK.
 
