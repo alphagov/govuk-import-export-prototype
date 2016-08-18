@@ -65,9 +65,11 @@ If NES is unavailable for half a working day or more, contact the helpline to ma
 $C 
 **NES helpline**  
 Telephone: 029 2032 6371   
-Monday to Friday, 8am to 5pm      
+Monday to Friday, 9am to 3:30pm      
 [Find out about call charges](/call-charges)     
 $C  
+
+^If you need help when the NES helpline is closed, call 0300 200 3700.
 
 If you need to use a fallback route, you must provide all of the following:
 
