@@ -23,14 +23,14 @@ $CTA
 
 $CTA
 
+Military or dual use items can be raw materials, components or finished systems.
+
 The consolidated control lists include:
 
 - weapons
-- any goods, technology or services used for military purposes (like cryptographic technology or training materials for a weapons system)
-- civilian goods, technology, documents or diagrams that can also be used for military purposes (dual use)
+- goods, technology or services or components designed or modified for military use (for example Unmanned Aerial Vehicles, aircrew life support equipment, imaging equipment, cryptographic technology, self contained diving and underwater swimming apparatus or training materials for a weapons system)
+- ‘dual use’ items - goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example chemical agents, telecommunications, lasers or machine tools)
 - the transfer of knowledge and skills that could be used for military purposes
-
-Dual use items can be raw materials, components or finished systems.
 
 $CTA
 
@@ -40,25 +40,23 @@ $CTA
 
 ##Exporting goods that aren’t on the consolidated control lists
 
-You must [contact the Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting will be used for military purposes, even if it doesn’t appear on the consolidated control lists. For example:
+You must [contact the Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting might be used for military purposes in an embargoed country, even if it doesn’t appear on the consolidated control lists. For example:
 
 - components that will be used to make weapons
-- chemicals or biological agents that will be used to make a weapon of mass destruction
+- goods, services or technology that might be used to make Weapons of Mass Destruction (WMDs) (for example, chemicals or biological agents or technology that might be used in a nuclear weapons facility)
 
 These are called ‘end use’ or ‘catch all’ controls.
 
 You must apply for an export licence if ECO tells you to.
 
-[Question for SME: does the military end use control apply to anything that will be used for military purposes - or is it only if the end product will be exported to an embargoed country?]
-
 ##Military goods you can’t export
 
 There’s a complete ban on exporting:
 
-- anti personnel landmines, and parts for anti personnel landmines
+- anti personnel landmines, and parts or components for anti personnel landmines
 - blinding laser weapons
 - man-portable air defence systems (MANPADs) to end users who aren’t states
-- nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
+- non-civil nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
 
 ##Apply for an export licence
 
@@ -70,9 +68,9 @@ Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/logi
 
 $CTA
 
-The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
+There's no charge for a licence.
 
-[Question for SME: how much does it cost to get a licence?]
+The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
 
 ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
 
@@ -95,6 +93,7 @@ For example, ECO won’t usually give a licence if there’s an embargo on expor
 - Libya
 - North Korea (Democratic People’s Republic of Korea)
 - Republic of Guinea
+- Russia
 - Sierra Leone
 - Somalia
 - South Sudan
@@ -127,9 +126,9 @@ ECO won’t usually give a licence to export small arms, light weapons, weapon c
 
 ##Taking military goods out of the UK temporarily
 
-You still need to get an export licence to take military goods out of the country temporarily (eg to demonstrate them to potential buyers at a trade show).
+You still need to get an export licence to take military goods out of the country temporarily (eg to demonstrate them to potential buyers at a trade show or take them to a commemorative military event).
 
-Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
+Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a temporary export licence.
 
 ##Sharing classified information
 
@@ -140,15 +139,21 @@ You must get approval from the Ministry of Defence (MOD) before sharing classifi
 
 Use MOD form 680 on the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for approval.
 
+It’s not just exporters and potential exporters who must apply approval. The rule applies to anyone sharing classified information (for example, academics and researchers).
+
+[Question for SME: does it apply to anyone - eg journalists?]
+
 Contact your usual desk officer or email <ACP-ELC@mod.uk> if you have a question about MOD form 680 applications.
 
-##Trafficking and brokering
+## Trafficking, brokering and arranging sales or movements
 
 You must have a trade control licence if you or your company is involved in trafficking or brokering anything that appears on the consolidated military list.
 
 Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
 
 - arranging or negotiating sales
+- providing freight or insurance
+- providing financial or legal advice
 - arranging intra company transfers
 - drop shipping
 
@@ -162,19 +167,22 @@ You are responsible for making sure that your licence is still valid when you ex
 
 Keep up to date with the [ECO notices to exporters](http://blogs.bis.gov.uk/exportcontrol/).
 
+ECO carries out regular compliance visits to licence holders.
+
 The [ECO compliance code of practice](/government/publications/compliance-code-of-practice) has guidance on:
 
 - what records to keep
 - what compliance processes to put in place
 - how to train staff
-- how ECO compliance audits work
+- how compliance audits work
+
+If you don’t comply with the terms of your licence it could be revoked, and you could face a fine or prison sentence.
 
 ##Contact the Export Control Organisation (ECO)
 
-ECO helpline
-Email: [eco.help@bis.gsi.gov.uk](mailto:eco.help@bis.gsi.gov.uk)
+**ECO helpline**
+<eco.help@trade.gsi.gov.uk>
 Telephone: 0202 7215 4594
-Fax: 020 7215 2635
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to get advice from ECO on how to classify military or dual use goods and services.
 
