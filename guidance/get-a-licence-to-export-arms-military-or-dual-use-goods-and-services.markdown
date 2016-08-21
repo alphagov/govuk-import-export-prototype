@@ -32,12 +32,6 @@ The consolidated control lists include:
 - ‘dual use’ items - goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example chemical agents, telecommunications, lasers or machine tools)
 - the transfer of knowledge and skills that could be used for military purposes
 
-$CTA
-
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
-
-$CTA
-
 ##Exporting goods that aren’t on the consolidated control lists
 
 You must [contact the Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting might be used for military purposes in an embargoed country, even if it doesn’t appear on the consolidated control lists. For example:
