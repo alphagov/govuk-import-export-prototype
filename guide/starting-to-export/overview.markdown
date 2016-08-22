@@ -17,7 +17,7 @@ You can [post goods abroad](/send-goods-abroad) if your business gets small orde
 
 For bigger orders, most businesses use a freight forwarder or courier.
 
-Follow the process for [exporting using an freight forwarder] to make sure:
+Follow the process for [exporting using an freight forwarder](/guide/starting-to-export/exporting-goods.html) to make sure:
 
 - your goods aren't held up in customs
 - you pay the right amount of any import duty if you export to a non-EU country
@@ -34,7 +34,7 @@ You may be able to get [export insurance or finance](/export-insurance-export-fi
 
 ##Doing other types of business abroad
 
-You may need permission to provide services in higher risk industries or countries.  [Check if you need a licence](http://govuk-import-export.herokuapp.com/guide/starting-to-export/export-licences.html).
+You may need permission to provide services in higher risk industries or countries.  [Check if you need a licence](/guide/starting-to-export/export-licences.html).
 
 If you take goods out of the UK yourself, what you need to do depends on whether you're:
 
