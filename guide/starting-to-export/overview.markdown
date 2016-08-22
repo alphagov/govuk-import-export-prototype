@@ -13,17 +13,15 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-What you need to do to export goods from the UK depends on whether you’re exporting:
+You can [post goods abroad](/send-goods-abroad) if your business gets small orders from overseas.
 
-- [inside the EU](/guide/starting-to-export/move-goods-inside-the-eu.html)
-- [outside the EU](/guide/starting-to-export/export-outside-the-eu.html)
+For bigger orders, most businesses use a freight forwarder or courier.
 
-^If you're providing services abroad, [check if you need a licence](/guide/starting-to-export/export-licences.html).
+Follow the process for [exporting using an freight forwarder] to make sure:
 
-There are different processes if you either:
-
-- [post small, low value goods abroad](https://www.gov.uk/send-goods-abroad) - for example, after selling goods on an online auction site or your business gets an order from abroad
-- [take goods out of the UK temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html) - for example, taking laptops to a trade fair
+- your goods aren't held up in customs
+- you pay the right amount of any import duty if you export to a non-EU country
+- you've got permission to export any restricted goods
 
 ##Export advice and finance
 
@@ -32,4 +30,13 @@ You can get help [choosing where to export](/answer/choosing-export-market-ukti.
 You may be able to get [export insurance or finance](/export-insurance-export-finance.html) to:
 
 - protect you against the risk of not getting paid  
-- help finance an export deal your bank can't do on their own   
+- help finance an export deal your bank can't do on their own  
+
+##Doing other types of business abroad
+
+You may need permission to provide services in higher risk industries or countries.  [Check if you need a licence](http://govuk-import-export.herokuapp.com/guide/starting-to-export/export-licences.html).
+
+If you take goods out of the UK yourself, what you need to do depends on whether you're:
+
+- [selling them abroad]
+- [taking them abroad temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html) (for example taking laptops to a trade fair)
