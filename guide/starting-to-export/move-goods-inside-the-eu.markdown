@@ -20,6 +20,7 @@ s2. [Check if you need a licence](/guide/starting-to-export/export-licences.html
 s3. Your courier or freight forwarder will ask you to complete a proforma invoice. 
 s4. Attach the proforma invoice (and licence, if you need one) to your consignment.
 
+
 ##After you export
 
 You must keep records of proforma invoices and any customs paperwork for 4 years.
