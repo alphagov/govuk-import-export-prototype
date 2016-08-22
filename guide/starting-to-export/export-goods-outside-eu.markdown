@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Exporting and doing business abroad 
-permalink: /guide/starting-to-export/exporting-goods.html
+permalink: /guide/starting-to-export/goods-outside-eu.html
 page_number: 3
 page_title: Exporting outside the EU
 breadcrumbs:
