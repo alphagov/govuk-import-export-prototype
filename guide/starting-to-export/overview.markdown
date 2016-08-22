@@ -17,7 +17,7 @@ You can [post goods abroad](/send-goods-abroad) if your business gets small orde
 
 For bigger orders, most businesses use a freight forwarder or courier.
 
-Follow the process for [exporting using an freight forwarder](/guide/starting-to-export/exporting-goods.html) to make sure:
+Follow the process for [exporting using an freight forwarder or courier](/guide/starting-to-export/exporting-goods.html) to make sure:
 
 - your goods aren't held up in customs
 - you pay the right amount of any import duty if you export to a non-EU country
