@@ -32,6 +32,4 @@ Read the [product classification guides](https://www.gov.uk/government/collectio
 
 You can [get advice from the classification service](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf#page=3).(PDF, 159KB)
 
-^You can [check if your business already has an EORI number.](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en)
-
 {% endcontentfor %}
