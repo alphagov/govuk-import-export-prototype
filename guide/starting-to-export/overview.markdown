@@ -23,6 +23,8 @@ Follow the process for [exporting using an freight forwarder or courier](/guide/
 - you pay the right amount of any import duty if you export to a non-EU country
 - you've got permission to export any restricted goods
 
+There's a different process if you [take the goods abroad yourself].
+
 ##Export advice and finance
 
 You can get help [choosing where to export](/answer/choosing-export-market-ukti.html) and [finding overseas business opportunities](/start/find-overseas-business-opportunities.html).
