@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You need to complete 4 main tasks to move goods within the [EU](/eu-eea).
+You need to complete certain tasks to move goods within the [EU](/eu-eea).
 
 s1. Choose an freight forwarder or courier to move your goods to their destination.
 s2. [Check if you need a licence](/guide/starting-to-export/export-licences.html) to export restricted goods like high-tech products, chemicals or weapons. 
