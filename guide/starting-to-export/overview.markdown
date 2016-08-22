@@ -15,15 +15,30 @@ breadcrumbs:
 
 You can [post goods abroad](/send-goods-abroad) if your business gets small orders from overseas.
 
-For bigger orders, most businesses use a freight forwarder or courier.
+For bigger orders, most businesses use a courier or freight forwarder.
 
-Follow the process for [exporting using an freight forwarder or courier](/guide/starting-to-export/exporting-goods.html) to make sure:
+What you need to do depends on whether you're exporting:
 
-- your goods aren't held up in customs
-- you pay the right amount of any import duty if you export to a non-EU country
-- you've got permission to export any restricted goods
+- [within the EU](/guide/starting-to-export/goods-within-eu.html)
+- [outside the EU](/guide/starting-to-export/goods-outside-eu.html)
 
-There's a different process if you [take the goods abroad yourself].
+^There's a different process if you [take goods abroad yourself].
+
+##Export advice and finance
+
+You can get help [choosing where to export](/answer/choosing-export-market-ukti.html) and [finding overseas business opportunities](/start/find-overseas-business-opportunities.html).
+
+You may be able to get [export insurance or finance](/export-insurance-export-finance.html) to:
+
+- protect you against the risk of not getting paid  
+- help finance an export deal your bank can't do on their own  
+
+##Doing other types of business abroad
+
+You may need permission to:
+
+- provide [services in higher risk industries or countries]
+- take [goods abroad temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html), for example taking laptops to a trade fair
 
 ##Export advice and finance
 
