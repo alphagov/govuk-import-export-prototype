@@ -39,12 +39,3 @@ You may need permission to:
 
 - [provide services in higher risk industries or countries](http://govuk-import-export.herokuapp.com/guide/starting-to-export/export-licences.html)
 - [take goods abroad temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html), for example taking laptops to a trade fair
-
-##Export advice and finance
-
-You can get help [choosing where to export](/answer/choosing-export-market-ukti.html) and [finding overseas business opportunities](/start/find-overseas-business-opportunities.html).
-
-You may be able to get [export insurance or finance](/export-insurance-export-finance.html) to:
-
-- protect you against the risk of not getting paid  
-- help finance an export deal your bank can't do on their own  
