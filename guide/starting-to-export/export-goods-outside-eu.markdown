@@ -23,10 +23,7 @@ s5. Your freight forwarder will ask you to complete a commercial invoice.
 s6. Include the commodity code in your commercial invoice. 
 s7. Attach the commercial invoice (and licence, if you need one) to your consignment.
 
-Make sure the information you give in the commercial invoice is accurate. Your freight forwarder will use it to make an official customs declaration. Your goods may be
-
-You're legally responsible for the 
-You are responsible that the information in the declaration is correct.
+Your freight forwarder will use your commercial invoice to make an official customs declaration. Your goods can be held up in customs if the information you give in your commercial invoice isn't accurate.
 
 ##After you export
 
