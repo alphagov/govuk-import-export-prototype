@@ -17,9 +17,9 @@ There are more tasks to complete to export outside the EU. You may also need to 
 
 s1. Check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides).
 s2. [Check if you need a licence](/guide/starting-to-export/export-licences.html) to export restricted goods outside the UK. 
-s4. Check what commodity code describes your goods using the [Trade Tariff](/start/trade-tariff.html). The code affects any import duty that will be charged.
+s3. [Find your goods' commodity code][Trade Tariff](/start/trade-tariff.html) - you'll need this for your commercial invoice. The code affects any import duty that will be charged.
 s4. Register for an EORI number, if you don't have one. How you apply depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) It usually takes 3 working days. Tell your freight forwarder the number when you get it.
-s5. Your freight forwarder will ask you to complete a commercial invoice. Include the commodity code. When filling in the value of your goods, use the price you sold them for - but list freight or export insurance separately if included in the price.
+s5. Your freight forwarder will ask you to complete a commercial invoice. When filling in the value of your goods, use the price you sold them for (excluding any freight or export insurance - list these separately if included in the price).
 s6. Attach the commercial invoice (and licence, if you need one) to your consignment.
 
 Your freight forwarder will use your commercial invoice to make an official customs declaration. Your goods can be held up in customs if the information you give isn't accurate.
