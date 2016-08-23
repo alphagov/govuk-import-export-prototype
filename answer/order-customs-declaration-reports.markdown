@@ -14,7 +14,7 @@ breadcrumbs:
 
 You must keep records of your customs declarations if you export goods outside of the EU.
 
-To help with your record keeping responsibilities, you can buy reports that summarise your declarations.
+You can buy reports that summarise your declarations to help with your record keeping responsibilities.
 
 You can either order:
 
@@ -32,11 +32,6 @@ You can get a free month’s sample data to check that a standard report covers 
 - whether you want information on imports, exports or both
 - the signature of a director, partner or owner of your business
 
-$C 
-**MSS team**  
-<frontiersmssteam@hmrc.gsi.gov.uk>
-$C  
-
 $A
 MSS Team
 Customs Directorate
@@ -48,11 +43,16 @@ Essex
 SS99 1AA 
 $A
 
+$C 
+**MSS team**  
+<frontiersmssteam@hmrc.gsi.gov.uk>
+$C 
+
 ### Order a standard report
 
 If standard reports meet your needs, you can order:
 
-- monthly reports
+- reports to be sent to you every month
 - reports showing historical information from up to 4 years ago
 
 To order, fill in the [MSS agreement form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/381489/Agreement_for_the_Sale_of_Management_Support_System__MSS__Data.pdf) (PDF, 111KB). 
