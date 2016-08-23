@@ -15,7 +15,7 @@ breadcrumbs:
 
 There are more tasks to complete to export outside the EU. You may also need to pay import duty in the country you're exporting to.
 
-s1. Check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides).
+s1. Check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
 s2. [Check if you need a licence](/guide/starting-to-export/export-licences.html) to export restricted goods outside the UK. 
 s3. [Find your goods' commodity code](/start/trade-tariff.html) - you'll need this for your commercial invoice. The code affects any import duty that will be charged.
 s4. Register for an EORI number, if you don't have one. How you apply depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) It usually takes 3 working days. Tell your freight forwarder the number when you get it.
