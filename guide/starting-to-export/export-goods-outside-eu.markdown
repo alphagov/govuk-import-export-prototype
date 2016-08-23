@@ -37,4 +37,4 @@ If you're VAT registered, you can [zero-rate](http://www.gov.uk/vat-businesses/v
 
 You can get help keeping records of customs declarations, for example if you're a large business using different warehouses or freight forwarders.
 
-If you need to, you can order [reports of customs declarations] made by your freight forwarder.
+If you need to, you can order [reports of customs declarations](/order-customs-declaration-reports.html) made by your freight forwarder.
