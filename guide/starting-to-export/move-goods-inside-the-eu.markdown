@@ -19,7 +19,7 @@ s1. [Check if you need a licence](/guide/starting-to-export/export-licences.html
 s2. Your courier or freight forwarder will ask you to complete a proforma invoice. 
 s3. Attach the proforma invoice (and licence, if you need one) to your consignment.
 
-^It's usually simple to move goods within the EU, but some countries may have import rules for certain goods. You can check by talking to your importer or reading the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
+^Some countries may have import rules for certain goods. You can check by talking to your importer or reading the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
 
 ##After you export
 
