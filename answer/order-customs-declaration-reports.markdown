@@ -21,10 +21,19 @@ You can either order:
 - a standard report
 - a bespoke report
 
-
 ##Standard reports
 
-You can get a free month’s sample data to check that a standard report covers what you need. Write to the Management Support System (MSS) team on company stationery, including:
+You can order reports:
+
+- to be sent to you every month
+- showing historical information from up to 4 years ago
+
+To order, fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/381489/Agreement_for_the_Sale_of_Management_Support_System__MSS__Data.pdf) (PDF, 111KB) and return it to the address on the form.
+
+Reports cost £20 plus VAT for each month covered. You’ll get the reports by email, as a spreadsheet.
+
+###Order a free sample
+You can get a free month’s sample data if you want to check that a standard report covers what you need. Write to the Management Support System (MSS) team on company stationery, including:
 
 - your business name and address
 - EORI number
@@ -48,16 +57,7 @@ $C
 <frontiersmssteam@hmrc.gsi.gov.uk>
 $C 
 
-### Order a standard report
 
-If standard reports meet your needs, you can order:
-
-- reports to be sent to you every month
-- reports showing historical information from up to 4 years ago
-
-To order, fill in the [MSS agreement form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/381489/Agreement_for_the_Sale_of_Management_Support_System__MSS__Data.pdf) (PDF, 111KB). 
-
-Reports cost £20 plus VAT for each month covered. You’ll get the reports by email, as an MS Excel spreadsheet.
 
 ### Order a bespoke report
 
