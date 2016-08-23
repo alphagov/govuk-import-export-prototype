@@ -14,7 +14,7 @@ breadcrumbs:
 
 You must keep records of your customs declarations if you export goods outside of the EU.
 
-You can buy reports that summarise your declarations to help with your record keeping responsibilities.
+You can buy reports from HM Revenue and Customs (HMRC) that summarise your declarations to help with your record keeping responsibilities.
 
 You can either order:
 
@@ -59,6 +59,6 @@ $C
 
 
 
-### Order a bespoke report
+## Order a bespoke report
 
 Contact the MSS team to order if you need a bespoke report. Reports cost £35.31 plus VAT for each month covered.
