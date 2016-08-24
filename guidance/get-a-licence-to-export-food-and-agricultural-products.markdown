@@ -67,9 +67,9 @@ $CTA
 ###Within the EU
 {:#meat-dairy-animal-products-within-EU}
 
-You need to complete a commercial document for animal products which will be eaten by humans. 
+You need to create a commercial document for animal products which will be eaten by humans. 
 
-Ask your freight forward or courier to provide one, it should include:
+It should include:
 
 * details of the content of the consignment
 * your contact details
