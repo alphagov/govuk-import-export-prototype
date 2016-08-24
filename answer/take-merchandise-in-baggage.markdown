@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: Take merchandise abroad in your baggage
+title: Take goods to sell abroad
 permalink: /take-merchandise-in-baggage.html
 breadcrumbs:
  - name: Home
@@ -12,22 +12,21 @@ breadcrumbs:
 ---
 You must declare goods that you take with you to sell outside the EU - for example if they're in your baggage or in a private vehicle.
 
-The same rule applies to:
+The same rule applies to the following EU special territories:
 
-* Finland’s Aland Islands
-* Spain’s Canary Islands
-* the UK’s Channel Islands
-* the French overseas departments of Guadeloupe
-* French Guiana, Martinique and Reunion
-* Mount Athos in Greece
+- Åland Islands (Finland)   
+- the Canary Islands
+- the Channel Islands
+- Guadeloupe, French Guiana, Martinique and Reunion
+- Mount Athos, also known as Agion Poros (Greece)  
 
-You won’t need to do anything if your merchandise is being sold within the EU.
+Within the EU, you don't need to declaration.
 
-^[There are different rules](https://govuk-import-export.herokuapp.com/guide/take-goods-out-uk-temporarily-for-business/overview.html) if you’re temporarily exporting trade samples, or professional equipment you’re not going to sell like a laptop^
+^There are different rules if you [take goods abroad temporarily] (for example samples for a trade fair) or if you [export using a courier or freight forwarder](/guide/starting-to-export/overview.html).
 
-##Make a declaration through form C88
+##Make a declaration
 
-[Contact HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/excise-enquiries) to request a C88 form for merchanise in baggage.
+[Contact HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/excise-enquiries) to request a C88 form for 'merchanise in baggage'.
 
 [Question for SME: Is the short form available online?]
 
