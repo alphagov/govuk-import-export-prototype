@@ -17,7 +17,7 @@ Get advice and support from UK Trade and Investment (UKTI) to grow your business
 
 - researching potential export markets
 - understanding your legal requirements
-- protecting your [intellectual property](https://www.gov.uk/government/publications/protecting-your-uk-intellectual-property-abroad) abroad
+- protecting your intellectual property abroad, for example trade marks and copyright
 - developing your skills to make your exporting business a success 
 - managing the language and cultural aspects of exporting
 - developing a communications strategy
