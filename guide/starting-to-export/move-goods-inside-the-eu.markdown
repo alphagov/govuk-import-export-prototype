@@ -15,7 +15,7 @@ breadcrumbs:
 
 You need to complete certain tasks to move goods within the [EU](/eu-eea).
 
-s1. [Check if you need a licence](/guide/starting-to-export/export-licences.html) to export restricted goods from the UK.
+s1. [Check if you need a licence](/guide/starting-to-export/export-licences.html) or to follow special rules to export restricted goods from the UK.
 s2. Your courier or freight forwarder will ask you to complete a proforma invoice. 
 s3. Attach the proforma invoice (and licence, if you need one) to your consignment.
 
