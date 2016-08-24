@@ -22,7 +22,7 @@ The same rule applies to the following EU special territories:
 
 Within the EU, you don't need to declare your goods.
 
-^There are different rules if you [take goods abroad temporarily] (for example samples for a trade fair) or if you [export using a courier or freight forwarder](/guide/starting-to-export/overview.html).
+^There are different rules if you [take goods abroad temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html) (for example samples for a trade fair) or if you [export using a courier or freight forwarder](/guide/starting-to-export/overview.html).
 
 ##Make a declaration
 
