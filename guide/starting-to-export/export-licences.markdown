@@ -15,7 +15,7 @@ breadcrumbs:
 
 You may need a licence or follow special rules to export restricted goods or to sell certain services abroad. 
 
-^Also check the import rules of the country you’re exporting to. Talk to your importer or get [help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+^Also check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
 
 ## Animals and agricultural products
 
