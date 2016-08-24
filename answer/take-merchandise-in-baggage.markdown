@@ -11,6 +11,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'
 ---
 
+
 You must declare goods that you take with you to sell outside the EU - for example if they're in your baggage or in a private vehicle.
 
 The same rule applies to:
