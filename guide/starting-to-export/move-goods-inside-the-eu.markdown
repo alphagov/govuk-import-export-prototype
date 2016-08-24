@@ -25,4 +25,4 @@ s3. Attach the proforma invoice (and licence, if you need one) to your consignme
 
 You must keep records of proforma invoices and any customs paperwork for 4 years.
 
-If you’re VAT registered and in any month move goods worth over £250,000 within the EU, [make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html).
+If you move goods within the EU worth over £250,000 in any month, [make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html) if you're registered for VAT.
