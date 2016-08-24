@@ -11,7 +11,7 @@ topic:
 You may need a licence or follow special rules to export:
 
 - [processed food and drinks](#processed-foods) including things like flour and spices
-- [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like dairy, honey and gelatine
+- [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like honey and gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
 - [sugar, cereals and rice](sugar) (outside the EU only)
