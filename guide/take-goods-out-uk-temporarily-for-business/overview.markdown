@@ -34,8 +34,8 @@ You can usually get [an ATA Carnet](/guide/take-goods-out-uk-temporarily-for-bus
 
 ##Weapons, drugs and other controlled goods
 
-You'll need a licence to temporarily move [controlled goods -link?] outside the UK. You can get a temporary licence for some types of controlled goods, for example:
+You'll need a licence to temporarily move [controlled goods](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) outside the UK. You can get a temporary licence for some types of controlled goods, for example:
 
 - [controlled drugs for personal use](/travelling-controlled-drugs) 
-- [weapons or dual use goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) (eg for a trade show)
+- [weapons or dual use goods and services](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html)
 
