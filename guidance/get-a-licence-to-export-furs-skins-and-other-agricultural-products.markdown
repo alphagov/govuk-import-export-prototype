@@ -69,7 +69,7 @@ You must also fill in a commercial document to move animal by-products within th
 
 You should keep a copy for at least 2 years.
 
-You should also keep a logbook, [fill in the template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/425368/logbook-templates.doc) or create your own document with the same information.
+You should also keep a logbook, [fill in the template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/425368/logbook-templates.doc)(MS Word Document, 49KB) or create your own document with the same information.
 
 [Question for SME: Is the commercial document the same thing as a community transit declaration. If so, we can link to the guide rather than reproduce here.]
 
