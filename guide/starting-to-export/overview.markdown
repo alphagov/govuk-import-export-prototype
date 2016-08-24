@@ -22,7 +22,7 @@ What you need to do depends on whether you're exporting:
 - [within the EU](/guide/starting-to-export/goods-within-eu.html)
 - [outside the EU](/guide/starting-to-export/goods-outside-eu.html)
 
-^There's a different process if you [take goods abroad yourself].
+^There's a different process if you [take goods abroad yourself](/take-merchandise-in-baggage.html).
 
 ##Export advice and finance
 
