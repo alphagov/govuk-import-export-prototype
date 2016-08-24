@@ -14,7 +14,7 @@ You may need a licence or follow special rules to export:
 - [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like honey and gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
-- [sugar, cereals and rice](sugar) (outside the EU only)
+- [sugar, cereals and rice](#sugar) (outside the EU only)
 
 $CTA
 
@@ -23,7 +23,7 @@ Also check the import rules of the country that you’re exporting to, which may
 $CTA
 
 ##Processed food and drinks
-{:processed-foods}
+{:#processed-foods}
 
 Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods or drinks.
 
@@ -56,7 +56,7 @@ You need to follow special rules to export animal products that will be used as 
 - honey
 - gelatine, lard or blood
 
-What you need to do depends on if you’re exporting [within the EU](#unprocessed-animal-products-within-EU) or [outside the EU](#unprocessed-animal-products-outside-EU).
+What you need to do depends on if you’re exporting [within the EU](#meat-dairy-animal-products-within-EU) or [outside the EU](#meat-dairy-animal-products-outside-EU).
 
 $CTA
 
@@ -82,11 +82,11 @@ Once you've completed it, attach it to your consignment.
 
 You need to apply for an Export Health Certificate (EHC) to export unprocessed animal products outside the EU.
 
-s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s1. Contact the [Centre for International Trade Carlisle](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to you within xxx days/weeks.
-s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
+s4. Your EHC will be sent to you within [xxx days/weeks].
+s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](http://www.gov.uk//local-council). 
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
 When you get your completed EHC, you must keep it for at least 2 years.
@@ -103,9 +103,9 @@ What you need to do depends on if you’re exporting [within the EU](#plants-wit
 
 Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446540/plant-passports-fruit-plants.pdf) or [vegetables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446542/plant-passports-veg-plants.pdf) need a supplier document.
 
-If you need a supplier document, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices)to apply.
+If you need a supplier document, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) to apply.
 
-If you don't need one, you don't have to do anything to move plants used as food within the EU. But you always have to comply with the normal standards [to sell fresh fruit and vegetables](https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables).
+If you don't need one, you don't have to do anything to move plants used as food within the EU. But you always have to comply with the normal standards to [sell fresh fruit and vegetables](https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables).
 
 
 [Question for SME: Am I right in thinking supplier documents are free and that they are required for food?]
@@ -174,7 +174,7 @@ The table also shows if you need:
 - to send a sample for testing when you apply for your certificate
 - an import permit - get this from the country you're exporting to
 
-You don’t need a certificate or licence to export within the EU.
+You don’t need a certificate or licence to export to countries that aren't in the table, or within the EU.
 
 $CTA
 
@@ -224,7 +224,7 @@ $CTA
 | UAE | Yes | No | No |
 | Vietnam | Yes | No | Yes |
 
-*You only need a plant health certificate for wheat exports
+*You only need a plant health certificate for wheat exports to Sri Lanka
 
 ###Africa
 
