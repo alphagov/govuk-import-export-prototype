@@ -69,6 +69,15 @@ You must also fill in a commercial document to move animal by-products within th
 
 You should keep a copy for at least 2 years.
 
+You should also keep a logbook to record:
+
+* the date you sent the consignment
+* a description of the goods you sent (including the type or category)
+* the weight, volume and quantity of the goods
+* the place where you sent them from
+
+[Here is an example logbook](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/425368/logbook-templates.doc).
+
 [Question for SME: Is the commercial document the same thing as a community transit declaration. If so, we can link to the guide rather than reproduce here.]
 
 ###If you're exporting semen, ova or embryos in the EU
