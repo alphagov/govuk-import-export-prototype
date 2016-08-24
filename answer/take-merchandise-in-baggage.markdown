@@ -1,6 +1,6 @@
 ---
 layout: answer
-title: Take merchanise abroad in your baggage
+title: Take merchandise abroad in your baggage
 permalink: /take-merchandise-in-baggage.html
 breadcrumbs:
  - name: Home
