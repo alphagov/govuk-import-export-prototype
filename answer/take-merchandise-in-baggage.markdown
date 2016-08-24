@@ -20,7 +20,7 @@ The same rule applies to the following EU special territories:
 - Guadeloupe, French Guiana, Martinique and Reunion
 - Mount Athos, also known as Agion Poros (Greece)  
 
-Within the EU, you don't need to declaration.
+Within the EU, you don't need to declare your goods.
 
 ^There are different rules if you [take goods abroad temporarily] (for example samples for a trade fair) or if you [export using a courier or freight forwarder](/guide/starting-to-export/overview.html).
 
@@ -30,11 +30,11 @@ Within the EU, you don't need to declaration.
 
 [Question for SME: Is the short form available online?]
 
-You’ll have to fill in more information on the form if your goods:
+You’ll have to fill in more information if any of the following apply to your goods:
 
 * have a total value of over £750
 * weigh more than 1000kg 
-* aren’t subject to export duty or [restricted] 
+* are subject to export duty or are [restricted](/guide/starting-to-export/export-licences.html)
 
 Ask the helpline to send you notes on completing the form if you've not used it before.
 
