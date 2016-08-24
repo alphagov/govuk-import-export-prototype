@@ -23,7 +23,7 @@ The same rule applies to:
 
 You won’t need to do anything if your merchandise is being sold within the EU.
 
-^[There are different rules](https://govuk-import-export.herokuapp.com/guide/take-goods-out-uk-temporarily-for-business/overview.html)if you’re temporarily exporting trade samples, or professional equipment you’re not going to sell like a laptop^
+^[There are different rules](https://govuk-import-export.herokuapp.com/guide/take-goods-out-uk-temporarily-for-business/overview.html) if you’re temporarily exporting trade samples, or professional equipment you’re not going to sell like a laptop^
 
 ##Make a declaration through form C88
 
