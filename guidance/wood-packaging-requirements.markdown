@@ -64,5 +64,6 @@ If you’re given the option to treat the packaging, you can [find a company aut
 
 If ISPM15 compliant  wood packaging has been repaired, remanufactured or changed in any way, you must arrange for it to be re-treated and re-marked to maintain the standard. [Find a company]((http://www.timcon.org/FindASupplier/Default.asp)) authorised to carry out treatment to ISPM15 standards.
 
-Further information
-Contact the Forestry Commission at [plant.health@forestry.gsi.gov.uk](mailto:plant.health@forestry.gsi.gov.uk) or [visit the website](http://www.forestry.gov.uk/forestry/INFD-9QKGHM) 
+Contact the Forestry Commission
+- Email: [plant.health@forestry.gsi.gov.uk](mailto:plant.health@forestry.gsi.gov.uk)
+- [Website](http://www.forestry.gov.uk/forestry/INFD-9QKGHM) 
