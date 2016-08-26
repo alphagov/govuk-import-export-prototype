@@ -26,13 +26,7 @@ Wood packaging includes:
 
 ##Import solid wood packaging
 
-If you import solid wood packaging from inside the EU, check that it either:
-
-- meets ISPM15 standards (this is compulsory in Portugal)
-- has a plant passport issued by the local forestry commission
-- is bark-free 
-
-If you import solid wood packaging from outside the EU make sure it meets the [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) (ISPM15).
+If you import solid wood packaging from outside the EU, specify in your supplier contract that it must meet [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf)(ISPM15).
 
 ##Export solid wood packaging
 
