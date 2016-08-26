@@ -29,8 +29,8 @@ Wood packaging includes:
 If you import solid wood packaging from inside the EU, check that it:
 
 - meets ISPM15 standards (this is compulsory in Portugal)
-- is kiln-dried, marked ‘KD’ and has a plant passport issued by the local forestry commission
-- is bark-free (if it contains traces of bark, it must have a plant passport)
+- has a plant passport issued by the local forestry commission
+- is bark-free 
 
 If you import solid wood packaging from outside the EU make sure it meets the [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) (ISPM15).
 
