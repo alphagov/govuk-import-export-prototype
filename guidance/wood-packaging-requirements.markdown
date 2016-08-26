@@ -26,7 +26,7 @@ Wood packaging includes:
 
 ##Import solid wood packaging
 
-If you import solid wood packaging from inside the EU, check that it:
+If you import solid wood packaging from inside the EU, check that it either:
 
 - meets ISPM15 standards (this is compulsory in Portugal)
 - has a plant passport issued by the local forestry commission
