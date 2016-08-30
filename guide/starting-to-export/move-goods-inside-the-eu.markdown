@@ -27,9 +27,9 @@ You must keep records of proforma invoices and any customs paperwork for 4 years
 
 ###Tasks for bigger exporters
 
-If you sell goods online, or through other types of [distance selling](http://www.gov.uk/online-and-distance-selling-for-businesses/overview), register for VAT in the country you're selling to if:
+Register for VAT in the country you're selling to if you're [distance selling](http://www.gov.uk/online-and-distance-selling-for-businesses/overview) and both:
 
-- the total value of goods is over the country's [distance selling threshold](https://ec.europa.eu/taxation_customs/sites/taxation/files/docs/body/vat_in_ec_annexi.pdf) (PDF, 147KB)
+- the total value of goods is over the country's [distance selling threshold](https://ec.europa.eu/taxation_customs/sites/taxation/files/docs/body/vat_in_ec_annexi.pdf) (PDF, 147KB) - in most countries this is €35,000
 - you're selling to consumers (rather than businesses)
 
-If you move goods within the EU worth over £250,000 in any month, [make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html) if you're registered for VAT.
+If you move goods anywhere within the EU worth over £250,000 in any month, [make an Intrastat declaration](/guide/report-moved-goods-intrastat/when-you-must-register.html) if you're registered for VAT.
