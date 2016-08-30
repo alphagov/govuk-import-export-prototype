@@ -26,7 +26,16 @@ Wood packaging includes:
 
 ##Import solid wood packaging
 
-If you import solid wood packaging from outside the EU, specify in your supplier contract that it must meet [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf)(ISPM15).
+If you import solid wood packaging from outside the EU, specify in your 'supplier' contract with the exporter that it must meet [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf)(ISPM15).
+
+This will help to protect you if the wood packaging you're receiving fails an inspection by the UK Forestry Commission and you're asked to pay for one or more of the following:
+
+- repackaging  of the goods
+- treatment and marking of the wood packaging to meet ISPM15 requirements
+- destruction of the wood packaging
+- return of the wood packaging and, if necessary, the goods inside it
+
+If you’re given the option to treat the packaging, you can [find a company authorised to carry out treatment to ISPM15 standards](http://www.timcon.org/FindASupplier/Default.asp).
 
 ##Export solid wood packaging
 
@@ -37,17 +46,6 @@ If you export packaging outside the EU, check if the country you’re trading wi
 
 - check the [global exporters guide](http://www.timcon.org/ISPM15/ISPM15GlobalGuide.asp)
 - contact the country’s embassy or the [National Plant Protection Organisation (NPPO) in that country](https://www.ippc.int/en/partners/regional-plant-protection-organizations)
-
-##If your goods fail an import inspection
-
-Your wood packaging may be inspected by the Forestry Commission. If your packaging fails an inspection, you’ll have to pay for one or more of the following:
-
-- repackaging  of the goods
-- treatment and marking of the wood packaging to meet ISPM15 requirements
-- destruction of the wood packaging
-- return of the wood packaging and, if necessary, the goods inside it
-
-If you’re given the option to treat the packaging, you can [find a company authorised to carry out treatment to ISPM15 standards](http://www.timcon.org/FindASupplier/Default.asp).
 
 ##Reusing and returning solid  wood packaging
 
