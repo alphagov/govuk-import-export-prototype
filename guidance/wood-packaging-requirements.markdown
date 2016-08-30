@@ -7,7 +7,7 @@ topic:
   name: Importing
   url: /topic/business-and-self-employed/importing.html
 ---
-Solid wood packaging you use must meet certain requirements or your goods could be rejected or destroyed.
+Solid wood packaging you use must meet certain requirements or it could be rejected or destroyed.
 
 Packaging products include:
 
@@ -26,7 +26,7 @@ Processed woods like plywood (or other packaging materials like cardboard) don't
 
 ##Import solid wood packaging
 
-If you import solid wood packaging from outside the EU, specify in your 'supplier' contract with the exporter that it must meet [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf)(ISPM15).
+If you import solid wood packaging from outside the EU or from Portugal, specify in your 'supplier' contract with the exporter that it must meet [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf)(ISPM15).
 
 This will help to protect you if the wood packaging you're receiving fails an inspection by the UK Forestry Commission and you're asked to pay for one or more of the following:
 
@@ -39,7 +39,7 @@ If you’re given the option to treat the packaging, you can [find a company aut
 
 ##Export solid wood packaging
 
-If you’re exporting packaging inside the EU, check that it  complies with EU or international plant health regulations.
+If you’re exporting packaging inside the EU, check that it complies with EU or international plant health regulations.
 [SME question: do users need to provide evidence to show where the packaging was produced?]
 
 If you export packaging outside the EU, check if the country you’re trading with accepts ISPM15 and if they have any other requirements. You can either:
@@ -56,6 +56,8 @@ If you export packaging outside the EU, check if the country you’re trading wi
 
 If ISPM15 compliant  wood packaging has been repaired, remanufactured or changed in any way, you must arrange for it to be re-treated and re-marked to maintain the standard. [Find a company]((http://www.timcon.org/FindASupplier/Default.asp)) authorised to carry out treatment to ISPM15 standards.
 
-###Contact the Forestry Commission for more help
+###Get help
+
+Contact the Forestry Commission if you need help:
 
 [plant.health@forestry.gsi.gov.uk](mailto:plant.health@forestry.gsi.gov.uk)
