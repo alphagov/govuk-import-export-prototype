@@ -22,7 +22,11 @@ Packaging products include:
 
 You don't need to follow these rules for processed woods like plywood or other packaging materials like cardboard.
 
-^You can use a packing service or freight forwarder to help you meet your packaging requirements.^
+$CTA
+
+You can use a packing service or freight forwarder to help you meet your packaging requirements.
+
+$CTA
 
 ##Import solid wood packaging
 
