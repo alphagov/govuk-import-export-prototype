@@ -7,9 +7,9 @@ topic:
   name: Importing
   url: /topic/business-and-self-employed/importing.html
 ---
-Any solid wood packaging you use must meet certain requirements or your goods could be rejected or destroyed.
+Solid wood packaging you use must meet certain requirements or your goods could be rejected or destroyed.
 
-Wood packaging includes:
+Packaging products include:
 
 - packing cases
 - boxes
@@ -19,6 +19,8 @@ Wood packaging includes:
 - box pallets
 - pallet collars
 - dunnage (loose wood used to protect goods and their packaging)
+
+Processed woods like plywood (or other packaging materials like cardboard) don't need to follow these rules.
 
 ^You can use a packing service or freight forwarder to help you meet your packaging requirements.^
 
