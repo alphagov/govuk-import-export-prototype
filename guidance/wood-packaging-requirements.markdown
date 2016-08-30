@@ -20,7 +20,7 @@ Packaging products include:
 - pallet collars
 - dunnage (loose wood used to protect goods and their packaging)
 
-Processed woods like plywood (or other packaging materials like cardboard) don't need to follow these rules.
+You don't need to follow these rules for processed woods like plywood or other packaging materials like cardboard.
 
 ^You can use a packing service or freight forwarder to help you meet your packaging requirements.^
 
