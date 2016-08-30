@@ -39,3 +39,5 @@ You may need permission to:
 
 - [provide services in higher risk industries or countries](http://govuk-import-export.herokuapp.com/guide/starting-to-export/export-licences.html)
 - [take goods abroad temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html), for example samples for a trade fair
+ 
+Follow the rules for tax if you [sell digital services in the EU](https://www.gov.uk/vat-registration/registering-vat-other-eu-countries), for example downloadable content like video, music, ebooks and software.
