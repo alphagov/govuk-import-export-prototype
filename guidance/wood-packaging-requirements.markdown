@@ -9,8 +9,6 @@ topic:
 ---
 Any solid wood packaging you use must meet certain requirements or your goods could be rejected or destroyed.
 
-[Question for SME: do other materials have regulations, eg metal or plastic?]
-
 Wood packaging includes:
 
 - packing cases
