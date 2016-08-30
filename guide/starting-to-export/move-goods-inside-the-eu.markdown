@@ -25,7 +25,9 @@ s3. Attach the proforma invoice (and licence, if you need one) to your consignme
 
 You must keep records of proforma invoices and any customs paperwork for 4 years.
 
-If you sell goods online (or through other types of [distance selling](http://www.gov.uk/online-and-distance-selling-for-businesses/overview), register for VAT in the country you're selling to if:
+###Tasks for bigger exporters
+
+If you sell goods online, or through other types of [distance selling](http://www.gov.uk/online-and-distance-selling-for-businesses/overview), register for VAT in the country you're selling to if:
 
 - the total value of goods is over the country's [distance selling threshold](https://ec.europa.eu/taxation_customs/sites/taxation/files/docs/body/vat_in_ec_annexi.pdf) (PDF, 147KB)
 - you're selling to consumers (rather than businesses)
