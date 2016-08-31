@@ -16,7 +16,7 @@ There are different rules for [timber or wood](#timber).
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+Also [check the import rules](https://www.ippc.int/en/countries/all/list-countries/) of the country you’re exporting to. Talk to your importer or [contact your local plant health inspector](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices).
 
 $CTA
 
