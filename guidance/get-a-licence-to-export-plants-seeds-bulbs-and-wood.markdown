@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export plants, seeds, bulbs and wood
-summary: Check if you need a licence or certificate to export plants, seeds, bulbs or wood.
+summary: Check if you need a licence or phytosanitary certificate to export plants, seeds, bulbs or wood.
 permalink: /guidance/get-a-licence-to-export-plants-seeds-bulbs-and-woods.html
 topic:
   name: Exporting and doing business abroad
@@ -9,7 +9,7 @@ topic:
 ---
 What you need to do to export plants, seeds and bulbs depends on whether you’re exporting them:
 
-- [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
+- [within the EU](#within-eu) or to Liechtenstein, Norway and Iceland
 - [outside the EU](#outside-eu)
 
 There are different rules for [timber or wood](#timber).
@@ -25,7 +25,7 @@ $CTA
 
 To move plants, seeds or bulbs within the [EU](/eu-eea) you must check if you need a:
 
-- [plant passport](#plant-passport)
+- [plant passport](#plant-passport)(you don’t need one to sell plants directly to the public)
 - [supplier document](#supplier-document)
 
 If you don’t need either of these, you don’t need to follow any other special rules to move plants within the EU.
@@ -47,7 +47,7 @@ If it’s on either list, you’ll need to make a plant passport. You need permi
 form-phar3.pdf) and [send it to your local Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices)
 * [apply online through eDomero](http://edomero.defra.gov.uk/)
 
-The Animal and Plant Health Agency (APHA) will arrange to inspect your plants. The fee is £46.10 for every 15 minutes of the inspector’s time, including travel. There’s a minimum fee of £92.19. 
+The Animal and Plant Health Agency (APHA) will arrange to inspect your plants and where they're grown. The fee is £46.10 for every 15 minutes of the inspector’s time, including travel. There’s a minimum fee of £92.19. 
 
 You can make plant passports when you pass your inspection - APHA will explain how to do this.
 
@@ -67,7 +67,7 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 ##Outside the EU
 {:#outside-eu}
 
-Check with the country that you’re exporting to find if you need a health certificate (‘phytosanitary certificate’) to export:
+[Check with the plant authority](https://www.ippc.int/en/countries/all/list-countries/) in the country that you’re exporting to find if you need a health certificate (‘phytosanitary certificate’) to export:
 
 * plants and plant products
 * bulbs
@@ -81,21 +81,21 @@ You apply a different way to export plants from [Scotland](https://www.sasa.gov.
 
 $CTA
 
-To get a health certificate, your plants must be inspected. Apply by filling in the appropriate form for:
+To get a health certificate, your plants must be inspected. 
+
+ [Apply online through eDomero](https://signon.defra.gov.uk/Login.aspx)or by filling in the appropriate form for:
 
 * [plants](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515922/form-phe36.pdf)    
-
 * [bulbs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515952/form-ko1.pdf) 
-
 * [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536160/form-phe90.pdf)
-
+* [potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)
 * plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf).
 
+[Send the completed form to your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
 
 You might also need to fill in a form for:
 
 * [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) to export flower bulbs, or plants in a ‘dormant state’
-
 * [the soil your plants are growing in](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) - if the country you're exporting to says you need this
 
 [Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
@@ -104,12 +104,11 @@ If you’re a member of the [Plant Health Propagation Scheme](https://www.gov.uk
 
 ###Fees  
 
-It usually costs £13.87 for the plant health certificate and £65.24 for each 15 minutes of a site inspection.
+It usually costs a minimum of £130.48 for a site inspection followed by tests.
 
-If the inspectors send your goods to a laboratory for testing it will cost £36.35
-The minimum cost of any inspection followed by tests is £130.48.
+If the inspection lasts more than 30 minutes, you’ll have to pay £65.24 for every every extra 15 mins.
 
-If your crops have an inspection during growing season or soil test, it costs £49.68 for every 15 minutes and a minimum of £99.36.
+If your crops have an inspection during growing season or a soil test, it costs £49.68 for every 15 minutes and a minimum of £99.36.
 
 There might be additional charges if your goods need more tests to comply with the importing country’s health rules.
 
@@ -118,7 +117,7 @@ There might be additional charges if your goods need more tests to comply with t
 You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515921/form-phe3.pdf) for the first £500 of APHA services in a financial year if both the following apply:
 
 * you're not registered for VAT 
-* your certified exports were worth less £5,000 in the last financial year
+* your certified exports were worth less than £5,000 in the last financial year
 
 ##Exporting timber or wood
 {:#timber}
