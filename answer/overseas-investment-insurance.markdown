@@ -51,9 +51,6 @@ London
 SW1A 2HQ   
 $A
 
-^The policy may be renewed annually on the same terms and run for up to 15 years or be adjusted to reflect the investments in that year (up to a maximum amount).^
-
-
 ##Contact customer services
 
 Contact customer services for help:
