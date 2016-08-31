@@ -8,7 +8,8 @@ topic:
   url: /topic/business-and-self-employed/importing.html
 ---
 
-Export alcohol, tobacco or fuel (‘excise goods’)
+## Export alcohol, tobacco or fuel (‘excise goods’)
+
 Excise goods are goods you have to pay [alcohol excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/alcohol-duties), [fuel excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/fuel-duty) or [tobacco excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/tobacco-products-duty) on.
 
 ## Exporting excise goods: your options
