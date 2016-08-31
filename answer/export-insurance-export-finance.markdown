@@ -10,22 +10,18 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'
 ---
-{% contentfor summary %}
 
-You can get help from UK Export Finance (UKEF) to get:
 
-- insurance to cover you if you don’t get paid when you export (when you can’t get insurance privately)
-- a bond or loan to win a new export contract
-- credit or a loan for overseas companies to buy from you
+[UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance) (UKEF) helps UK exporters to: 
 
-{% endcontentfor %}
-
-^UKEF can't help to insure exports to EU countries (except Greece), Australia, Canada, Iceland, Japan, New Zealand, Norway, Switzerland and the USA.
+- win export contracts by providing attractive financing terms to your buyers
+- fulfil orders by supporting working capital loans
+- get paid by insuring against buyer default
 
 To find out more, contact:
 
-- your bank
-- an [approved export insurance broker](/government/publications/uk-export-finance-insurance-list-of-approved-brokers/export-insurance-approved-brokers) 
+- one of UKEF’s regional [Export Finance Advisers](https://www.gov.uk/government/publications/uk-regional-export-finance-advisors) (you can book a free consultation)
+- your bank or one of UKEF’s [approved export insurance brokers](https://www.gov.uk/government/publications/uk-export-finance-insurance-list-of-approved-brokers/export-insurance-approved-brokers)  
 - UKEF customer services
 
 $C
@@ -38,6 +34,3 @@ Fax: +44 (0)20 7271 8001
 Find out about [call charges](/call-charges) 
 
 $C
-
-
-
