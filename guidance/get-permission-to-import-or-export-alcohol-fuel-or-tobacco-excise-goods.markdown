@@ -18,36 +18,41 @@ You must be registered with HMRC to produce excise goods or to handle excise goo
 
 If you’re registered with HMRC to produce excise goods, you can:
 
-export the goods outside the EU without paying UK excise duty, and instead pay the excise duty in the country the goods are being imported to
-move goods within the EU while they’re in duty suspension
-move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
-sell goods directly to overseas consumers
+- export the goods outside the EU without paying UK excise duty, and instead pay the excise duty in the country the goods are being imported to
+- move goods within the EU while they’re in duty suspension
+- move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
+- sell goods directly to overseas consumers
 
 If you buy excise goods produced by someone else, the UK excise duty will already have been paid. You can:
 
-export goods outside the EU
-move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
-sell goods directly to overseas consumers
+- export goods outside the EU
+- move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
+- sell goods directly to overseas consumers
 
 ### Scotch whisky
 
 You can only export single grain, blended malt, blended grain or blended Scotch whisky outside Scotland if the whisky is:
-bottled and labelled for retail sale, or
-going to someone who is registered with HMRC as a blender, bottler, labeller or approved bulk importer
+
+- bottled and labelled for retail sale, or
+- going to someone who is registered with HMRC as a blender, bottler, labeller or approved bulk importer
+
 You must not export Scotch whisky in a wooden cask or holder.
+
 ### Irish whiskey and poteen (potin)
 
 You must not export Irish whiskey or poteen in a wooden cask or holder.
+
 ## Moving duty suspended goods within the EU
 
 You can sell duty suspended excise goods to someone based outside the UK if they:
 
-are approved a [‘registered owner’ of excise goods](https://www.gov.uk/guidance/receiving-storing-and-moving-excise-goods) in the UK or another EU country
-they have a ‘duty representative’ registered with HMRC acting for them
+- are approved as a [‘registered owner’ of excise goods](https://www.gov.uk/guidance/receiving-storing-and-moving-excise-goods) in the UK or another EU country
+- have a ‘duty representative’ registered with HMRC acting for them
 
 [Question for SME: do we need to mention non-revenue traders here - and if so, what is the non-revenue traders exclusion designed to achieve? Is it aimed to exclude people who are part of the supply chain, but aren’t directly involved in selling excise goods?]
 
 If you sell them to anyone else, excise duty becomes payable immediately.
+
 If you follow the right processes, the excise duty isn’t payable until the goods are released for sale. And the importer is responsible for paying the excise duty.
 
 ### How to move duty suspended goods within the EU
