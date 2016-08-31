@@ -105,13 +105,13 @@ If your claim is successful, HMRC will pay the money into your bank account.
 
 Contact the HMRC imports and exports helpline if you have a question.
 
-$C 
+
 **HMRC imports and exports helpline**  
 Telephone: 0300 200 3700  
 Textphone: 0300 200 3719  
 Outside the UK: +44 29 2050 1261  
 Monday to Friday, 8am to 6pm  
 [Find out about call charges](/call-charges)  
-$C
+
 
 If your question is about Scotch whisky, Irish whiskey or poteen, contact [enquiries.sdvs@hmrc.gsi.gov.uk](mailto:enquiries.sdvs@hmrc.gsi.gov.uk).
