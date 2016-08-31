@@ -23,9 +23,9 @@ $CTA
 ##Within the EU
 {:#plants-within-EU}
 
-To move plants, seeds or bulbs within the [EU](/eu-eea) you must check if you need a:
+To sell plants, seeds or bulbs within the [EU](/eu-eea) you must check if you need a:
 
-- [plant passport](#plant-passport) (you don’t need one to sell plants directly to the public or if you're not moving them for commercial reasons)
+- [plant passport](#plant-passport) (you don’t need one to sell plants directly to the public)
 - [supplier document](#supplier-document)
 
 If you don’t need either of these, you don’t need to follow any other special rules to move plants within the EU.
@@ -56,7 +56,7 @@ Permission to make passports lasts a year, but you may need more inspections if 
 ###Check if you need a supplier document
 {:#supplier-document}
 
-You need a supplier document to move the seeds, roots or any other plant ‘propagation material’ from ornamental plants within the EU.
+You need a supplier document to sell the seeds, roots or any other plant ‘propagation material’ from ornamental plants within the EU.
 
 Contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) to:
 
@@ -92,12 +92,14 @@ To get a health certificate, your plants must be inspected.
 * [potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)
 * plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf).
 
-[Send the completed form to your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
+[Question for SME: Is there a different form for ware potatoes?]
 
 You might also need to fill in a form for:
 
 * [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) to export flower bulbs, or plants in a ‘dormant state’
 * [the soil your plants are growing in](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) - if the country you're exporting to says you need this
+
+[Send the completed form to your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
 
 If you’re a member of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme), you may not need an inspection. [Contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out.
 
