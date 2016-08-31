@@ -76,7 +76,9 @@ country.
 ## Selling goods directly to overseas consumers
 
 $CTA
+
 Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods. [Research the legal and tax situation](https://www.gov.uk/government/collections/exporting-country-guides) before you send any goods overseas.
+
 $CTA
 
 All EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
