@@ -25,7 +25,7 @@ $CTA
 
 To move plants, seeds or bulbs within the [EU](/eu-eea) you must check if you need a:
 
-- [plant passport](#plant-passport)(you don’t need one to sell plants directly to the public)
+- [plant passport](#plant-passport)(you don’t need one to sell plants directly to the public or if you're not moving them for commercial reasons)
 - [supplier document](#supplier-document)
 
 If you don’t need either of these, you don’t need to follow any other special rules to move plants within the EU.
@@ -37,15 +37,14 @@ There are different rules if you're moving [endangered](#endangered-plants) or [
 
 Check if your plant is:
 
-- [listed on the passport application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/500861/
-Form-phar3.pdf ) (PDF, 1.4MB)
-- [at risk of xylella fastidiosa](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536168/form-phar3b-appendix.pdf) (PDF, 227 KB)
+- [listed on the passport application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/500861/form-phar3.pdf)(PDF, 1.4MB)
+- [at risk of xylella fastidiosa](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/545225/form-phar3b-appendix.pdf)(PDF, 227 KB)
 
 If it’s on either list, you’ll need to make a plant passport. You need permission before you can do this - either:
 
+* [apply online through eDomero](http://edomero.defra.gov.uk/)
 * fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/500861/
 form-phar3.pdf) and [send it to your local Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices)
-* [apply online through eDomero](http://edomero.defra.gov.uk/)
 
 The Animal and Plant Health Agency (APHA) will arrange to inspect your plants and where they're grown. The fee is £46.10 for every 15 minutes of the inspector’s time, including travel. There’s a minimum fee of £92.19. 
 
@@ -73,6 +72,8 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 * bulbs
 * seeds for sowing
 
+[Question for SME: Is there a better list for NPPOs or plant authorities in all countries than the one we've linked to?]
+
 ###Apply for a plant health certificate
 
 $CTA
@@ -97,8 +98,6 @@ You might also need to fill in a form for:
 
 * [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) to export flower bulbs, or plants in a ‘dormant state’
 * [the soil your plants are growing in](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) - if the country you're exporting to says you need this
-
-[Question for SME: Is eDomero available for these tasks? It is not mentioned in the current guidance]
 
 If you’re a member of the [Plant Health Propagation Scheme](https://www.gov.uk/guidance/plant-health-propagation-scheme) or the [Seed potato Classification Scheme](https://www.gov.uk/guidance/the-seed-potato-classification-scheme), you may not need an inspection. [Contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out.
 
