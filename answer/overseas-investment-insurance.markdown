@@ -43,11 +43,11 @@ s2.[Fill in an insurance application](https://www.gov.uk/government/uploads/syst
 s3.If required, [complete a sustainable lending questionnaire](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207389/sustainable-lending-form.pdf)
 s4.Send your application and lending questionnaire to the business group to be approved.
 
-Business Group 
-UK Export Finance 
-1 Horse Guards Road 
-London 
-SW1A 2HQ 
+Business Group   
+UK Export Finance   
+1 Horse Guards Road   
+London  
+SW1A 2HQ   
 
 
 ^The policy may be renewed annually on the same terms and run for up to 15 years or be adjusted to reflect the investments in that year (up to a maximum amount).^
@@ -57,10 +57,10 @@ SW1A 2HQ
 
 Contact customer services for help:
 
-customer.service@ukexportfinance.gov.uk
-Customer services: +44 (0)20 7271 8010
-General enquiries: +44 (0)20 7271 8000
-Fax: +44 (0)20 7271 8001
+customer.service@ukexportfinance.gov.uk  
+Customer services: +44 (0)20 7271 8010  
+General enquiries: +44 (0)20 7271 8000  
+Fax: +44 (0)20 7271 8001  
 
 
 
