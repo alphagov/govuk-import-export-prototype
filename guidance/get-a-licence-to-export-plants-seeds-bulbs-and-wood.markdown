@@ -156,22 +156,24 @@ APHA will contact you within 15 working days of receiving your application. You 
 ##Prohibited plants and soil
 {:#prohibited-plants}
 
-You can't usually export:
+How you export prohibited plants and soil depends on whether you’re exporting within the EU or outside the EU.
+
+###Within the EU
+
+You can't usually move:
 
 - [plants listed under Annex III](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:169:0001:0112:EN:PDF#page=38) (424kb, PDF)
 - soil from outside Europe, and from Belarus, Moldova, Russia, Turkey or Ukraine
 
-As well as soil from these countries, you also can’t export other organic matter you can grow plants in, excluding:
+As well as soil from these countries, you also can’t move other organic matter you can grow plants in, excluding:
 
 * peat
 * marine sediments
 * pure sand, clay, talc, rocks, volcanic pumice or chalk
 
-How you export prohibited plants and soil depends on whether you're exporting within the EU or outside the EU.
+###Checking for a scientific licence
 
-###Within the EU
-
-You can only send prohibited plants or soil to someone who has a licence to receive them. They will have a 'letter of authority' with their licence.
+You can only send prohibited plants or soil to someone who has a scientific licence to receive them. They will have a 'letter of authority' with their licence.
 
 You must:
 
