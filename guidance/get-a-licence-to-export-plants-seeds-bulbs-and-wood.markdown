@@ -174,7 +174,7 @@ As well as soil from these countries, you also can’t move other organic matter
 * marine sediments
 * pure sand, clay, talc, rocks, volcanic pumice or chalk
 
-###Checking for a scientific licence
+###Check the importer has scientific licence
 
 You can only send prohibited plants or soil to someone who has a scientific licence to receive them. They will have a 'letter of authority' with their licence.
 
@@ -186,8 +186,6 @@ You must:
 * store prohibited the plants or soil in 3 layers of packaging - at least 1 of the layers must be escape and shatter-proof
 
 If the recipient tells you that you don’t need a letter of authority, ask for their official confirmation of this from their national plant protection organisation. Don't send your material until you’ve got this.
-
-[Question for SME: Does the inspection only happen for the person who gets a licence (the importer)?]
 
 ###Outside the EU
 
