@@ -72,6 +72,8 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 * bulbs
 * seeds for sowing
 
+Make sure you ask to receive an official document to explain the rules in that country and how to comply - this will help UK inspectors to prepare your export correctly.
+
 [Question for SME: Is there a better list for NPPOs or plant authorities in all countries than the one we've linked to?]
 
 ###Apply for a plant health certificate
