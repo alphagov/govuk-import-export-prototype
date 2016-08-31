@@ -25,7 +25,7 @@ $CTA
 
 To move plants, seeds or bulbs within the [EU](/eu-eea) you must check if you need a:
 
-- [plant passport](#plant-passport)(you don’t need one to sell plants directly to the public or if you're not moving them for commercial reasons)
+- [plant passport](#plant-passport) (you don’t need one to sell plants directly to the public or if you're not moving them for commercial reasons)
 - [supplier document](#supplier-document)
 
 If you don’t need either of these, you don’t need to follow any other special rules to move plants within the EU.
