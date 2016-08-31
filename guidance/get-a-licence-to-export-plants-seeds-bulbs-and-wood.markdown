@@ -50,7 +50,7 @@ The Animal and Plant Health Agency (APHA) will arrange to inspect your plants an
 
 You can make plant passports when you pass your inspection - APHA will explain how to do this.
 
-Permission to make passports lasts a year, but you may need more inspections if your site has a higher risk of disease. If you renew your permission, you have to pay the fee again.
+Permission to make passports lasts a year, but you may need more inspections if your site has a higher risk of disease. If you renew your permission, you have to pay the fee for inspection again.
 
 
 ###Check if you need a supplier document
