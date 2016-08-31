@@ -103,7 +103,6 @@ The minimum amount you can claim is £500. If your claim is for less than £500,
 If you don’t make an excise duty drawback claim for 6 months, the minimum claim drops to £50.
 
 s1. Before you send the goods, [notify HMRC online](https://www.tax.service.gov.uk/forms/form/notice-of-intention-to-claim-drawback/new) that you’re going to make a claim for excise duty drawback. Or complete [form EX75](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374377/ex75.pdf) (PDF, 214KB) - sometimes called the ‘Notice of Intention’ or ‘NOI’ - and send it by post.
-
 s2. Wait for at least 2 full business days in case HMRC decides to inspect the goods. For example, if HMRC receives your notification on the Monday, you can send the goods on the Wednesday. If HMRC receives the notification after 4pm, it counts as the following business day.
 
 If your claim is successful, HMRC will pay the money into your bank account.
