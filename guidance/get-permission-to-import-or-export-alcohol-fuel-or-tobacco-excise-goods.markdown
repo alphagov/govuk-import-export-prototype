@@ -1,106 +1,104 @@
 ---
 layout: guidance
-title: Get permission to import or export alcohol, fuel or tobacco (‘excise goods’)
-summary: 'You must get permission to import or export excise goods: alcohol, fuel or tobacco.'
+title: Get permission to export alcohol, fuel or tobacco (‘excise goods’)
+summary: 'You must get permission to export excise goods: alcohol, fuel or tobacco.'
 permalink: /guidance/get-permission-to-import-or-export-alcohol-fuel-or-tobacco-excise-goods.html
 topic:
   name: Importing
   url: /topic/business-and-self-employed/importing.html
 ---
 
-Excise goods are goods you have to pay [alcohol excise duty](/topic/business-tax/alcohol-duties), [fuel excise duty](/topic/business-tax/fuel-duty) or [tobacco excise duty](/topic/business-tax/tobacco-products-duty) on.
+Export alcohol, tobacco or fuel (‘excise goods’)
+Excise goods are goods you have to pay [alcohol excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/alcohol-duties), [fuel excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/fuel-duty) or [tobacco excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/tobacco-products-duty) on.
 
-## Moving duty suspended excise goods within the EU
+## Exporting excise goods: your options
 
-Duty suspended excise goods are alcohol, tobacco or fuel on which excise duty hasn’t been paid yet (eg because they’re going to be stored in a registered customs warehouse).
+You must be registered with HMRC to produce excise goods or to handle excise goods before the excise duty has been paid (called being in ‘duty suspension’).
 
-Only a registered consignee can move duty suspended excise goods in or out of the UK.
+If you’re registered with HMRC to produce excise goods, you can:
 
-You can:
+export the goods outside the EU without paying UK excise duty, and instead pay the excise duty in the country the goods are being imported to
+move goods within the EU while they’re in duty suspension
+move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
+sell goods directly to overseas consumers
 
-- [apply to be a registered consignee](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/Customs/1.0/HM1&template=HM1.xdp) if you’re going to move excise goods regularly
-- apply to be a temporary registered consignee to move excise goods as a one off (use form TRC1 to apply - call the HMRC imports and exports helpline to get a copy)
-- get someone who’s already a registered consignee to move the goods for you
+If you buy excise goods produced by someone else, the UK excise duty will already have been paid. You can:
 
-[Question for SME: is there a public list of registered consignees we can link to here?]
+export goods outside the EU
+move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
+sell goods directly to overseas consumers
 
-You need a [duty deferment account](/delay-paying-customs-duty-when-you-import-goods.html) to be a registered consignee.
+### Scotch whisky
 
-You must pay excise duty in advance if you’re a temporary registered consignee, you can’t use a duty deferment account.
+You can only export single grain, blended malt, blended grain or blended Scotch whisky outside Scotland if the whisky is:
+bottled and labelled for retail sale, or
+going to someone who is registered with HMRC as a blender, bottler, labeller or approved bulk importer
+You must not export Scotch whisky in a wooden cask or holder.
+### Irish whiskey and poteen (potin)
 
-Applications take up to 9 weeks to process.
+You must not export Irish whiskey or poteen in a wooden cask or holder.
+## Moving duty suspended goods within the EU
 
-Once you’re registered, you’ll need to [make a report](/excise-movement-and-control-system) through the Excise Movement and Control System (EMCS) when you move a consignment of goods.
+You can sell duty suspended excise goods to someone based outside the UK if they:
 
-## Bringing duty paid excise goods into the UK
+are approved a [‘registered owner’ of excise goods](https://www.gov.uk/guidance/receiving-storing-and-moving-excise-goods) in the UK or another EU country
+they have a ‘duty representative’ registered with HMRC acting for them
 
-To bring duty paid excise goods into the UK for business reasons (eg buying from a wholesaler or cash and carry in another EU country):
+[Question for SME: do we need to mention non-revenue traders here - and if so, what is the non-revenue traders exclusion designed to achieve? Is it aimed to exclude people who are part of the supply chain, but aren’t directly involved in selling excise goods?]
 
-- fill in [form HM4](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/IndirectTax/1.0/HM4&template=HM4.xdp)
-- send the form to the Duty Paid Team at HMRC
+If you sell them to anyone else, excise duty becomes payable immediately.
+If you follow the right processes, the excise duty isn’t payable until the goods are released for sale. And the importer is responsible for paying the excise duty.
 
-Include payment for the UK excise duty. Pay by BACS, banker’s draft, postal order or cheque.
+### How to move duty suspended goods within the EU
 
-You can only get authorisation for one consignment at a time.
+You can only move goods under excise duty suspension if they’re in ‘free circulation’. Being in free circulation means that any import duty or import VAT due has been paid.
 
-$A
-Duty Paid Team
-HM Revenue and Customs
-Local Compliance S0000
-Newcastle
-NE98 1ZZ
-$A
+Usually, you must use the [Excise Movement and Control System (EMCS)](https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use) to report that you’re moving excise goods in duty suspension.
 
-Your form must arrive at least 15 working days before the goods are dispatched.
+If the freight forwarder or agent you’re using to move the goods is registered with HMRC for the [Entry in the Declarants Records (EIDR) scheme](https://www.gov.uk/guidance/introduction-of-the-union-customs-code-ucc), you can pass the goods to them without making a report through EMCS. Ask your freight forwarder or agent if they are registered for EIDR.
 
-HMRC will send the form back to you, endorsed with an HMRC authorisation number. 
+## Moving duty paid goods overseas
 
-### When you get the HMRC authorisation number
+If you send excise goods to another country, that country will usually apply excise duty to the goods.
 
-The HMRC authorisation number proves that you’ve paid the UK excise duty on the goods.
+So that you don’t pay excise duty twice, you can claim excise duty drawback on the UK excise duty that’s already been paid.
 
-Give the HMRC authorisation number to your supplier. Once they have it, they can dispatch the goods.
+To claim excise duty, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. Private individuals can’t claim excise duty drawback.
 
-Your supplier must include a Simplified Accompanying Administrative Document (SAAD) with the goods. To avoid delays, it’s best for them to include a copy of the endorsed form HM4 as well.
+You can’t claim excise duty drawback on goods you send to the Isle of Man, because it uses the same excise duty system as the UK.
 
-[Question for SME: I’d like to include a link to the SAAD form here, but I can only find details of the SAD: http://ec.europa.eu/taxation_customs/customs/procedural_aspects/general/sad/index_en.htm is It the same thing?]
+Chewing tobacco doesn’t qualify for excise duty drawback if you’re sending it to another EU 
+country.
 
-Contact the HMRC imports and exports helpline if you change how much you’re ordering or decide to use a different supplier.
+[Question for SME: is chewing tobacco subject to excise duty at both ends, or is there an alternative way of avoiding double taxation?]
 
-### When you receive the goods
+## Selling goods directly to overseas consumers
 
-When you receive the goods, you must:
+$CTA
+Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods. [Research the legal and tax situation](https://www.gov.uk/government/collections/exporting-country-guides) before you send any goods overseas.
+$CTA
 
-- fill in the rest of form HM4 and send it to the HMRC Duty Paid Team within 4 working days
-- include a copy of the SAAD
+All EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
 
-If you’re not VAT registered, you must include payment for import VAT. Pay by BACS, banker’s draft, postal order or cheque.
+EU countries may tell you to appoint a tax representative in their country (eg an accountant or law firm) to guarantee and pay the duty on your behalf.
 
-Contact the HMRC imports and exports helpline if the quantity delivered is different from what you ordered.
+[Question for SME: are accountants and law firms good examples?
 
-[Question for SME: do they also have to pay excise duty at this point?]
+If UK excise duty has already been paid on goods you sell overseas, you can claim it back through excise duty drawback.
 
-### Records you must keep
+## How to claim excise duty drawback
 
-You must keep:
+You must claim excise duty drawback within 3 years of the original duty payment.
 
-- a copy of form HM4
-- copies 2 and 3 of the SAAD
-- the [records required for revenue traders](https://www.gov.uk/government/publications/excise-notice-206-revenue-traders-records/excise-notice-206-revenue-traders-records)
+The minimum amount you can claim is £500. If your claim is for less than £500, wait until you have other claims worth £500 in total, then send them together.
 
-[Question for SME: how long do they need to keep these records?]
+If you don’t make an excise duty drawback claim for 6 months, the minimum claim drops to £50.
 
-## Import excise goods from outside the EU
+s1. Before you send the goods, [notify HMRC online](https://www.tax.service.gov.uk/forms/form/notice-of-intention-to-claim-drawback/new) that you’re going to make a claim for excise duty drawback. Or complete [form EX75](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374377/ex75.pdf) (PDF, 214KB) - sometimes called the ‘Notice of Intention’ or ‘NOI’ - and send it by post.
 
-You don’t need permission to import excise goods from outside the EU.
+s2. Wait for at least 2 full business days in case HMRC decides to inspect the goods. For example, if HMRC receives your notification on the Monday, you can send the goods on the Wednesday. If HMRC receives the notification after 4pm, it counts as the following business day.
 
-But you must pay the excise duty when you make your [import declaration](/guide/import-goods-outside-eu/overview.html) unless they will be stored in a [registered excise warehouse](/government/publications/excise-notice-197-receipt-into-and-removal-from-an-excise-warehouse-of-excise-goods).
-
-[Question for SME: is it right that you pay excise duty as part of the declaration?]
-
-## Moving Scotch Whisky out of Scotland
-
-There are [special rules](/guidance/move-scotch-whisky-outside-scotland-for-processing-packaging-or-bottling) for moving Scotch whisky out of Scotland for processing, packaging or bottling.
+If your claim is successful, HMRC will pay the money into your bank account.
 
 ## Get help
 
@@ -113,4 +111,6 @@ Textphone: 0300 200 3719
 Outside the UK: +44 29 2050 1261  
 Monday to Friday, 8am to 6pm  
 [Find out about call charges](/call-charges)  
-$C 
+$C
+
+If your question is about Scotch whisky, Irish whiskey or poteen, contact [enquiries.sdvs@hmrc.gsi.gov.uk](mailto:enquiries.sdvs@hmrc.gsi.gov.uk).
