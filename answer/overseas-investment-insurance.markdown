@@ -40,7 +40,7 @@ You won’t be able to get insurance for investments in:
 
 s1.Contact the UK customer services to find out what type of cover is available for your investment and ask if your country requires ‘sustainable lending’.  
 s2.[Fill in an insurance application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/210645/oii-application-form.pdf).  
-s3.If required, [complete a sustainable lending questionnaire](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207389/sustainable-lending-form.pdf)
+s3.If required, [complete a sustainable lending questionnaire](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207389/sustainable-lending-form.pdf).  
 s4.Send your application and lending questionnaire to the business group to be approved.  
 
 Business Group   
