@@ -38,17 +38,18 @@ You won’t be able to get insurance for investments in:
 
 ##Apply for insurance
 
-s1.Contact the UK customer services to find out what type of cover is available for your investment and ask if your country requires ‘sustainable lending’.  
-s2.[Fill in an insurance application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/210645/oii-application-form.pdf).  
-s3.If required, [complete a sustainable lending questionnaire](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207389/sustainable-lending-form.pdf).  
-s4.Send your application and lending questionnaire to the business group to be approved.  
+s1. Contact the UK customer services to find out what type of cover is available for your investment and ask if your country requires ‘sustainable lending’.  
+s2. [Fill in an insurance application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/210645/oii-application-form.pdf).  
+s3. If required, [complete a sustainable lending questionnaire](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207389/sustainable-lending-form.pdf).  
+s4. Send your application and lending questionnaire to the business group to be approved.  
 
+$A
 Business Group   
 UK Export Finance   
 1 Horse Guards Road   
 London  
 SW1A 2HQ   
-
+$A
 
 ^The policy may be renewed annually on the same terms and run for up to 15 years or be adjusted to reflect the investments in that year (up to a maximum amount).^
 
