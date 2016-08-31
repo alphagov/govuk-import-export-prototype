@@ -311,7 +311,7 @@ The importing country may need more information about your export.
 ###If you need extra information on the certificate
 {:#extra-information}
 
-Some countries need information that are not on the standard certificates.
+Some countries need information that is not on the standard certificates.
 
 When you apply, you can ask for this information to be included for Defra-1, 2, or 4 certificates, but you must also include some [standard wording](#wording) in your application.
 
