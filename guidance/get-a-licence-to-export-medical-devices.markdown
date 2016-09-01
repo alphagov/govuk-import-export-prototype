@@ -12,8 +12,6 @@ Some countries outside the EU need a Certificate of Free Sale (CFS) to export me
 * general devices like a stethoscope or prescription glasses
 * specialist devices including implantable devices and devices used to test samples like calibrators
 
-[Question to SME: Are these appropriate examples, what is the common case here?]
-
 $CTA
 
 Check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
@@ -35,7 +33,9 @@ The manufacturer, legal manufacturer, authorised representative or distributor m
 
 ###Fees
 
-Certificates cost £75 per order for the first 10 certificates you buy. Additional certificates on the same order cost £10 each.
+Certificates cost £75 per order for the first 10 certificates you buy. 
+
+Additional certificates on the same order cost £10 each.
 
 Once you’ve paid, the CFS order will be posted to you within 5 working days.
 
@@ -46,9 +46,8 @@ Contact the Medicines and Healthcare products Regulatory Agency (MHRA) if you ne
 **MHRA CFS team**     
 [cfs@mhra.gsi.gov.uk](mailto:cfs@mhra.gsi.gov.uk)   
 Telephone: 020 3080 7171
+Monday to Friday, 9am to 5pm 
 [Find out about call charges](/call-charges)    
-
-[Question for SME: When is this line open?]
 
 
 
