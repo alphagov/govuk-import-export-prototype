@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-There are more tasks to complete to export outside the EU. You may also need to pay import duty in the country you're exporting to.
+There are more tasks to complete to export outside the EU. You may also need to pay import duty in the country you're exporting to - but you don't charge VAT on exports outside the EU.
 
 s1. Check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
 s2. [Check if you need a licence](/guide/starting-to-export/export-licences.html) to export restricted goods outside the UK. 
@@ -23,8 +23,6 @@ s5. Your freight forwarder will ask you to complete a commercial invoice. When f
 s6. Attach the commercial invoice (and licence, if you need one) to your consignment.
 
 Your freight forwarder will use your commercial invoice to make an official customs declaration. Your goods can be held up in customs if the information you give isn't accurate.
-
-^Don't charge VAT on exports outside the EU.
 
 ##After you export
 
