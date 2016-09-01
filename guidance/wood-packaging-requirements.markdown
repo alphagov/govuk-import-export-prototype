@@ -39,7 +39,7 @@ This will help to protect you if the wood packaging you're receiving fails an in
 - destruction of the wood packaging
 - return of the wood packaging and, if necessary, the goods inside it
 
-If you’re given the option to treat the packaging, you can [find a company authorised to carry out treatment to ISPM15 standards](http://www.timcon.org/FindASupplier/Default.asp).
+If you’re given the option to treat the packaging, you can [find a company authorised to carry out treatment to ISPM15 standards](http://www.timcon.org/FindASupplier/Default.asp), you can also choose to sent it back to the supplier.
 
 ##Export solid wood packaging
 
