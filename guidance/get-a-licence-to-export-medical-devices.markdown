@@ -37,7 +37,7 @@ Certificates cost £75 per order for the first 10 certificates you buy.
 
 Additional certificates on the same order cost £10 each.
 
-Once you’ve paid, the CFS order will be posted to you within 5 working days.
+Once you’ve paid, they'll be posted to you within 5 working days.
 
 ###Getting help
 
