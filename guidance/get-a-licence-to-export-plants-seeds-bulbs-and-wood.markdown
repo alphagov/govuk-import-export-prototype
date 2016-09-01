@@ -9,7 +9,7 @@ topic:
 ---
 What you need to do to export plants, seeds and bulbs depends on whether you’re exporting them:
 
-- [within the EU](#within-eu) or to Liechtenstein, Norway and Iceland
+- [within the EU](#within-eu) or to Switzerland and Liechtenstein
 - [outside the EU](#outside-eu)
 
 There are different rules for [timber or wood](#timber).
