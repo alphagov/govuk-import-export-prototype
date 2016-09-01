@@ -27,7 +27,7 @@ Get advice and support from UK Trade and Investment (UKTI) to grow your business
 You can also:
 
 - read [UKTI's country guides](https://www.gov.uk/government/collections/exporting-country-guides) to research export markets yourself
-- get local advice from [UKTI offices around the world](/government/publications/uk-trade-investment-ukti-worldwide-offices/uk-trade-investment-offices-around-the-world)
+- get local advice from [UKTI offices around the world](https://www.gov.uk/government/publications/uk-trade-investment-ukti-worldwide-offices/uk-trade-investment-offices-around-the-world)
 - read [Overseas Business Risk reports](https://www.gov.uk/government/collections/overseas-business-risk) on political risks, human rights issues, corruption, terrorism, crime and intellectual property
 - get help finding specific [overseas business opportunities](https://govuk-import-export.herokuapp.com/start/find-overseas-business-opportunities.html)
 - sign up for [UKTI events, seminars and webinars](https://www.events.ukti.gov.uk)
