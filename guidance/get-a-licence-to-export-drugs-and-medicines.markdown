@@ -58,11 +58,11 @@ You should get a decision about your licence by email within 16 weeks. If you’
 ###Apply for an export licence
 {:#apply-export-licence}
 
-You need a National Drugs control System (NDS) licence to export drugs outside the UK, including within the EU.
+You need a Home Office Controlled Drug licence to export controlled drugs anywhere in the world.
 
 To apply:
 
-- [register for an NDS account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
+- [register for a Home Office Controlled Drugs licence](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 - [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) once you’ve registered
 
 You only need to register for an online account once - you can then log in to apply for a new licence.
