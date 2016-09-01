@@ -15,7 +15,7 @@ breadcrumbs:
 If you’re investing any type of resources in a company abroad, you can get insurance to cover the risk of:
 
 * political instability or violence in the country of your investment 
-* the local government taking control of the company you’ve invested in (against internal law)
+* the local government taking control of the company you’ve invested in (against international law)
 * restrictions on returns or currency ‘ exchange controls’ imposed by the local  government 
 
 {% endcontentfor %}
