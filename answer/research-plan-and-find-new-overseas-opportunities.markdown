@@ -31,15 +31,17 @@ You can:
 
 ##Research and planning for new export markets  
 
-Find out more details about [export markets in different countries](http://opentoexport.com/countries/) and [what risks](https://www.gov.uk/government/collections/overseas-business-risk) they might have.
+Research [export markets in different countries](http://opentoexport.com/countries/) and [what risks](https://www.gov.uk/government/collections/overseas-business-risk) they might have.
 
 If you’d like more bespoke information, get in touch with [your local Department for International Trade (DIT) advisor](https://www.contactus.ukti.gov.uk/office-finder/). 
 
-They can help you research new markets in detail for a fee of minimum £500, including:
+They can help you research new markets, including:
 
 * advice on local conditions, including competitors, regulation and standards
 * giving you an idea of the likelihood of success in the market 
 * creating a personalised export plan
+
+Fees vary but usually start at around £500 for a short report identifying potential distributors.
 
 DIT advisors can provide you also with free basic advice if you get in touch.
 
@@ -70,9 +72,7 @@ DIT’s personalised service also uses its contacts abroad to set up opportuniti
 * organising appointments possible partners
 * arrange meeting or seminars for you to present your business abroad
 
-Fees vary but usually start at around £500 for a short report identifying potential distributors.
-
-Get in touch with [your local trade team](https://www.contactus.ukti.gov.uk/office-finder/) to find out more about the service.
+Get in touch with [your local trade team](https://www.contactus.ukti.gov.uk/office-finder/) to find out more about the service and how much it will cost.
 
 ###Get grants to attend overseas trade shows
 
