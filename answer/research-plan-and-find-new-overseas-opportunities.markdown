@@ -25,9 +25,9 @@ Get advice, overview guidance and webinars on [open to export](http://opentoexpo
 
 You can:
 
-* Find out [how to start and if you're ready](http://opentoexport.com/steps/getting-started/)
+* find out [how to start and if you're ready](http://opentoexport.com/steps/getting-started/)
 * [ask experts question](http://opentoexport.com/ask-the-experts/ask-your-question/)
-* Get an overview of how to find new customers and ensure you get paid
+* get an overview of how to find new customers and ensure you get paid
 
 ##Research and planning for new export markets  
 
