@@ -141,12 +141,11 @@ There are additional rules if your medicine is [coated in or contains animal pro
 ###Export certificates for medicines for humans
 {:#human-medicines}
 
-You don't need a certificate to export medicines for humans within the EU.
-
 There are 5 types of certificate. 
 
 Which one you need will depend on the requirememnts of the importing country. Talk to the importer who’s receiving your goods to find out.
 
+You don't need a certificate to export medicines for humans within the EU.
 
 ###1.Certificate of a pharmaceutical product (licensed)
 
