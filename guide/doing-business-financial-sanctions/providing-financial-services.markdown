@@ -24,6 +24,8 @@ HM Treasury won’t usually grant a licence to provide financial services to a d
 
 You must not provide any financial services to anyone on the [list of financial sanctions targets in Syria](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487325/syria.pdf) (PDF, 92KB).
 
-## If you’re providing financial services under a licence
+## If you’re providing services under a financial sanctions licence
 
 You must [tell HM Treasury](/guide/doing-business-financial-sanctions/get-help.html) as soon as possible if you’re dealing with a client under a financial services licence and they commit an offence under financial sanctions (eg they breach the terms of their licence).
+
+^There are additonal restrictions on financing deals for [miltary or dual use goods, services and technologies](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html) and [deals related to the oil and gas industry in Russia](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html).^
