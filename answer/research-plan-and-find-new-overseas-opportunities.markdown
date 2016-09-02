@@ -50,7 +50,7 @@ DIT advisors can provide you also with free basic advice if you get in touch.
 If you want to create an export plan yourself use:
 
 * [the exportsavvy tool](https://www.exportsavvy.co.uk/)
-* create an [export plan action](http://opentoexport.com/info/export-action-plan/)
+* [export plan action](http://opentoexport.com/info/export-action-plan/)
 
 ###Defence, security and cyber security
 
