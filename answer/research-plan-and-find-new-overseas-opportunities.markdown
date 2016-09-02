@@ -28,20 +28,21 @@ You can:
 * [ask experts question](http://opentoexport.com/ask-the-experts/ask-your-question/)
 * Get an overview of how to find new customers and ensure you get paid
 
-##Research export markets
+##Research and planning for new export markets
 
 Find out more details about [export markets in different countries](http://opentoexport.com/countries/) and [what risks](https://www.gov.uk/government/collections/overseas-business-risk) they might have.
 
+If you’d like more bespoke information, get in touch with [your local Department for International Trade (DIT) advisor](https://www.contactus.ukti.gov.uk/office-finder/). 
 
-If you’d like more bespoke information, get in touch with [your local trade team](https://www.contactus.ukti.gov.uk/office-finder/). They can help you research new market in detail for a fee, including:
+They can help you research new markets in detail for a fee of minimum £500, including:
 
 * advice on local conditions, including competitors, regulation and standards
-*  giving you an idea of the likelihood of success in the market and market entry strategies
+* giving you an idea of the likelihood of success in the market 
+* creating a personalised export plan
 
-The Department for International Trade (DIT)  can provide you also with free basic advice if you get in touch.
+DIT advisors can provide you also with free basic advice if you get in touch.
 
 ###Defence, security and cyber security
-
 
 DIT’s Defence and Security Organisation (DIT DSO) publishes free [basic country briefings](https://www.gov.uk/government/collections/defence-and-security-exporting-country-briefings-and-reports). 
 
@@ -64,8 +65,10 @@ $C
 ##Get help meeting customers and securing business abroad
 
 DIT’s personalised service also uses its contacts abroad to set up opportunities in a particular market. You’ll get help with:
+
 * organising appointments possible partners
 * arrange meeting or seminars for you to present your business abroad
+
 Fees vary but usually start at around £500 for a short report identifying potential distributors.
 
 Get in touch with [your local trade team](https://www.contactus.ukti.gov.uk/office-finder/) to find out more about the service.
