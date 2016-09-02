@@ -49,9 +49,9 @@ You can then log in to [apply for a domestic controlled drug licence.](https://e
 
 If you need a purchase order number on the invoice, state this when you apply or email [DFLU.fees@homeoffice.gsi.gov.uk](mailto: DFLU.fees@homeoffice.gsi.gov.uk)
 
-You should get a decision about your licence by email within 16 weeks. If you’re applying for the first time, your premises will be visited as part of your application. Contact [DFLU.dom@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk) or duty line: 0207 035 8972 for queries.
+If you’re applying for the first time, your premises will be visited as part of your application. Contact [DFLU.dom@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk) or the duty line on 0207 035 8972 for queries.
 
-[SME question: How much does this licence cost? ow long is this licence valid for?]
+[SME question: How much does this licence cost? How long is this licence valid for?]
 
 ###Apply for an export licence
 {:#apply-export-licence}
