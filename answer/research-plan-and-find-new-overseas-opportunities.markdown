@@ -18,14 +18,20 @@ s2. Research export markets by country.
 s3. Get help meeting customers and securing business abroad.
 s4. Find specific opportunities with new export markets.
 
-
 ##Learn more about exporting and how to grow your business
 
-Get advice, overview guidance and webinars on open to export(http://opentoexport.com/).
+Get advice, overview guidance and webinars on [open to export](http://opentoexport.com/).
+
+You can:
+
+* Find out [how to start and if you're ready](http://opentoexport.com/steps/getting-started/)
+* [ask experts question](http://opentoexport.com/ask-the-experts/ask-your-question/)
+* Get an overview of how to find new customers and ensure you get paid
 
 ##Research export markets
 
-Find out more details about [export markets in different countries](https://www.gov.uk/government/collections/exporting-country-guides) and [what risks](https://www.gov.uk/government/collections/overseas-business-risk) they might have.
+Find out more details about [export markets in different countries](http://opentoexport.com/countries/) and [what risks](https://www.gov.uk/government/collections/overseas-business-risk) they might have.
+
 
 If you’d like more bespoke information, get in touch with [your local trade team](https://www.contactus.ukti.gov.uk/office-finder/). They can help you research new market in detail for a fee, including:
 
