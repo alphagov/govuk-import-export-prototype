@@ -14,7 +14,7 @@ breadcrumbs:
 Get support and find resources to:
 
 s1. Learn more about exporting and how to grow your business.
-s2. Research export markets by country.
+s2. Plan and research export markets by country 
 s3. Get help meeting customers and securing business abroad.
 s4. Find specific opportunities with new export markets.
 
