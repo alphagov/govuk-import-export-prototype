@@ -98,7 +98,7 @@ You can also subscribe to the [e-exporting Youtube channel](https://www.youtube.
 
 ##Find specific opportunities within new markets
 
-You can search through available opportunities per market or per sector on [exporting is great](https://www.exportingisgreat.gov.uk/).
+Search through available opportunities per market or per sector on [exporting is great](https://www.exportingisgreat.gov.uk/).
 
 ###Win business from aid funded projects
 
