@@ -134,12 +134,14 @@ How you apply for the certificate depends on whether you’re exporting:
 - [medicine for humans](#human-medicines)
 - [medicine for animals](#animal-medicines)
 
-[Question for SME: Are there countries that don’t require a certificate, eg within the EU?]
+[Question for SME: re. medicine for animals: Are there countries that don’t require a certificate, eg within the EU?]
 
 There are additional rules if your medicine is [coated in or contains animal products](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products) like gelatine.
 
 ###Export certificates for medicines for humans
 {:#human-medicines}
+
+You don't need a certificate to export medicines for humans within the EU.
 
 There are 5 types of certificate. 
 
