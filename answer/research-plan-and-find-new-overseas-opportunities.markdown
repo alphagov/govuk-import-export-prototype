@@ -45,6 +45,13 @@ Fees vary but usually start at around £500 for a short report identifying poten
 
 DIT advisors can provide you also with free basic advice if you get in touch.
 
+###Create an export plan
+
+If you want to create an export plan yourself use:
+
+* [the exportsavvy tool](https://www.exportsavvy.co.uk/)
+* create an [export plan action](http://opentoexport.com/info/export-action-plan/)
+
 ###Defence, security and cyber security
 
 DIT’s Defence and Security Organisation (DIT DSO) publishes free [basic country briefings](https://www.gov.uk/government/collections/defence-and-security-exporting-country-briefings-and-reports). 
