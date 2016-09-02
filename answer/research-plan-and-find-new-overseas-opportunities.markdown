@@ -85,7 +85,9 @@ s2. Use the email to apply for a grant 8 weeks before the start of events which 
 
 ###Grow your online business internationally
 
-Get advice to develop your online strategy abroad by emailing e-exporting@trade.gsi.gov.uk or subscribing to the [e-exporting Youtube channel](https://www.youtube.com/playlist?list=PLW9Q9i8L1YhUZsmIX0VWwslCnrgNRm6aM).
+Get advice to develop your online strategy abroad by emailing: e-exporting@trade.gsi.gov.uk
+
+You can also subscribing to the [e-exporting Youtube channel](https://www.youtube.com/playlist?list=PLW9Q9i8L1YhUZsmIX0VWwslCnrgNRm6aM).
 
 ##Find specific opportunities within new markets
 
