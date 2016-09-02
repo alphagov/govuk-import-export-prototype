@@ -77,7 +77,7 @@ $C
 DIT’s personalised service also uses its contacts abroad to set up opportunities in a particular market. You’ll get help with:
 
 * organising appointments with possible partners
-* arrange meetings or seminars for you to present your business abroad
+* arrange meetings or seminars for to present your business abroad
 
 Get in touch with [your local trade team](https://www.contactus.ukti.gov.uk/office-finder/) to find out more about the service and how much it will cost.
 
