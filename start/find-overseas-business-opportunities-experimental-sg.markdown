@@ -26,8 +26,8 @@ Search the ‘exporting is great’ database of opportunities by market and sect
 
 You local International Trade team can help you find overseas customers by:
 
-helping you prepare for a [trade show or overseas market visit](https://www.events.ukti.gov.uk) (sometimes grants are available)
-arranging introductions to potential overseas buyers, agents and distributors (there’s a charge for this service)
+- helping you prepare for a [trade show or overseas market visit](https://www.events.ukti.gov.uk) (sometimes grants are available)
+- arranging introductions to potential overseas buyers, agents and distributors (there’s a charge for this service)
 
 [Contact your local International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more. 
 
@@ -37,9 +37,9 @@ arranging introductions to potential overseas buyers, agents and distributors (t
 
 Join the e-exporting programme to get:
 
-advice on developing a strategy from from e-commerce and international trade experts
-special rates for some of the world’s most popular online selling platforms
-regular updates on e-commerce trends and opportunities to hear from industry experts `and network with other online traders
+- advice on developing a strategy from from e-commerce and international trade experts
+- special rates for some of the world’s most popular online selling platforms
+- regular updates on e-commerce trends and opportunities to hear from industry experts `and network with other online traders
 
 Contact <e-exporting@trade.gsi.gov.uk> to join the e-exporting programme.
 
