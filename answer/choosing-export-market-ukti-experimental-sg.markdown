@@ -18,7 +18,7 @@ Read [the Department of International Trade (DIT) country guides](https://www.go
 - how to protect your intellectual property
 - language and cultural issues
 
-Or contact your nearest International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to get bespoke research. There’s a charge for bespoke research.
+Or [contact your nearest International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to get bespoke research. There’s a charge for bespoke research.
 
 Read the [Overseas Business Risk reports](https://www.gov.uk/government/collections/overseas-business-risk) for information on political instability, terrorism, crime, corruption, human rights issues and intellectual property risks. 
 
