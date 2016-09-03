@@ -31,7 +31,19 @@ You local International Trade team can help you find overseas customers by:
 
 [Contact your local International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more. 
 
-^[Get help researching export markets](link) if you’re not sure which overseas markets to focus on.^
+^[Get help researching export markets](/answer/choosing-export-market-ukti-experimental-sg.html) if you’re not sure which overseas markets to focus on.^
+
+## Get help winning business from major overseas projects
+
+You local International Trade team can help you win business from major overseas projects by:
+
+- telling you about opportunities at an early stage
+- helping you evaluate opportunities
+- giving you advice on how to win business
+- putting you in touch with potential bidding partners
+- lobbying the project on your behalf
+
+[Contact your local International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more.
 
 ## Get help finding overseas customers online
 
