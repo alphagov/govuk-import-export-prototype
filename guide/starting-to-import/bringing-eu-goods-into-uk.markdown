@@ -12,11 +12,9 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html'   
 ---
-Check if you need a [licence to bring your goods](/guide/starting-to-import/import-licences.html) into the UK.
+[Check if you need a licence](/guide/starting-to-import/import-licences.html) or to follow special rules to bring goods into the UK.
 
-^If you don’t get a licence when you need one, you could be fined and your goods will be seized by customs.^
-
-You’ll need to make a [community transit declaration](/guide/move-goods-eu/when-to-make-declaration.html) if the goods were originally brought in from outside the EU and there’s still duty to be paid on them.
+If you don't, you don't need to do anything to receive your goods.
 
 ##After you export
 
