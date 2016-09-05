@@ -138,6 +138,8 @@ You don't need a certificate to export medicines for humans or animals within th
 
 There are additional rules if your medicine is [coated in or contains animal products](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products) like gelatine.
 
+[Question for food/agri SME: is the line above accurate? To which countries does this apply?] 
+
 ###Export certificates for medicines for humans
 {:#human-medicines}
 
