@@ -14,9 +14,9 @@ breadcrumbs:
 Get support and find resources to:
 
 s1. Learn more about exporting and how to grow your business.
-s2. Plan and research export markets by country 
+s2. Research opportunities by country and make an export plan
 s3. Get help meeting customers and securing business abroad.
-s4. Find specific opportunities with new export markets.
+s4. Find specific opportunities in new export markets.
 
 
 ##Learn more about exporting and how to grow your business
@@ -29,7 +29,7 @@ You can:
 * [ask experts question](http://opentoexport.com/ask-the-experts/ask-your-question/)
 * get an overview of how to find new customers and ensure you get paid
 
-##Research and planning for new export markets  
+##Research opportunities by country and make an export plan
 
 Research [export markets in different countries](http://opentoexport.com/countries/) and [what risks](https://www.gov.uk/government/collections/overseas-business-risk) they might have.
 
