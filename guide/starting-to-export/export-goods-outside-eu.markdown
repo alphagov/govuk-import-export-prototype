@@ -18,11 +18,13 @@ There are more tasks to complete to export outside the EU than within it. You ma
 s1. Check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
 s2. [Check if you need a licence](/guide/starting-to-export/export-licences.html) to export restricted goods outside the UK. 
 s3. [Find your goods' commodity code](/start/trade-tariff.html) - you'll need this for your commercial invoice. The code affects any import duty that will be charged.
-s4. Register for an EORI number, if you don't have one. How you apply depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) It usually takes 3 working days. Tell your freight forwarder the number when you get it.
+s4. Register for an EORI number, if you don't have one. How you apply depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) It usually takes 3 working days. Tell your freight forwarder the number when you get it. 
 s5. Your freight forwarder will ask you to complete a commercial invoice. When filling in the value of your goods, use the price you're selling them for (listing separately any freight or export insurance you included in the price). For free samples, use the market value of the goods. 
 s6. Attach the commercial invoice (and licence, if you need one) to your consignment.
 
 Your freight forwarder will use your commercial invoice to make an official customs declaration. Your goods can be held up in customs if the information you give isn't accurate.
+
+^It is your responsibility to [tell the EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact?dept-name=&sub-dept-name=&location=43&origin=http://www.hmrc.gov.uk) if any of your details change for example if you become VAT registered or change address.^
 
 ##After you export
 
