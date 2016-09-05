@@ -43,7 +43,7 @@ They can help you research new markets, including:
 
 ^Fees vary but usually start at around £500 for a short report identifying potential distributors.
 
-DIT advisors can provide you also with free basic advice if you get in touch.
+DIT advisors can also give you basic advice for free if you get in touch.
 
 ###Create an export plan
 
