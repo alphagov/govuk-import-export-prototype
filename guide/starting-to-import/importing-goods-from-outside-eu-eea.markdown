@@ -30,9 +30,9 @@ You may be able to [set up a deferment account](/delay-paying-customs-duty-when-
 
 You won’t have to pay import duty if you qualify for relief:
 
-- [on goods you’re importing to process, then re-export](/guide/duty-relief-import-goods-processing/overview.html) (Inward Processing Relief)
+- [on goods you’re importing to repair, repackage or make into something else then re-export outside the EU](/guide/duty-relief-import-goods-processing/overview.html) (Inward Processing Relief)
 - [on donated or non-commercial goods](/guide/relief-on-donated-noncommercial-goods/who-can-claim-relief.html) (Community Systems Relief)
-- [on goods temporarily exported outside the EU for processing or repair](/guide/outward-processing-relief/overview.html) (Outward Processing Relief)
+- [on goods temporarily you're exporting outside the EU for processing or repair and re-importing ](/guide/outward-processing-relief/overview.html) (Outward Processing Relief)
 - [Processing under Customs Control](/guide/processing-under-customs-control-relief-customs-warehousing/overview.html)
 - [on goods temporarily imported goods for auction, exhibition or demonstration](/guide/temporary-admission-relief/overview.html) (Temporary Admission Relief)
 - [Returned Goods Relief](/guide/returned-goods-relief/overview.html)
