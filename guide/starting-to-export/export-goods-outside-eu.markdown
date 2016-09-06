@@ -24,8 +24,6 @@ s6. Attach the commercial invoice (and licence, if you need one) to your consign
 
 Your freight forwarder will use your commercial invoice to make an official customs declaration. Your goods can be held up in customs if the information you give isn't accurate.
 
-^It is your responsibility to [tell the EORI team](https://online.hmrc.gov.uk/shortforms/form/EORIContact?dept-name=&sub-dept-name=&location=43&origin=http://www.hmrc.gov.uk) if your business details change, for example if you become VAT registered or change address.^
-
 ##After you export
 
 You must keep records of commercial invoices and any customs paperwork for 4 years.
