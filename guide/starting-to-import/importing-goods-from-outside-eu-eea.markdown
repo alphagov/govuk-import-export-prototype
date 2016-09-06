@@ -22,9 +22,24 @@ You may pay duty on:
 
 - [alcohol](/topic/business-tax/alcohol-duties)   
 - [fuel](/topic/business-tax/fuel-duty)   
-- [tobacco](/topic/business-tax/tobacco-products-duty)   
+- [tobacco](/topic/business-tax/tobacco-products-duty)  
+
+^You won’t be charged duty if it come to under £7 and you won’t have to pay customs duty any goods under £135 (including postage, packaging and insurance). 
 
 You may be able to [set up a deferment account](/delay-paying-customs-duty-when-you-import-goods.html) with HMRC to delay paying customs duties.
+
+##Gifts and personal belongings
+
+Some goods that are sent to you by an individual rather than a company can be exempt from VAT or duty that was due otherwise.
+
+If a personal belonging is being returned to you, you won’t have to pay anything as long as the sender declares this.
+
+##Reduced customs duty for gifts
+
+You may be able to pay less duty if you’re receiving a gift over £135, [call the helpline](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) to find out. 
+
+Gifts between £135 and £600 will usually have 2.5% duty but that might vary.
+
 
 ## Claim relief on import duty
 
