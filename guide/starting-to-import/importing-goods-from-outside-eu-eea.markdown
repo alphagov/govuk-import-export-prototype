@@ -16,7 +16,7 @@ s1. Check if you need a [licence to bring your goods](/guide/starting-to-import/
 s2. Make sure you know how much import duty you’ll have to pay. Ask the exporter for a breakdown of costs (you can [double check  with the trade tariff]((/start/trade-tariff.html)) to see if you have a correct estimation).
 
 
-## Customs duties
+##Excise duties
 
 You may pay duty on:
 
@@ -24,7 +24,9 @@ You may pay duty on:
 - [fuel](/topic/business-tax/fuel-duty)   
 - [tobacco](/topic/business-tax/tobacco-products-duty)  
 
-^You won’t be charged duty if it come to under £7 and you won’t have to pay customs duty any goods under £135 (including postage, packaging and insurance). 
+##Customs duties
+
+You'll be charged customs duty on imports over £135 (including postage, packaging and insurance). , unless the total duty payment due is under £7.
 
 You may be able to [set up a deferment account](/delay-paying-customs-duty-when-you-import-goods.html) with HMRC to delay paying customs duties.
 
@@ -34,12 +36,11 @@ Some goods that are sent to you by an individual rather than a company can be ex
 
 If a personal belonging is being returned to you, you won’t have to pay anything as long as the sender declares this.
 
-##Reduced customs duty for gifts
+###Reduced customs duty for gifts
 
 You may be able to pay less duty if you’re receiving a gift over £135, [call the helpline](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) to find out. 
 
 Gifts between £135 and £600 will usually have 2.5% duty but that might vary.
-
 
 ## Claim relief on import duty
 
