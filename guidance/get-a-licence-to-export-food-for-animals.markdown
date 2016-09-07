@@ -61,6 +61,8 @@ s4. Your EHC will be sent to you within xxx days/weeks.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
+
+
 ###Apply for a certificate of free sale
 The country you’re exporting to may require you to have a 'certificate of free sale'.
 
