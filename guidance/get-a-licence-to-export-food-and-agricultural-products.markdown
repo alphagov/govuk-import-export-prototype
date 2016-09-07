@@ -27,7 +27,15 @@ $CTA
 
 Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods or drinks.
 
-Outside the EU, check with the country you're exporting to. They'll tell you if you need a 'certificate of free sale'. If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
+Outside the EU, check with authority responsible for food in country you're exporting to. They'll tell you if you need a 'certificate of free sale', which types and how many they require, including:
+
+* human consumption - alcohol only
+* free sale alcohol
+* free sale standard - often required for milk and milk products
+* manufacture and free sale - always required in Nigeria and often required for milk and milk products
+* dioxin (declaration of origin) - always required for milk and milk products (as well as a certificate of manufacture or standard free sale) and for non-alcoholic exports to  Argentina, Lebanon, Oman, Saudi Arabia and Sudan.
+
+If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
 
 ###Apply for a certificate of free sale
 
@@ -43,7 +51,7 @@ Contact the Rural Payments Agency (RPA).
 
 **Rural Payments Agency**         
 Telephone: 03000 200 301  
-Monday to Friday: 8.30am to 5pm  
+Monday to Friday: 8.30am to 5pm
 [Find out about call charges](/call-charges)      
 
 ##Meat, dairy and other animal products
@@ -385,5 +393,5 @@ If you use your licence in stages, you can ask us for the security in stages, as
 Contact the RPA if you need help with CAP good exports.
 
 **RPA External Trade Helpline**      
-Telephone: 0191 226 5050
+Telephone:03300 416500 
 Monday to Friday, 9am to 5pm
