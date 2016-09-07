@@ -43,7 +43,7 @@ You must not export Scotch whisky in a wooden cask or holder.
 
 You must not export Irish whiskey or poteen in a wooden cask or holder.
 
-##Getting a certificate of sale for alcohol outside the EU
+##Getting a certificate of free sale for alcohol outside the EU
 
 If you're exporting alcohol outside the EU, check with the food authority in the importing country. They'll tell you if you need 'certificates of free sale' and what type they require.
 
