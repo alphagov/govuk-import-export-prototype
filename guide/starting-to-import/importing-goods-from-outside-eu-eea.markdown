@@ -26,7 +26,7 @@ You may pay duty on:
 
 ##Customs duties
 
-You'll be charged customs duty on imports over £135 (including postage, packaging and insurance), unless the total duty payment due is under £7.
+You'll be charged customs duty on imports over £135 (including postage, packaging and insurance), unless the duty payment comes to under £7.
 
 You may be able to [set up a deferment account](/delay-paying-customs-duty-when-you-import-goods.html) with HMRC to delay paying customs duties.
 
@@ -40,9 +40,9 @@ If a personal belonging is being returned to you, you won’t have to pay anythi
 
 You may be able to pay less duty if you’re receiving a gift over £135, [call the helpline](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) to find out. 
 
-Gifts between £135 and £600 will usually have 2.5% duty but that might vary.
+Gifts between £135 and £600 will usually have 2.5% or less duty.
 
-## Claim relief on import duty
+##Claim relief on import duty
 
 You won’t have to pay import duty if you qualify for relief:
 
