@@ -10,7 +10,7 @@ topic:
 
 You may need a licence or follow special rules to export:
 
-- [processed food and drinks](#processed-foods) including things like flour and spices
+- [processed or packaged food and drinks](#processed-foods) including things like flour and spices
 - [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like honey and gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
@@ -22,7 +22,7 @@ Also check the import rules of the country that you’re exporting to, which may
 
 $CTA
 
-##Processed food and drinks
+##Processed or packaged food and drinks
 {:#processed-foods}
 
 Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods or drinks.
