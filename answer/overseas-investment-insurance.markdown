@@ -14,54 +14,48 @@ breadcrumbs:
 
 If you’re investing any type of resources in a company abroad, you can get insurance to cover the risk of:
 
-* political instability or violence in the country of your investment 
-* the local government taking control of the company you’ve invested in (against international law)
-* restrictions on returns or currency ‘ exchange controls’ imposed by the local  government 
+* political instability or violence 
+* the overseas government illegally taking control of the company
+* government restrictions like currency exchange controls
 
 {% endcontentfor %}
 
 ###Countries you won't get insurance for
 
-You won’t be able to get insurance for investments in:
-
-* Afghanistan
-* Burundi
-* Kosovo
-* Libya
-* North Korea
-* the Palestinian Authority
-* Somalia
-* Sudan
-* Syria
-* Yemen
-* Zimbabwe
+You won’t be able to get insurance for investments in Afghanistan, Burundi, Kosovo, Libya, North Korea, the Palestinian Authority, Somalia, Sudan, Syria, Yemen, Zimbabwe.
 
 ##Apply for insurance
 
-s1. Contact the UK customer services to find out what type of cover is available for your investment and ask if your country requires ‘sustainable lending’.  
-s2. [Fill in an insurance application](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/210645/oii-application-form.pdf).  
-s3. If required, [complete a sustainable lending questionnaire](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207389/sustainable-lending-form.pdf).  
-s4. Send your application and lending questionnaire to the business group to be approved.  
+Before you apply, contact UK Export Finance (UKEF) to find out:
+
+* what cover is available in the country you want to do business in
+* whether you'll need to fill in a ‘sustainable lending’ form (required for poor and indebted countries)
+* an estimate of the premium you'll need to pay
+
+*UKEF customer services*
+<customer.service@ukexportfinance.gov.uk> 
+Customer services: +44 (0)20 7271 8010 
+General enquiries: +44 (0)20 7271 8000 
+Fax: +44 (0)20 7271 8001 
+$C
+
+To apply, fill in:
+
+- the [preliminary proposal form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/210645/oii-application-form.pdf) (PDF, 305KB) and email it to oii@ecgd.gsi.gov.uk
+- the [main proposal form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/210645/oii-application-form.pdf#page=5), if you receive a positive response.
+- the [sustainable lending form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/207389/sustainable-lending-form.pdf), if required (PDF, 143KB)
+
+Post the completed form (or forms) to the UKEF Business Group.
 
 $A
-Business Group   
-UK Export Finance   
-1 Horse Guards Road   
-London  
-SW1A 2HQ   
+Business Group 
+UK Export Finance 
+1 Horse Guards Road 
+London 
+SW1A 2HQ 
 $A
 
-##Contact customer services
 
-Contact customer services for help:
-
-$C
-**UK export finance customer services**
-<customer.service@ukexportfinance.gov.uk>   
-Customer services: +44 (0)20 7271 8010  
-General enquiries: +44 (0)20 7271 8000  
-Fax: +44 (0)20 7271 8001  
-$C
 
 
 
