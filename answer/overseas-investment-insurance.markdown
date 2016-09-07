@@ -12,7 +12,7 @@ breadcrumbs:
 ---
 {% contentfor summary %}
 
-If you’re investing any type of resources in a company abroad, you can get insurance to cover the risk of:
+You can get insurance to cover the risks of investing in an overseas company. This includes insurance against:
 
 * political instability or violence 
 * the overseas government illegally taking control of the company
