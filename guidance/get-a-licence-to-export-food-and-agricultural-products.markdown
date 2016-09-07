@@ -10,7 +10,7 @@ topic:
 
 You may need a licence or follow special rules to export:
 
-- [processed or packaged food and drinks](#processed-foods) including things like flour and spices
+- [processed food and drinks](#processed-foods) including things like flour and spices
 - [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like honey and gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
@@ -22,18 +22,12 @@ Also check the import rules of the country that you’re exporting to, which may
 
 $CTA
 
-##Processed or packaged food and drinks
+##Processed food and drinks
 {:#processed-foods}
 
 Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods or drinks.
 
-Outside the EU, check with authority responsible for food in country you're exporting to. They'll tell you if you need 'certificates of free sale' and which type or types they require, including:
-
-* free sale standard - often required for milk and milk products
-* manufacture and free sale - always required in Nigeria and often required for milk and milk products
-* dioxin (declaration of origin) - always required for milk and milk products (as well as a certificate of manufacture or standard free sale) and for non-alcoholic exports to  Argentina, Lebanon, Oman, Saudi Arabia and Sudan.
-
-If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
+Outside the EU, check with the food authority in country you're exporting to. They'll tell you if you need 'certificates of free sale' and which types they require. If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
 
 ###Apply for a certificate of free sale
 
