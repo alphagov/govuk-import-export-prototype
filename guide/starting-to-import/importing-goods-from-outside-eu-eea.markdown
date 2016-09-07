@@ -12,7 +12,7 @@ breadcrumbs:
  - name: Importing
    url: '/topic/business-and-self-employed/importing.html'   
 ---
-s1. Check if you need a [licence to bring your goods](/guide/starting-to-import/import-licences.html)or to follow special rules to bring goods into the UK.
+s1. [Check if you need a licence](/guide/starting-to-import/import-licences.html) or to follow special rules to bring goods into the UK.
 s2. Make sure you know how much import duty you’ll have to pay. Ask the exporter for a breakdown of costs (you can [double check  with the trade tariff]((/start/trade-tariff.html)) to see if you have a correct estimation).
 
 
