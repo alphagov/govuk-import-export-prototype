@@ -18,19 +18,18 @@ topic:
 
 You need permission to import:
 
-[controlled drugs](#Controlled-drugs) like opioids, stimulants or psychotropic substances
-[medicines for humans](#Human-medicines) or [animals](#Veterinary-medicines)
+- [controlled drugs](#Controlled-drugs) like opioids, stimulants or psychotropic substances
+- [medicines for humans](#Human-medicines) or [animals](#Veterinary-medicines)
 
 
 Talk to your exporter or get help with overseas customs rules.
-[Question for SME: does the 'Apply for a controlled drugs licence' section at https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence apply to imports?]
 
+[Question for SME: does the 'Apply for a controlled drugs licence' section at https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence apply to imports?]
 
 
 ##Controlled drugs
 
 [Check the controlled drugs list](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)
-
 
 
 ###Apply for a controlled drugs import licence
@@ -70,7 +69,6 @@ Telephone 020 7035 6330
 [Find out about call charges](https://www.gov.uk/call-charges)
 
 
-
 ##Veterinary medicines
 
 Use the [Product Information Database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/) to find out if your medicine is authorised for import.
@@ -99,9 +97,11 @@ Home Office Project License Holder
 
 You must submit an application each individual animal. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one application; however, a group of horses is not regarded as a herd. Poultry cannot be used as a species type, but one application can cover a flock of chickens or flock of turkeys.
 
+
 ###SICs
 
 You can make an application for a number of animals regardless of the species, because some products are authorised for use in many species and you may wish to keep these products in stock for use in multiple species on a case by case basis.
+
 
 ###Apply for an SIC or STC
 
@@ -125,12 +125,14 @@ You may be able to apply for ‘repeat STC’, allowing you to obtain further ce
 
 The option to apply for a repeat online and the due date will be stated on the initial certificate. A repeat may be applied for up to 1 week before the due date. Please contact the VMD with any queries [how?]
 
-###Data needed
+###New products
 
 If you are applying for a product that has not previously been permitted import into the UK (a new product), in addition to a completed application you will need to provide a copy of the:
 
-Summary of Product Characteristics (SPC) or equivalent product information (for STC applications) in English
-product labels in the native language
+- Summary of Product Characteristics (SPC) or equivalent product information (for STC applications) in English
+- product labels in the native language
+
+[SME question: How do people get their Summary of Product Characteristics?]
 
 ###Wholesale Dealers Import Certificates (WDIC)
 
