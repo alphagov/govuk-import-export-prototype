@@ -27,7 +27,7 @@ $CTA
 
 Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods or drinks.
 
-Outside the EU, check with authority responsible for food in country you're exporting to. They'll tell you if you need a 'certificate of free sale', which types and how many they require, including:
+Outside the EU, check with authority responsible for food in country you're exporting to. They'll tell you if you need 'certificates of free sale' and which type or types they require, including:
 
 * human consumption - alcohol only
 * free sale alcohol
