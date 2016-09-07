@@ -12,6 +12,7 @@ topic:
 
 Excise goods are goods you have to pay [alcohol excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/alcohol-duties), [fuel excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/fuel-duty) or [tobacco excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/tobacco-products-duty) on.
 
+
 ## Exporting excise goods: your options
 
 You must be registered with HMRC to produce excise goods or to handle excise goods before the excise duty has been paid (called being in ‘duty suspension’).
@@ -41,6 +42,27 @@ You must not export Scotch whisky in a wooden cask or holder.
 ### Irish whiskey and poteen (potin)
 
 You must not export Irish whiskey or poteen in a wooden cask or holder.
+
+##Getting a certificate of sale for alcohol outside the EU
+
+If you're exporting alcohol outside the EU, check with the food authority in the importing country. They'll tell you if you need 'certificates of free sale' and what type they require.
+
+If you need one:
+
+Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB).
+
+Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
+
+It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
+
+###If you need help
+
+Contact the Rural Payments Agency (RPA).
+
+**Rural Payments Agency**         
+Telephone: 03000 200 301  
+Monday to Friday: 8.30am to 5pm
+[Find out about call charges](/call-charges)    
 
 ## Moving duty suspended goods within the EU
 
