@@ -45,7 +45,7 @@ You must not export Irish whiskey or poteen in a wooden cask or holder.
 
 ##Getting a certificate of free sale for alcohol outside the EU
 
-If you're exporting alcohol outside the EU, check with the food authority in the importing country. They'll tell you if you need 'certificates of free sale' and what type they require.
+If you're exporting alcohol outside the EU, check if you need 'certificates of free sale' with the food authority in the importing country. They'll tell you what type they require.
 
 If you need one:
 
