@@ -29,8 +29,6 @@ Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow sp
 
 Outside the EU, check with authority responsible for food in country you're exporting to. They'll tell you if you need 'certificates of free sale' and which type or types they require, including:
 
-* human consumption - alcohol only
-* free sale alcohol
 * free sale standard - often required for milk and milk products
 * manufacture and free sale - always required in Nigeria and often required for milk and milk products
 * dioxin (declaration of origin) - always required for milk and milk products (as well as a certificate of manufacture or standard free sale) and for non-alcoholic exports to  Argentina, Lebanon, Oman, Saudi Arabia and Sudan.
