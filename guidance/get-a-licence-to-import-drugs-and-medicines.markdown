@@ -157,8 +157,7 @@ Fees are charged annually using a banding system based on the number of notifica
 
 ###Fees for safety and quality vetting of unlicensed imported medicines
 
-|
-Number of notifications estimated for coming year 	|Additional sum to be paid with annual periodic fee for manufacturers licence holders and wholesale dealer licence holders (£)
+|Number of notifications estimated for coming year 	|Additional sum to be paid with annual periodic fee for manufacturers licence holders and wholesale dealer licence holders (£)
 -|- 
 |1-20 	|130|21-100 	|519|101-1,000 |2,077|1,001-5,000|10,383|5,001-20,000|25,957|20,001-50,000|51,914|50,001-100,000|103,828|Over 100,001|155,742
 
