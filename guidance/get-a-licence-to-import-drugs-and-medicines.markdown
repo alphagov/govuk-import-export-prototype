@@ -258,12 +258,13 @@ Email: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
 ###SIC and STC
 
-| Application type| Number of working days
+Application type| Number of working days
  -|- 
-|new products| 15 
-| previously imported products | 10
-|Urgent - for previously imported products|2
-Urgent applications
+new products| 15 
+previously imported products | 10
+Urgent - for previously imported products| 2
+
+###Urgent applications
 
 An application is treated as urgent if it is for a product for which the VMD thinks there is an immediate, clinically threatening need.
 
