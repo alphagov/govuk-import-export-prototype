@@ -55,7 +55,7 @@ There are different rules for [endangered animals](#endangered-animals).
 s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@apha.gsi.gov.uk>.
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) if you’ve not used it before.
 s3. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the live animals you're exporting.
-s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA office](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
 s5. Your certificate will be sent to your official veterinarian once your animals have passed inspection. If your official veterinarian doesn't receive the certificate, contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 s6. Include the certificate when you export your consignment.
 
@@ -141,7 +141,7 @@ You’ll be given time to fix the problem - but the RVL can withdraw your approv
 You need to apply for an Export Health Certificate (EHC) to export animals outside the EU. 
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet or by emailing <ovteam@apha.gsi.gov.uk>  contact [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet or by emailing <ovteam@apha.gsi.gov.uk>  (or contact [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
