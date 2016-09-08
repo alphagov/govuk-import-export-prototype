@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a certificate to export animal products or by-products
+title: Get a certificate to export animal by-products and proccessed animal protein
 summary: You must have a certificate to export bones, skins and other animal by-products.
 permalink: /guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html
 topic:
