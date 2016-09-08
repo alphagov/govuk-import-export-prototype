@@ -236,7 +236,7 @@ You need a WDIC if you import and hold medicinal products that are then supplied
 ###How to apply:
 
 Complete the [WDIC application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB)
-Email your it to: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
+Email it to: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
 If you have a Home Office licence to supply products listed in Schedule 4 Part I of the [Misuse of Drugs Regulations 2001](http://www.legislation.gov.uk/ukpga/1971/38/contents) )you will also need to apply to the Home Office for an import licence to bring the controlled drug into the UK.
 
