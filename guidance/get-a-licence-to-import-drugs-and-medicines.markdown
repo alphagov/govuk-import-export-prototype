@@ -307,12 +307,3 @@ No fee applies.
 ##Allergen products
 
 When you import a complete product, but repackaging or re-labelling is required, contact the VMD at [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
-
-
-
-
-
-
-
-
- 
