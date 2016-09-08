@@ -156,6 +156,7 @@ Fees are charged annually using a banding system based on the number of notifica
 
 
 Number of estimated notifications 	| Annual fee (£)
+-|-
 1 to 20 | 130
 21 to 100 | 519
 101 to 1,000 | 2,077
