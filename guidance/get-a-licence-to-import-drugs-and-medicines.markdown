@@ -32,9 +32,6 @@ Talk to your exporter or get help with overseas customs rules.
 
 [Check the controlled drugs list](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)
 
-
-###Apply for a controlled drugs import licence
-
 If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
 
 If your drug is on the list, you need to:
@@ -42,6 +39,13 @@ If your drug is on the list, you need to:
 - [register for a National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 - apply for a domestic licence through the [Home Office Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml).
 - attach a scanned copy of your import licence to your controlled drugs import application.
+
+###Apply for a licence 
+
+Complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/267570/personallicencetemplate.doc)
+
+Email it to the Home Office:[dlcucommsofficer@homeoffice.gsi.gov.uk](mailto:dlcucommsofficer@homeoffice.gsi.gov.uk)
+
 
 [SME question: Is this the correct process?]
 
