@@ -69,12 +69,6 @@ You must get a wholesaler licence to:
 
 You need a manufacturer licence that authorises import  if you want to import from outside the EEA and supply a country within the EEA.
 
-If you are not the marketing authorisation (MA) holder for the product you are sourcing and have not been asked by the MA holder to source the product you must tell the MA holder.
-
-If the product has an MA issued by the European Medicines Agency (EMA) you will need to inform the EMA as well.
-
-[SME question: How do importers contact the EMA?]
-
 ###Apply for a manufacturer’s licence
 
 To get a manufacturer's licence you need to:
@@ -114,21 +108,33 @@ You can import unlicensed medicines if you’re:
 - a wholesale dealer licensed for supply to the order of any of the above
 - a manufacturer licensed for import for supply to the order of any of the above
 
-To import unlicenced medicines you must have either of the following:
+There are different rules if you're importing from:
 
-- a Wholesale Dealer’s Licence (WDA (H)) if the product is to be imported from an
-EEA member state (the EU plus Norway, Iceland and Liechtenstein)
-- a [Manufacturer’s ‘Specials' Licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc) if the product is to be imported from a third country (a non-EEA country)
+- an [EEA member state](#within the EEA) (the EU plus Norway, Iceland and Liechtenstein)
+- [outside the EEA](#Outside the EEA)
 
-###Importing within the EEA
+###within the EEA
+
+Before you import you must have a Wholesale Dealer’s Licence.
+
+You then need to:
 
 Complete a Notification of intent to import a medicinal product](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls 
 
 Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
 
+###Outside the EEA
+
+Before you import you must have a Manufacturer’s ‘Specials' Licence.
+
+You then need to:
+
+- complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
+- email your completed application to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
+
 ###TSE (Transmissible Spongiform Encephalopathies)
 
-Where  a  manufacturer/supplier  states  that  the  product  may  contain  TSE  risk  materials,  you  must permit  assessment  of  compliance  of  the  product  with  UK  TSE requirements. The importer is responsible for any assessments required. 
+Where a manufacturer or supplier states that the product may contain TSE risk materials, you must permit assessment of compliance of the product with  UK  TSE requirements. The importer is responsible for any assessments required. 
 
 [SME question: how does ththe above happen?]
 
@@ -140,12 +146,12 @@ Contact the import notifications supervisor on 020 3080 7002 or call 020 3080 60
 
 For urgent cases out of office hours, you should contact the MHRA duty officer on 07795 641532.
 
-
-###Fees
+##Fees
 
 Fees are charged annually using a banding system based on the number of notifications you submit. Customers are provided with an early estimate in the financial year, followed by an invoice once all the information for the year is available.
 
- Fees for safety and quality vetting of unlicensed imported medicines
+
+###Fees for safety and quality vetting of unlicensed imported medicines
 
 |
 Number of notifications estimated for coming year 	|Additional sum to be paid with annual periodic fee for manufacturers licence holders and wholesale dealer licence holders (£)
@@ -240,9 +246,9 @@ Once you’ve completed the online process, you will be able to print your certi
 
 Email: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
-###Timescales
+##Timescales
 
-SIC and STC
+###SIC and STC
 
 | Application type| Number of working days
  -|- 
