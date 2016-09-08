@@ -11,9 +11,9 @@ permalink: /guidance/get-a-licence-to-import-drugs-and-medicines.html
 
 topic:
 
-  name: Importing
+name: Importing
 
-  url: /topic/business-and-self-employed/importing.html
+url: /topic/business-and-self-employed/importing.html
 
 ---
 
@@ -22,11 +22,7 @@ You need permission to import:
 - [controlled drugs](#Controlled-drugs) like opioids, stimulants or psychotropic substances
 - [medicines for humans](#Human-medicines) or [animals](#Veterinary-medicines)
 
-
-Talk to your exporter or get help with overseas customs rules.
-
 [Question for SME: does the 'Apply for a controlled drugs licence' section at https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence apply to imports?]
-
 
 ##Controlled drugs
 
@@ -42,10 +38,14 @@ If your drug is on the list, you need to:
 
 ###Apply for a licence 
 
-Complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/267570/personallicencetemplate.doc)
+To apply for a controlled drugs licence you need to:
 
-Email it to the Home Office:[dlcucommsofficer@homeoffice.gsi.gov.uk](mailto:dlcucommsofficer@homeoffice.gsi.gov.uk)
+[register for controlled drugs and precursor chemical [account](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
+- [apply for a domestic licence][https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml]
 
+Existing licensees without a password should contact DFLU.dom@homeoffice.gsi.gov.uk.
+
+It can take up to 16 weeks for your application to be processed.
 
 [SME question: Is this the correct process?]
 
@@ -117,7 +117,7 @@ There are different rules if you're importing from:
 - an [EEA member state](#within the EEA) (the EU plus Norway, Iceland and Liechtenstein)
 - [outside the EEA](#Outside the EEA)
 
-###within the EEA
+###Within the EEA
 
 Before you import you must have a Wholesale Dealer’s Licence.
 
