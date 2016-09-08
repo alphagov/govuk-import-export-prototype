@@ -21,7 +21,7 @@ You won’t need to follow any special rules if you’re exporting PAPs from:
 
 There are different rules for :
 
-- animal by-products that are [from endangered animals](#endangered-animals)
+- ABPs that are [from endangered animals](#endangered-animals)
 - animal products that will be [used as food](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
 
 What you need to do depends on whether you’re exporting [within the EU](#within-eu) or [outside the EU](#outside-eu).
