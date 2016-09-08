@@ -159,7 +159,7 @@ Number of notifications estimated for coming year 	|Additional sum to be paid wi
 -|-
 1-20 	|130
 21-100 	|519
-101-1,000| |2,077
+101-1,000| 2,077
 1,001-5,000|10,383
 5,001-20,000|25,957
 20,001-50,000| 51,914
