@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a certificate to export animals
+title: Get a certificate to export live animals
 summary: You need a certificate to export animals.
 permalink: /guidance/get-a-licence-to-export-circus-endangered-research-animals.html
 topic:
@@ -20,7 +20,7 @@ There are different guides for:
 $CTA
 
 
-What you need to do to move or export animals depends on whether you’re exporting them:
+What you need to do to move or export live animals depends on whether you’re exporting them:
 
 - [within the EU](#within-eu) or to Switzerland, Liechtenstein, Norway and Iceland
 - [outside the EU](#outside-eu)
@@ -42,7 +42,7 @@ $CTA
 
 To move animals within the [EU](https://www.gov.uk/eu-eea) you must:
 
-- [apply for an Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC) for each type of animal
+- [apply for a free Intra Trade Animal Health Certificate](#animal-health-certificate) (ITAHC) for each type of animal
 - [check if your animal holding needs to be registered or approved](#register-approve-holding)
 - follow the rules for [transporting animals](#transporting-animals)
 
@@ -52,22 +52,18 @@ There are different rules for [endangered animals](#endangered-animals).
 ###Apply for an ITAHC
 {:#animal-health-certificate}
 
-[Question for SME: how much does it cost to get a certificate?]
-
-[Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
-
-s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
-s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
-s3. Sign in to TRACES and fill in the details of animal product you're exporting.
+s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@apha.gsi.gov.uk>.
+s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) if you’ve not used it before.
+s3. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the live animals you're exporting.
 s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA office](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+s5. Your certificate will be sent to your official veterinarian once your animals have passed inspection. If your official veterinarian doesn't receive the certificate, contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+s6. Include the certificate when you export your consignment.
 
 Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Your ITAHC will be valid for 10 days after the inspection.
 
-[Question for SME: Does the exporter need to do anything else once the vet has signed it?]
-
-If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+If there isn’t an ITAHC for your species of animal, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 ###Check if your animal holding needs to be registered or approved
 {:#register-approve-holding}
@@ -89,22 +85,25 @@ You must [get your holding approved](#get-holding-approved) to move:
 
 You don’t need to register or get approval to move other types of animal.
 
+$CTA
+
+There’s a different process for animal holdings in Northern Ireland - contact [DEARA](https://www.dardni.gov.uk/contact).
+
+$CTA
+
 ###Apply to register your holding
 {:#register-holding}
 
-Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to your local [APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)  (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+Fill in [form EC3163](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501192/form-ec3163.pdf) (PDF, 120KB). Send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc). 
 
-You’ll get a registration number to use on your animal health certificates.
+You’ll get a registration number to use on your export health certificates.
 
 You must get your holding approved before you can move animals to an approved holding.
 
 ###Apply to get your holding approved
 {:#get-holding-approved}
 
-Fill in [form EC3164](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501199/form-ec3164.pdf) (PDF, 172KB) and send it to your regional veterinary lead (RVL). To find your RVL, contact:
-
-- your [local APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)
-- [DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland
+Fill in [form EC3164](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501199/form-ec3164.pdf) (PDF, 172KB) and send it to your regional veterinary lead (RVL). To find your RVL, contact your [local APHA office](www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening).
 
 An inspector will arrange a visit to your holding to check that it has:
 
@@ -118,11 +117,11 @@ An inspector will arrange a visit to your holding to check that it has:
 You also must make sure you:
 
 - keep records of animals’ age, sex, species, blood tests and diseases
-- employ an official veterinarian - contact your local APHA office (or DEARA in Northern Ireland) to find one
+- employ an official veterinarian - you can find one by asking at your local vet, or by emailing <ovteam@apha.gsi.gov.uk> 
 
 ###Once your holding is approved
 
-Contact APHA to move animals from your holding. You’ll get an approval number to use on your animal health certificates.
+Contact APHA to move animals from your holding. You’ll get an approval number to use on your export health certificates.
 
 Your holding must be inspected annually. You’ll normally be contacted by your RVL, but it’s your responsibility that the inspection takes place.
 
@@ -142,9 +141,9 @@ You’ll be given time to fix the problem - but the RVL can withdraw your approv
 You need to apply for an Export Health Certificate (EHC) to export animals outside the EU. 
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
+s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet or by emailing <ovteam@apha.gsi.gov.uk>  contact [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to you within xxx days/weeks.
+s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
@@ -194,7 +193,7 @@ If you take your circus outside the UK to another country in the EU, you must:
 You must take the following documents with you when you travel:
 
 - passports
-- health certificate
+- export health certificate
 - venue register
 
 %It’s an offence to travel with circus animals without registering – you can be prosecuted and fined up to £5,000.%
@@ -204,7 +203,7 @@ You must take the following documents with you when you travel:
 Your application must be received at least 40 working days before you want to travel.
 
 s1. Make sure all tests and vaccinations for your animals are up to date. Ensure they all have animal passports.
-s2. Choose an official veterinarian to carry out a registration visit - contact your [local APHA](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland) to find one. The official veterinarian will charge a fee for this.
+s2. Choose an official veterinarian to carry out a registration visit. To find an official veterinarian, ask at your local vet or email <ovteam@apha.gsi.gov.uk> (or contact [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland). The official veterinarian will charge a fee for this.
 s3. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488776/form-et79.pdf) (PDF, 198KB) and send it to the address on the top of the form. You must include a £93 registration fee and passport fees.
 s4. APHA sends the registration document, unique registration number and animal passports to your official veterinarian. 
 s5. Your official veterinarian carries out a registration visit. If they’re satisfied with the checks, they’ll approve your application and give you the animal passports, registration document and a unique registration number for your circus or animal act.
@@ -237,3 +236,5 @@ s3. Your official veterinarian visits you and certifies the health certificate. 
 *[PHS]: Poultry Health Scheme
 *[EU]: European Union
 *[CITES]: Convention on International Trade in Endangered Species
+
+
