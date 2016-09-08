@@ -19,10 +19,10 @@ You won’t need to follow any special rules if you’re exporting PAPs from:
 * dicalcium phosphate and tricalcium phosphate of animal origin
 * blood products 
 
-There are different rules for animal by-products that:
+There are different rules for :
 
-- are [from endangered animals](#endangered-animals)
-- will be [used as food](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
+- animal by-products that are [from endangered animals](#endangered-animals)
+- animal products that will be [used as food](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
 
 What you need to do depends on whether you’re exporting [within the EU](#within-eu) or [outside the EU](#outside-eu).
 
