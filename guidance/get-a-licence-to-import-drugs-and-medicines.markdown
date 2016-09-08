@@ -156,7 +156,6 @@ Fees are charged annually using a banding system based on the number of notifica
 
 
 Number of notifications estimated for coming year 	|Additional sum to be paid with annual periodic fee for manufacturers licence holders and wholesale dealer licence holders (£)
--|-
 1-20 	|130
 21-100 	|519
 101-1,000| 2,077
