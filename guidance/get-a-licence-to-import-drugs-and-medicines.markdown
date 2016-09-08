@@ -40,8 +40,7 @@ If your drug is on the list, you need to:
 
 To apply for a controlled drugs licence you need to:
 
-- [register for controlled drugs and precursor chemical 
-- [account](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
+- [register for controlled drugs and precursor chemical account](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
 - [apply for a domestic licence][https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml]
 
 Existing licensees without a password should contact DFLU.dom@homeoffice.gsi.gov.uk.
