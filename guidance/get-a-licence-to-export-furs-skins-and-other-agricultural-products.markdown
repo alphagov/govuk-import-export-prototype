@@ -80,12 +80,15 @@ You should also keep a logbook of your consignments, [fill in the template](http
 You need an Export Health Certificate (EHC) to export animal by-products and germplasm outside of the EU. 
 
 s1. Contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491835/contacts-international-trade.pdf).
-s2. Tell them what you’re exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet or by emailing ovteam@apha.gsi.gov.uk (or contact [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland)
+s2. Tell them what you’re exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet or by emailing ovteam@apha.gsi.gov.uk (or contact [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland).
 s3. You’ll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](https://www.gov.uk/find-local-council).
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
+
 When you get your completed EHC, you must keep it for at least 2 years.
+
+
 
 ##Endangered animals
 
