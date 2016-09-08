@@ -70,7 +70,7 @@ You also need permission to export processed animal proteins (PAP) from category
 
 s1. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
 
-s2. Fill in the details of animal product you’re exporting 
+s2. Fill in the details of the ABP you’re exporting 
 
 You should also keep a logbook of your consignments, [fill in the template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/425368/logbook-templates.doc) (MS Word Document, 49KB) or create your own document with the same information.
 
