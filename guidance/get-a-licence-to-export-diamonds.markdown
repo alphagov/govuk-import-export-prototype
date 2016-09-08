@@ -20,11 +20,9 @@ $CTA
 
 ##Rough diamonds
 
-You can only export rough diamonds within the EU and to [countries in the Kimberley Process (KP) scheme.](https://www.kimberleyprocess.com/en/kp-participants-and-observers)
+You can only export rough diamonds within the EU and to [countries in the Kimberley Process (KP) scheme](https://www.kimberleyprocess.com/en/kp-participants-and-observers) or your goods may be seized.
 
 You must get a certificate to export rough diamonds outside the EU.
-
-[Question for SME: Is there a penalty if someone exports to a non-KP scheme countries?]
 
 ###How to apply
 
@@ -33,9 +31,6 @@ A Kimberley certificate costs £37.
 [Question for SME: How long does it take for a certificate to be issued following the application?]
 
 Contact the Government Diamond Office to apply.
-
-[Question for SME: what does a person do the certificate when they've got it? Attach it to their consignment?
-
 
 **Government Diamond Office**  
 <kpuk@fco.gov.uk>  
@@ -56,3 +51,5 @@ London
 SW1A 2AH  
 $A
 
+Once you've received your certificate, attach to your consignment.
+ 
