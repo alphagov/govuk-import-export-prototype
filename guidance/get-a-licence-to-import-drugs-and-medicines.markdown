@@ -66,10 +66,10 @@ Telephone 020 7035 6330
 
 ##Human medicines
 
-You must get a wholesaler licence to:
+You must get a wholesaler licence to import from:
 
-- import from the European Economic Area (EEA) and supply in the UK or EEA
-- import from a non-EE country and export to a non-EEA country
+- the European Economic Area (EEA) and supply in the UK or EEA
+- a non-EE country and export to a non-EEA country
 
 You need a manufacturer licence that authorises import  if you want to import from outside the EEA and supply a country within the EEA.
 
