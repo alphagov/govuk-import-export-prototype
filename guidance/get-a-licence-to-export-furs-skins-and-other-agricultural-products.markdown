@@ -8,12 +8,16 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need permission to export animal by-products, for example:
+You need permission to export all animal by-products (ABPs) with a high risk of infection and some processed animal proteins (PAPs) from low-risk ABPs.
 
-* skins, hides, leathers and wool   
-* bones, carcasses, blood and gelatin
-* manure
-* semen, ova, embryos and other germplasm
+You won’t need to follow any special rules if you’re exporting PAPs from:
+
+* milk, colostrum or products derived from them
+* gelatine
+* collagen
+* hydrolysed proteins
+* dicalcium phosphate and tricalcium phosphate of animal origin
+* blood products 
 
 There are different rules for animal by-products that:
 
@@ -31,103 +35,56 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-To move animal by-products within the EU, you must:
+You must complete a commercial document to move these animal by-products (ABPs) within the EU.
 
-- apply for an Intra Trade Animal Health Certificate (ITAHC) for each type of animal by-product
-- complete a commercial document (not needed for semen, ova or embryos)
+All category 1 ABPs, including:
 
-If you're exporting semen, ova or embryos, you must also [get your holding approved](#holding-approved).
+* carcasses and all body parts of animals suspected of being infected with TSE(transmissible spongiform encephalopathy)
+* carcasses of wild animals suspected of being infected with a disease that humans or animals could contract
+* carcasses of animals used in experiments
+* parts of animals that are contaminated due to illegal treatments
+* international catering waste
+* carcasses and body parts from zoo and circus animals or pets
+* specified risk material (body parts that pose a particular disease risk, eg cows’ spinal cords)
 
-###Apply for an Intra Trade Animal Health Certificate (ITAHC)
+All category 2 ABPs, including:
 
-s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
-s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
-s3. Sign in to TRACES and fill in the details of animal product you're exporting.
-s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+* animals rejected from abattoirs due to having infectious diseases
+* carcasses containing traces from authorised treatments
+* unhatched poultry that has died in its shell
+* carcasses of animals killed for disease control purposes
+* carcasses of dead livestock
+* manure
+* digestive tract content
 
-Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+You also need permission to export processed animal proteins (PAP) from category 3:
 
-Your ITAHC will be valid for 10 days after the inspection. You must keep it for 3 years.
-
-[Question for SME: how much does it cost to get a certificate?]
-
-[Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
-
-[Question for SME: Does the exporter need to do anything else once the vet has signed it?]
-
-If there isn’t an ITAHC for your type of animal product, [contact the Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+* carcasses or body parts passed fit for humans to eat, at a slaughterhouse
+* products or foods of animal origin originally meant for human consumption but withdrawn for commercial reasons, not because it’s unfit to eat
+* domestic catering waste
+* shells from shellfish with soft tissue
+* aquatic animals, aquatic and terrestrial invertebrates
+* animal hides, skins, hooves, feathers, wool, horns, and hair that had no signs of infectious disease at death
 
 ###Complete a commercial document
 
-You must also fill in a commercial document to move animal by-products within the EU. This is a signed list, including:
+s1. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
 
-* a detailed description of the contents, including category, weight, volume and quantity
-* the date of transport
-* an address of origin and destination, and contact names at both
-* approval or registration numbers for the factory or vehicle
-* ear numbers and details of species, where carcasses have been taken from farms
+s2. Fill in the details of animal product you’re exporting 
 
-You should keep a copy for at least 2 years.
-
-You should also keep a logbook, [fill in the template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/425368/logbook-templates.doc)(MS Word Document, 49KB) or create your own document with the same information.
-
-[Question for SME: Is the commercial document the same thing as a community transit declaration. If so, we can link to the guide rather than reproduce here.]
-
-###If you're exporting semen, ova or embryos in the EU
-{:#holding-approved}
-
-As well as an ITAHC, you also need to get your holding approved to export within the EU. Your holding is the place you keep the semen, ova or embryos in the UK.
-
-Fill in [form EC3164](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/501199/form-ec3164.pdf) (PDF, 172KB) and send it to your regional veterinary lead (RVL). To find your RVL, contact:
-
-- your [local APHA office](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)
-- [DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland
-
-An inspector will arrange a visit to your holding to check that it has:
-
-- walls, fences or other barriers separating it from the surrounding area
-- equipment, facilities and staff to catch, confine and isolate animals
-- quarantine facilities where you can isolate and test animals that come from non-approved holdings
-- a surveillance programme for incoming animals that’s been agreed with your vet
-- a clean and separated facility for carrying out post-mortems
-- a system for disposing of carcasses that’s been agreed with your vet
-
-You also must make sure you:
-
-- keep records of animals’ age, sex, species, blood tests and diseases
-- employ an official veterinarian - contact your local APHA office (or DEARA in Northern Ireland) to find one
-
-###Once your holding is approved
-
-Contact APHA to move animals from your holding. You’ll get an approval number to use on your animal health certificates.
-
-Your holding must be inspected annually. You’ll normally be contacted by your RVL, but it’s your responsibility that the inspection takes place.
-
-Your approval will be suspended if your holding breaks any of the approval conditions or if the RVL finds:
-
-- any [notifiable disease](http://www.gov.uk/government/collections/notifiable-diseases-in-animals)
-- viral enteritis or aleutian disease in mink
-- tuberculosis in apes and non-domestic cats
-- European foulbrood, varroasis or acariasis in bees
-- myxomatosis, viral haemorraghic disease, tularaemia in rabbits and hares
-
-The RVL can withdraw your approval if you don’t fix the problem.
-
+You should also keep a logbook of your consignments, [fill in the template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/425368/logbook-templates.doc) (MS Word Document, 49KB) or create your own document with the same information.
 
 ##Outside the EU
 {:#outside-eu}
 
 You need an Export Health Certificate (EHC) to export animal by-products and germplasm outside of the EU. 
 
-s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
-s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to you within xxx days/weeks.
-s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
-s6. Your official veterinarian will be asked to check that your by-products meet the requirements of the country you’re sending them to.
-
-[Question for fact check: how long does it take to get an EHC?]
-
+s1. Contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491835/contacts-international-trade.pdf).
+s2. Tell them what you’re exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet or by emailing ovteam@apha.gsi.gov.uk (or contact [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland)
+s3. You’ll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
+s4. Your EHC will be sent to your official veterinarian within 7 working days.
+s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](https://www.gov.uk/find-local-council).
+s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 When you get your completed EHC, you must keep it for at least 2 years.
 
 ##Endangered animals
