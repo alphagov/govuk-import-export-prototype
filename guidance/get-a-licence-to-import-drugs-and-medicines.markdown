@@ -16,6 +16,7 @@ You need permission to import:
 [Question for SME: does the 'Apply for a controlled drugs licence' section at https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence apply to imports?]
 
 ##Controlled drugs
+{:#controlled-drugs}
 
 [Check the controlled drugs list](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)
 
@@ -38,19 +39,20 @@ Each licence costs £24. You pay for it advance and it can only be used for one 
 
 ###Contact
 
-Email [DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)
+Email the Drugs & Firearms Licensing Unit if you need help with your appliation
 
+[DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)
 Telephone 020 7035 6330
-
 [Find out about call charges](https://www.gov.uk/call-charges)
 
 ##Human medicines
+{:#human-medicines}
 
 ###If you’ll supply the medicines in the [European Economic Area](https://www.gov.uk/eu-eea)(EEA).
 
-You need a [wholesaler licence] if you’re importing from within the EEA.
+You need a [wholesaler licence](#wholesaler-licence) if you’re importing from within the EEA.
 
-If you’re importing from outside the EEA, you need a [manufacturer’s licence] instead.
+If you’re importing from outside the EEA, you need a [manufacturer’s licence](#manufacturers-licence) instead.
 
 ###If you’re importing to export outside the EEA
 
@@ -58,8 +60,20 @@ You need a wholesaler licence if you’re importing from outside the EEA.
 
 Otherwise you don’t need a licence.
 
+[If you supply medicines in the UK that you've imported from outside the EEA, is it really correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
+
+##If you need to apply for a licence
+
+Fill in application forms for:
+
+- the [wholesaler dealer's licence](#wholesalers-licence)
+- [manufacturer's licence](#manufacturers-licence], if you need to
+
+Send your form (or forms) to xxx at least 28 days.
+[Question for SME: do we have an answer?]
 
 ###Apply for a wholesale dealer’s licence
+{:#wholesaler-licence}
 
 You need to:
 
@@ -67,6 +81,7 @@ You need to:
 - Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
 
 ###Apply for a manufacturer's licence
+{:#manufacturers-licence}
 
 You need to:
 
@@ -74,6 +89,8 @@ You need to:
 - email your completed application to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
 
 ###Contact
+
+Contact the Medicines and Healthcare Products Regulatory Agency (MHRA) for help with your application.
 
 Email: [imports@mhra.gsi.gov.uk](mailto:imports@mhra.gsi.gov.uk)
 Telephone: 020 3080 7002
@@ -103,11 +120,13 @@ Contact the import notifications supervisor on 020 3080 7002 or call 020 3080 60
 
 For urgent cases out of office hours, you should contact the MHRA duty officer on 07795 641532.
 
+[SME question: How long does an import notification usually take (if not urgent)?]
+
 ##Fees
 
 Fees are charged annually using a banding system based on the number of notifications you submit. Customers are provided with an early estimate in the financial year, followed by an invoice once all the information for the year is available.
 
-[SME question: How are customer's provided with the estimate?]
+[Question for SME: How are customer's provided with the estimate?]
 
 Number of estimated notifications 	| Annual fee (£)
 -|-
@@ -127,6 +146,7 @@ Where a manufacturer or supplier states that the product may contain TSE risk ma
 [SME question: how does ththe above happen?]
 
 ##Veterinary medicines
+{:Veterinary-medicines}
 
 Use the [Product Information Database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/) to find out if your medicine is authorised for import.
 
