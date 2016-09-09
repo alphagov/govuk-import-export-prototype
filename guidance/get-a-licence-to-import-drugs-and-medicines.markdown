@@ -99,7 +99,7 @@ Telephone: 020 3080 7002
 
 ###Unlicensed medicines
 
-An unlicensed medicinal product may only be supplied in order to meet the special needs of an individual patient.
+An unlicensed medicinal product can only be granted to meet the special needs of an individual patient.
 
 [SME question: what defines these patients’ special needs?]
 
@@ -124,7 +124,7 @@ For urgent cases out of office hours, you should contact the MHRA duty officer o
 
 ##Fees
 
-Fees are charged annually using a banding system based on the number of notifications you submit. MHRA provide an an early estimate in the financial year, followed by an invoice for the whole year.
+Fees are charged annually, based on the number of notifications you submit. MHRA provide an an early estimate in the financial year, followed by an invoice for the whole year.
 
 [Question for SME: How are customer's provided with the estimate?]
 
@@ -166,7 +166,7 @@ You can only apply to import veterinary medicines under the SIC or STC if you’
 - veterinary surgeon registered with the Royal College of Veterinary Surgeons (RCVS). 
 - Home Office Project license holder
 
-[SME question: How do you apply for the Home Office Project licence?]
+[SME question: How do you apply for the Home Office project licence?]
 
 ###STCs
 
@@ -229,12 +229,9 @@ A WDIC will not be issued for a new product without evidence of a demand for the
 
 To apply you need to:
 
-- [Register for the special imports scheme](https://www.vmd.defra.gov.uk/sis/registration.aspx)
-- Print your certificate
-
-###Contact
-
-Email: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
+- [register for the special imports scheme](https://www.vmd.defra.gov.uk/sis/registration.aspx)
+- print your certificate
+- email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk) for help.
 
 ##Timescales
 
