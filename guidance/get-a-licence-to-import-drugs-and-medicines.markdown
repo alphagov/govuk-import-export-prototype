@@ -43,7 +43,7 @@ To apply for a controlled drugs licence you need to:
 - [register for controlled drugs and precursor chemical account](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
 - [apply for a domestic licence][https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml]
 
-Existing licensees without a password should contact DFLU.dom@homeoffice.gsi.gov.uk.
+Existing licensees without a password should contact [DFLU.dom@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk).
 
 It can take up to 16 weeks for your application to be processed.
 
@@ -66,21 +66,14 @@ Telephone 020 7035 6330
 
 ##Human medicines
 
-You must get a wholesaler licence to import from:
+There are different rules whether you're importing from:
 
-- the European Economic Area (EEA) and supply in the UK or EEA
-- a non-EE country and export to a non-EEA country
+- the [European Economic Area](#Within the EEA) (EEA) and supply in the UK or EEA
+- a [non-EE country](#Outside the EEA) and export to a non-EEA country
 
 You need a manufacturer licence that authorises import  if you want to import from outside the EEA and supply a country within the EEA.
 
-###Apply for a manufacturer’s licence
-
-To get a manufacturer's licence you need to:
-
-- complete the application form for a wholesaler or manufacturer’s licence.
-- email your form and the required accompanying documents to pcl@mhra.gsi.gov.uk.
-
-[SME question: How much does it cost for a manufacturer's licence?]
+##Within the EEA
 
 ###Apply for a wholesaler’s licence
 
@@ -89,6 +82,17 @@ Use the [MHRA Process Licensing Portal](https://pclportal.mhra.gov.uk/) to apply
 You must pay the fee for a new application for the wholesale distribution authorisation to be processed.
 
 [SME question: How much does it cost for a wholesaler’s licence?]
+
+##Apply for a manufacturer’s licence
+
+###Outside the EEA
+
+To get a manufacturer's licence you need to:
+
+- complete the application form for a wholesaler or manufacturer’s licence.
+- email your form and the required accompanying documents to pcl@mhra.gsi.gov.uk.
+
+[SME question: How much does it cost for a manufacturer's licence?]
 
 ###Contact
 
@@ -112,7 +116,7 @@ You can import unlicensed medicines if you’re:
 - a wholesale dealer licensed for supply to the order of any of the above
 - a manufacturer licensed for import for supply to the order of any of the above
 
-There are different rules if you're importing from:
+What you need to do depends on if you're importing from:
 
 - an [EEA member state](#within the EEA) (the EU plus Norway, Iceland and Liechtenstein)
 - [outside the EEA](#Outside the EEA)
@@ -136,13 +140,8 @@ You then need to:
 - complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
 - email your completed application to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
 
-###TSE (Transmissible Spongiform Encephalopathies)
 
-Where a manufacturer or supplier states that the product may contain TSE risk materials, you must permit assessment of compliance of the product with  UK  TSE requirements. The importer is responsible for any assessments required. 
-
-[SME question: how does ththe above happen?]
-
-###Urgent import notifications
+##Urgent import notifications
 
 In cases of clinical emergency (usually the treatment of life-threatening illness or where significant injury is likely) MHRA is able to process an import notification within one working day.
 
@@ -166,6 +165,11 @@ Number of estimated notifications 	| Annual fee (£)
 50,001 to 100,000 | 103,828
 Over 100,001 | 155,742
 
+##TSE (Transmissible Spongiform Encephalopathies)
+
+Where a manufacturer or supplier states that the product may contain TSE risk materials, you must permit assessment of compliance of the product with  UK  TSE requirements. The importer is responsible for any assessments required. 
+
+[SME question: how does ththe above happen?]
 
 ##Veterinary medicines
 
@@ -224,7 +228,7 @@ The option to apply for a repeat online and the due date will be stated on the i
 
 If you are applying for a product that has not previously been permitted import into the UK (a new product), in addition to a completed application you will need to provide a copy of the:
 
-- Summary of Product Characteristics (SPC) or equivalent product information (for STC applications) in English
+- summary of product characteristics (SPC) or equivalent product information (for STC applications) in English
 - product labels in the native language
 
 [SME question: How do people get their Summary of Product Characteristics?]
@@ -260,17 +264,17 @@ Email: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
 Application type| Number of working days
  -|- 
-new products| 15 
-previously imported products | 10
+New products| 15 
+Previously imported products | 10
 Urgent - for previously imported products| 2
 
 ###Urgent applications
 
 An application is treated as urgent if it is for a product for which the VMD thinks there is an immediate, clinically threatening need.
 
-However if you think your individual application is urgent, please mark it as such and provide an explanation of the urgency.
+If you think your individual application is urgent, provide an explanation of the urgency.
 
-You should also contact the VMD at: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk).
+You can also email [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk) for help.
 
 ##WDIC
 
@@ -280,7 +284,7 @@ The date of receipt is the first working day that the application is received, s
 
 ###Suspension of timescales
 
-If any information is missing, or further clarification is required, the VMD may contact you to rectify. The timescales will be suspended pending a response from you.
+If any information is missing, or further clarification is required, the VMD may contact you. The timescales will be suspended pending a response from you.
 
 If a response is not received within 14 days, the application will be refused and you will need to re-apply.
 
@@ -294,9 +298,7 @@ No fee applies.
 
 ###WDIC
 
-WDICs where less than 100 SIC or STC naming the wholesale dealer as the importer were supplied in the 12 months prior to application: No fee applies
-
-WDICs where more than 100 SIC or STC naming the wholesale dealer as the importer were supplied in the 12 months prior to application: £760
+There is no fee unless more than 100 SICs or STCs naming the wholesale dealer as the importer were supplied in the 12 months before the application. In this case, the fee is £760. 
 
 The fee should not accompany the application; an invoice will be sent to you following issue of the certificate.
 
@@ -306,4 +308,4 @@ No fee applies.
 
 ##Allergen products
 
-When you import a complete product, but repackaging or re-labelling is required, contact the VMD at [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
+When you import a complete product, but repackaging or re-labelling is required, contact the VMD at [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk) for help.
