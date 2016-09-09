@@ -212,7 +212,7 @@ If you are applying for a product that has not previously been permitted import 
 
 You need a WDIC if you import and hold medicinal products that are then supplied to the holder of an SIC or STC. The WDIC holder should be in possession of the SIC or STC before supplying the product to a vet.
 
-###How to apply:
+###Apply for a WDIC
 
 Complete the [WDIC application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB)
 Email it to: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
