@@ -67,6 +67,19 @@ You’ll need a wholesaler licence (also known as a wholesale dealer licence or 
 
 You need a manufacturer licence that authorises import if you want to import from outside the EEA and supply a country within the EEA.
 
+###Apply for a [Wholesale Dealer’s Licence](#Apply for a wholesaler’s licence).
+
+You then need to:
+
+- Complete a Notification of intent to import a medicinal product](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls 
+- Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
+
+###Apply for a manufacturer's licence
+
+- complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
+- email your completed application to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
+
+
 ###Contact
 
 Email: [imports@mhra.gsi.gov.uk](mailto:imports@mhra.gsi.gov.uk)
@@ -88,28 +101,6 @@ You can import unlicensed medicines if you’re:
 - a pharmacist in a hospital, health centre or registered pharmacy
 - a wholesale dealer licensed for supply to the order of any of the above
 - a manufacturer licensed for import for supply to the order of any of the above
-
-What you need to do depends on if you're importing from:
-
-- an [EEA member state](#within the EEA) (the EU plus Norway, Iceland and Liechtenstein)
-- [outside the EEA](#Outside the EEA)
-
-###Within the EEA
-
-Before you import you must have a [Wholesale Dealer’s Licence](#Apply for a wholesaler’s licence).
-
-You then need to:
-
-Complete a Notification of intent to import a medicinal product](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls 
-
-Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
-
-###Outside the EEA
-
-To import outide the EEA you need to:
-
-- complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
-- email your completed application to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
 
 ##Urgent imports
 
