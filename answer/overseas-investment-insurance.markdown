@@ -22,7 +22,7 @@ You can get insurance to cover the risks of investing in an overseas company. Th
 
 ###Countries you won't get insurance for
 
-You won’t be able to get insurance for investments in Afghanistan, Burundi, Kosovo, Libya, North Korea, the Palestinian Authority, Somalia, Sudan, Syria, Yemen, Zimbabwe.
+You won’t be able to get insurance for investments in Afghanistan, Burundi, Kosovo, Libya, North Korea, the Occupied Palestinian Territories, Somalia, Sudan, Syria, Yemen, Zimbabwe.
 
 ##Apply for insurance
 
