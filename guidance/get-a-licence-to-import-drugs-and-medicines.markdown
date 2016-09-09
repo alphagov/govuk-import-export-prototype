@@ -159,7 +159,7 @@ s2. Special Treatment Certificate (STC) for all other products.
 s3. Wholesale Dealers Import Certificate (WDIC) for wholesalers who import and hold medicinal products that are then supplied to the holder of an SIC or STC.
 s4. Research Import Certificate (RIC). for project licence holders who need a product or substance for licenced use in research performed under the Animal (Scientific Procedure) Act (A(SP)A).
 
-###SIC and STC
+###SICs and STCs
 
 You can only apply to import veterinary medicines under the SIC or STC if you’re a:
 
@@ -167,7 +167,7 @@ You can only apply to import veterinary medicines under the SIC or STC if you’
 - Home Office Project license holder
 
 [SME question: How do you apply for the Home Office Project licence?]
-
+
 ###STCs
 
 You must submit an application each individual animal. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one applicationl. Note that a group of horses is not regarded as a herd. Poultry cannot be used as a species type, but one application can cover a flock of chickens or flock of turkeys.
