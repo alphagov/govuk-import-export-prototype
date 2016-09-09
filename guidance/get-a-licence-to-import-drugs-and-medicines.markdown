@@ -26,19 +26,15 @@ If your drug is not on the list but you think it might have the properties of a 
 If your drug is on the list you need to:
 
 - [register for a National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
-- apply for a domestic licence through the [Home Office Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml).
-- attach a scanned copy of your import licence to your controlled drugs import application.
-- [register for controlled drugs and precursor chemical account](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
+- apply for a [Home Office Controlled Drugs Licence](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
 
 Existing licensees without a password should contact [DFLU.dom@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk).
 
-It can take up to 16 weeks for your application to be processed.
+It can take up to 16 weeks for your application to be processed. They will be valid for 3 months
 
 ###Fees
 
 Each licence costs £24. You pay for it advance and it can only be used for one shipment. You when you apply, you must upload copies of your prescription and letter.
-
-Applications take up to 20 working days, and you’ll receive your licence by post.
 
 ###Contact
 
@@ -48,15 +44,20 @@ Telephone 020 7035 6330
 
 [Find out about call charges](https://www.gov.uk/call-charges)
 
-
 ##Human medicines
 
-You’ll need a wholesaler licence (also known as a wholesale dealer licence or a wholesaler distribution authorisation) if you want to:
+###If you’ll supply the medicines in the [European Economic Area](https://www.gov.uk/eu-eea)(EEA).
 
-- import from the European Economic Area (EEA) and supply in the UK or EEA
-- import from a non-EE country and export to a non-EEA country
+You need a [wholesaler licence] if you’re importing from within the EEA.
 
-You need a manufacturer licence that authorises import if you want to import from outside the EEA and supply a country within the EEA.
+If you’re importing from outside the EEA, you need a [manufacturer’s licence] instead.
+
+###If you’re importing to export outside the EEA
+
+You need a wholesaler licence if you’re importing from outside the EEA.
+
+Otherwise you don’t need a licence.
+
 
 ###Apply for a wholesale dealer’s licence
 
@@ -106,7 +107,7 @@ For urgent cases out of office hours, you should contact the MHRA duty officer o
 
 Fees are charged annually using a banding system based on the number of notifications you submit. Customers are provided with an early estimate in the financial year, followed by an invoice once all the information for the year is available.
 
-[SME question: How are vustomer's provided with the estimate?]
+[SME question: How are customer's provided with the estimate?]
 
 Number of estimated notifications 	| Annual fee (£)
 -|-
