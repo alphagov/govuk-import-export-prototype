@@ -124,7 +124,7 @@ For urgent cases out of office hours, you should contact the MHRA duty officer o
 
 ##Fees
 
-Fees are charged annually using a banding system based on the number of notifications you submit. Customers are provided with an early estimate in the financial year, followed by an invoice once all the information for the year is available.
+Fees are charged annually using a banding system based on the number of notifications you submit. MHRA provide an an early estimate in the financial year, followed by an invoice for the whole year.
 
 [Question for SME: How are customer's provided with the estimate?]
 
@@ -141,9 +141,9 @@ Over 100,001 | 155,742
 
 ##TSE (Transmissible Spongiform Encephalopathies)
 
-Where a manufacturer or supplier states that the product may contain TSE risk materials, you must permit assessment of compliance of the product with  UK  TSE requirements. The importer is responsible for any assessments required. 
+If your products contain TSE risk materials, you must allow them to be assessed. The importer is responsible for any assessments required. 
 
-[SME question: how does ththe above happen?]
+[SME question:Who does the assessment and how do importers organise this?]
 
 ##Veterinary medicines
 {:Veterinary-medicines}
@@ -214,8 +214,10 @@ You need a WDIC if you import and hold medicinal products that are then supplied
 
 ###Apply for a WDIC
 
-Complete the [WDIC application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB)
-Email it to: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
+You need to:
+
+- Complete the [WDIC application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB)
+- Email it to: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
 If you have a Home Office licence to supply products listed in Schedule 4 Part I of the [Misuse of Drugs Regulations 2001](http://www.legislation.gov.uk/ukpga/1971/38/contents) )you will also need to apply to the Home Office for an import licence to bring the controlled drug into the UK.
 
