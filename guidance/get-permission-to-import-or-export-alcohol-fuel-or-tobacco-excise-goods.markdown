@@ -43,15 +43,16 @@ You must not export Scotch whisky in a wooden cask or holder.
 
 You must not export Irish whiskey or poteen in a wooden cask or holder.
 
-##Getting a certificate of free sale for alcohol outside the EU
+##If you need a certificate of free sale to export alcohol outside the EU
 
-If you're exporting alcohol outside the EU, check if you need 'certificates of free sale' with the food authority in the importing country. They'll tell you what type they require.
+Check whether you need 'certificates of free sale' by asking the food authority in the importing country. They'll tell you what type they require.
 
-If you need one:
+If you need a certificate:
 
-Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB).
-
-Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
+- fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB)
+- send it to <trader@rpa.gsi.gov.uk>
+ 
+You’ll usually get your certificate within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
 
