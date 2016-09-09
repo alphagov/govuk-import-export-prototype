@@ -157,7 +157,7 @@ There are 4 types of import certificates:
 s1. Special Import Certificate (SIC) for EU authorised veterinary medicinal products
 s2. Special Treatment Certificate (STC) for all other products.
 s3. Wholesale Dealers Import Certificate (WDIC) for wholesalers who import and hold medicinal products that are then supplied to the holder of an SIC or STC.
-s4. Research Import Certificate (RIC). for project licence holders who need a product or substance for licenced use in research performed under the Animal (Scientific Procedure) Act (A(SP)A).
+s4. Research Import Certificate (RIC) for project licence holders who need a product or substance for licenced use in research performed under the Animal (Scientific Procedure) Act (A(SP)A).
 
 ###SICs and STCs
 
@@ -227,11 +227,10 @@ A WDIC will not be issued for a new product without evidence of a demand for the
 
 ###RIC
 
-###How to apply
+To apply you need to:
 
-[Register for the special imports scheme](https://www.vmd.defra.gov.uk/sis/registration.aspx)
-
-Once you’ve completed the online process, you will be able to print your certificate.
+- [Register for the special imports scheme](https://www.vmd.defra.gov.uk/sis/registration.aspx)
+- Print your certificate
 
 ###Contact
 
@@ -271,7 +270,7 @@ If a response is not received within 14 days, the application will be refused an
 
 ##Fees
 
-###SIC and STC
+###SIC, STC and RIC
 
 No fee applies.
 
@@ -280,10 +279,6 @@ No fee applies.
 There is no fee unless more than 100 SICs or STCs naming the wholesale dealer as the importer were supplied in the 12 months before the application. In this case, the fee is £760. 
 
 The fee should not accompany the application; an invoice will be sent to you following issue of the certificate.
-
-###RIC
-
-No fee applies.
 
 ##Allergen products
 
