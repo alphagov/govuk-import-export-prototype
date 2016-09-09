@@ -62,7 +62,7 @@ Otherwise you don’t need a licence.
 
 [If you supply medicines in the UK that you've imported from outside the EEA, is it really correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
 
-##If you need to apply for a licence
+###If you need to apply for a licence
 
 Fill in application forms for:
 
