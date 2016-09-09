@@ -62,8 +62,8 @@ Contact the Rural Payments Agency (RPA).
 
 **Rural Payments Agency**         
 Telephone: 03000 200 301  
-Monday to Friday: 8.30am to 5pm
-\\[Find out about call charges](/call-charges)    
+Monday to Friday: 8.30am to 5pm\\
+[Find out about call charges](/call-charges)    
 
 ## Moving duty suspended goods within the EU
 
