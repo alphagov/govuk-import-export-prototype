@@ -67,18 +67,19 @@ You’ll need a wholesaler licence (also known as a wholesale dealer licence or 
 
 You need a manufacturer licence that authorises import if you want to import from outside the EEA and supply a country within the EEA.
 
-###Apply for a [Wholesale Dealer’s Licence](#Apply for a wholesaler’s licence).
+###Apply for a wholesale dealer’s licence
 
-You then need to:
+You need to:
 
 - Complete a Notification of intent to import a medicinal product](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls 
 - Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
 
 ###Apply for a manufacturer's licence
 
+You need to:
+
 - complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
 - email your completed application to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
-
 
 ###Contact
 
