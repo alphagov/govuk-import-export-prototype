@@ -219,7 +219,9 @@ Email it to: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.g
 
 If you have a Home Office licence to supply products listed in Schedule 4 Part I of the [Misuse of Drugs Regulations 2001](http://www.legislation.gov.uk/ukpga/1971/38/contents) )you will also need to apply to the Home Office for an import licence to bring the controlled drug into the UK.
 
-A WDIC will not be issued for a new product without evidence of a demand for the product. [SMEwhat evidence?]
+A WDIC will not be issued for a new product without evidence of a demand for the product.
+
+[SME question: what evidence is required and how is it sent?]
 
 ###RIC
 
@@ -251,7 +253,7 @@ If you think your individual application is urgent, provide an explanation of th
 
 You can also email [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk) for help.
 
-##WDIC
+###WDICs
 
 Applications will be accepted or rejected within 10 days of receipt.
 
