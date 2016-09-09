@@ -30,24 +30,18 @@ You need permission to import:
 
 If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
 
-If your drug is on the list, you need to:
+###Apply for a licence
+
+If your drug is on the list you need to:
 
 - [register for a National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 - apply for a domestic licence through the [Home Office Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml).
 - attach a scanned copy of your import licence to your controlled drugs import application.
-
-###Apply for a licence 
-
-To apply for a controlled drugs licence you need to:
-
 - [register for controlled drugs and precursor chemical account](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
-- [apply for a domestic licence][https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml]
 
 Existing licensees without a password should contact [DFLU.dom@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk).
 
 It can take up to 16 weeks for your application to be processed.
-
-[SME question: Is this the correct process?]
 
 ###Fees
 
@@ -66,33 +60,12 @@ Telephone 020 7035 6330
 
 ##Human medicines
 
-There are different rules whether you're importing from:
+You’ll need a wholesaler licence (also known as a wholesale dealer licence or a wholesaler distribution authorisation) if you want to:
 
-- the [European Economic Area](#Within the EEA) (EEA) and supply in the UK or EEA
-- a [non-EE country](#Outside the EEA) and export to a non-EEA country
+- import from the European Economic Area (EEA) and supply in the UK or EEA
+- import from a non-EE country and export to a non-EEA country
 
-You need a manufacturer licence that authorises import  if you want to import from outside the EEA and supply a country within the EEA.
-
-##Within the EEA
-
-###Apply for a wholesaler’s licence
-
-Use the [MHRA Process Licensing Portal](https://pclportal.mhra.gov.uk/) to apply.
-
-You must pay the fee for a new application for the wholesale distribution authorisation to be processed.
-
-[SME question: How much does it cost for a wholesaler’s licence?]
-
-##Apply for a manufacturer’s licence
-
-###Outside the EEA
-
-To get a manufacturer's licence you need to:
-
-- complete the application form for a wholesaler or manufacturer’s licence.
-- email your form and the required accompanying documents to pcl@mhra.gsi.gov.uk.
-
-[SME question: How much does it cost for a manufacturer's licence?]
+You need a manufacturer licence that authorises import if you want to import from outside the EEA and supply a country within the EEA.
 
 ###Contact
 
@@ -103,7 +76,7 @@ Telephone: 020 3080 7002
 
 ###Unlicensed medicines
 
-An unlicensed medicinal product may only be supplied in order to meet the special needs of an individual patient. An unlicensed medicinal product should not be supplied where an equivalent licensed medicinal product can meet the special needs of the patient.
+An unlicensed medicinal product may only be supplied in order to meet the special needs of an individual patient.
 
 [SME question: what defines these patients’ special needs?]
 
@@ -123,7 +96,7 @@ What you need to do depends on if you're importing from:
 
 ###Within the EEA
 
-Before you import you must have a Wholesale Dealer’s Licence.
+Before you import you must have a [Wholesale Dealer’s Licence](#Apply for a wholesaler’s licence).
 
 You then need to:
 
@@ -133,15 +106,12 @@ Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mh
 
 ###Outside the EEA
 
-Before you import you must have a Manufacturer’s ‘Specials' Licence.
-
-You then need to:
+To import outide the EEA you need to:
 
 - complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
 - email your completed application to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
 
-
-##Urgent import notifications
+##Urgent imports
 
 In cases of clinical emergency (usually the treatment of life-threatening illness or where significant injury is likely) MHRA is able to process an import notification within one working day.
 
@@ -153,6 +123,7 @@ For urgent cases out of office hours, you should contact the MHRA duty officer o
 
 Fees are charged annually using a banding system based on the number of notifications you submit. Customers are provided with an early estimate in the financial year, followed by an invoice once all the information for the year is available.
 
+[SME question: How are vustomer's provided with the estimate?]
 
 Number of estimated notifications 	| Annual fee (£)
 -|-
@@ -195,7 +166,7 @@ You can only apply to import veterinary medicines under the SIC or STC if you’
 
 ###STCs
 
-You must submit an application each individual animal. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one application; however, a group of horses is not regarded as a herd. Poultry cannot be used as a species type, but one application can cover a flock of chickens or flock of turkeys.
+You must submit an application each individual animal. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one applicationl. Note that a group of horses is not regarded as a herd. Poultry cannot be used as a species type, but one application can cover a flock of chickens or flock of turkeys.
 
 ###SICs
 
@@ -233,7 +204,7 @@ If you are applying for a product that has not previously been permitted import 
 
 [SME question: How do people get their Summary of Product Characteristics?]
 
-###Wholesale Dealers Import Certificates (WDIC)
+###Wholesale dealers import certificates (WDIC)
 
 You need a WDIC if you import and hold medicinal products that are then supplied to the holder of an SIC or STC. The WDIC holder should be in possession of the SIC or STC before supplying the product to a vet.
 
