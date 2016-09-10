@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export cultural goods
+title: Get a licence to export art works, antiques and culturally significant goods
 summary: How to apply for a licence to export cultural goods, including antiques, furniture and archeological items.
 permalink: /guidance/get-a-licence-to-export-cultural-goods.html
 topic:
@@ -23,9 +23,11 @@ You need a licence if you’re exporting something inside or outside the [EU](ht
 
 You need a licence to export cultural goods on a temporary basis.
 
+There’s a [ban on supplying art works, collectors’ pieces and antiques to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
+
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
+Also check the import rules of the country you’re exporting to. Talk to your importer or [get research the legal rules in overseas markets](/answer/choosing-export-market-ukti.html)
 
 $CTA
 
@@ -39,8 +41,6 @@ s1. Contact the [Export Licensing Unit](/guidance/get-a-licence-to-export-cultur
 s2. Complete your application and send it to the Export Licensing Unit. You may need to give extra information, such as a photograph of the item or details of its origin. 
 
 If you plan to export an item temporarily, you must include the date it will return to the UK on the application.
-
-[Question for SME: how much does it cost to get a licence?]
 
 ##What happens next
 
@@ -63,4 +63,3 @@ WC1B 3HF
 Email: <elu@artscouncil.org.uk>   
 Telephone: 020 7268 9606    
 [Find out about call charges](/call-charges)   
-
