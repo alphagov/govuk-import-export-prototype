@@ -26,7 +26,7 @@ You may need a licence or follow special rules to export restricted goods or to 
 - [food and agricultural products](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
 - [furs, skins and other animal products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html)
 
-##Chemicals, drugs and waste
+##Chemicals, drugs, oil and gas services and waste
 
 - [chemicals](/guidance/get-a-licence-to-export-chemicals.html)
 - [drugs and medicines](/guidance/get-a-licence-to-export-drugs-and-medicines.html)
@@ -35,10 +35,11 @@ You may need a licence or follow special rules to export restricted goods or to 
 - [waste](/guidance/get-a-licence-to-export-waste.html)
 - [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html) - or other goods, technology or services that could make it possible to use a radioactive substance for military purposes
 
-##Diamonds, precious metals and arts
+##Diamonds, precious metals, arts
 
-- [artworks, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
+- [art works, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
 - [diamonds, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html)
+- [luxury goods to North Korea](/guidance/exporting-luxury-goods-north-korea.html)
 
 ##Goods that can be used for restraint or repression
 - [goods that could be used for restraint, repression or inhumane treatment](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
