@@ -29,6 +29,8 @@ Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow sp
 
 Outside the EU, check with the food authority in country you're exporting to. They'll tell you if you need 'certificates of free sale' and which types they require. If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
 
+There’s a [ban on exporting caviar, caviar substitutes, truffles and goods containing truffles to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
+
 ###Apply for a certificate of free sale
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB).
