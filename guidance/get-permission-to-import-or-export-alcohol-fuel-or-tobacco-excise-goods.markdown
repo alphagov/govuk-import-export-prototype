@@ -30,6 +30,8 @@ If you buy excise goods produced by someone else, the UK excise duty will alread
 - move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
 - sell goods directly to overseas consumers
 
+There's a [ban on exporting high quality wines, spirits, cigars and cigarillos to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
+
 ### Scotch whisky
 
 You can only export single grain, blended malt, blended grain or blended Scotch whisky outside Scotland if the whisky is:
@@ -43,9 +45,11 @@ You must not export Scotch whisky in a wooden cask or holder.
 
 You must not export Irish whiskey or poteen in a wooden cask or holder.
 
-##If you need a certificate of free sale to export alcohol outside the EU
+## If you need a certificate of free sale to export alcohol outside the EU
 
-Check whether you need 'certificates of free sale' by asking the food authority in the importing country. They'll tell you what type they require.
+Some countries require a 'certificate of free sale' before they will let food and drink products into the country.
+
+Check whether you need a certificate by asking the food authority in the importing country. They'll tell you what type they require.
 
 If you need a certificate:
 
@@ -55,15 +59,6 @@ If you need a certificate:
 You’ll usually get your certificate within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
-
-###If you need help
-
-Contact the Rural Payments Agency (RPA).
-
-**Rural Payments Agency**         
-Telephone: 03000 200 301  
-Monday to Friday: 8.30am to 5pm\\
-[Find out about call charges](/call-charges)    
 
 ## Moving duty suspended goods within the EU
 
@@ -105,7 +100,7 @@ country.
 
 $CTA
 
-Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods. [Research the legal and tax situation](https://www.gov.uk/government/collections/exporting-country-guides) before you send any goods overseas.
+Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods. [Research the legal and tax rules](https://www.gov.uk/government/collections/exporting-country-guides) before you send any goods overseas.
 
 $CTA
 
@@ -142,3 +137,10 @@ Monday to Friday, 8am to 6pm
 [Find out about call charges](/call-charges)  
 
 If your question is about Scotch whisky, Irish whiskey or poteen, contact [enquiries.sdvs@hmrc.gsi.gov.uk](mailto:enquiries.sdvs@hmrc.gsi.gov.uk).
+
+If your question is about certificates of free sale, contact the Rural Payments Agency.
+
+**Rural Payments Agency**         
+Telephone: 03000 200 301  
+Monday to Friday: 8.30am to 5pm\\
+[Find out about call charges](/call-charges)   
