@@ -36,7 +36,7 @@ You must apply for an export licence if ECO tells you to.
 
 ## Apply for an export licence
 
-Before you apply for an export licence, check the import rules of the country you’re exporting to. Talk to your importer or [research legal rules for defence and security goods in overseas markets](https://www.gov.uk/government/collections/defence-and-security-exporting-country-briefings-and-reports).
+Before you apply for an export licence, check the import rules of the country you’re exporting to. Talk to your importer or [research legal rules in overseas markets](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
