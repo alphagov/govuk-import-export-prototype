@@ -16,7 +16,7 @@ What you need to do to export horses or ponies depends on whether you’re expor
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+Also check the import rules of the country you’re exporting to. Talk to your importer or [research legal rules in overseas markets](/answer/choosing-export-market-ukti.html).
 
 $CTA
 
@@ -59,6 +59,7 @@ To export horses or ponies outside the EU you must:
 - [apply for an Export Health Certificate (EHC)](#export-health-certificate)
 - [check if you need an export welfare declaration](#export-welfare-declaration)
 
+There’s a [ban on exporting pure bred horses to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
 
 ###Apply for an EHC
 {:#export-health-certificate}
