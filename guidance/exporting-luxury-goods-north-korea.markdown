@@ -45,6 +45,6 @@ Contact the Export Control Organisation (ECO) if you’re not sure whether your 
 
 ## Contact the Export Control Organisation (ECO)
 
-**ECO helpline**
-<eco.help@trade.gsi.gov.uk>
-Telephone: 0202 7215 4594
+**ECO helpline**  
+<eco.help@trade.gsi.gov.uk>  
+Telephone: 0202 7215 4594  
