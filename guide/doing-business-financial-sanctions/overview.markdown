@@ -12,18 +12,8 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-[Include a brief explanation of what types of people and organisations tend to be targeted]
 
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.htm) (HTML)  
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.csv) (CSV, 2.82MB)  
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (MS Excel, 1.98MB)  
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.pdf) (PDF, 1.7MB)  
-[Financial sanctions targets: consolidated list](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (PDF, 2.9MB)  
-[Guide to using the consolidated list](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/292095/fin_sanc_consolidated_list_format_guide.pdf) (PDF, 162KB)  
-
-## What you must do
-
-If a person or organisation is on the consolidated list you must [get a licence from HM Treasury](/guide/doing-business-financial-sanctions/apply-licence.html) to deal with them in a way that gives them a significant financial benefit.
+If a person or organisation is on the consolidated list of financial sanctions targets you must [get a licence from HM Treasury](/guide/doing-business-financial-sanctions/apply-licence.html) to deal with them in a way that gives them a significant financial benefit.
 
 For example:
 
@@ -31,6 +21,13 @@ For example:
 - making funds or resources available to them indirectly (eg by making a payment to an organisation that’s controlled by them)
 
 ‘Resources’ can mean anything with a potential value, not just cash or investments.
+
+[Consolidated list of financial sanctions targets](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.htm) (HTML)  
+[Consolidated list of financial sanctions targets](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.csv) (CSV, 2.82MB) 
+[Consolidated list of financial sanctions targets](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (MS Excel, 1.98MB)  
+[Consolidated list of financial sanctions targets](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.pdf) (PDF, 1.7MB)  
+[Consolidated list of financial sanctions targets](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (PDF, 2.9MB)  
+[Guide to using the consolidated list of financial sanctions targets](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/292095/fin_sanc_consolidated_list_format_guide.pdf) (PDF, 162KB)  
 
 ## Asset freezes
 
