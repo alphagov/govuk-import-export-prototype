@@ -31,7 +31,7 @@ The banned luxury goods are:
 - high quality tableware made from porcelain, china, stone or earthenware or fine pottery
 - high quality lead crystal glassware
 - high end electronic items for domestic use
-- high end equipment for recording or playing sound or images
+- high end video equipment, audio equipment and cameras
 - luxury vehicles, boats or aircraft (and spare parts for luxury vehicles, boats or aircraft)
 - luxury clocks and watches (and parts for luxury clocks and watches)
 - high quality musical instruments
