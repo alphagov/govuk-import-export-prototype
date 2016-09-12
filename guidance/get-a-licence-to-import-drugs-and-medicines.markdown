@@ -159,7 +159,8 @@ s2. Special Treatment Certificate (STC) for all other products.
 s3. Wholesale Dealers Import Certificate (WDIC) for wholesalers who import and hold medicinal products that are then supplied to the holder of an SIC or STC.
 s4. Research Import Certificate (RIC) for project licence holders who need a product or substance for licenced use in research performed under the Animal (Scientific Procedure) Act (A(SP)A).
 
-###SICs and STCs
+
+##SICs and STCs
 
 You can only apply to import veterinary medicines under the SIC or STC if you’re a:
 
