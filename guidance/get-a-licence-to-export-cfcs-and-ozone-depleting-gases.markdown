@@ -9,7 +9,7 @@ topic:
 ---
 ##Within the EU
 
-You don’t need a licence to move ozone-depleting substances (ODS) and fluorinated greenhouse gases (F-gases) within the [EU](https://www.gov.uk/eu-eea).
+You don’t need a licence to move [ozone-depleting substances](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32009R1005#d1e32-19-1) (ODS) and fluorinated greenhouse gases (F-gases) within the [EU](https://www.gov.uk/eu-eea).
 
 ##Outside the EU
 
@@ -17,7 +17,7 @@ You don’t need a licence to move ozone-depleting substances (ODS) and fluorina
 
 You can only export ozone-depleting substances (ODS) outside the EU in special situations. You can get an export licence for:
 
-- HCFCs used for refrigeration, foam blowing fire-fighting or solvents 
+- HCFCs used for refrigeration, air conditioning, foam blowing fire-fighting or solvents 
 - CFCs or CTCs for laboratory or analytical use
 - all ODS used as part of a chemical process to create another substance ('feedstock')
 - [other special situations](https://circabc.europa.eu/sd/a/6e32df10-ab7d-4bc0-83e1-ae3ef90cc45e/0%20General%20Informaton%20manual%20EN%20v1.0)
@@ -30,8 +30,16 @@ $CTA
 
 [Apply for an export licence](http://ec.europa.eu/clima/policies/ozone/ods/) on the European Commission website.
 
+You'll usually get a licence within a few weeks
 
-[Questions for SME: How long does it take to get a licence? How much does it cost? What does an exporter do with the licence when they've got it? Is there a list of these ODS that we can link to?]
+[Questions for SME: How much does a licence cost? What does an exporter do with the licence when they've got it? ]
+
+Every year you must report the ODS chemicals you’ve exported by 31 March.
+
+You'll need to:
+
+- [register for an account](https://bdr.eionet.europa.eu/registry/self_register)
+- [log in to submit your report](https://bdr.eionet.europa.eu/acl_users/cookie_auth/login_form?came_from=/)"
 
 ###HFCs and other F-gases
 
