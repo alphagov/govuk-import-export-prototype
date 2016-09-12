@@ -232,7 +232,7 @@ To apply you need to:
 
 - [register for the special imports scheme](https://www.vmd.defra.gov.uk/sis/registration.aspx)
 - print your certificate
-- email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk) for help.
+- email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
 ##Timescales
 
