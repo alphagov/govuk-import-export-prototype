@@ -92,9 +92,9 @@ When you get your completed EHC, you must keep it for at least 2 years.
 
 ##Endangered animals
 
-[Search for the animal you’re exporting](http://www.speciesplus.net/). It’s endangered if it’s listed as ‘appendix I’.
+Within the EU, check if your ABP is from endangered species listed in [appendix 1](http://www.speciesplus.net/).
 
-Within the EU, you usually can’t move by-products from endangered animals except in special cases (like for research necessary for the species to survive). [Contact APHA](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+You usually can’t move ABPs from these endangered animals except in special cases (like for research necessary for the species to survive). [Contact APHA](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
 
 Outside the EU, you need to:
 
