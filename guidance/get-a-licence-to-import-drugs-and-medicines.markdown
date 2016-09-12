@@ -48,15 +48,17 @@ Telephone 020 7035 6330
 ##Human medicines
 {:#human-medicines}
 
-###If you’ll supply the medicines in the [European Economic Area](https://www.gov.uk/eu-eea)(EEA).
+What you need to do depends on if you're importing from within or from outside the EU.
 
-You need a [wholesaler licence](#wholesaler-licence) if you’re importing from within the EEA.
+###If you’ll supply the medicines in the [European Economic Area](EEA](https://www.gov.uk/eu-eea)
+
+Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re importing from within the EEA.
 
 If you’re importing from outside the EEA, you need a [manufacturer’s licence](#manufacturers-licence) instead.
 
 ###If you’re importing to export outside the EEA
 
-You need a wholesaler licence if you’re importing from outside the EEA.
+Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re importing from outside the EEA.
 
 Otherwise you don’t need a licence.
 
@@ -66,27 +68,10 @@ Otherwise you don’t need a licence.
 
 Fill in application forms for:
 
-- the [wholesaler dealer's licence](#wholesalers-licence)
-- [manufacturer's licence](#manufacturers-licence], if you need to
-
-Send your form (or forms) to xxx at least 28 days.
-[Question for SME: do we have an answer?]
-
-###Apply for a wholesale dealer’s licence
-{:#wholesaler-licence}
-
-You need to:
-
-- Complete a Notification of intent to import a medicinal product](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls 
+- a [wholesaler dealer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls 
 - Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
 
-###Apply for a manufacturer's licence
-{:#manufacturers-licence}
-
-You need to:
-
-- complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
-- email your completed application to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
+- apply for a [manufacturer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc) if you need to, and email it to [imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before you import.
 
 ###Contact
 
@@ -97,9 +82,17 @@ Telephone: 020 3080 7002
 
 [Question for SME: which accompanying documents do importers need to submit?]
 
-###Unlicensed medicines
+##Unlicensed medicines
 
-An unlicensed medicinal product can only be granted to meet the special needs of an individual patient.
+What you need to do to import unlicensed medicines depends on if you're importing from within or from outside the European Economic Area (EEA).
+
+###Within the EEA
+
+To import from within the EEA, you need a wholesale dealer's licence [wholesale dealer's licence](#wholesale-licence)
+
+###Outside the EEA
+
+To import from outside the EEA, you need a [manufacturer's specials licence](#specials-licence)
 
 [SME question: what defines these patients’ special needs?]
 
@@ -112,7 +105,11 @@ You can import unlicensed medicines if you’re:
 - a wholesale dealer licensed for supply to the order of any of the above
 - a manufacturer licensed for import for supply to the order of any of the above
 
-##Urgent imports
+###Apply for a 'specials' licence
+{:#specials-licence}
+Complete the application form https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc
+
+###Urgent imports
 
 In cases of clinical emergency (usually the treatment of life-threatening illness or where significant injury is likely) MHRA is able to process an import notification within one working day.
 
@@ -148,17 +145,24 @@ If your products contain TSE risk materials, you must allow them to be assessed.
 ##Veterinary medicines
 {:Veterinary-medicines}
 
-Use the [Product Information Database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/) to find out if your medicine is authorised for import.
+The licence you need depends on what you're supplying and who you're supplying it to.
 
-If your medicine is authorised, you can apply for a certificate.
+You can import medicines as long as they're authorised and you get the relevant certificate.
 
-There are 4 types of import certificates:
+Use the [Product Information Database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/) to find out if your medicine is authorised.
 
-s1. Special Import Certificate (SIC) for EU authorised veterinary medicinal products
-s2. Special Treatment Certificate (STC) for all other products.
-s3. Wholesale Dealers Import Certificate (WDIC) for wholesalers who import and hold medicinal products that are then supplied to the holder of an SIC or STC.
-s4. Research Import Certificate (RIC) for project licence holders who need a product or substance for licenced use in research performed under the Animal (Scientific Procedure) Act (A(SP)A).
+If you’re a veterinary surgeon you’ll need the following to import an authorised medicine, you’ll need one of the following:
 
+- a Special Import Certificate (SIC) for veterinary medicine
+- a Special Treatment Certificate (STC) for human medicine or medicinal product from outside the EU 
+- a Wholesale Dealer’s Certificate (WDIC) to import and hold products that are then supplied to a SIC or STC holder
+
+If you're a researcher, you should:
+ 
+- make sure you have a Home Office Project License
+- apply for a [Research Import Certificate](http://www.vmd.defra.gov.uk/ric/Application.aspx) (RIC)
+
+You need a new RIC for each product, substance, or combination of active substances you import.
 
 ###SICs and STCs
 
@@ -171,7 +175,9 @@ You can only apply to import veterinary medicines under the SIC or STC if you’
 
 ###STCs
 
-You must submit an application for each individual animal. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one application.
+You must submit an application for each individual species of animal. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one application.
+
+There's no fee for this certificate.
 
 ###SICs
 
@@ -181,24 +187,16 @@ You can make an application for a number of animals regardless of the species.
 
 You should [apply for your certificate online](https://www.vmd.defra.gov.uk/sis/default.aspx).
 
-The Veterinary Medicines Directorate (VMD) will only accept applications for SIC and STC by email if the online system is not working. In these cases, please use the applications forms below:
+If the online system isn't working, you can use the relevant application form:
 
-[SIC application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549418/_630643_Application_Form_SIC.docx) (MS Word Document, 44.1KB)
-[STC application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549417/_630628_Application_Form_STC.docx) (MS Word Document, 62.5KB)
+- [SIC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549418/_630643_Application_Form_SIC.docx) (MS Word Document, 44.1KB)
+- [STC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549417/_630628_Application_Form_STC.docx) (MS Word Document, 62.5KB)
+
+There's no fee for this certificate.
 
 ###Live vaccines
 
 For information on importing live vaccines under a SIC or STC, contact [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
-
-###Repeat certificates
-
-You may be able to apply for ‘repeat STC’, allowing you to obtain further certificates for the same product, quantity and animal as applied for in the initial application.
-
-[Question for SME: Under which circumstances can you apply for a repeat STC?]
-
-The option to apply for a repeat online and the due date will be stated on the initial certificate. A repeat may be applied for up to 1 week before the due date. Please contact the VMD with any queries [how?]
-
-[SME question: can you apply for a repeat SIC?]
 
 ###New products
 
@@ -207,32 +205,41 @@ If you are applying for a product that has not previously been permitted import 
 - summary of product characteristics (SPC) or equivalent product information (for STC applications) in English
 - product labels in the native language
 
+[SME question: if you're importing a new productto supply to a wholesaler, what do you do?]
 [SME question: How do people get their Summary of Product Characteristics?]
 
 ###Wholesale dealers import certificates (WDIC)
 
-You need a WDIC if you import and hold medicinal products that are then supplied to the holder of an SIC or STC. The WDIC holder should be in possession of the SIC or STC before supplying the product to a vet.
+You need a WDIC if you import and hold medicinal products for supply to a SIC or STC holder.
 
 ###Apply for a WDIC
+{:wholesale-licence}
 
 You need to:
 
-- Complete the [WDIC application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB)
-- Email it to: [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
+- make sure you have a Home Office licence to supply controlled drugs to the UK.
+- complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB)
+- email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
-If you have a Home Office licence to supply products listed in Schedule 4 Part I of the [Misuse of Drugs Regulations 2001](http://www.legislation.gov.uk/ukpga/1971/38/contents) )you will also need to apply to the Home Office for an import licence to bring the controlled drug into the UK.
+It is free unless more than 100 SICs or STCs naming the wholesale dealer as the importer were supplied in the 12 months before the application. In this case, the fee is £760. 
+
+When a fee applies, it should not accompany the application; an invoice will be sent to you following issue of your certificate.
 
 A WDIC will not be issued for a new product without evidence of a demand for the product.
 
 [SME question: what evidence is required and how is it sent?]
+[SME question: is this the correct process?]
 
 ###RIC
 
 To apply you need to:
 
-- [register for the special imports scheme](https://www.vmd.defra.gov.uk/sis/registration.aspx)
+- make sure you have a home office project licence 
+- [register for the special imports scheme](http://www.vmd.defra.gov.uk/ric/Application.aspx)
 - print your certificate
 - email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
+
+There's no fee for this certificate.
 
 ##Timescales
 
@@ -258,6 +265,8 @@ Applications will be accepted or rejected within 10 days of receipt.
 
 The date of receipt is the first working day that the application is received, so those applications submitted at a weekend, or on a bank holiday, will be classed as received on the first working day thereafter.
 
+
+
 ###Suspension of timescales
 
 If any information is missing, or further clarification is required, the VMD may contact you. The timescales will be suspended pending a response from you.
@@ -265,18 +274,6 @@ If any information is missing, or further clarification is required, the VMD may
 If a response is not received within 14 days, the application will be refused and you will need to re-apply.
 
 [SME question: 14 working days?]
-
-##Fees
-
-###SIC, STC and RIC
-
-No fee applies.
-
-###WDIC
-
-There is no fee unless more than 100 SICs or STCs naming the wholesale dealer as the importer were supplied in the 12 months before the application. In this case, the fee is £760. 
-
-The fee should not accompany the application; an invoice will be sent to you following issue of the certificate.
 
 ##Allergen products
 
