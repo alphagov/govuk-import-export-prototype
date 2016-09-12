@@ -48,19 +48,33 @@ Telephone 020 7035 6330
 ##Human medicines
 {:#human-medicines}
 
-What you need to do depends on what you're importing and where you're importing it to.
+What you need to do depends on what you're importing and where you're sending it to.
 
-###Supplying the medicines in the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
+###Supplying medicines within the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
 
 Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re importing from within the EEA.
 
 If you’re importing from outside the EEA, you need a [manufacturer’s licence](#manufacturers-licence) instead.
 
-###If you’re importing to export outside the EEA
+###Supplying medicines outside the EEA
 
 Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re importing from outside the EEA.
 
 Otherwise you don’t need a licence.
+
+[Alternative version of the above
+
+What you need to do depends on what you're importing and where you're sending it to.
+
+Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re import:
+
+-  from the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
+ and then supply somewhere within it
+-  medicines from outside the EEA and supply them to a country outside the EEA
+
+You need a manufacturer’s licence instead if you’re importing from, and supplying medicines to, a non-EEA country
+
+Otherwise, you don’t need a licence]
 
 [If you supply medicines in the UK that you've imported from outside the EEA, is it correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
 
