@@ -26,24 +26,24 @@ The banned luxury goods are:
 - high quality clothes, clothing accessories and shoes
 - hand knotted carpets, hand woven rugs and tapestries
 - pearls, precious and semi precious stones, articles of pearls, jewellery, gold or silversmith articles
-- coins and banknotes that aren’t legal tender
+- coins and banknotes that aren’t legal tender - for example, antique coins
 - cutlery made from precious metal or plated or clad with precious metal
 - high quality tableware made from porcelain, china, stone or earthenware or fine pottery
 - high quality lead crystal glassware
 - high end electronic items for domestic use
-- high end video equipment, audio equipment and cameras
+- high end equipment for recording or playing sound or images
 - luxury vehicles, boats or aircraft (and spare parts for luxury vehicles, boats or aircraft)
 - luxury clocks and watches (and parts for luxury clocks and watches)
 - high quality musical instruments
 - works of art, collectors' pieces and antiques
 - equipment for skiing, golf, diving and water sports
-- equipment for billiards, automatic bowling, casino games and games operated by coins or banknotes
-
-Contact the Export Control Organisation (ECO) if you’re not sure whether your goods count as luxury goods.
+- equipment for gaming like billiards, automatic bowling, casino games and slot machines
 
 ^ There are also [financial sanctions](/guide/doing-business-financial-sanctions/overview.html) banning any sort of dealings with certain people and organisations connected with North Korea. ^
 
 ## Contact the Export Control Organisation (ECO)
+
+Contact the Export Control Organisation (ECO) if you’re not sure whether your goods count as luxury goods or if you need help.
 
 **ECO helpline**  
 <eco.help@trade.gsi.gov.uk>  
