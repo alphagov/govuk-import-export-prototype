@@ -31,6 +31,7 @@ To move germplasm within the EU, you must:
 * register your premises
 
 ###Apply for an ITAHC
+
 s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email ovteam@apha.gsi.gov.uk.
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) if you’ve not used it before.
 s3. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the live animals you’re exporting.
@@ -40,7 +41,8 @@ s6. Include the certificate when you export your consignment.
 Instead of using TRACES, you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 Your ITAHC will be valid for 10 days after the inspection.
 If there isn’t an ITAHC for your species of animal, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) (or [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland).
-###Get your holdings approved
+
+###Get your premises approved
 
 You also need to get your premises approved to export within the EU - this is the place you keep the semen, ova or embryos in the UK.
 
