@@ -31,7 +31,7 @@ If your drug is on the list you need to:
 
 Existing licensees without a password should contact [DFLU.dom@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk).
 
-It can take up to 16 weeks for your application to be processed. They will be valid for 3 months
+It can take up to 16 weeks for your application to be processed. The licence is valid for 3 months.
 
 ###Fees
 
@@ -60,7 +60,7 @@ You need a wholesaler licence if you’re importing from outside the EEA.
 
 Otherwise you don’t need a licence.
 
-[If you supply medicines in the UK that you've imported from outside the EEA, is it really correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
+[If you supply medicines in the UK that you've imported from outside the EEA, is it correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
 
 ###If you need to apply for a licence
 
