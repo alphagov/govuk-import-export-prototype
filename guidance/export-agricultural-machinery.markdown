@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export agricultural machinery
-summary: You must have a licence to export agricultural machinery.
+summary: Check if you need a licence or phytosanitary certificate to export used farm machinery.
 permalink: /guidance/get-a-licence-to-export-agricultural-machinery.html
 topic:
   name: Exporting
