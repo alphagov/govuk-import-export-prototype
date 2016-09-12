@@ -41,11 +41,11 @@ s4. Attach the document your consignment when you transport it.
 
 [Question for fact check: how long does it take for the commercial document to be sent to the exporter?]
 
-Instead of using TRACES, you can create your own commercial document. It should include:
+Instead of using TRACES, you can create your own commercial document. Include details of:
 
-- details of the content of the consignment
-- your contact details
-- details of the business or person you’re sending your goods to
+- the content of the consignment
+- your contact information
+- the business or person you’re sending your goods to
 
 Follow the rules for [record keeping and labelling](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal#keepingrecords-and-labelling).
 
@@ -62,6 +62,10 @@ s5. Check your EHC’s guidance notes to find out if you need your EHC signed by
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
 When you get your completed EHC, you must keep it for at least 2 years.
+
+##Transporting animal by-products
+
+Follow the rules for [transporting animal by-products](https://www.gov.uk/guidance/transporting-animal-by-products)
 
 ##Endangered animals
 
