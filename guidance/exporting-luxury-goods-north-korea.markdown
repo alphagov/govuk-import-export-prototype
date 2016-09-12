@@ -32,7 +32,7 @@ The banned luxury goods are:
 - high quality lead crystal glassware
 - high end electronic items for domestic use
 - high end equipment for recording or playing sound or images
-- luxury vehicles, boats or aircraft (and spare parts for luxury vehicles, boats or aircraf)
+- luxury vehicles, boats or aircraft (and spare parts for luxury vehicles, boats or aircraft)
 - luxury clocks and watches (and parts for luxury clocks and watches
 - high quality musical instruments
 - works of art, collectors' pieces and antiques
