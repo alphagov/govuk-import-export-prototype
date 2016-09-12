@@ -33,7 +33,7 @@ The banned luxury goods are:
 - high end electronic items for domestic use
 - high end equipment for recording or playing sound or images
 - luxury vehicles, boats or aircraft (and spare parts for luxury vehicles, boats or aircraft)
-- luxury clocks and watches (and parts for luxury clocks and watches
+- luxury clocks and watches (and parts for luxury clocks and watches)
 - high quality musical instruments
 - works of art, collectors' pieces and antiques
 - equipment for skiing, golf, diving and water sports
@@ -41,7 +41,7 @@ The banned luxury goods are:
 
 Contact the Export Control Organisation (ECO) if you’re not sure whether your goods count as luxury goods.
 
-^There are also [financial sanctions](/guide/doing-business-financial-sanctions/overview.html) which ban any sort of dealings with certain people and organisations connected with North Korea.^
+^ There are also [financial sanctions](/guide/doing-business-financial-sanctions/overview.html) banning any sort of dealings with certain people and organisations connected with North Korea. ^
 
 ## Contact the Export Control Organisation (ECO)
 
