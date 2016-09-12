@@ -28,7 +28,6 @@ Make sure you ask to receive an official document to explain the rules in that c
 
 ###Applying for a plant health certificate 
 
-
 You must apply for your machinery to be inspected, either:
 
 * [online through eDomero](https://signon.defra.gov.uk/Login.aspx) 
