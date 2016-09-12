@@ -19,12 +19,14 @@ You may need a licence or follow special rules to export restricted goods or to 
 
 ## Animals and agricultural products
 
+- [agricultural machinery](/guidance/get-a-licence-to-export-agricultural-machinery.html)
 - [livestock, poultry and bees](/guidance/get-a-licence-to-export-livestock-poultry.html)
 - [horses and ponies](/guidance/get-a-licence-to-export-horses-ponies.html)
 - [fish and shellfish](/guidance/get-a-licence-to-export-fish-shellfish.html)
 - [other live animals](/guidance/get-a-licence-to-export-circus-endangered-research-animals.html)
 - [food and agricultural products](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
 - [furs, skins and other animal products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html)
+- [semen, ova and embryos](/guidance/get-a-licence-to-export-animal-semen-ova-embryos.html)
 
 ##Chemicals, drugs, oil and gas services and waste
 
