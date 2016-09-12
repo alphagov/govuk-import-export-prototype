@@ -50,7 +50,7 @@ Telephone 020 7035 6330
 
 What you need to do depends on what you're importing and where you're importing it to.
 
-###Supplying the medicines in the [European Economic Area](https://www.gov.uk/eu-eea)(EEA)
+###Supplying the medicines in the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
 
 Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re importing from within the EEA.
 
