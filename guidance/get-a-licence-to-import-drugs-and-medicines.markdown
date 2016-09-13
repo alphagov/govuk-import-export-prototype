@@ -159,7 +159,7 @@ You need a new RIC for each product, substance, or combination of active substan
 
 ###SICs and STCs
 
-You can only apply to import veterinary medicines under the SIC or STC if you’re a:
+You can only apply to import veterinary medicines under an SIC or STC if you’re a:
 
 - veterinary surgeon registered with the Royal College of Veterinary Surgeons (RCVS). 
 - Home Office Project license holder
