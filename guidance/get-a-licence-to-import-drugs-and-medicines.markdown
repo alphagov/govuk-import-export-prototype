@@ -48,33 +48,17 @@ Telephone 020 7035 6330
 ##Human medicines
 {:#human-medicines}
 
-What you need to do depends on what you're importing and where you're sending it to.
-
-###Supplying medicines within the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
-
-Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re importing from within the EEA.
-
-If you’re importing from outside the EEA, you need a [manufacturer’s licence](#manufacturers-licence) instead.
-
-###Supplying medicines outside the EEA
-
-Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re importing from outside the EEA.
-
-Otherwise you don’t need a licence.
-
-[Alternative version of the above
-
-What you need to do depends on what you're importing and where you're sending it to.
+What you need to do depends on what you're importing and where you're sending it.
 
 Make sure you have a [wholesaler licence](#wholesaler-licence) if you’re import:
 
 -  from the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
- and then supply somewhere within it
+ and then supply a country within it
 -  medicines from outside the EEA and supply them to a country outside the EEA
 
-You need a manufacturer’s licence instead if you’re importing from, and supplying medicines to, a non-EEA country
+You need a manufacturer’s licence instead if you’re importing from outside the EEA to supply to an EEA country.
 
-Otherwise, you don’t need a licence]
+Otherwise, you don’t need a licence
 
 [If you supply medicines in the UK that you've imported from outside the EEA, is it correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
 
@@ -159,16 +143,14 @@ If your products contain TSE risk materials, you must allow them to be assessed.
 ##Veterinary medicines
 {:Veterinary-medicines}
 
-The licence you need depends on what you're supplying and who you're supplying it to.
-
-You can import medicines as long as they're authorised and you get the relevant certificate.
+How you get a certificate depends on whether you're importing an EU-authorised medicine.
 
 Use the [Product Information Database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/) to find out if your medicine is authorised.
 
-If you’re a veterinary surgeon you’ll need the following to import an authorised medicine, you’ll need one of the following:
+If you’re a veterinary surgeon you’ll need one of the following:
 
 - a Special Import Certificate (SIC) for veterinary medicine
-- a Special Treatment Certificate (STC) for human medicine or medicinal product from outside the EU 
+- a Special Treatment Certificate (STC) for medicine or medicinal products from outside the EU 
 - a Wholesale Dealer’s Certificate (WDIC) to import and hold products that are then supplied to a SIC or STC holder
 
 If you're a researcher, you should:
