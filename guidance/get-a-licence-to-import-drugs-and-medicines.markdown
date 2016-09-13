@@ -187,6 +187,14 @@ If the online system isn't working, you can use the relevant application form:
 
 There's no fee for this certificate.
 
+The time it will take to receive your certificate depends on the application type.
+
+Application type| Number of working days
+ -|- 
+New products| 15 
+Previously imported products | 10
+Urgent - for previously imported products| 2
+
 ###Live vaccines
 
 For information on importing live vaccines under a SIC or STC, contact [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
@@ -233,16 +241,6 @@ To apply you need to:
 - email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
 There's no fee for this certificate.
-
-##Timescales
-
-###SIC and STC
-
-Application type| Number of working days
- -|- 
-New products| 15 
-Previously imported products | 10
-Urgent - for previously imported products| 2
 
 ###Urgent applications
 
