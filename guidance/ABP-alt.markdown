@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You may need to follow special rules to export bones, skins and other animal by-products.
+You usually need to follow special rules to export bones, skins and other animal by-products.
 
 What you need to do depends on whether you’re exporting [within the EU](#within-eu) or [outside the EU](#outside-eu).
 
@@ -26,7 +26,7 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-You must create a commercial document to move category 1 or category 2 animal by-products within the UK and the [EU](/eu-eea).
+You must create a commercial document to move category 1 or category 2 animal by-products within the [EU](/eu-eea) (including within the UK).
 
 You can [check how your animal by-product is classified](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal). If you need help, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#a-z-of-services).
 
