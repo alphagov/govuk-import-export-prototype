@@ -70,7 +70,16 @@ You can apply for a wholesale dealer licence or a manufacturer's licence through
 
 ##Unlicensed medicines
 
-What you need to do to import unlicensed medicines depends on if you're importing from within or from outside the European Economic Area (EEA).
+You can import unlicensed medicines if you’re:
+
+- a doctor or dentist registered in the UK
+- a supplementary prescriber (for example, an appropriately qualified nurse or pharmacist)
+- an independent prescriber (as a nurse or pharmacist)
+- a pharmacist in a hospital, health centre or registered pharmacy
+- a wholesale dealer licensed for supply to the order of any of the above
+- a manufacturer licensed for import for supply to the order of any of the above
+
+What you need to do depends on if you're importing from within or from outside the European Economic Area (EEA).
 
 ###Within the EEA
 
@@ -83,15 +92,6 @@ To import from within the EEA, you need a wholesale dealer's licence [wholesale 
 To import from outside the EEA, you need a [manufacturer's specials licence](#specials-licence).
 
 [SME question: what defines these patients’ special needs?]
-
-You can import unlicensed medicines if you’re:
-
-- a doctor or dentist registered in the UK
-- a supplementary prescriber (for example, an appropriately qualified nurse or pharmacist)
-- an independent prescriber (as a nurse or pharmacist)
-- a pharmacist in a hospital, health centre or registered pharmacy
-- a wholesale dealer licensed for supply to the order of any of the above
-- a manufacturer licensed for import for supply to the order of any of the above
 
 ###Apply for a 'specials' licence
 {:#specials-licence}
