@@ -43,7 +43,7 @@ s4. Attach the document your consignment when you transport it.
 
 Instead of using TRACES, you can create your own commercial document. Include details of:
 
-- the content of the consignment
+- the animal by-products in your consignment
 - your contact information
 - the business or person you’re sending your goods to
 
