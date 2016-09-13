@@ -32,7 +32,12 @@ $CTA
 
 If you import solid wood packaging from outside the EU or from Portugal, specify in your 'supplier' contract with the exporter that it must meet [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf)(ISPM15).
 
-This will help to protect you if the wood packaging you're receiving fails an inspection by the UK Forestry Commission and you're asked to pay for one or more of the following:
+If you receive solid wood packaging from another EU country specify in your contract that it must either meet:
+
+* ISPM15
+* be bark-free or have a plant passport (tell them that if it's kiln dried, it must also be marked KD)
+
+This will help to protect you if the wood packaging you're receiving fails an inspection and you're asked to pay for one or more of the following:
 
 - repackaging  of the goods
 - treatment and marking of the wood packaging to meet ISPM15 requirements
@@ -43,8 +48,7 @@ If you’re given the option to treat the packaging, you can [find a company aut
 
 ##Export solid wood packaging
 
-If you’re exporting packaging inside the EU, check that it complies with EU or international plant health regulations.
-[SME question: do users need to provide evidence to show where the packaging was produced?]
+If you’re moving packaging inside the EU, check that it complies with EU or international plant health regulations.
 
 If you export packaging outside the EU, check if the country you’re trading with accepts ISPM15 and if they have any other requirements. You can either:
 
