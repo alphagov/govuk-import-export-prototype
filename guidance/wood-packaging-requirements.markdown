@@ -35,7 +35,7 @@ If you import solid wood packaging from outside the EU or from Portugal, specify
 If you receive solid wood packaging from another EU country specify in your contract that it must either meet:
 
 * ISPM15
-* be bark-free or have a plant passport (tell them that if it's kiln dried, it must also be marked KD)
+* be bark-free or have a plant passport if it's made out of conifer wood (if it's kiln dried, it must also be marked KD)
 
 This will help to protect you if the wood packaging you're receiving fails an inspection and you're asked to pay for one or more of the following:
 
@@ -50,7 +50,9 @@ If you’re given the option to treat the packaging, you can [find a company aut
 
 If you’re moving packaging inside the EU, check that it complies with EU or international plant health regulations.
 
-If you export packaging outside the EU, check if the country you’re trading with accepts ISPM15 and if they have any other requirements. You can either:
+If you export packaging outside the EU, check if the country you’re trading with accepts ISPM15 and if they have any other requirements. 
+
+You can either:
 
 - check the [global exporters guide](http://www.timcon.org/ISPM15/ISPM15GlobalGuide.asp)
 - contact the country’s embassy or the [National Plant Protection Organisation (NPPO) in that country](https://www.ippc.int/en/partners/regional-plant-protection-organizations)
