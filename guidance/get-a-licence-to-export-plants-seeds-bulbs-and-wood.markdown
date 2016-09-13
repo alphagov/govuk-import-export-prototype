@@ -129,9 +129,13 @@ What you need to do depends on if you’re exporting within the EU or outside th
 
 ###Within the EU
 
-If you’re exporting wood  you’ll need to [register with the Forestry Commission](http://www.forestry.gov.uk/forestry/infd-9nrkps#apply) and you might also need to apply for permission to make plant passports.
 
-[Check the list](http://www.forestry.gov.uk/forestry/INFD-9P2M34) of timber and wood that need a plant passoirt. If you need one, apply for permission and follow the instructions for [making a plant passport](http://www.forestry.gov.uk/forestry/infd-9nrkps#2 Issuing plant passports). 
+[Check the list](http://www.forestry.gov.uk/forestry/INFD-9P2M34) of timber and wood that need a plant passport.
+
+If you need one:
+
+* [register with the Forestry Commission]((http://www.forestry.gov.uk/forestry/infd-9nrkps#apply) 
+* Once you have permission, [follow the instructions for issuing a plant passport](http://www.forestry.gov.uk/forestry/infd-9nrkps#2 Issuing plant passports). 
 
 ###Outside the EU
 
