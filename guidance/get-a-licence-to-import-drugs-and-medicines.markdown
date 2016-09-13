@@ -102,7 +102,7 @@ You can import unlicensed medicines if you’re:
 ###Apply for a 'specials' licence
 {:#specials-licence}
 
-[Complete the application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
+[Complete the application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc) and email it to [pcl@mhra.gsi.gov.uk](mailto:pcl@mhra.gsi.gov.uk).
 
 ###Urgent imports
 
