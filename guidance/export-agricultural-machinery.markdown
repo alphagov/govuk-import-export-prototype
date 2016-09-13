@@ -10,7 +10,7 @@ topic:
 
 Your used agricultural machinery may need to travel with a plant health certificate when you export outside the EU.
 
-You don’t need to do any inside the EU.
+You don’t need to do anything inside the EU.
 
 
 ##Exporting used farm machinery
