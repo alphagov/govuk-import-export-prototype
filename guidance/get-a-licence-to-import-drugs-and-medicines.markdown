@@ -50,11 +50,11 @@ Telephone 020 7035 6330
 
 What you need to do depends on what you're importing and where you're sending it.
 
-Make sure you have a [wholesaler licence](#wholesaler-licence) if you're importing:
+Make sure you have a [wholesaler licence](#wholesaler-licence) if you import medicines from:
 
--  from the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
+-  the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
  and then supply a country within it
--  medicines from outside the EEA and supply them to a country outside the EEA
+-  outside the EEA and supply them to a country outside the EEA
 
 You need a manufacturer’s licence instead if you’re importing from outside the EEA to supply to an EEA country.
 
