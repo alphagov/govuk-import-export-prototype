@@ -86,7 +86,7 @@ To import from within the EEA, you need a wholesale dealer's licence [wholesale 
 
 ###Outside the EEA
 
-To import from outside the EEA, you need a [manufacturer's specials licence](#specials-licence)
+To import from outside the EEA, you need a [manufacturer's specials licence](#specials-licence).
 
 [SME question: what defines these patients’ special needs?]
 
