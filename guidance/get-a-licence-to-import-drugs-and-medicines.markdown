@@ -64,19 +64,15 @@ Otherwise, you don’t need a licence
 
 ###If you need to apply for a licence
 
-You need to:
+For a wholesale dealer's licence you should:
 
-- a [wholesaler dealer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls)
-- Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import
+- [complete the application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls)
 
-- apply for a [manufacturer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc) if you need to, and email it to [imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before you import.
+For a manufacturer's licence you should:
 
-###Contact
+- [complete the application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc)
 
-Contact the Medicines and Healthcare Products Regulatory Agency (MHRA) for help with your application.
-
-Email: [imports@mhra.gsi.gov.uk](mailto:imports@mhra.gsi.gov.uk)
-Telephone: 020 3080 7002
+You then need to email your form to [imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before you import.
 
 [Question for SME: which accompanying documents do importers need to submit?]
 
@@ -105,7 +101,8 @@ You can import unlicensed medicines if you’re:
 
 ###Apply for a 'specials' licence
 {:#specials-licence}
-Complete the application form https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc
+
+[Complete the application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
 
 ###Urgent imports
 
