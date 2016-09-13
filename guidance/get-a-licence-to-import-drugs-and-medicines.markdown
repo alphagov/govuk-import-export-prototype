@@ -60,15 +60,11 @@ You need a manufacturer’s licence instead if you’re importing from outside t
 
 Otherwise, you don’t need a licence
 
-[If you supply medicines in the UK that you've imported from outside the EEA, is it correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
-
 ###If you need to apply for a licence
 
-Apply for a [wholesale dealer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls).
+You can apply for a wholesale dealer licence or a manufacturer's licence through the [MHRA Process Licensing Portal](https://pclportal.mhra.gov.uk/).
 
-Apply for a [manufacturer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc).
-
-You then need to email your form to [imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before you import.
+[If you supply medicines in the UK that you've imported from outside the EEA, is it correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
 
 [Question for SME: which accompanying documents do importers need to submit?]
 
@@ -79,6 +75,8 @@ What you need to do to import unlicensed medicines depends on if you're importin
 ###Within the EEA
 
 To import from within the EEA, you need a wholesale dealer's licence [wholesale dealer's licence](#wholesale-licence)
+
+[SME question: when do people need to complete the notification form? https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls]
 
 ###Outside the EEA
 
