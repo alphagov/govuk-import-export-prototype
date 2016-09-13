@@ -13,7 +13,7 @@ You need permission to import:
 - [controlled drugs](#Controlled-drugs) like opioids, stimulants or psychotropic substances
 - [medicines for humans](#Human-medicines) or [animals](#Veterinary-medicines)
 
-[Question for SME: does the 'Apply for a controlled drugs licence' section at https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence apply to imports?]
+[Question for SME: does the 'Apply for a controlled drugs licence' section at [https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence) apply to imports?]
 
 ##Controlled drugs
 {:#controlled-drugs}
