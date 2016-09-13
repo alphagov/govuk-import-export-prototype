@@ -30,7 +30,7 @@ You must create a commercial document to move category 1 or category 2 animal by
 
 You can [check how your animal by-product is classified](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal). If you need help, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#a-z-of-services).
 
-If you're moving processed animal proteins, you always need a commercial document – even if the proteins are category 3.
+If you're moving processed animal proteins, you always need a commercial document – even if the proteins are from category 3 by-products.
 
 ###Create a commercial document
 
