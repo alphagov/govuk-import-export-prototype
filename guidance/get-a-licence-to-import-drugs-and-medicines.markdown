@@ -64,10 +64,10 @@ Otherwise, you don’t need a licence
 
 ###If you need to apply for a licence
 
-Fill in application forms for:
+You need to:
 
-- a [wholesaler dealer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls 
-- Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import.
+- a [wholesaler dealer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls)
+- Email your completed notification to[imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before the date of the intended import
 
 - apply for a [manufacturer's licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc) if you need to, and email it to [imports@mhra.gsi.gov.uk](mailto: imports@mhra.gsi.gov.uk) at least 28 days before you import.
 
