@@ -20,7 +20,7 @@ Packaging products include:
 - pallet collars
 - dunnage (loose wood used to protect goods and their packaging)
 
-You don't need to follow these rules for processed woods like plywood or other packaging materials like cardboard.
+You don't need to follow these rules for processed woods like plywood, raw wood of less than 6mm thickness or other packaging materials like cardboard.
 
 $CTA
 
