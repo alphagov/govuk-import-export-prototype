@@ -48,6 +48,8 @@ Instead of using TRACES, you can create your own commercial document. Include de
 - your contact information
 - the business or person you’re sending your goods to
 
+[Question for SME: Is it possible to create your own commercial document and are the instructions [in the current guidance](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal#keepingrecords-and-labelling) correct?}
+
 Follow the rules for [record keeping and labelling](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal#keepingrecords-and-labelling).
 
 ##Outside the EU
