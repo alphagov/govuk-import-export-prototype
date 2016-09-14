@@ -89,22 +89,12 @@ You can apply for a wholesale dealer licence or a manufacturer's licence through
 
 ##Unlicensed medicines
 
-You can import unlicensed medicines if you’re:
-
-- a doctor or dentist registered in the UK
-- a supplementary prescriber (for example, an appropriately qualified nurse or pharmacist)
-- an independent prescriber (as a nurse or pharmacist)
-- a pharmacist in a hospital, health centre or registered pharmacy
-- a wholesale dealer licensed for supply to the order of any of the above
-- a manufacturer licensed for import for supply to the order of any of the above
-
 What you need to do depends on if you're importing from within or from outside the European Economic Area (EEA).
 
 ###Within the EEA
 
 To import from within the EEA, you need a wholesale dealer's licence [wholesale dealer's licence](#wholesale-licence)
 
-[SME question: when do people need to complete the notification form? https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls]
 
 ###Outside the EEA
 
@@ -159,9 +149,8 @@ Use the [Product Information Database](http://www.vmd.defra.gov.uk/ProductInform
 
 If you’re a veterinary surgeon you’ll need one of the following:
 
-- a Special Import Certificate (SIC) for veterinary medicine
-- a Special Treatment Certificate (STC) for medicine or medicinal products from outside the EU 
-- a Wholesale Dealer’s Certificate (WDIC) to import and hold products that are then supplied to a SIC or STC holder
+- a Special Import Certificate (SIC) to import EU-authorised veterinary medicine or medicinal products
+- a Special Treatment Certificate (STC) to import medicine or medicinal products from outside the EU 
 
 If you're a researcher, you should:
  
@@ -179,15 +168,7 @@ You can only apply to import veterinary medicines under an SIC or STC if you’r
 
 [SME question: How do you apply for the Home Office project licence?]
 
-###STCs
-
-You must submit an application for each individual species of animal. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one application.
-
-There's no fee for this certificate.
-
-###SICs
-
-You can make an application for a number of animals regardless of the species.
+For STCs, you need to apply separately for each species of animal you're importing.. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one application.
 
 ###Apply for an SIC or STC
 
@@ -197,6 +178,8 @@ If the online system isn't working, you can use the relevant application form:
 
 - [SIC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549418/_630643_Application_Form_SIC.docx) (MS Word Document, 44.1KB)
 - [STC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549417/_630628_Application_Form_STC.docx) (MS Word Document, 62.5KB)
+
+
 
 There's no fee for this certificate.
 
@@ -231,7 +214,6 @@ You need a WDIC if you import and hold medicinal products for supply to a SIC or
 
 You need to:
 
-- make sure you have a Home Office licence to supply controlled drugs to the UK.
 - complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB)
 - email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
 
