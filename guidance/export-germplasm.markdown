@@ -14,8 +14,8 @@ What you need to do depends on whether you’re exporting [within the EU](#withi
 
 There are different rules if you're exporting germplasm:
 
-- that won't be used for breeding - follow the rules for exporting [animal by-products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html) instead
-- from endangered animals](#germplasm-from-endangered-animals)
+- that won't be used for breeding - follow the rules for exporting [animal by-products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html)
+- [from endangered animals](#germplasm-from-endangered-animals)
 
 $CTA
 
