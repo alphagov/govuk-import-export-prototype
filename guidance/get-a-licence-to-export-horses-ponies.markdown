@@ -94,7 +94,6 @@ If you need an export declaration, download the form for:
 
 Fill it in and give it to the aircraft or master of the vessel that’s carrying the horses or ponies.
 
-
 ###Export horses to France
 {:#france}
 
@@ -110,8 +109,6 @@ But you must make sure that each horse travels with a Commercial Document (DOCOM
 - [Weatherbys](https://www.weatherbys.co.uk/horses-racing/bloodstock-studbook/import-export) - for thoroughbreds and horses on the Weatherby’s non-thoroughbreds register
 - [British Equestrian Federation](http://www.bef.co.uk/Contact.aspx) - for FEI horses
 - [British Horseracing Authority](http://www.britishhorseracing.com/bha/about-us/contact-bha/) - for racehorses
-
-
 
 *[APHA]: Animal and Plant Health Agency
 *[ITAHC]: Intra Trade Animal Health Certificate
