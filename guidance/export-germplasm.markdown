@@ -17,6 +17,8 @@ There are different rules if you're exporting germplasm:
 - that won't be used for breeding - follow the rules for exporting [animal by-products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html)
 - from [endangered animals](#germplasm-from-endangered-animals)
 
+[Question for SME: When is germplasm not used for breeding and does it count in the types of things that need a commercial document? If not, we'll change this]
+
 $CTA
 
 Also check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
@@ -52,6 +54,8 @@ You also need to register your premises to export within the EU - this is the pl
 
 [Contact the Centre for International Trade](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to arrange this.
 
+[Question for SME: What are the steps that users must take to get their premises registered?]
+
 ##Outside the EU
 {:#outside-eu}
 
@@ -64,7 +68,7 @@ s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](https://www.gov.uk/find-local-council).
 s6. Your official veterinarian will be asked to check that your germplasm meet the requirements of the country you’re sending them to.
 
-When you get your completed EHC, you must keep it for at least 2 years.
+[Question for SME: How long do you need to keep your EHC for?]
 
 ##Germplasm from endangered animals
 
