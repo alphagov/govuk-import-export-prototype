@@ -28,7 +28,7 @@ $CTA
 
 Within the EU (and the UK), you must create a commercial document to move:
 
-* category 1 or category 2 animal by-products (including meat and bone meal (MBM) or animal fat derived from them) 
+* category 1 or category 2 animal by-products - including meat and bone meal (MBM) or animal fat derived from them
 * processed animal proteins (PAPs) from category 3 
 
 You can [check how your animal by-product is classified](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal). If you need help, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#a-z-of-services).
@@ -36,7 +36,7 @@ You can [check how your animal by-product is classified](https://www.gov.uk/guid
 ###Create a commercial document
 
 s1. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
-s2. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the animal by products you’re exporting.
+s2. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the animal by-products ("ABP") you’re exporting.
 s3. Your commercial document will be sent to you within xxx days.
 s4. Attach the document your consignment when you transport it.
 
@@ -61,8 +61,6 @@ s3. You’ll be given the application form for the EHC you need. Fill it in and 
 s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](https://www.gov.uk/find-local-council).
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
-
-When you get your completed EHC, you must keep it for at least 2 years.
 
 ##Transporting animal by-products
 
