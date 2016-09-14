@@ -26,11 +26,12 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-You must create a commercial document to move category 1 or category 2 animal by-products within the [EU](/eu-eea) (including within the UK).
+Within the EU (and the UK), you must create a commercial document to move:
+
+* category 1 or category 2 animal by-products (including meat and bone meal (MBM) or animal fat derived from them) 
+* processed animal proteins (PAPs) from category 3 
 
 You can [check how your animal by-product is classified](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal). If you need help, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#a-z-of-services).
-
-If you're moving processed animal proteins, you always need a commercial document – even if the proteins are from category 3 by-products.
 
 ###Create a commercial document
 
