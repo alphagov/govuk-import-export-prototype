@@ -1,24 +1,25 @@
 ---
 layout: guidance
-title: Get a licence to export animal semen, ova and embryos
-summary: You must have a licence to export animal semen, ova and embryos (germplasm).
+title: Get a certificate to export animal semen, ova and embryos
+summary: You must have a certificate to export animal semen, ova and embryos (germplasm).
 permalink: /guidance/get-a-licence-to-export-animal-semen-ova-embryos.html
 topic:
   name: Exporting
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need permission to export semen, ova, embryos and other germplasm used for breeding.
-
-If you’re exporting germplasm that isn’t used for breeding purposes, [follow the same rules as for animal by-products](link to ABP content).
+You need a certificate to export animal semen, ova, embryos and other germplasm used for breeding.
 
 What you need to do depends on whether you’re exporting [within the EU](#within-eu) or [outside the EU](#outside-eu).
 
-There are different rules if you're [exporting germplasm from endangered animals](#germplasm-from-endangered-animals)
+There are different rules if you're exporting germplasm:
+
+- that won't be used for breeding - follow the rules for exporting [animal by-products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html) instead
+- from endangered animals](#germplasm-from-endangered-animals)
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+Also check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
 
 $CTA
 
