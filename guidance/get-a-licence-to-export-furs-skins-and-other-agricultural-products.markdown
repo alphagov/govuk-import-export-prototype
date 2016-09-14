@@ -8,23 +8,14 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need permission to export all animal by-products (ABPs) with a high risk of infection and some processed animal proteins (PAPs) from low-risk ABPs.
-
-You won’t need to follow any special rules if you’re exporting PAPs from:
-
-* milk, colostrum or products derived from them
-* gelatine
-* collagen
-* hydrolysed proteins
-* dicalcium phosphate and tricalcium phosphate of animal origin
-* blood products 
-
-There are different rules for :
-
-- ABPs that are [from endangered animals](#endangered-animals)
-- animal products that will be [used as food](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
+You usually need to follow special rules to export bones, skins and other animal by-products.
 
 What you need to do depends on whether you’re exporting [within the EU](#within-eu) or [outside the EU](#outside-eu).
+
+There are different rules for animal by-products:
+
+- from [endangered animals](#endangered-animals)
+- that will be [used as food](/guidance/get-a-licence-to-export-food-and-agricultural-products.html)
 
 $CTA
 
@@ -35,44 +26,29 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-You must complete a commercial document to move these animal by-products (ABPs) within the EU.
+Within the EU (and the UK), you must create a commercial document to move:
 
-All category 1 ABPs, including:
+* category 1 or category 2 animal by-products (including meat and bone meal (MBM) or animal fat derived from them) 
+* processed animal proteins (PAPs) from category 3 
 
-* carcasses and all body parts of animals suspected of being infected with TSE(transmissible spongiform encephalopathy)
-* carcasses of wild animals suspected of being infected with a disease that humans or animals could contract
-* carcasses of animals used in experiments
-* parts of animals that are contaminated due to illegal treatments
-* international catering waste
-* carcasses and body parts from zoo and circus animals or pets
-* specified risk material (body parts that pose a particular disease risk, eg cows’ spinal cords)
+You can [check how your animal by-product is classified](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal). If you need help, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#a-z-of-services).
 
-All category 2 ABPs, including:
-
-* animals rejected from abattoirs due to having infectious diseases
-* carcasses containing traces from authorised treatments
-* unhatched poultry that has died in its shell
-* carcasses of animals killed for disease control purposes
-* carcasses of dead livestock
-* manure
-* digestive tract content
-
-You also need permission to export processed animal proteins (PAP) from category 3:
-
-* carcasses or body parts passed fit for humans to eat, at a slaughterhouse
-* products or foods of animal origin originally meant for human consumption but withdrawn for commercial reasons, not because it’s unfit to eat
-* domestic catering waste
-* shells from shellfish with soft tissue
-* aquatic animals, aquatic and terrestrial invertebrates
-* animal hides, skins, hooves, feathers, wool, horns, and hair that had no signs of infectious disease at death
-
-###Complete a commercial document
+###Create a commercial document
 
 s1. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
+s2. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the animal by products you’re exporting.
+s3. Your commercial document will be sent to you within xxx days.
+s4. Attach the document your consignment when you transport it.
 
-s2. Fill in the details of the ABP you’re exporting 
+[Question for fact check: how long does it take for the commercial document to be sent to the exporter?]
 
-You should also keep a logbook of your consignments, [fill in the template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/425368/logbook-templates.doc) (MS Word Document, 49KB) or create your own document with the same information.
+Instead of using TRACES, you can create your own commercial document. Include details of:
+
+- the animal by-products in your consignment
+- your contact information
+- the business or person you’re sending your goods to
+
+Follow the rules for [record keeping and labelling](https://www.gov.uk/guidance/animal-by-product-categories-site-approval-hygiene-and-disposal#keepingrecords-and-labelling).
 
 ##Outside the EU
 {:#outside-eu}
@@ -88,7 +64,9 @@ s6. Your official veterinarian will be asked to check that your animals meet the
 
 When you get your completed EHC, you must keep it for at least 2 years.
 
+##Transporting animal by-products
 
+Follow the rules for [transporting animal by-products](https://www.gov.uk/guidance/transporting-animal-by-products)
 
 ##Endangered animals
 
