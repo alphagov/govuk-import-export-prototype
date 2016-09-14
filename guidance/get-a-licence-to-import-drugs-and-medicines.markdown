@@ -24,18 +24,37 @@ If your drug is not on the list but you think it might have the properties of a 
 
 ###Apply for a licence
 
-If your drug is on the list you need to:
+If your drug is on the list you need to apply for both:
 
-- apply for a [Home Office Controlled Drugs Licence](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
-- [register for a National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
+- [Controlled Drugs licence](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
+- [a National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 
-Existing licensees without a password should contact [DFLU.dom@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk).
+You should get your licence within 16 weeks. The licence is valid for 3 months.
 
-It can take up to 16 weeks for your application to be processed. The licence is valid for 3 months.
+If you're a retail pharmacy, you usually don't need a domestic licence unless you also need a [wholesaler dealer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences). Email [info@mhra.gsi.gov.uk](mailto:info@mhra.gsi.gov.uk) to check.
+
+###Apply for a Controlled Drugs licence
+
+You must then register with the [Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml).
+
+You can then log in to apply for a [domestic controlled drug licence](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml).
+
+###Apply for an import licence
+
+You need a Home Office Controlled Drug licence to import controlled drugs.
+
+To apply:
+
+- [register for a Home Office Controlled Drugs licence](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
+- [log in once you’ve registered](https://dlcu.homeoffice.gov.uk/Login.aspx)
+
+You only need to register for an online account once - you can then log in to apply for a new licence.
+
+Your licence will be valid for up to 2 months (or until your import permit expires, if sooner).
 
 ###Fees
 
-Each licence costs £24. You pay for it advance and it can only be used for one shipment. You when you apply, you must upload copies of your prescription and letter.
+Each licence costs £24. You need to pay for it before you import and it can only be used for one shipment.
 
 ###Contact
 
