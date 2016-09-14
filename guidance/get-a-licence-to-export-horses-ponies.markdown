@@ -41,14 +41,7 @@ Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/govern
 
 Your ITAHC will be valid for 10 days after the inspection.
 
-[Question for SME: Does the exporter need to do anything else once the vet has signed it?]
-
-If there isn’t an ITAHC for your type of horse, [contact the Animal and Plant Health Agency (APHA)](government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
-
 There's no charge for a certificate.
-
-[Question for fact check - are there any types of horse that _don’t_ have an ITAHC? If not, can we delete the line above?]
-
 
 ##Outside the EU
 {:#outside-eu}
