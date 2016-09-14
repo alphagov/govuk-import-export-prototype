@@ -41,7 +41,7 @@ Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/govern
 
 Your ITAHC will be valid for 10 days after the inspection.
 
-There's no charge for a certificate.
+There's no fee for the certificate.
 
 ##Outside the EU
 {:#outside-eu}
@@ -65,7 +65,7 @@ s5. Your official veterinarian will be asked to check that your animals meet the
 
 Applications will usually be processed within 24 hours of receipt on weekdays. They won't be processed any earlier than 7 days before the certification date.
 
-There's no fee for an EHC.
+There's no fee for the certificate.
 
 ##Check if you need an export welfare declaration
 {:#export-welfare-declaration}
