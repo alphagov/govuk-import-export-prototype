@@ -46,9 +46,9 @@ Your ITAHC will be valid for 10 days after the inspection.
 
 If there isn’t an ITAHC for your species of animal, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) (or [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland).
 
-###Get your premises approved
+###Register your premises
 
-You also need to get your premises approved to export within the EU - this is the place you keep the semen, ova or embryos in the UK.
+You also need to register your premises to export within the EU - this is the place you keep the semen, ova or embryos in the UK.
 
 [Contact the Centre for International Trade](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to arrange this.
 
