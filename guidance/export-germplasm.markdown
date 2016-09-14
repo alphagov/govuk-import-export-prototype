@@ -15,7 +15,7 @@ What you need to do depends on whether you’re exporting [within the EU](#withi
 There are different rules if you're exporting germplasm:
 
 - that won't be used for breeding - follow the rules for exporting [animal by-products](/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html)
-- [from endangered animals](#germplasm-from-endangered-animals)
+- from [endangered animals](#germplasm-from-endangered-animals)
 
 $CTA
 
@@ -35,12 +35,15 @@ To move germplasm within the EU, you must:
 
 s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email ovteam@apha.gsi.gov.uk.
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) if you’ve not used it before.
-s3. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the live animals you’re exporting.
+s3. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the germplasm you’re exporting.
 s4. Contact the [Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) or [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland - tell them that the ITAHC has been created and give them details of your official veterinarian.
-s5. Your certificate will be sent to your official veterinarian once your animals have passed inspection. If your official veterinarian doesn’t receive the certificate, contact the [Centre for International Trade Carlisle.](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)
+s5. Your certificate will be sent to your official veterinarian once your germplasm have passed inspection. If your official veterinarian doesn’t receive the certificate, contact the [Centre for International Trade Carlisle.](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)
 s6. Include the certificate when you export your consignment.
+
 Instead of using TRACES, you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+
 Your ITAHC will be valid for 10 days after the inspection.
+
 If there isn’t an ITAHC for your species of animal, [contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) (or [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland).
 
 ###Get your premises approved
@@ -59,7 +62,7 @@ s2. Tell them what you’re exporting and the destination country, and who your 
 s3. You’ll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](https://www.gov.uk/find-local-council).
-s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
+s6. Your official veterinarian will be asked to check that your germplasm meet the requirements of the country you’re sending them to.
 
 When you get your completed EHC, you must keep it for at least 2 years.
 
