@@ -26,8 +26,8 @@ If your drug is not on the list but you think it might have the properties of a 
 
 If your drug is on the list you need to:
 
-- [register for a National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 - apply for a [Home Office Controlled Drugs Licence](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
+- [register for a National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 
 Existing licensees without a password should contact [DFLU.dom@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk).
 
