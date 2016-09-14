@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Get a licence to export agricultural machinery
-summary: Check if you need a licence or phytosanitary certificate to export used farm machinery.
+title: Get a certificate to export agricultural machinery
+summary: You may need a health certificate to export used farm machinery outside the EU.
 permalink: /guidance/get-a-licence-to-export-agricultural-machinery.html
 topic:
   name: Exporting
@@ -12,16 +12,13 @@ Your used agricultural machinery may need to travel with a plant health certific
 
 You don’t need to do anything inside the EU.
 
+$CTA
 
-##Exporting used farm machinery
+You apply a different way in [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
 
 $CTA
 
-You apply a different way to export plants from [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
-
-$CTA
-
-[Check with the plant authority](https://www.ippc.int/en/countries/all/list-countries/) in the country that you’re exporting to find if you need a health certificate (‘phytosanitary certificate’) to export used farm machinery.
+[Check with the plant authority] in the country that you’re exporting to find out if your farm machinery needs a health certificate (‘phytosanitary certificate’).
 
 Make sure you ask to receive an official document to explain the rules in that country and how to comply - this will help UK inspectors to prepare your export correctly.
 
@@ -31,7 +28,7 @@ Make sure you ask to receive an official document to explain the rules in that c
 You must apply for your machinery to be inspected, either:
 
 * [online through eDomero](https://signon.defra.gov.uk/Login.aspx) 
-* by [filling in this form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536164/form-hh36a.pdf) and send it to [your local APHA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)
+* by [filling in this form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536164/form-hh36a.pdf) and sending it to your [local APHA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening)
 
 
 ###Fees  
