@@ -7,7 +7,7 @@ topic:
   name: Importing
   url: /topic/business-and-self-employed/importing.html
 ---
-Solid wood packaging you use must meet certain requirements or it could be rejected or destroyed.
+You use must meet the requirements for wood packaging or it could be rejected or destroyed.
 
 Packaging products include:
 
@@ -20,7 +20,7 @@ Packaging products include:
 - pallet collars
 - dunnage (loose wood used to protect goods and their packaging)
 
-You don't need to follow these rules for processed woods like plywood, raw wood of less than 6mm thickness or other packaging materials like cardboard.
+You don't need to follow these rules for processed woods like plywood, raw wood of less than 6mm thickness, or other packaging materials like cardboard.
 
 $CTA
 
