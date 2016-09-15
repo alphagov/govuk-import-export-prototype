@@ -30,7 +30,10 @@ $CTA
 
 [Apply for an export licence](http://ec.europa.eu/clima/policies/ozone/ods/) on the European Commission website.
 
-You'll usually get a licence within 5 days if you've already registered and within 15 to 20 days if you're a new applicant.
+You'll usually get a licence:
+
+* within 15 to 29 days if you've just registered
+* within 5 days if you're already signed up on the system
 
 Attach a copy to your consignment or give your freight forwarder your licence number.
 
