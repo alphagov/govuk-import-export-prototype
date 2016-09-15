@@ -134,8 +134,8 @@ What you need to do depends on if you’re exporting within the EU or outside th
 
 If you need one:
 
-* [register with the Forestry Commission]((http://www.forestry.gov.uk/forestry/infd-9nrkps#apply) 
-* Once you have permission, [follow the instructions for issuing a plant passport](http://www.forestry.gov.uk/forestry/infd-9nrkps#2 Issuing plant passports). 
+* [register with the Forestry Commission](http://www.forestry.gov.uk/forestry/infd-9nrkps#apply) 
+* [follow the instructions for issuing a plant passport](http://www.forestry.gov.uk/forestry/infd-9nrkps#2 Issuing plant passports)
 
 ###Outside the EU
 
