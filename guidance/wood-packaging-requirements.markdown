@@ -29,7 +29,7 @@ $CTA
 
 You should specify in your supplier contract that solid wood packaging used by the exporter must meet the [ISPM15 international standards](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) PDF, 197 KB)
 
-If you import from the EU (except Portugal), you can choose to specify less strict standards. Instead of meeting ISMP15, packaging can either be bark-free, or have a plant passport if it’s made out of conifer wood. If it’s kiln dried, it must also be marked ‘KD’.
+If you import from the EU (except Portugal), you can specify less strict standards. Instead of meeting ISMP15, packaging can either be bark-free, or have a plant passport if it’s made out of conifer wood. If it’s kiln dried, it must also be marked ‘KD’.
 
 Having this in your contract will help to protect you if the wood packaging fails an inspection and you're asked to pay for one or more of the following:
 
