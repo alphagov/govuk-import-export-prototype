@@ -7,20 +7,17 @@ topic:
   name: Importing
   url: /topic/business-and-self-employed/importing.html
 ---
-You use must meet the requirements for wood packaging or it could be rejected or destroyed.
+You use must meet the requirements for solid wood packaging or it could be rejected or destroyed.
 
 Packaging products include:
 
 - packing cases
-- boxes
-- crates
+- boxes and crates
 - drums and similar packing
-- pallets
-- box pallets
-- pallet collars
+- pallets, box pallets and pallet collars
 - dunnage (loose wood used to protect goods and their packaging)
 
-You don't need to follow these rules for processed woods like plywood, raw wood of less than 6mm thickness, or other packaging materials like cardboard.
+These rules don't apply to processed woods like plywood, raw wood of less than 6mm thickness, or other packaging materials like cardboard.
 
 $CTA
 
@@ -30,21 +27,21 @@ $CTA
 
 ##Import solid wood packaging
 
-If you import solid wood packaging from outside the EU or from Portugal, specify in your 'supplier' contract with the exporter that it must meet [International Standards for Phytosanitary Measures 15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf)(ISPM15).
+You should specify in your supplier contract that solid wood packaging used by the exporter must meet the [ISPM15 international standards](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) PDF, 197 KB)
 
-If you receive solid wood packaging from another EU country specify in your contract that it must either meet:
+If you import from the EU (except Portugal), you can choose to specify less strict standards. Instead of meeting ISMP15, packaging can either be bark-free, or have a plant passport if it’s made out of conifer wood. If it’s kiln dried, it must also be marked ‘KD’.
 
-* ISPM15
-* be bark-free or have a plant passport if it's made out of conifer wood (if it's kiln dried, it must also be marked KD)
-
-This will help to protect you if the wood packaging you're receiving fails an inspection and you're asked to pay for one or more of the following:
+Having this in your contract will help to protect you if the wood packaging fails an inspection and you're asked to pay for one or more of the following:
 
 - repackaging  of the goods
 - treatment and marking of the wood packaging to meet ISPM15 requirements
 - destruction of the wood packaging
 - return of the wood packaging and, if necessary, the goods inside it
 
-If you’re given the option to treat the packaging, you can [find a company authorised to carry out treatment to ISPM15 standards](http://www.timcon.org/FindASupplier/Default.asp), you can also choose to sent it back to the supplier.
+If the packaging fails an inspection and you're given the option to treat it, you can either:
+
+- [find a company authorised to carry out treatment to ISPM15 standards](http://www.timcon.org/FindASupplier/Default.asp)
+- send the wood packaging back to the supplier 
 
 ##Export solid wood packaging
 
