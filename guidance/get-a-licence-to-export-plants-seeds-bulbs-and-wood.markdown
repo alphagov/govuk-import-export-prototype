@@ -127,8 +127,9 @@ You can [apply for a 50% discount](https://www.gov.uk/government/uploads/system/
 
 What you need to do depends on if you’re exporting within the EU or outside the EU.
 
-###Within the EU
+There are different rules if you’re exporting [wood packaging](http://govuk-import-export.herokuapp.com/guidance/wood-packaging-requirements.html).
 
+###Within the EU
 
 [Check the list](http://www.forestry.gov.uk/forestry/INFD-9P2M34) of timber and wood that need a plant passport.
 
@@ -140,8 +141,6 @@ If you need one:
 ###Outside the EU
 
 Check what you need to do with the importing country’s [plant protection organisation,](https://www.ippc.int/en/countries/all/list-countries/)
-
-There are different rules if you’re exporting [wood packaging](http://govuk-import-export.herokuapp.com/guidance/wood-packaging-requirements.html).
 
 ##Endangered plants
 {:#endangered-plants}
