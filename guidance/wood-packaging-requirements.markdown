@@ -45,7 +45,7 @@ If the packaging fails an inspection and you're given the option to treat it, yo
 
 ##Export solid wood packaging
 
-If you’re moving packaging inside the EU, check that it complies with EU or international plant health regulations.
+If you’re moving packaging inside the EU, check that it complies with EU or international plant health regulations - there are [special rules for Ireland](http://www.forestry.gov.uk/forestry/INFD-9QHKKH).
 
 If you export packaging outside the EU, check if the country you’re trading with accepts ISPM15 and if they have any other requirements. 
 
