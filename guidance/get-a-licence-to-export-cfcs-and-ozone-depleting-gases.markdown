@@ -30,9 +30,9 @@ $CTA
 
 [Apply for an export licence](http://ec.europa.eu/clima/policies/ozone/ods/) on the European Commission website.
 
-You'll usually get a licence within a few weeks
+You'll usually get a licence within 5 days if you've already registered and within 15 to 20 days if you're a new applicant.
 
-[Questions for SME: How much does a licence cost? What does an exporter do with the licence when they've got it? ]
+Attach a copy to your consignment or give your freight forwarder your licence number.
 
 Every year you must report the ODS chemicals you’ve exported by 31 March.
 
