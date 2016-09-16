@@ -84,6 +84,8 @@ Once you've completed it, attach it to your consignment.
 
 You need to apply for an Export Health Certificate (EHC) to export unprocessed animal products outside the EU.
 
+There is a ban on most food export to Russia, ask the Centre for International Trade for details.
+
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email [ovteam@apha.gsi.gov.uk](ovteam@apha.gsi.gov.uk).
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
