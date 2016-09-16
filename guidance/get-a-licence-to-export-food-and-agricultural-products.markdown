@@ -18,7 +18,7 @@ You may need a licence or follow special rules to export:
 
 $CTA
 
-Also check the import rules of the country that you’re exporting to, which may be less or more strict than in the UK (most food products to Russia are banned. You can get [help with overseas customs rules](/answer/choosing-export-market-ukti.html). 
+Also check the import rules of the country you’re exporting to. Talk to your importer or [read the appropriate country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
 
 $CTA
 
@@ -84,16 +84,12 @@ Once you've completed it, attach it to your consignment.
 
 You need to apply for an Export Health Certificate (EHC) to export unprocessed animal products outside the EU.
 
-s1. Contact the [Centre for International Trade Carlisle](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
+s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email [ovteam@apha.gsi.gov.uk](ovteam@apha.gsi.gov.uk).
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to you within [xxx days/weeks].
-s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](http://www.gov.uk//local-council). 
-s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
-
-When you get your completed EHC, you must keep it for at least 2 years.
-
-[Questions for fact check: How long does it usually take to get a EHC? Is there a fee?]
+s4. Your EHC will be sent to your official veterinarian within 7 working days.
+s4. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
+s5. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
 ##Vegetables, fruit and other plants used as food
 {:#plants}
