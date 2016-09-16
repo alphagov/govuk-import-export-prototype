@@ -33,9 +33,9 @@ To move horses or ponies within the [EU](https://www.gov.uk/eu-eea) you must:
 
 s1. Nominate an official veterinarian to inspect your horses. To find one, ask at your local vet or email [ovteam@apha.gsi.gov.uk](mailto:ovteam@apha.gsi.gov.uk).
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
-s3. Sign in to TRACES and fill in the details.
+s3. Sign in to [TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details.
 s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
-s5. attach a copy of the ITHAC to your consignment
+s5. Include the certificate when you export your consignment.
 
 Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487431/form-exa31-equidae.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
@@ -59,11 +59,9 @@ There’s a [ban on exporting pure bred horses to North Korea](/guidance/exporti
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email [ovteam@apha.gsi.gov.uk](mailto:ovteam@apha.gsi.gov.uk).
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to you within xxx days/weeks.
+s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s4. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
 s5. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
-
-Applications will usually be processed within 24 hours of receipt on weekdays. They won't be processed any earlier than 7 days before the certification date.
 
 There's no fee for the certificate.
 
