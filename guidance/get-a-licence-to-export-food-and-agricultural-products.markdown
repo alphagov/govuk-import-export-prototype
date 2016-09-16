@@ -18,7 +18,7 @@ You may need a licence or follow special rules to export:
 
 $CTA
 
-Also check the import rules of the country that you’re exporting to, which may be less or more strict than in the UK. You can get [help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+Also check the import rules of the country that you’re exporting to, which may be less or more strict than in the UK (most food products to Russia are banned. You can get [help with overseas customs rules](/answer/choosing-export-market-ukti.html). 
 
 $CTA
 
