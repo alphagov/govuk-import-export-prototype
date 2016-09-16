@@ -146,8 +146,8 @@ s3. You'll be given the application form for the EHC you need. Fill it in and re
 s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
+s7. Include the certificate when you export your consignment.
 
-When you get your completed EHC, you must keep it for at least 2 years.
 
 There are different rules for [endangered animals](#endangered-animals).
 
