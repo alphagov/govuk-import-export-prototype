@@ -34,16 +34,16 @@ If you export poultry, you must also join the [Poultry Health Scheme](#poultry).
 
 [Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
 
-s1. Nominate an official veterinarian to inspect your livestock. To find one, ask at your local vet or email <ovteam@alpha.gsi.gov.uk>.
+s1. Nominate an official veterinarian to inspect your horses. To find one, ask at your local vet or email [ovteam@apha.gsi.gov.uk](mailto:ovteam@apha.gsi.gov.uk).
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
-s3. Sign in to TRACES and fill in the details.
-s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA office](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+s3. Sign in to [TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+s5. Include the certificate when you export your consignment.
 
-Instead of using TRACES,  you can fill in [form EXA31](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487419/form-exa31.pdf) (PDF, 657KB) and send it to the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+Instead of using TRACES,  you can fill in form EXA31 for [livestock](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487433/form-exa31-livestock.pdf)(PDF, 657KB)or [poultry](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487438/form-exa31-poultry.pdf)(PDF, 617KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-Your ITAHC will be valid for 10 days after the inspection. You must keep it for 3 years.
+Your ITAHC will be valid for 10 days after the inspection.
 
-[Question for SME: Does the exporter need to do anything else once the vet has signed it?]
 
 ##Outside the EU
 {:#outside-eu}
