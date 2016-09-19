@@ -44,8 +44,6 @@ You will receive your certificate within 1 week of your application.
 
 There's no fee for the certificate.
 
-- fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) form at least 5 working days before you export. Email or post it to the address on the form.
-
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
 
 ##Outside the EU
