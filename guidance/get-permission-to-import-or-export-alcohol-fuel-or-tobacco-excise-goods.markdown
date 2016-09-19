@@ -1,17 +1,14 @@
 ---
 layout: guidance
-title: Get permission to export alcohol, fuel or tobacco (‘excise goods’)
-summary: 'You must get permission to export excise goods: alcohol, fuel or tobacco.'
+title: Export alcohol, fuel or tobacco (‘excise goods’) - special rules
+summary: 'There are special rules for exporting excise goods: alcohol, fuel or tobacco.'
 permalink: /guidance/get-permission-to-import-or-export-alcohol-fuel-or-tobacco-excise-goods.html
 topic:
-  name: Importing
-  url: /topic/business-and-self-employed/importing.html
+  name: Exporting
+  url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-## Export alcohol, tobacco or fuel (‘excise goods’)
-
 Excise goods are goods you have to pay [alcohol excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/alcohol-duties), [fuel excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/fuel-duty) or [tobacco excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/tobacco-products-duty) on.
-
 
 ## Exporting excise goods: your options
 
