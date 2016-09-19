@@ -59,7 +59,7 @@ s5. Check your EHC’s guidance notes to find out if you need your EHC signed by
 s6. If you’re exporting poultry, check your EHC. It’ll say if you need to join the [Poultry Health Scheme](#poultry).
 s7. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
-[Questions for fact check: How long does it usually take to get a EHC? Is there a fee?]
+There's no fee for a certificate.
 
 ###Exporting outside the EU via another EU country
 {:#via-eu}
@@ -78,7 +78,7 @@ You must be a member of the Poultry Health Scheme (PHS) to export:
 
 To join the PHS, contact APHA.
 
-<AHspecialistservicecentreworcester@ahvla.gsi.gov.uk>  
+<AHspecialistservicecentreworcester@apha.gsi.gov.uk>  
 Telephone: 03000 200 301   
 Fax: 01905 768649   
 [Find out about call charges](/call-charges)   
