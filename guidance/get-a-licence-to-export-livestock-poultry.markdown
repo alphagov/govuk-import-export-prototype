@@ -90,7 +90,7 @@ Spetchley Road
 Worcester   
 WR5 2NP    
 
-Once APHA has received your application, a Veterinarian will inspect your premises before you join the scheme. 
+Once APHA has received your application, a veterinarian will inspect your premises before you join the scheme. 
 
 
 $CTA
