@@ -17,11 +17,11 @@ You must be registered with HMRC to produce excise goods or to handle excise goo
 If you’re registered with HMRC to produce excise goods, you can:
 
 - export the goods outside the EU without paying UK excise duty, and instead pay the excise duty in the country the goods are being imported to
-- move goods within the EU while they’re in duty suspension
+- get approval to move goods within the EU while they’re in duty suspension
 - move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
-- sell goods directly to overseas consumers
+- sell goods directly to customers outside the UK
 
-If you buy excise goods produced by someone else, the UK excise duty will already have been paid. You can:
+If you buy excise goods produced by someone else and the UK excise duty has already have been paid. You can:
 
 - export goods outside the EU
 - move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
@@ -61,22 +61,21 @@ It’s free to apply and the certificates don’t expire (unless the country you
 
 You can sell duty suspended excise goods to someone based outside the UK if they:
 
-- are approved as a [‘registered owner’ of excise goods](https://www.gov.uk/guidance/receiving-storing-and-moving-excise-goods) in the UK or another EU country
+- are approved as a [‘warehouse keeper’ of excise goods](https://www.gov.uk/guidance/receiving-storing-and-moving-excise-goods) in the UK or another EU country
 - have a ‘duty representative’ registered with HMRC acting for them
-
-[Question for SME: do we need to mention non-revenue traders here - and if so, what is the non-revenue traders exclusion designed to achieve? Is it aimed to exclude people who are part of the supply chain, but aren’t directly involved in selling excise goods?]
 
 If you sell them to anyone else, excise duty becomes payable immediately.
 
-If you follow the right processes, the excise duty isn’t payable until the goods are released for sale. And the importer is responsible for paying the excise duty.
+If you follow the right processes, the excise duty isn’t payable until the goods are released. And the importer is responsible for paying the excise duty.
 
 ### How to move duty suspended goods within the EU
 
-You can only move goods under excise duty suspension if they’re in ‘free circulation’. Being in free circulation means that any import duty or import VAT due has been paid.
+You can only move goods under excise duty suspension if, either: 
+
+* they’ve been made inside the EU
+* any import duty or import VAT due has been paid
 
 Usually, you must use the [Excise Movement and Control System (EMCS)](https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use) to report that you’re moving excise goods in duty suspension.
-
-If the freight forwarder or agent you’re using to move the goods is registered with HMRC for the [Entry in the Declarants Records (EIDR) scheme](https://www.gov.uk/guidance/introduction-of-the-union-customs-code-ucc), you can pass the goods to them without making a report through EMCS. Ask your freight forwarder or agent if they are registered for EIDR.
 
 ## Moving duty paid goods overseas
 
@@ -93,7 +92,7 @@ country.
 
 [Question for SME: is chewing tobacco subject to excise duty at both ends, or is there an alternative way of avoiding double taxation?]
 
-## Selling goods directly to overseas consumers
+## Selling goods directly to customers outside the UK
 
 $CTA
 
