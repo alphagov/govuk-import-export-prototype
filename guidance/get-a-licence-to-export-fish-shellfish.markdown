@@ -16,20 +16,33 @@ What you need to do to export live fish or shellfish depends on whether you’re
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+Also check the import rules of the country you’re exporting to. Talk to your importer or read the appropriate [country guide](https://www.gov.uk/government/collections/exporting-country-guides), which includes contact details for local advice.
 
 $CTA
 
 ##Within the EU
 {:#within-eu}
 
-You may need health certificate to move live fish and shellfish within the [EU](/eu-eea).
+###Apply for an ITAHC
+{:#animal-health-certificate}
 
-Check if the fish or shellfish carries, or the species is at risk of, a [notifiable disease](https://www.gov.uk/guidance/report-serious-fish-or-shellfish-diseases#notifiable-fish-and-shellfish-diseases). If it is, you’ll need a free health certificate. 
+s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email [ovteam@apha.gsi.gov.uk](mailto:ovteam@apha.gsi.gov.uk].
+s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) if you’ve not used it before.
+s3. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the animals you're exporting.
+s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
+s5. Your certificate will be sent to your official veterinarian once your animals have passed inspection. If your official veterinarian doesn't receive the certificate, contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+s6. Include the certificate when you export your consignment.
 
-[Question for fact check: what is meant by ‘at risk of’ disease? Does this mean you need a certificate to export any species listed as susceptible in [this document](https://goo.gl/Uh7eSn). If so, there are over 100 species susceptible to EUS - how would you know if you need a certificate if the species isn't listed?]
+Instead of using TRACES you can:
 
-Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) form at least 5 working days before you export. Email or post it to the address on the form.
+- fill in [form EXP1](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (PDF, 166KB) and the details obtained from the importing authorities
+- email or post it to the address on the form at least 5 working days before you send your goods
+
+You will receive your certificate within 1 week of your application.
+
+There's no fee for the certificate.
+
+- fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) form at least 5 working days before you export. Email or post it to the address on the form.
 
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
 
@@ -47,11 +60,11 @@ To export live fish and shellfish outside the EU, you must:
 s1. Contact the [Centre for International Trade Carlisle](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to you within xxx days/weeks.
+s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](http://www.gov.uk/local-council). 
 s6. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
-[Question for fact check: how long does it take to get an EHC? Is it free? Do you have to attach the cerrtificate to the consignment?]
+There's no fee for the certificate.
 
 ###Check if you need a UK catch certificate
 {:#catch-certificate}
