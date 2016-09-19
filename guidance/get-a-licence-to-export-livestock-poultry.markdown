@@ -30,20 +30,18 @@ If you export poultry, you must also join the [Poultry Health Scheme](#poultry).
 ###Apply for an ITAHC
 {:#animal-health-certificate}
 
-[Question for SME: how much does it cost to get a certificate?]
-
-[Question for SME: what do you need to do with your certificate when you have it? Is it a case of attaching it to your export declaration?]
-
 s1. Nominate an official veterinarian to inspect your horses. To find one, ask at your local vet or email [ovteam@apha.gsi.gov.uk](mailto:ovteam@apha.gsi.gov.uk).
-s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)
+s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)if you’ve not used it before.
 s3. Sign in to [TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details.
 s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
-s5. Include the certificate when you export your consignment.
+s5. Your certificate will be sent to your official veterinarian once your animals have passed inspection. If your official veterinarian doesn’t receive the certificate, contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+s6. Include the certificate when you export your consignment.
 
 Instead of using TRACES,  you can fill in form EXA31 for [livestock](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487433/form-exa31-livestock.pdf)(PDF, 657KB)or [poultry](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487438/form-exa31-poultry.pdf)(PDF, 617KB) and send it to the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Your ITAHC will be valid for 10 days after the inspection.
 
+There's no fee for a certificate.
 
 ##Outside the EU
 {:#outside-eu}
@@ -60,8 +58,6 @@ s4. Your EHC will be sent to you within xxx days/weeks.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
 s6. If you’re exporting poultry, check your EHC. It’ll say if you need to join the [Poultry Health Scheme](#poultry).
 s7. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
-
-When you get your completed EHC, you must keep it for at least 2 years.
 
 [Questions for fact check: How long does it usually take to get a EHC? Is there a fee?]
 
@@ -90,12 +86,11 @@ Fax: 01905 768649
 Poultry Health Scheme Section   
 Animal and Plant Health Agency (APHA)    
 Specialist Service Centre    
-Block C, Government Buildings    
-Whittington Road    
+Spetchley Road  
 Worcester   
-WR5 2LQ    
+WR5 2NP    
 
-Once APHA has received your application, a Veterinary Officer will inspect your premises before you join the scheme. 
+Once APHA has received your application, a Veterinarian will inspect your premises before you join the scheme. 
 
 
 $CTA
@@ -132,7 +127,7 @@ Your membership lasts for one year. You’ll get a letter one month before it’
 
 When you renew, you need to pay for another year's registration and inspection approval (plus any laboratory tests you need). 
 
-The approval fees are lower than in the first year, and are reduced further if you choose to get an inspection from a surgeon who isn’t a Veterinary Officer.
+The approval fees are lower than in the first year, and are reduced further if you choose to get an inspection from a surgeon who isn’t a Veterinarian.
 
 | Type of inspection approval      | Fee |
 |---------------|------------------|
