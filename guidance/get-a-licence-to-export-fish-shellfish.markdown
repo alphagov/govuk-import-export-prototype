@@ -23,6 +23,8 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
+If the country you’re exporting to requires you to have a health certificate, you must get an Intra Trade Animal Health Certificate (ITAHC).
+
 ###Apply for an ITAHC
 {:#animal-health-certificate}
 
