@@ -54,7 +54,7 @@ To export livestock or poultry outside the EU you must apply for an Export Healt
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk>.
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to you within xxx days/weeks.
+s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
 s6. If you’re exporting poultry, check your EHC. It’ll say if you need to join the [Poultry Health Scheme](#poultry).
 s7. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
