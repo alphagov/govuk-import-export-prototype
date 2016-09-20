@@ -28,7 +28,7 @@ $CTA
 
 If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
 
-If your drug is on the list, you need to apply for both [Home office controlled drug licence](#apply-export-licence) to export it - you must already have a domestic licence, if you don't,[apply for one](https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies).
+If your drug is on the list, you need to apply for both [Home office controlled drug licence](#apply-export-licence) to export it - you must already have a domestic licence, if you don't, [apply for one](https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies).
 
 ###Apply for an export licence
 {:#apply-export-licence}
