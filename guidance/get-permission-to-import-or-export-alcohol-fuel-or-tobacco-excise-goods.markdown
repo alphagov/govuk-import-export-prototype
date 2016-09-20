@@ -21,7 +21,7 @@ If you’re registered with HMRC to produce excise goods, you can:
 - move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
 - sell goods directly to customers outside the UK
 
-If you buy excise goods produced by someone else and the UK excise duty has already have been paid. You can:
+If you buy excise goods produced by someone else and the UK excise duty has already been paid, you can:
 
 - export goods outside the EU
 - move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
@@ -83,9 +83,9 @@ If you send excise goods to another country, that country will usually apply exc
 
 So that you don’t pay excise duty twice, you can claim excise duty drawback on the UK excise duty that’s already been paid.
 
-To claim excise duty, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. Private individuals can’t claim excise duty drawback.
+To claim excise duty drawback, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. Private individuals can’t claim excise duty drawback.
 
-You can’t claim excise duty drawback on goods you send to the Isle of Man, because it uses the same excise duty system as the UK.
+You can’t claim it on goods you send to the Isle of Man, because it uses the same excise duty system as the UK.
 
 Chewing tobacco doesn’t qualify for excise duty drawback if you’re sending it to another EU 
 country.
