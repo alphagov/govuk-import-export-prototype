@@ -83,7 +83,7 @@ If you send excise goods to another country, that country will usually apply exc
 
 So that you don’t pay excise duty twice, you can claim excise duty drawback on the UK excise duty that’s already been paid.
 
-To claim excise duty drawback, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. Private individuals can’t claim excise duty drawback.
+To claim excise duty drawback, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. 
 
 You can’t claim it on goods you send to the Isle of Man, because it uses the same excise duty system as the UK.
 
@@ -102,7 +102,7 @@ $CTA
 
 All EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
 
-EU countries may tell you to appoint a tax representative in their country (eg an accountant or law firm) to guarantee and pay the duty on your behalf.
+EU countries may tell you to appoint a tax representative in their country (for example, an accountant or law firm) to guarantee and pay the duty on your behalf.
 
 [Question for SME: are accountants and law firms good examples?
 
