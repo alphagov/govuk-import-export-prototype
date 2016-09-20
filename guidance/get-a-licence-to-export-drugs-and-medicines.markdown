@@ -28,30 +28,7 @@ $CTA
 
 If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
 
-If your drug is on the list, you need to apply for both:
-
-- [a controlled drugs licence](#apply-licence).
-- [a National Drugs control System export licence](#apply-export-licence)
-
-###Apply for a controlled drugs licence
-{:#apply-licence}
-
-Each person named on your applications must have a Disclosure and Barring Service (DBS) enhanced disclosure check. Contact Security Watchdog to apply.
-
-*Security Watchdog*
-Telephone: 0114 241 3280
-Monday to Friday, 9am to 5:30pm
-[Find out about call charges](/call-charges)
-
-You must then [register with the Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml).
-
-You can then log in to [apply for a domestic controlled drug licence.](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml)
-
-If you need a purchase order number on the invoice, state this when you apply or email [DFLU.fees@homeoffice.gsi.gov.uk](mailto: DFLU.fees@homeoffice.gsi.gov.uk)
-
-If you’re applying for the first time, your premises will be visited as part of your application. Contact [DFLU.com@homeoffice.gsi.gov.uk](mailto:DFLU.dom@homeoffice.gsi.gov.uk) or the duty line on 0207 035 8972 for queries.
-
-[SME question: How much does this licence cost? How long is this licence valid for?]
+If your drug is on the list, you need to apply for both [Home office controlled drug licence](#apply-export-licence) to export it - you must already have a domestic licence, if you don't,[apply for one](https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies).
 
 ###Apply for an export licence
 {:#apply-export-licence}
