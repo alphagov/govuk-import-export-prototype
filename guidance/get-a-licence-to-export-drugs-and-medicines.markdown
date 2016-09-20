@@ -28,19 +28,21 @@ $CTA
 
 If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
 
-If your drug is on the list, you need to apply for both [Home office controlled drug licence](#apply-export-licence) to export it - you must already have a domestic licence, if you don't, [apply for one](https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies).
+If your drug is controlled, you need to apply for a [Home office controlled drug licence](#apply-export-licence) to export it.
+
+$CTA
+
+You must already have a domestic licence before you export, if you don't, [apply for one](https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies).
+
+$CTA
+
 
 ###Apply for an export licence
 {:#apply-export-licence}
 
 You need a Home Office Controlled Drug licence to export controlled drugs anywhere in the world.
 
-To apply:
-
-- [register for a Home Office Controlled Drugs licence](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
-- [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) once you’ve registered
-
-You only need to register for an online account once - you can then log in to apply for a new licence.
+To apply, [register for a Home Office Controlled Drugs licence](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) if you're applying for the first time or [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) to your existing account.
 
 Your licence will be valid for up to 2 months (or until your import permit expires, if sooner).
 
