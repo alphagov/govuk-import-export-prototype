@@ -53,7 +53,7 @@ If you need a certificate:
 - fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB)
 - send it to <trader@rpa.gsi.gov.uk>
  
-You’ll usually get your certificate within 5 working days.
+You’ll get your certificate within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
 
