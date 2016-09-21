@@ -46,7 +46,7 @@ If it’s on either list, you’ll need to make a plant passport. You need permi
 * fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/500861/
 form-phar3.pdf) and [send it to your local Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices)
 
-The Animal and Plant Health Agency (APHA) will arrange to inspect your plants and where they're grown. The fee is £46.10 for every 15 minutes of the inspector’s time, including travel. There’s a minimum fee of £92.19. 
+The Animal and Plant Health Agency (APHA) will arrange to inspect your plants and where they're grown. The fee is £46.10 for every 15 minutes of the inspector’s time. There’s a minimum fee of £92.19. 
 
 You can make plant passports when you pass your inspection - APHA will explain how to do this.
 
