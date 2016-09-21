@@ -38,132 +38,32 @@ You must report any suspicious transactions - [check the contact in the country 
 
 You may need a licence or to follow special rules to export drug precursor chemicals. This includes moving them within the EU.
 
-Precursors are chemicals that can be used to manufacture controlled drugs. The table shows drug precursors and their category - this affects what you need to do to move or export them.
+$CTA
 
+[You must already have a domestic license](https://www.gov.uk/guidance/precursor-chemical-licensing) before you apply for an export licence.
 
-| Precursor                                   | Category |
-|---------------------------------------------|----------|
-| 1-phenyl-2-propanone (BMK)                  | 1        |
-| 3-4 Methylenedioxy-Phenylpropan-2-one (PMK) | 1        |
-| Alpha-phenylacetoacetonitrile (APAAN)       | 1        |
-| Ephedrine                                   | 1        |
-| Ergometrine                                 | 1        |
-| Ergotamine                                  | 1        |
-| Isosafrole                                  | 1        |
-| Lysergic acid                               | 1        |
-| N-acetylanthranilic acid                    | 1        |
-| Norephedrine                                | 1        |
-| Pseudoephedrine                             | 1        |
-| Piperonal                                   | 1        |
-| Safrole                                     | 1        |
-| Acetic anhydride                            | 2A       |
-| Anthranilic acid                            | 2B       |
-| Phenylacetic acid                           | 2B       |
-| Piperidine                                  | 2B       |
-| Potassium permanganate                      | 2B       |
-| Acetone                                     | 3        |
-| Ethyl ether                                 | 3        |
-| Hydrochloric acid                           | 3        |
-| Methyl ethyl ketone (MEK)                   | 3        |
-| Toluene                                     | 3        |
-| Sulphuric acid                              | 3        |
-
-The rules for drug precursor chemicals also apply to products that include them unless:
-
-- the product is for medicinal use by humans or animals (ephedrine and pseudoephedrine are exceptions to this that always need an export licence)
-- the precursor chemical can’t be easily used or extracted 
-
-###When you don't need a precursor licence
-
-You don’t need a licence or follow special rules to:
-
-- move category 2 chemicals within the EU in [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb)
-- move category 3 chemicals within the EU
-- export of category 3 chemicals outside the EU in [small quantities](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb), unless you're exporting to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb)
-
-###Tasks to complete if you need a precursor licence
-
-You need to complete these tasks.
-
-s1. Get named applicants an [enhanced DBS check](#dbs).
-s2. [Register with the Controlled Drugs Licensing System](#domestic-licence-registration). You also need to apply for a domestic licence for category 1 chemicals.
-s3. Get a [declaration from the end-user](#end-user). This isn’t required for category 2B chemicals.
-s4. [Apply for an export licence](#apply-export-licence), if you’re exporting outside the EU. 
-s5. [Fill in an annual return](#annual-returns-precursors) by 31 January.
-
-If you export category 3 chemicals in [small amounts](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523889/5_-_Precursor_Wallchart_-_Domestic-_May_2016.pdf) (PDF, 17kb)  outside the EU to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb), you only need an export licence. Don’t complete the other steps.
-
-
-
-
-###Get an enhanced disclosure check
-{:#dbs}
-
-Each person named on your application must have a Disclosure and Barring Service (DBS) enhanced disclosure check. 
-
-Contact Security Watchdog to apply for a DBS enhanced disclosure.
-
-**Security Watchdog**  
-Telephone: 0114 241 3280  
-Monday to Friday, 9am to 5:30pm  
-[Find out about call charges](/call-charges)
-
-###Register with the Controlled Drugs Licensing System
-{:#domestic-licence-registration}
-
-For all precursor chemicals, you must [register with the Controlled Drugs Licensing System.](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
-
-For category 1 chemicals only, you can then [log in to your account](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml) to apply for a domestic licence for precursor chemicals.
-
-You should get a decision about the domestic licence within 16 weeks. If you’re applying for the first time, your premises will be visited as part of your application.
-
-[SME question: What can they do if they haven't got a decision after 16 weeks?
-
-####Fees
-
-A new precursor licence for category 1 chemicals costs £3,655 and lasts for one year. The cost to renew is £326. 
-
-The cost for registration for category 2 and 3 chemicals is £435.
-
-###End-user declaration
-{:#end-user}
-
-You must ask the person receiving the goods to give you a completed end-user declaration form.
-
-Get them to fill in form for either:
-
-- [a single transaction](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/98062/customer-dec-1-2-individual.xls) (Excel, 23kb)
-- [multiple transactions](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/98061/customer-dec-1-2-multiple.xls) (Excel, 23kb)
-
-[Question for SME: What does the exporter do with this form? And what if the person they’re exporting to isn’t the end-user - do they still have to complete the form?]
+$CTA
 
 ###Apply for an export licence
 {:#apply-export-licence}
 
-You need an export licence for:
+[Check the table](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb) to confirm if your chemical needs:
 
-- all category 1 chemicals
-- category 2 or 3 chemicals you export to [certain countries](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb)
+* an export licence (“individual authorisation”) 
+* a pre-export notification (“PEN”) - you won’t need to apply for anything else but your licence will take 15 days longer to be processed
 
 To apply, either:
 
 - [register for an account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) with the National Drugs control System (NDS)
 - [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) if you’ve already registered
 
-You’ll need:
-
-- your [company number](https://www.gov.uk/get-information-about-a-company) for the notes field
-- to submit a copy of the import permit from the country you’re exporting to - send the original to [the Drug Licensing and Compliance Unit](#contact-dlcu) (DLCU)
-
-Your licence will be valid for up to 2 months (or until your import permit expires, if sooner).
+Your licence will be valid for up to 3 months (or until your import permit expires, if sooner).
 
 #####Fees
 
-The export licence costs £24. A replacement licence costs £45.
+The export licence costs £24 - an invoice will be sent to your address.
 
-DLCU will send you a written invoice to the registered address on your customer account.
-
-If you need a purchase order number on the invoice, state this when you apply or email [DLCUfees@homeoffice.gsi.gov.uk](DLCUCommsOfficer@homeoffice.gsi.gov.uk).
+If you need a purchase order number on the invoice, state this when you apply or email DFLU.fees@homeoffice.gsi.gov.uk.
 
 ###Annual returns
 {:#annual-returns-precursors}
