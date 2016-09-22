@@ -28,14 +28,11 @@ To apply for a free certificate you'll need:
 
 $CTA
 
-The certificate you need depends on whether you're importing:
-
-- an EU-authorised veterinary medicine - [apply for Special Imports Certificate](https://www.vmd.defra.gov.uk/sis/sic-application.aspx) (SIC)
-- any other medicine  - [apply for Special Treatment Certificate](https://www.vmd.defra.gov.uk/sis/stc-application.aspx) (STC)
+[Apply online to get a certificate](https://www.vmd.defra.gov.uk/sis/default.aspx).
 
 $CTA
 
-For STCs, you’ll need to apply separately for each species of animal that the medicine is for.
+You'll get a Special Imports Certificate (SIC) if you're importing EU-authorised medicine. Otherwise you'll get a Special Treatment Certificate (STC). For STCs, you’ll need to apply separately for each species of animal that the medicine is for.
 
 If the medicine isn’t fully authorised in the country you’re importing from, contact <importcert@vmd.defra.gsi.gov.uk> before you apply. 
 
