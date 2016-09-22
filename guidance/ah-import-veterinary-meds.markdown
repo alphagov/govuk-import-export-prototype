@@ -41,7 +41,7 @@ If the online system is down, you can use [paper forms](#paper-forms).
 You’ll get an email after you've applied. It’ll either:
 
 - include your certificate
-- say that VMD need to evaluate your application - if successful, you’ll get your certificate within 10 working days
+- say that VMD need to evaluate your application - you’ll get your certificate within 10 working days, if you're successful
 
 If you need the medicine urgently, VMD may be able to issue your certificate within 2 working days. Contact <importcert@vmd.defra.gsi.gov.uk> and explain why your case is urgent. 
 
@@ -93,8 +93,7 @@ You need a WDIC certificate to import medicines to supply to vets.
 
 You can [apply online for a WDIC](https://www.vmd.defra.gov.uk/sis/wdic-application.aspx).
 
-You’ll need your WDA number
-https://www.gov.uk/guidance/apply-for-a-veterinary-medicine-wholesale-dealers-authorisation-wda
+You’ll need your [wholesale dealer's authorisation](https://www.gov.uk/guidance/apply-for-a-veterinary-medicine-wholesale-dealers-authorisation-wda) (WDA) number.
 
 [question: the source content say that registered pharmacists can also apply for WDIC (and that they'll need their registration no. How they can apply when the online service requires the user to select a wholesaler? Do they still have to use the paper form?]
 
@@ -112,16 +111,10 @@ You should get your certificate emailed to you within 10 working days, if your a
 
 The certificate is free for smaller wholesalers. 
 
-Otherwise, it costs £760 if there are more than 100 SICs or STCs that name the you as the importer in the 12 months before your application. You’ll get an invoice after you’ve received your certificate.
+Otherwise, it costs £760 if you're named as the importer on more than 100 import certificates over a 12 month period. You’ll get an invoice after you’ve received your certificate.
 
 ###Importing allergens to supply a vet
 
 You usually need a [manufacturing authorisation](https://www.gov.uk/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk) to package and label unauthorised veterinary medicines.
 
-But a vet or a pharmacist without this authorisation can relabel or repackage instead, as long as the allergen is a finished product (not one that needs preparation or mixing before you supply it).
-
-###What you need to do
-
-Follow the usual rules for importing as a wholesaler. When applying for the SIC or STC, the vet should name your laboratory as importer.
-
-Extemporaneous preparations, that is, medicines that are tailor-made for a particular animal by a veterinary surgeon, a pharmacist or a person who holds an appropriate manufacturing authorisation
+But a vet or a pharmacist without this authorisation can relabel or repackage allergens that are imported as a finished product. This dispensation doesn't apply to allergens that need preparation or mixing before its' supplied.
