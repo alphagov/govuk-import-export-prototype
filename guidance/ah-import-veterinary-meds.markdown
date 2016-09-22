@@ -15,7 +15,7 @@ You need to apply for an import certificate from Veterinary Medicines Directorat
 - [researcher](#research)
 - [wholesaler](#wholesale)
 
-[Question for fact check: do the rules for controlled drugs apply to all, not just WDICs as implied by the live content?]
+[Question for fact check: do the rules for controlled drugs apply to all, not just WDICs as implied by the live content - https://www.gov.uk/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk?]
 
 ##If you’re a veterinary surgeon
 {:#vet}
@@ -100,7 +100,7 @@ $CTA
 
 $CTA
 
-[question: the source content say that registered pharmacists can also apply for WDIC (and that they'll need their registration no. How they can apply when the online service requires the user to select a wholesaler? Do they still have to use the paper form?]
+[question: the source content say that registered pharmacists can also apply for WDIC (and that they'll need their registration no). How they can apply when the online service requires the user to select a wholesaler? Do they still have to use the paper form?]
 
 ###How much you can import
 
