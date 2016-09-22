@@ -112,7 +112,7 @@ The certificate is free for smaller wholesalers.
 
 Otherwise, it costs £760 if there are more than 100 SICs or STCs that name the you as the importer in the 12 months before your application. You’ll get an invoice after you’ve received your certificate.
 
-##Importing allergens to supply a vet
+###Importing allergens to supply a vet
 
 You usually need a [manufacturing authorisation](https://www.gov.uk/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk) to package and label unauthorised veterinary medicines.
 
