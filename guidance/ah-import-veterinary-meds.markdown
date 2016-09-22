@@ -130,4 +130,4 @@ Otherwise, it costs £760 if you're named as the importer on more than 100 impor
 
 A vet or a pharmacist without a manufacturing authorisation can relabel or repackage allergens that are imported as a finished product. 
 
-The normal rules apply for allergens that need preparation or mixing before it's supplied. You can find out about and apply for a [manufacturing authorisation](https://www.gov.uk/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk)
+The normal rules apply for allergens that need preparation or mixing before it's supplied. You can find out about and apply for a [manufacturing authorisation](https://www.gov.uk/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk).
