@@ -22,7 +22,7 @@ You need to apply for an import certificate from Veterinary Medicines Directorat
 
 To apply for a free certificate you'll need:
 
-- to know if the medicine is EU-authorised - check using the [EU veterinary medicinal product](http://vet.eudrapharm.eu/vet/searchbykeyword.do)
+- to know if the medicine is EU-authorised - check using the [EU veterinary medicinal product database](http://vet.eudrapharm.eu/vet/welcome.do?selectedStaticLocale.languageCode=en)
 - your RCVS number - you can [search the register](http://www.rcvs.org.uk/find-a-surgeon/surgeon)
 
 $CTA
