@@ -24,7 +24,9 @@ To apply for a free certificate you'll need:
 - to know if the medicine is EU-authorised - check using the [EU veterinary medicinal product](http://vet.eudrapharm.eu/vet/searchbykeyword.do)
 - your RCVS number - you can [search the register](http://www.rcvs.org.uk/find-a-surgeon/surgeon)
 
-The certificate you need depeonds on whether you're importing:
+###Apply online
+
+The certificate you need depends on whether you're importing:
 
 - an EU-authorised veterinary medicine - [apply for Special Imports Certificate](https://www.vmd.defra.gov.uk/sis/sic-application.aspx) (SIC)
 - any other medicine  - [apply for Special Treatment Certificate](https://www.vmd.defra.gov.uk/sis/stc-application.aspx) (STC)
