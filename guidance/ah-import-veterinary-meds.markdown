@@ -24,20 +24,12 @@ To apply for a free certificate you'll need:
 - to know if the medicine is EU-authorised - check using the [EU veterinary medicinal product](http://vet.eudrapharm.eu/vet/searchbykeyword.do)
 - your RCVS number - you can [search the register](http://www.rcvs.org.uk/find-a-surgeon/surgeon)
 
-$CTA
+The certificate you need depeonds on whether you're importing:
 
-[Apply online to get a certificate](https://www.vmd.defra.gov.uk/sis/default.aspx).
-
-$CTA
-
-The certificate you get depeonds on whether you're importing:
-
-- an EU-authorised veterinary medicine - you’ll get a Special Imports Certificate (SIC)
-- any other medicine  - you’ll get a Special Treatment Certificate (STC)
+- an EU-authorised veterinary medicine - [apply for Special Imports Certificate](https://www.vmd.defra.gov.uk/sis/sic-application.aspx) (SIC)
+- any other medicine  - [apply for Special Treatment Certificate](https://www.vmd.defra.gov.uk/sis/stc-application.aspx) (STC)
 
 For STCs, you’ll need to apply separately for each species of animal that the medicine is for.
-
-The certificate lasts one year.
 
 If the medicine isn’t fully authorised in the country you’re importing from, contact <importcert@vmd.defra.gsi.gov.uk> before you apply. 
 
