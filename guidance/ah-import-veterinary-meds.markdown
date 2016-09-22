@@ -17,7 +17,7 @@ You need to apply for an import certificate from Veterinary Medicines Directorat
 
 
 ##If you’re a veterinary surgeon
-{:vet}
+{:#vet}
 
 To apply for a free certificate you'll need:
 
@@ -65,7 +65,7 @@ You can use paper forms if the online system isn’t working. Use either the for
 - other medicines (SIC)
 
 ##Import veterinary medicines for research
-{:research}
+{:#research}
 
 You need a free Research Import Certificate (RIC) to import a medicine or substance to treat an animal as part of an experimental trial.
 
@@ -88,7 +88,7 @@ You have to apply for each product, active substance or fixed combination of act
 
 
 ##If you’re a wholesaler
-{:wholesale}
+{:#wholesale}
 
 You need a WDIC certificate to import medicines to supply to vets.
 
