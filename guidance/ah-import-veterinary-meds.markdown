@@ -15,6 +15,7 @@ You need to apply for an import certificate from Veterinary Medicines Directorat
 - [researcher](#research)
 - [wholesaler](#wholesale)
 
+[Question for fact check: do the rules for controlled drugs apply to all, not just WDICs as implied by the live content?]
 
 ##If you’re a veterinary surgeon
 {:#vet}
@@ -23,8 +24,6 @@ To apply for a free certificate you'll need:
 
 - to know if the medicine is EU-authorised - check using the [EU veterinary medicinal product](http://vet.eudrapharm.eu/vet/searchbykeyword.do)
 - your RCVS number - you can [search the register](http://www.rcvs.org.uk/find-a-surgeon/surgeon)
-
-###Apply online
 
 $CTA
 
@@ -74,21 +73,17 @@ $CTA
 [Apply for a RIC](http://www.vmd.defra.gov.uk/ric/Application.aspx).
 $CTA
 
-###If you need to import more than one medicine
+You can only apply to import one medicine at a time.
 
-You can only apply to import one medicine (or substance, or combination of active substances) at a time.
+###How long it takes
 
-Once your original RIC application has been approved or rejected, you can apply to import another medicine.
-
-You have to apply for each product, active substance or fixed combination of active substances separately. 
-
-[Question for fact check: how long does it take to get a RIC?]
+[Question for fact check: how long does it take to get a RIC? Are there any limits over how much you can order or keep in stock, as with SICs and STC]
 
 
 ##If you’re a wholesaler
 {:#wholesale}
 
-You need a WDIC certificate to import medicines to supply to vets.
+You need a Wholesale Dealers Import Certificate (WDIC) to import medicines to supply to vets.
 
 [question for fact check: should we link to [https://www.gov.uk/guidance/manufacturing-authorisations-for-veterinary-medicines#gmp-requirements-for-active-substances-as-starting-materials](https://www.gov.uk/guidance/manufacturing-authorisations-for-veterinary-medicines#gmp-requirements-for-active-substances-as-starting-materials) for businesses that supply retailers with imports from outside the EEA]
 
@@ -109,14 +104,19 @@ $CTA
 
 I understand the certificate will be valid for no more than one year and the total amount requested does not exceed more than one year supply. To legally continue holding imported product after the certificate has expired, I will need to obtain a new import certificate.
 
-You need to:
+###Other ways to apply
+ 
+You can also apply using the [paper form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB).
 
-- make sure you’ve got 
-- complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB) - you can’t apply online
+[Question for fact check: Is this paper form still in use? See also above comment re registered pharmacists who can't use the online service by the looks of it].
 
-Check the rules if you’re importing a [controlled drug] (anchor link on process for human meds?)
+###How long it takes
 
 You should get your certificate emailed to you within 10 working days, if your application is successful.
+
+[Question for fact check: is this timescale stil accurate with the new online system?]
+
+###Fees
 
 The certificate is free for smaller wholesalers. 
 
