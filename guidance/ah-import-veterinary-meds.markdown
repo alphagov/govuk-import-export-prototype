@@ -100,7 +100,7 @@ $CTA
 
 $CTA
 
-[question: the source content say that registered pharmacists can also apply for WDIC (and that they'll need their registration no). How they can apply when the online service requires the user to select a wholesaler? Do they still have to use the paper form?]
+[question: the source content says that registered pharmacists can also apply for WDIC (and that they'll need their registration no). How they can apply when the online service requires the user to select a wholesaler? Do they still have to use the paper form?]
 
 ###How much you can import
 
