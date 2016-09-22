@@ -57,8 +57,7 @@ When applying, you may find that the medicine you’re importing hasn’t been i
 
 If you have medicine remaining when your certificate expires (1 year after it was issued), you must re-apply for a certificate to cover the amount you have in stock.
 
-You can’t usually keep medicines in stock from outside the EU. Contact the VMD if you need to do this.
-
+Medicines from outside the EU can't usually be kept in stock. Contact <importcert@vmd.defra.gsi.gov.uk> if you need to do this.
 
 
 ###If the online system is down
