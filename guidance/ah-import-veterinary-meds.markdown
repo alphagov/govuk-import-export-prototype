@@ -7,9 +7,6 @@ topic:
  name: Importing
  url: /topic/business-and-self-employed/importing.html
 ---
-##Veterinary medicines
-{:Veterinary-medicines}
-
 You can import veterinary medicines if there isn’t a suitable one in the UK under the rules of [the Cascade](https://www.gov.uk/guidance/the-cascade-prescribing-unauthorised-medicines).
 
 You need to apply for an import certificate from Veterinary Medicines Directorate (VMD). How you do this depends on whether you’re a:
