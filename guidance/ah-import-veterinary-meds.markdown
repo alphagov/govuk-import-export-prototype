@@ -64,12 +64,14 @@ You can use paper forms if the online system isn’t working. Use either the for
 
 You need a free Research Import Certificate (RIC) to import a medicine or substance to treat an animal as part of an experimental trial.
 
-You’ll need the following details from your [Home Office project licence](https://www.gov.uk/guidance/research-and-testing-using-animals#applying-for-licences):
+To apply for the certificate, you’ll need the following details from your [Home Office project licence](https://www.gov.uk/guidance/research-and-testing-using-animals#applying-for-licences):
 
 - the licence number 
 - the Place of Certificate Designation (PCD) number
 
-You can then [apply for a RIC](http://www.vmd.defra.gov.uk/ric/Application.aspx) online.
+$CTA
+[Apply for a RIC](http://www.vmd.defra.gov.uk/ric/Application.aspx) online.
+$CTA
 
 ###If you need to import more than one medicine
 
@@ -91,9 +93,16 @@ You need a WDIC certificate to import medicines to supply to vets.
 
 [question for fact check: is it correct that an importer who supplies a retailer with veterinary medicines from the EU requires neither an import certificate nor a WDIC?]
 
-You can [apply online for a WDIC](https://www.vmd.defra.gov.uk/sis/wdic-application.aspx).
+To apply, you'll need:
 
-You’ll need your [wholesale dealer's authorisation](https://www.gov.uk/guidance/apply-for-a-veterinary-medicine-wholesale-dealers-authorisation-wda) (WDA) number.
+- the number from your [wholesale dealer's authorisation](https://www.gov.uk/guidance/apply-for-a-veterinary-medicine-wholesale-dealers-authorisation-wda) (WDA)
+- to make sure the vet you’re supplying has an import certificate
+
+$CTA
+ 
+[Apply for a WDIC](https://www.vmd.defra.gov.uk/sis/wdic-application.aspx).
+
+$CTA
 
 [question: the source content say that registered pharmacists can also apply for WDIC (and that they'll need their registration no. How they can apply when the online service requires the user to select a wholesaler? Do they still have to use the paper form?]
 
@@ -101,8 +110,7 @@ I understand the certificate will be valid for no more than one year and the tot
 
 You need to:
 
-- make sure you’ve got a [wholesaler licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences#veterinary-licences)
-- make sure the vet you’re supplying has a STC or SIC certificate
+- make sure you’ve got 
 - complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB) - you can’t apply online
 
 Check the rules if you’re importing a [controlled drug] (anchor link on process for human meds?)
