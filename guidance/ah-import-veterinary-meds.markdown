@@ -127,6 +127,6 @@ Otherwise, it costs £760 if you're named as the importer on more than 100 impor
 
 ###Importing allergens to supply a vet
 
-You usually need a [manufacturing authorisation](https://www.gov.uk/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk) to package and label unauthorised veterinary medicines.
+A vet or a pharmacist without a [manufacturing authorisation](https://www.gov.uk/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk) can relabel or repackage allergens that are imported as a finished product. 
 
-But a vet or a pharmacist without this authorisation can relabel or repackage allergens that are imported as a finished product. This dispensation doesn't apply to allergens that need preparation or mixing before its' supplied.
+This dispensation doesn't apply to allergens that need preparation or mixing before its' supplied.
