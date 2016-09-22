@@ -63,7 +63,7 @@ Medicines from outside the EU can't usually be kept in stock. Contact <importcer
 
 You can use paper forms if the online system isn’t working. Use either the form for [STC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549418/_630643_Application_Form_SIC.docx) (44KB) or [SIC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549417/_630628_Application_Form_STC.docx) (62KB). Both forms are in Word format.
 
-##Import veterinary medicines for research
+##If you're a researcher
 {:#research}
 
 You need a free Research Import Certificate (RIC) to import a medicine or substance to treat an animal as part of an experimental trial.
