@@ -28,10 +28,12 @@ $CTA
 
 [Apply online to get a certificate](https://www.vmd.defra.gov.uk/sis/default.aspx) for:
 
+$CTA
+
+The certificate you get depeonds on whether you're importing:
+
 - an EU-authorised veterinary medicine - you’ll get a Special Imports Certificate (SIC)
 - any other medicine  - you’ll get a Special Treatment Certificate (STC)
-
-$CTA
 
 For STCs, you’ll need to apply separately for each species of animal that the medicine is for.
 
