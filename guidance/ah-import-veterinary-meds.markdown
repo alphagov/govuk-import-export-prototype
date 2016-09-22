@@ -26,10 +26,14 @@ To apply for a free certificate you'll need:
 
 ###Apply online
 
+$CTA
+
 The certificate you need depends on whether you're importing:
 
 - an EU-authorised veterinary medicine - [apply for Special Imports Certificate](https://www.vmd.defra.gov.uk/sis/sic-application.aspx) (SIC)
 - any other medicine  - [apply for Special Treatment Certificate](https://www.vmd.defra.gov.uk/sis/stc-application.aspx) (STC)
+
+$CTA
 
 For STCs, you’ll need to apply separately for each species of animal that the medicine is for.
 
@@ -70,7 +74,7 @@ To apply for the certificate, you’ll need the following details from your [Hom
 - the Place of Certificate Designation (PCD) number
 
 $CTA
-[Apply for a RIC](http://www.vmd.defra.gov.uk/ric/Application.aspx) online.
+[Apply for a RIC](http://www.vmd.defra.gov.uk/ric/Application.aspx).
 $CTA
 
 ###If you need to import more than one medicine
