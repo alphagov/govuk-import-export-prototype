@@ -87,7 +87,7 @@ You need a Wholesale Dealers Import Certificate (WDIC) to import medicines to su
 
 [question for fact check: should we link to [https://www.gov.uk/guidance/manufacturing-authorisations-for-veterinary-medicines#gmp-requirements-for-active-substances-as-starting-materials](https://www.gov.uk/guidance/manufacturing-authorisations-for-veterinary-medicines#gmp-requirements-for-active-substances-as-starting-materials) for those who that supply retailers with imports from outside the EEA]
 
-[question for fact check: is it correct that an importer who supplies a retailer with veterinary medicines from the EU requires neither an import certificate nor a WDIC?]
+[question for fact check: my understanding is that an importer who supplies a retailer with veterinary medicines from the EU requires neither an import certificate nor a WDIC. Is that correct?]
 
 To apply, you'll need:
 
