@@ -26,7 +26,7 @@ To apply for a free certificate you'll need:
 
 $CTA
 
-[Apply online to get a certificate](https://www.vmd.defra.gov.uk/sis/default.aspx) for:
+[Apply online to get a certificate](https://www.vmd.defra.gov.uk/sis/default.aspx).
 
 $CTA
 
@@ -41,7 +41,7 @@ The certificate lasts one year.
 
 If the medicine isn’t fully authorised in the country you’re importing from, contact <importcert@vmd.defra.gsi.gov.uk> before you apply. 
 
-If the online system is down, you can use [paper forms].
+If the online system is down, you can use [paper forms](#paper-forms).
 
 ###How long it takes
 You’ll get an email after you've applied. It’ll either:
@@ -49,22 +49,22 @@ You’ll get an email after you've applied. It’ll either:
 - include your certificate
 - say that VMD need to evaluate your application - if successful, you’ll get your certificate within 10 working days
 
-If you need the medicine urgently, VMD may be able to issue your certificate within 2 working days. Contact <importcert@vmd.defra.gsi.gov.uk> to request this, explaining why your case is urgent. 
+If you need the medicine urgently, VMD may be able to issue your certificate within 2 working days. Contact <importcert@vmd.defra.gsi.gov.uk> and explain why your case is urgent. 
 
-When applying online, you may find that the medicine you’re importing hasn’t been imported into the UK before. Your application will take longer, within 15 working days.
+When applying, you may find that the medicine you’re importing hasn’t been imported into the UK before. If so, you should get your certificate within 15 working days.
 
 ###How much you can import
 
-You can’t usually keep medicines in stock from outside the EU. Contact the VMD if you need to do this.
-
 If you have medicine remaining when your certificate expires (1 year after it was issued), you must re-apply for a certificate to cover the amount you have in stock.
 
+You can’t usually keep medicines in stock from outside the EU. Contact the VMD if you need to do this.
+
+
+
 ###If the online system is down
+{:#paper-forms}
 
-You can use paper forms if the online system isn’t working. Use either the form for:
-
-- EU-authorised medicines (STC)
-- other medicines (SIC)
+You can use paper forms if the online system isn’t working. Use either the form for [STC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549418/_630643_Application_Form_SIC.docx) (44KB) or [SIC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549417/_630628_Application_Form_STC.docx) (62KB). Both forms are in Word format.
 
 ##Import veterinary medicines for research
 {:#research}
