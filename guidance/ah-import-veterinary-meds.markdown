@@ -102,13 +102,17 @@ $CTA
 
 [question: the source content say that registered pharmacists can also apply for WDIC (and that they'll need their registration no. How they can apply when the online service requires the user to select a wholesaler? Do they still have to use the paper form?]
 
-I understand the certificate will be valid for no more than one year and the total amount requested does not exceed more than one year supply. To legally continue holding imported product after the certificate has expired, I will need to obtain a new import certificate.
+###How much you can import
+
+If you have medicine remaining when your certificate expires (1 year after it was issued), you must re-apply for a certificate to cover the amount you have in stock.
+
+Medicines from outside the EU can't usually be kept in stock. Contact <importcert@vmd.defra.gsi.gov.uk> if you need to do this.
 
 ###Other ways to apply
  
 You can also apply using the [paper form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB).
 
-[Question for fact check: Is this paper form still in use? See also above comment re registered pharmacists who can't use the online service by the looks of it].
+[Question for fact check: Is this paper form still in use, or just for when the online system is down? See also above comment re registered pharmacists who can't use the online service by the looks of it].
 
 ###How long it takes
 
@@ -126,4 +130,4 @@ Otherwise, it costs £760 if you're named as the importer on more than 100 impor
 
 A vet or a pharmacist without a [manufacturing authorisation](https://www.gov.uk/guidance/apply-for-a-certificate-to-import-a-veterinary-medicine-into-the-uk) can relabel or repackage allergens that are imported as a finished product. 
 
-This dispensation doesn't apply to allergens that need preparation or mixing before its' supplied.
+This dispensation doesn't apply to allergens that need preparation or mixing before it's supplied.
