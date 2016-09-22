@@ -14,11 +14,13 @@ You can import veterinary medicines if there isn’t a suitable one in the UK un
 
 You need to apply for an import certificate from Veterinary Medicines Directorate (VMD). How you do this depends on whether you’re a:
 
-- veterinary surgeon
-- wholesaler
-- researcher
+- [veterinary surgeon](#vet)
+- [researcher](#research)
+- [wholesaler](#wholesale)
+
 
 ##If you’re a veterinary surgeon
+{:vet}
 
 To apply for a free certificate you'll need:
 
@@ -66,6 +68,7 @@ You can use paper forms if the online system isn’t working. Use either the for
 - other medicines (SIC)
 
 ##Import veterinary medicines for research
+{:research}
 
 You need a free Research Import Certificate (RIC) to import a medicine or substance to treat an animal as part of an experimental trial.
 
@@ -87,8 +90,8 @@ You have to apply for each product, active substance or fixed combination of act
 [Question for fact check: how long does it take to get a RIC?]
 
 
-###If you’re a wholesaler/
-{:wholesale-certificate}
+##If you’re a wholesaler
+{:wholesale}
 
 You need a WDIC certificate to import medicines to supply to vets.
 
