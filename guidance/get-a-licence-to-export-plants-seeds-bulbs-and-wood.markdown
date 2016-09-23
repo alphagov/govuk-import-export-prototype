@@ -66,7 +66,7 @@ Contact the [Plant Health Office](https://www.gov.uk/government/organisations/an
 ##Outside the EU
 {:#outside-eu}
 
-[Check with the plant authority](https://www.ippc.int/en/countries/all/list-countries/) in the country that you’re exporting to find if you need a health certificate (‘phytosanitary certificate’) to export:
+[Check with the plant authority](https://www.ippc.int/en/countries/all/list-countries/) in the country that you’re exporting to find out if you need a health certificate (‘phytosanitary certificate’) to export:
 
 * plants and plant products
 * bulbs
@@ -92,13 +92,14 @@ To get a health certificate, your plants must be inspected.
 * [bulbs](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515952/form-ko1.pdf) 
 * [seeds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536160/form-phe90.pdf)
 * [potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)
-* plants from [outside the EU that were stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf).
+* plants from [outside the EU that were temporarily stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf).
 
 [Question for SME: Is there a different form for ware potatoes?]
 
 You might also need to fill in a form for:
 
-* [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) to export flower bulbs, or plants in a ‘dormant state’
+* [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) if the importing country tells you to have an inspection carried out on crop that the plants or seeds were taken from..
+
 * [the soil your plants are growing in](https://www.gov.uk/government/publications/potato-cyst-nematode-application-for-soil-sampling) - if the country you're exporting to says you need this
 
 [Send the completed form to your local AHPA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health--seeds-inspectorate).
