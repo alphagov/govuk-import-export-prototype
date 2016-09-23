@@ -27,11 +27,11 @@ $CTA
 
 ##Import solid wood packaging
 
-You should specify in your supplier contract that solid wood packaging used by the exporter meets the [ISPM15 international standards](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) PDF, 197 KB)
+Solid wood packaging must meet the [ISPM15 international standards](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) PDF, 197 KB) if you import it from outside the EU.
 
-If you import from the EU (except Portugal), you can specify less strict standards. Instead of meeting ISMP15, packaging can either be bark-free, or have a plant passport if it’s made out of conifer wood. If it’s kiln dried, it must also be marked ‘KD’.
+If you import from the EU (except Portugal), you can specify less strict standards. Packaging can either be bark-free, or have a plant passport if it’s made out of conifer wood. If it’s kiln dried, it must also be marked ‘KD’.
 
-Having this information in your contract will help to protect you if the wood packaging fails an inspection and you're asked to pay for one or more of the following:
+You should specify the requirements for solid wood packaging in your contract with the exporter. This will help protect you if the wood packaging fails an inspection and you're asked to pay for one or more of the following:
 
 - repackaging  of the goods
 - treatment and marking of the wood packaging to meet ISPM15 requirements
@@ -45,7 +45,7 @@ If the packaging fails an inspection and you're given the option to treat it, yo
 
 ##Export solid wood packaging
 
-If you’re moving packaging inside the EU, check that it complies with EU or international plant health regulations - there are [special rules for Ireland](http://www.forestry.gov.uk/forestry/INFD-9QHKKH).
+If you’re moving packaging inside the EU, check that it complies with EU or international plant health regulations - there are [special rules for Ireland and Northern Ireland](http://www.forestry.gov.uk/forestry/INFD-9QHKKH).
 
 If you export packaging outside the EU, check if the country you’re trading with accepts ISPM15 and if they have any other requirements. 
 
