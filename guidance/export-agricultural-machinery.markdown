@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a certificate to export agricultural machinery
-summary: You may need a health certificate to export used farm machinery outside the EU.
+summary: You may need a plant health certificate to export used farm machinery outside the EU.
 permalink: /guidance/get-a-licence-to-export-agricultural-machinery.html
 topic:
   name: Exporting
