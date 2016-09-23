@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export plants, seeds, bulbs and wood
+title: Get permission to export plants, seeds, bulbs and wood
 summary: Check if you need a licence or phytosanitary certificate to export plants, seeds, bulbs or wood.
 permalink: /guidance/get-a-licence-to-export-plants-seeds-bulbs-and-woods.html
 topic:
