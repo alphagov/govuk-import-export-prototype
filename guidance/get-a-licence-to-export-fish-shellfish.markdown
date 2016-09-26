@@ -29,8 +29,8 @@ If the country you’re exporting to requires a health certificate and/or a TRAC
 
 The form you need to fill in depends on if you're exporting from:
 
-- [England or Wales](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (EXP1) (PDF, 166KB)
-- [Scotland](www.gov.scot/Resource/0048/00484726.doc) (EXP1) (Word, 2MB)
+- [England or Wales](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (PDF, 166KB)
+- [Scotland](www.gov.scot/Resource/0048/00484726.doc) (Word, 2MB)
 - [Northern Ireland](https://www.daera-ni.gov.uk/sites/default/files/publications/daera/notification-of-proposed-fish-movement.doc)(Word, 35KB)
 
 Wherever you export from, you need to:
