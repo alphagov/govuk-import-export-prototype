@@ -27,12 +27,16 @@ If the country you’re exporting to requires a health certificate and/or a TRAC
 
 ###Apply for a health certificate
 
-If you're exporting from England or Wales, complete a [notification form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (EXP1) (PDF, 166KB) and give details obtained from the importing authorities
+The form you need to fill in depends on if you're exporting from:
 
-You apply using different forms if you're exporting from [Scotland](www.gov.scot/Resource/0048/00484726.doc) (EXP1) (Word, 2MB) or [Northern Ireland](https://www.daera-ni.gov.uk/sites/default/files/publications/daera/notification-of-proposed-fish-movement.doc)(Word, 35KB)
+- [England or Wales](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (EXP1) (PDF, 166KB)
+- [Scotland](www.gov.scot/Resource/0048/00484726.doc) (EXP1) (Word, 2MB)
+- [Northern Ireland](https://www.daera-ni.gov.uk/sites/default/files/publications/daera/notification-of-proposed-fish-movement.doc)(Word, 35KB)
 
-Wherever you export from, send your completed application to the contact address on the appropriate form.
+Wherever you export from, you need to:
 
+- give details obtained from the importing authorities
+- send your completed application to the contact address on the appropriate form.
 
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
 
