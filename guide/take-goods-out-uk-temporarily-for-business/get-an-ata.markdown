@@ -26,6 +26,8 @@ You can apply:
  * [online](http://www.londonchamber.co.uk/lccicarnet/index.aspx)  
  * [by post](http://www.londonchamber.co.uk/lcc_public/article.asp?aid=100)
 
+If you’re using a freight forwarder, they’ll usually fill this in for you.
+
 It usually costs £325.96 and you'll need to pay a security deposit. 
 
 ^If you’re sending goods to Taiwan, apply for a [Taiwan Carnet](http://www.londonchamber.co.uk/lcc_public/article.asp?aid=100) instead.
@@ -48,7 +50,6 @@ Monday to Friday, 8am to 6pm
 [Find out about call charges](/call-charges)    
 
 $C 
-
 
 ##When you return to the UK
 
