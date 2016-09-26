@@ -30,6 +30,7 @@ If the country you’re exporting to requires a health certificate and/or a TRAC
 s1. complete a [notification form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (EXP1) (PDF, 166KB) and give details obtained from the importing authorities
 s2. send it to the contact address on the form
 
+
 ###Exporting from Scotland
 
 s1. complete a [notification form](www.gov.scot/Resource/0048/00484726.doc) (EXP1) (.doc. 2MB) and give details obtained from the importing authorities
