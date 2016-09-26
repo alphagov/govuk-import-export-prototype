@@ -33,10 +33,7 @@ The form you need to fill in depends on if you're exporting from:
 - [Scotland](www.gov.scot/Resource/0048/00484726.doc) (Word, 2MB)
 - [Northern Ireland](https://www.daera-ni.gov.uk/sites/default/files/publications/daera/notification-of-proposed-fish-movement.doc)(Word, 35KB)
 
-Wherever you export from, you need to:
-
-- give details obtained from the importing authorities
-- send your completed application to the contact address on the appropriate form.
+Send the completed application to the contact address on your form.
 
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
 
