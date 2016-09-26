@@ -25,23 +25,13 @@ $CTA
 
 If the country you’re exporting to requires a health certificate and/or a TRACES notification, you'll need to fill in an export notification form.
 
-###Exporting from England or Wales
+###Apply for a health certificate
 
 - For England and Wales complete a [notification form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (EXP1) (PDF, 166KB) and give details obtained from the importing authorities
 
 You apply in a different way if you're exporting from [Scotland](www.gov.scot/Resource/0048/00484726.doc) (EXP1) (Word, 2MB) or [Northern Ireland](https://www.daera-ni.gov.uk/sites/default/files/publications/daera/notification-of-proposed-fish-movement.doc)(Word, 35KB)
 
 Wherever you export from, send your completed application to the contact address on the appropriate form.
-
-
-###Exporting from Scotland
-
-s1.  and give details obtained from the importing authorities
-s2. send it to the contact address on the form
-
-Whether you're exporting from England, Wales or Scotland, you must include the certificate when you export your consignment.
-
-Certificates are issued at inspections.
 
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
 
