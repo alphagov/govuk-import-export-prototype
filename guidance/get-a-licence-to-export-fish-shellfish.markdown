@@ -23,26 +23,21 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-If the country you’re exporting to requires you to have a health certificate, you must get an Intra Trade Animal Health Certificate (ITAHC).
+If the country you’re exporting to requires a health certificate and/or a TRACES notification, you'll need to fill in an export notification form.
 
-###Apply for an ITAHC
-{:#animal-health-certificate}
+###Exporting from England or Wales
 
-s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email [ovteam@apha.gsi.gov.uk](mailto:ovteam@apha.gsi.gov.uk].
-s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) if you’ve not used it before.
-s3. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the animals you're exporting.
-s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
-s5. Your certificate will be sent to your official veterinarian once your animals have passed inspection. If your official veterinarian doesn't receive the certificate, contact the [Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
-s6. Include the certificate when you export your consignment.
+s1. complete a [notification form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (EXP1) (PDF, 166KB) and give details obtained from the importing authorities
+s2. send it to the contact address on the form
 
-Instead of using TRACES you can:
+###Exporting from Scotland
 
-- fill in [form EXP1](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (PDF, 166KB) and the details obtained from the importing authorities
-- email or post it to the address on the form at least 5 working days before you send your goods
+s1. complete a [notification form](www.gov.scot/Resource/0048/00484726.doc) (EXP1) (.doc. 2MB) and give details obtained from the importing authorities
+s2. send it to the contact address on the form
 
-You will receive your certificate within 1 week of your application.
+Whether you're exporting from England, Wales or Scotland, you must include the certificate when you export your consignment.
 
-There's no fee for the certificate.
+Certificates are issued at inspections.
 
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
 
