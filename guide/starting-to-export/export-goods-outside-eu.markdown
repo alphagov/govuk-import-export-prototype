@@ -31,7 +31,3 @@ You must keep records of commercial invoices and any customs paperwork for 4 yea
 Pay any tax or duty you owe in the destination country. You won't usually pay UK duty on exports.
 
 If you're VAT registered, you can [zero-rate](http://www.gov.uk/vat-businesses/vat-rates) the VAT on most goods you export to non-EU countries.
-
-###If you export regularly outside the EU
-
-You can get help keeping records of customs declarations, for example if you're a large business using different warehouses or freight forwarders.
