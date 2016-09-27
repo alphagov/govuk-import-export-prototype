@@ -72,7 +72,7 @@ There’s a complete ban on exporting:
 - man-portable air defence systems (MANPADs) to end users who aren’t states
 - non-civil nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
 
-###Countries you can’t usually export to
+##Countries you can’t usually export to
 
 ECO won’t usually give a licence if there’s an embargo on exporting military goods. 
 
