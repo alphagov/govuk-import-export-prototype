@@ -17,7 +17,7 @@ topic:
 
 Whether you need a licence depends if:
 
-* your goods are listed as a dual use or military services
+* your goods are listed as a dual use or military (this covers both physical goods and skills or services like technical assistance including repairs or maintenance)
 * you’re exporting inside or outside the EU  - the rules are less strict for ‘dual-use goods in the EU
 *  your goods aren't on the ‘consolidated list’ but could still be used for military purposes
 * your goods are banned (or if you were planning to send them to a embargoed country)
