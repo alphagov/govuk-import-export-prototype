@@ -26,7 +26,7 @@ $CTA
 
 ##Within the EU 
 
-If you’re moving a finished product such as tinned pet food within the EU, you don’t need a certificate. 
+You don't need a certificate to move animal feed or pet food within the EU.
 
 ##Outside the EU
 
