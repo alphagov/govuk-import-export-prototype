@@ -51,7 +51,7 @@ s6. Your official veterinarian will be asked to check that your animals meet the
 ###Apply for a certificate of free sale
 The country you’re exporting to may require you to have a 'certificate of free sale'.
 
-s1. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB).
+s1. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484868/COFSApplicationExportNonEUFeeding_v2.0.doc) (MS Word Document, 127KB).
 s2. Send it to <trader@rpa.gsi.gov.uk>. 
 s3. You’ll usually get your certificate within 5 working days.
 
