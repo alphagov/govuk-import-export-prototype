@@ -22,7 +22,14 @@ Whether you need a licence depends if:
 *  your goods aren't on the ‘consolidated list’ but could still be used for military purposes
 * your goods are banned (or if you were planning to send them to an arms embargoed country)
 
-‘Dual use’ items include goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example nuclear materials; chemical agents, telecommunications, lasers, or machine tools; navigation equipment; aerospace).
+‘Dual use’ items include goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes for example:
+
+* nuclear materials and chemical agents
+* telecommunications
+* lasers
+* machine tools
+* navigation equipment
+* aerospace goods
 
 $CTA
 [Check if your goods are listed as military or ‘dual use’](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new).
