@@ -24,13 +24,9 @@ Also check the import rules of the country you’re exporting to. Talk to your i
 
 $CTA
 
-##Within the EU 
+You don't need any special documents to move finished pet food or animal feed within the EU.
 
-You don't need a certificate to move animal feed or pet food within the EU.
-
-##Outside the EU
-
-To export animal feed and pet food outside the EU, you need to:
+To export it outside the EU, you need to:
 
 - apply for an Export Health Certificate (EHC)
 - check if you need a certificate of free sale - ask the country you’re exporting to
