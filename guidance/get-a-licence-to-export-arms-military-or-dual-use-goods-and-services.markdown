@@ -20,9 +20,9 @@ Whether you need a licence depends if:
 * your goods are listed as a dual use or military (this covers both physical goods and skills or services like technical assistance including repairs or maintenance)
 * you’re exporting inside or outside the EU  - the rules are less strict for ‘dual-use goods in the EU
 *  your goods aren't on the ‘consolidated list’ but could still be used for military purposes
-* your goods are banned (or if you were planning to send them to a embargoed country)
+* your goods are banned (or if you were planning to send them to an arms embargoed country)
 
-‘Dual use’ items include goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example nuclear materials; chemical agents, telecommunications, lasers, or machine tools; navigation equipment; aerospace ).
+‘Dual use’ items include goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example nuclear materials; chemical agents, telecommunications, lasers, or machine tools; navigation equipment; aerospace).
 
 $CTA
 [Check if your goods are listed as military or ‘dual use’](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new).
@@ -57,7 +57,7 @@ You will need a licence inside and outside the EU
 
 ##Exporting goods that aren’t on the consolidated control lists
 
-You must also  [contact the Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting might have a dangerous 'end user' or may be used to make WMDs.
+You must also [contact the Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting might have a dangerous 'end user' or may be used to make WMDs.
 
 There is advice available within the Spire application system about end-users.
 
