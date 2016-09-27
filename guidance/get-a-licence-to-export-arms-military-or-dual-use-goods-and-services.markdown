@@ -15,31 +15,51 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You must have a licence to sell military or 'dual use' goods, services and technologies overseas, or to share classified information with someone based overseas. This applies whether you're exporting within or outside the [EU](https://www.gov.uk/eu-eea).
+Whether you need a licence depends if:
+
+* your goods are listed as a dual use or military services
+* you’re exporting inside or outside the EU  - the rules are less strict for ‘dual-use goods in the EU
+*  your goods aren't on the ‘consolidated list’ but could still be used for military purposes
+* your goods are banned (or if you were planning to send them to a embargoed country)
+
+‘Dual use’ items include goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example nuclear materials; chemical agents, telecommunications, lasers, or machine tools; navigation equipment; aerospace ).
 
 $CTA
-
-[Check the consolidated control lists using the Goods Checker tool](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
-
+[Check if your goods are listed as military or ‘dual use’](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new).
 $CTA
 
-Military or dual use items can be raw materials, components or finished systems.
+##If your goods are listed as “Schedule 3 UK controlled ‘dual-use, software and technology”
 
-The consolidated control lists include:
+This refers to ‘dual use’ goods, services and technologies and you:
 
-- weapons
-- goods, technology or services or components designed or modified for military use (for example Unmanned Aerial Vehicles, aircrew life support equipment, imaging equipment, cryptographic technology, self contained diving and underwater swimming apparatus or training materials for a weapons system)
-- ‘dual use’ items - goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example chemical agents, telecommunications, lasers or machine tools)
-- the transfer of knowledge and skills that could be used for military purposes
+* won’t need a licence for most goods you move around most EU countries, [unless their ‘end use’ might be dangerous](#moving-dual-use-goods-within-the-EU)
 
-##Exporting goods that aren’t on the consolidated control lists
+* will need a licence outside the EU
 
-You must [contact the Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting might be used for military purposes in an embargoed country, even if it doesn’t appear on the consolidated control lists. For example:
+###Moving ‘dual-use’ goods within the EU
+
+You won’t need a licence to move most ‘dual-use’ goods within the EU (apart from Latvia where you always need one).
+
+In certain countries, whether you need one or not will depend on its 'end use'.
+
+You’ll need a licence if something you’re exporting might be used for military purposes in an arms embargoed country. For example:
 
 - components that will be used to make weapons
 - goods, services or technology that might be used to make Weapons of Mass Destruction (WMDs) (for example, chemicals or biological agents or technology that might be used in a nuclear weapons facility)
 
-These are called ‘end use’ or ‘catch all’ controls.
+You must [contact the Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if your goods could have a dangerous use and are being moved to:
+
+Austria, Bulgaria ,Croatia, Czech Republic, Estonia, Finland, Hungary, Greece, Ireland, Netherlands, Romania, Spain.
+
+##If your goods are listed as any other category 
+
+You will need a licence inside and outside the EU
+
+##Exporting goods that aren’t on the consolidated control lists
+
+You must also  [contact the Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting might have a dangerous 'end user' or may be used to make WMDs.
+
+There is advice available within the Spire application system about end-users.
 
 You must apply for an export licence if ECO tells you to.
 
@@ -52,29 +72,11 @@ There’s a complete ban on exporting:
 - man-portable air defence systems (MANPADs) to end users who aren’t states
 - non-civil nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
 
-##Apply for an export licence
+###Countries you can’t usually export to
 
-Within the EU you don’t need a licence if your goods are listed under Annex I.
+ECO won’t usually give a licence if there’s an embargo on exporting military goods. 
 
-$CTA
-
-Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
-
-$CTA
-
-There's no charge for a licence.
-
-The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
-
-ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
-
-ECO also looks at the ‘[incorporation factors](http://www.publications.parliament.uk/pa/cm200102/cmhansrd/vo020708/text/20708w01.htm#column_652)’ if the goods will be incorporated into military equipment which will then be exported to another country.
-
-###How ECO decides whether to give licences
-
-Decisions are partly based on where you’re exporting to.
-
-For example, ECO won’t usually give a licence if there’s an embargo on exporting military goods. Embargoed countries are:
+Arms embargoed countries are:
 
 - Argentina (if the goods will be used by the Argentine military)
 - Armenia and Azerbaijan (if the goods could be used on the border between the two countries, or in the Nagorno-Karabakh region)
@@ -82,6 +84,7 @@ For example, ECO won’t usually give a licence if there’s an embargo on expor
 - Democratic Republic of Congo
 - Eritrea
 - Iran
+- Iraq - if the end-use is military
 - Ivory Coast
 - Lebanon
 - Libya
@@ -94,10 +97,6 @@ For example, ECO won’t usually give a licence if there’s an embargo on expor
 - Sudan
 - Syria
 - Zimbabwe
-
-[Question for SME: I’ve left Burma and Iraq out of this list because the current GOV.UK guidance seems to suggest either than the embargo is suspended or that licences may be granted for exports to the Iraqui government or multinational forces. Is that right?]
-
-[Question for SME: are the items listed in the relevant EU regulations on Iran (eg the provisions of Council Regulation (EU) 267/2012 related to missile technology) already covered on the consolidated military list?]
 
 There are some limited exceptions (eg for some types of goods that will be used for humanitarian relief or peacekeeping).
 
@@ -118,30 +117,37 @@ ECO won’t usually give a licence to export small arms, light weapons, weapon c
 - Senegal
 - Togo
 
-##Taking military goods out of the UK temporarily
+##Apply for an export licence
 
-You still need to get an export licence to take military goods out of the country temporarily (eg to demonstrate them to potential buyers at a trade show or take them to a commemorative military event).
+[Use the OEGL checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/) to see if you can get a existing licence.
+
+If you can’t there, are other types of licences you can apply for.
+
+$CTA
+
+Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for all types of export licences.
+
+$CTA
+
+The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
+
+###How ECO decides whether to give licences
+
+ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
+
+ECO also looks at the ‘[incorporation factors](http://www.publications.parliament.uk/pa/cm200102/cmhansrd/vo020708/text/20708w01.htm#column_652)’ if the goods will be incorporated into military equipment which will then be exported to another country.
+
+Decisions are partly based on where you’re exporting to.
+
+##Taking military and dual use goods out of the UK temporarily
+
+You still need to get an export licence to take military and dual use goods out of the country temporarily (eg to demonstrate them to potential buyers at a trade show or take them to a commemorative military event).
 
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a temporary export licence.
 
-##Sharing classified information
-
-You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means:
-
-- information or equipment classified as [‘official-sensitive’ or higher](/government/publications/government-security-classifications)
-- information or equipment classified as ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
-
-Use MOD form 680 on the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for approval.
-
-It’s not just exporters and potential exporters who must apply approval. The rule applies to anyone sharing classified information (for example, academics and researchers).
-
-[Question for SME: does it apply to anyone - eg journalists?]
-
-Contact your usual desk officer or email <ACP-ELC@mod.uk> if you have a question about MOD form 680 applications.
-
 ## Trafficking, brokering and arranging sales or movements
 
-You must have a trade control licence if you or your company is involved in trafficking or brokering anything that appears on the consolidated military list.
+You must have a trade control licence if you or your company is involved in trafficking or brokering anything that appears on the consolidated military list or ‘dual-use’ terms that may be intended for a weapon of mass destruction end use. 
 
 Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
 
@@ -153,7 +159,8 @@ Trafficking and brokering can include anything that helps to transfer items from
 
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 
-## When you have your licence
+
+##Your licence responsibilities
 
 You are responsible for making sure that your licence is still valid when you export the goods.
 
@@ -170,7 +177,28 @@ The [ECO compliance code of practice](/government/publications/compliance-code-o
 - how to train staff
 - how compliance audits work
 
+You can also find out what rules apply to each licence:
+
+- [OEGL licences](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/464587/15-225-ogel-military-goods.pdf)
+
+[Are there publications for the other licences? How do users find out about them?]
+
 If you don’t comply with the terms of your licence it could be revoked, and you could face a fine or prison sentence.
+
+###Sharing classified information
+
+You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means:
+
+- information or equipment classified as [‘official-sensitive’ or higher](/government/publications/government-security-classifications)
+- information or equipment classified as ‘official’ - but only if it’s connected with other information or equipment that’s classified as ‘official-sensitive’ or higher
+
+Use MOD form 680 on the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for approval.
+
+It’s not just exporters and potential exporters who must apply approval. The rule applies to anyone sharing classified information (for example, academics and researchers).
+
+[Question for SME: does it apply to anyone - eg journalists?]
+
+Contact your usual desk officer or email <ACP-ELC@mod.uk> if you have a question about MOD form 680 applications.
 
 ##Contact the Export Control Organisation (ECO)
 
@@ -197,3 +225,4 @@ You can do an online course through the [Strategic Export Controls website](http
 ECO can provide bespoke training sessions at your business premises. Sessions cost £1,000 plus VAT for a whole day, or £750 plus VAT for a half day.
 
 Email <denise.carter@bis.gsi.gov.uk> or call 020 7215 4459 for details.
+
