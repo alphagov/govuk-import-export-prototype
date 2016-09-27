@@ -16,6 +16,8 @@ topic:
 
 You need permission to export animal feed and pet food. What you need to do depends on if you’re exporting [within the EU](#within-the eu) or [outside the EU](#outside-the-eu).
 
+There are different rules if you’re exporting [processed animal proteins](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html) that will be made into animal food.
+
 $CTA
 
 Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
