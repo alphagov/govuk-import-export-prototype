@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Licences and special rules for exporting jewels, gold and precious metals
-summary: Licences and special rules for exporting diamonds, gold and precious metals.
+title: Licences and special rules for exporting jewels, gold, and precious metals
+summary: Licences and special rules for exporting jewels, gold and precious metals.
 permalink: /guidance/get-a-licence-to-export-diamonds.html
 topic:
   name: Exporting and doing business abroad
@@ -10,7 +10,9 @@ topic:
 
 You can export jewels, gold and precious metals without a licence or certificate, except for uncut (rough) diamonds.
 
-There's a ban on exports to Syria and [North Korea](/guidance/exporting-luxury-goods-north-korea.html).
+There's a ban on exporting diamonds to Syria.
+
+There's a ban on exporting precious stones, semi precious stones, gold and silver items and other luxury goods to [North Korea](/guidance/exporting-luxury-goods-north-korea.html).
 
 $CTA
 
@@ -51,5 +53,4 @@ London
 SW1A 2AH  
 $A
 
-Once you've received your certificate, attach to your consignment.
- 
+Once you've received your certificate, attach it to your consignment.
