@@ -352,8 +352,6 @@ If you export 24 or more shipments in a 12 month period you can [apply for a tim
 
 If you export less than 24 shipments in a 12 month period you’ll need to [apply for an export licence](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login).
 
-Exporters should complete the Channel Islands export monthly return form which must be sent to [Channel_Islands@homeoffice.gsi.gov.uk](mailto:Channel_Islands@homeoffice.gsi.gov.uk)
-
 Occasional exporters will need to apply for individual export authorisations for each consignment. 
 
 [SME question: What is the threshold for an occasional exporter?]
@@ -366,7 +364,7 @@ You must send a valid import permit from the competent authority with your appli
 
 You’ll need to renew your licence at least 4 weeks before it expires.
 
-####Monthly returns of exports
+###Monthly returns of exports
 
 Exporters should complete the Channel Islands export monthly return form which must be sent to <Channel_Islands@homeoffice.gsi.gov.uk>.
  
