@@ -52,8 +52,6 @@ The export licence costs £24.
 
 DFLU will send you a written invoice to the registered address on your customer account.
 
-If you need a purchase order number on the invoice, state this when you apply or email [DFLU.fees@homeoffice.gsi.gov.uk](mailto: DFLU.fees@homeoffice.gsi.gov.uk).
-
 ###Help with controlled drugs
 
 Contact the Drugs and Firearms Licensing Unit (DFLU) if you need help.
