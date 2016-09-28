@@ -368,7 +368,7 @@ You’ll need to renew your licence at least 4 weeks before it expires.
 
 ####Monthly returns of exports
 
-Exporters should complete the Channel Islands export monthly return form which must be sent to Channel_Islands@homeoffice.gsi.gov.uk.
+Exporters should complete the Channel Islands export monthly return form which must be sent to <Channel_Islands@homeoffice.gsi.gov.uk>.
  
 Holders of frequent exporter licences must submit a monthly return form detailing the actual substances that have been shipped.
 
