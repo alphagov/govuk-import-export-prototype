@@ -92,32 +92,20 @@ If the fish came from more than one UK vessel, also fill in a [multiple vessel s
 
 ##Contacts
 
-**Animal and Plant Health Agency (APHA)**
-
-Telephone: +44 (0) 3000 200 301   
-Fax: +44 (0) 117 372 8206   
-Email: <wildlife.licensing@apha.gsi.gov.uk>   
-Centre for International Trade - Bristol    
-1/17 Temple Quay House    
-2 The Square   
-Temple Quay   
-Bristol    
-BS1 6EB   
-
-**Department for Environment, Food and Rural Affairs (Defra)**
-
-Email: <defra.helpline@defra.gsi.gov.uk>     
-Telephone: 0345 933 5577     
-Monday to Friday, 8am to 6pm     
-[Find out about call charges](/call-charges)      
-
-
 **Fish Health Inspectorate**
 
 Telephone: 01305 206700     
 Email: <fhi@cefas.co.uk>   
 Monday to Friday, 9am to 5pm    
-[Find out about call charges](/call-charges)    
+[Find out about call charges](/call-charges)   
+
+ 
+**Department for Environment, Food and Rural Affairs (Defra)**
+
+Email: <defra.helpline@defra.gsi.gov.uk>     
+Telephone: 0345 933 5577     
+Monday to Friday, 8am to 6pm     
+[Find out about call charges](/call-charges)
 
 
 **UK Illegal, unreported and unregulated (IUU) catch certificate centre**
