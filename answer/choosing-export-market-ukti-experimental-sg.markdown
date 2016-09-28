@@ -17,10 +17,13 @@ Read [the Department of International Trade (DIT) country guides](https://www.go
 - local legal requirements
 - how to protect your intellectual property
 - language and cultural issues
+- [licensing rules](http://madb.europa.eu/madb/datasetPreviewFormATpubli.htm?datacat_id=AT&from=publi)
 
 Or [contact your nearest International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to get bespoke research. There’s a charge for bespoke research.
 
 Read the [Overseas Business Risk reports](https://www.gov.uk/government/collections/overseas-business-risk) for information on political instability, terrorism, crime, corruption, human rights issues and intellectual property risks. 
+
+Find out about [duty rates]((http://madb.europa.eu/madb/datasetPreviewFormIFpubli.htm?datacat_id=IF&from=publi) that countries importing your goods will need to pay so you can understand their costs.
 
 ## Get started in a new overseas market
 
