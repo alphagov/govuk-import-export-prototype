@@ -105,17 +105,20 @@ Monday to Friday, 9am to 5pm
 
 **Fish Health Inspectorate**
 
+Email: <ms.fishhealth@gov.scot>
 Telephone: 01224 295525
 Fax: 01224 295620
-Email: <ms.fishhealth@gov.scot>
+[Find out about call charges](/call-charges)   
+
 
 ###Northern Ireland
 
 **Department of Agriculture, Environment and Rural Affairs (DAERA)**
 
 Fisheries and Environment Division
-Telephone: 028 9056 9262
 Email: <marine.inforequests@daera-ni.gov.uk>
+Telephone: 028 9056 9262
+[Find out about call charges](/call-charges)
 
  
 **Department for Environment, Food and Rural Affairs (Defra)**
