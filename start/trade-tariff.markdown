@@ -51,3 +51,5 @@ s2. Sign up to use eBTI on the Government Gateway website.
 s3. Sign in to eBTI.
 
 ^You can check if your business already has an EORI number.
+
+{% endcontentfor %}
