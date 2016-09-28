@@ -92,12 +92,30 @@ If the fish came from more than one UK vessel, also fill in a [multiple vessel s
 
 ##Contacts
 
+###England and Wales
+
 **Fish Health Inspectorate**
 
 Telephone: 01305 206700     
 Email: <fhi@cefas.co.uk>   
 Monday to Friday, 9am to 5pm    
 [Find out about call charges](/call-charges)   
+
+###Scotland
+
+**Fish Health Inspectorate**
+
+Telephone: 01224 295525
+Fax: 01224 295620
+Email: <ms.fishhealth@gov.scot>
+
+###Northern Ireland
+
+**Department of Agriculture, Environment and Rural Affairs (DAERA)**
+
+Fisheries and Environment Division
+Telephone: 028 9056 9262
+Email: <marine.inforequests@daera-ni.gov.uk>
 
  
 **Department for Environment, Food and Rural Affairs (Defra)**
