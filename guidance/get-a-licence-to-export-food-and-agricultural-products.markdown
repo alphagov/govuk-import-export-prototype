@@ -43,7 +43,7 @@ It’s free to apply and the certificates don’t expire (unless the country you
 
 ###Getting another type of export certification
 
-If you’re asked for another type of export certificate for non animal products and your product was manufactured in the UK, [contact the local authority where your products was made](http://www.food.gov.uk/enforcement/find-food-safety-team) with the details.
+If you’re asked for another type of export certificate for non animal products and your product was manufactured in the UK, [contact the local authority where your products was made](http://www.food.gov.uk/enforcement/find-food-safety-team) with the details of what the importing country requires.
 
 ###If you need help
 
@@ -93,11 +93,11 @@ You need to apply for an Export Health Certificate (EHC) to export unprocessed a
 There is a ban on most food exports to Russia, ask the Centre for International Trade for details.
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email [ovteam@apha.gsi.gov.uk](ovteam@apha.gsi.gov.uk).
+s2. Tell them what you're exporting and the destination country. You'll either be asked who your official veterinarian is or for the name of the local authority officer who looks after for food law enforcement at your premises. Email [ovteam@apha.gsi.gov.uk](ovteam@apha.gsi.gov.uk) if you can't find a vet .
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to your official veterinarian within 7 working days.
+s4. Your EHC will be sent to your official veterinarian or local authority officer within 7 working days.
 s4. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
-s5. Your official veterinarian will be asked to check that your animals meet the requirements of the country you’re sending them to.
+s5. Your official veterinarian or local authority officer will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
 ##Vegetables, fruit and other plants used as food
 {:#plants}
