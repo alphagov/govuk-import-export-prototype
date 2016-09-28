@@ -42,7 +42,10 @@ $CTA
 
 You need a Home Office Controlled Drug licence to export controlled drugs anywhere in the world.
 
-[Register](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) to apply, or [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) to your existing account.
+To apply:
+
+- [register for a Home Office Controlled Drugs licence]((https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
+- [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) once you’ve registered
 
 Your licence will be valid for up to 2 months (or until your import permit expires, if sooner).
 
@@ -78,7 +81,7 @@ You need a licence to export the following barbiturates outside of the EU:
 
 Raw materials that include these barbiturates that require further processing don’t need a licence.
 
-[Question for SME: Our understanding is that controls are intended to apply to finished products - ie, they’re packaged for human or veterinary use. It is not intended that they should apply to raw materials or to intermediate products. Please can you confirm?]
+[Question for SME: Our understanding is that controls are intended to apply to finished products - for instance, if they’re packaged for human or veterinary use. It is not intended that they should apply to raw materials or to intermediate products. Please can you confirm?]
 
 You need a licence to export propofol to the US. Your application will be refused if either:
 
@@ -124,7 +127,7 @@ There are 5 types of certificate.
 
 Which one you need will depend on the requirememnts of the importing country. Talk to the importer who’s receiving your goods to find out.
 
-###1.Certificate of a pharmaceutical product (licensed)
+###1. Certificate of a pharmaceutical product (licensed)
 
 The certificate shows details including:
 
