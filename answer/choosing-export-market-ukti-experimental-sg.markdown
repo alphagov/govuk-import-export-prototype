@@ -23,7 +23,7 @@ Or [contact your nearest International Trade team](http://www.uktiofficefinder.u
 
 Read the [Overseas Business Risk reports](https://www.gov.uk/government/collections/overseas-business-risk) for information on political instability, terrorism, crime, corruption, human rights issues and intellectual property risks. 
 
-Find out about [duty rates]((http://madb.europa.eu/madb/datasetPreviewFormIFpubli.htm?datacat_id=IF&from=publi) that countries importing your goods will need to pay so you can understand their costs.
+Find out about [duty rates](http://madb.europa.eu/madb/datasetPreviewFormIFpubli.htm?datacat_id=IF&from=publi) that countries importing your goods will need to pay so you can understand their costs.
 
 ## Get started in a new overseas market
 
