@@ -44,12 +44,10 @@ Rulings:
 
 ###Using the eBTI service
 
-s1. You’ll need an EORI number - how you get one depends on whether you're registered for VAT or not registered for VAT.
+s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
+s2. Sign up to use eBTI on the [Government Gateway website](http://www.gateway.gov.uk/)
+s3. [Sign in](https://secure.hmce.gov.uk/ecom/login/index.html) to eBTI.
 
-s2. Sign up to use eBTI on the Government Gateway website.
-
-s3. Sign in to eBTI.
-
-^You can check if your business already has an EORI number.
+^You can [check if your business already has an EORI number](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en).
 
 {% endcontentfor %}
