@@ -32,8 +32,6 @@ Read the [product classification guides](https://www.gov.uk/government/collectio
 
 You can [get advice from the classification service](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf#page=3) (PDF, 159KB).
 
-{% endcontentfor %}
-
 ##If your goods aren’t listed in the Trade Tariff
 
 Apply for a classification ruling through the Electronic Binding Tariff Information (eBTI) service.
