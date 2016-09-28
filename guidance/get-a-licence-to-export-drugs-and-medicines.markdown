@@ -28,7 +28,7 @@ $CTA
 
 If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
 
-If your drug is controlled, you need to apply for a [Home office controlled drug licence](#apply-export-licence) to export it.
+If your drug is controlled, you need to apply for a [Home Office controlled drug licence](#apply-export-licence) to export it.
 
 $CTA
 
