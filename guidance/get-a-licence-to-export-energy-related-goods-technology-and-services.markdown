@@ -22,10 +22,17 @@ $CTA
 
 ##Goods and services you can’t export
 
-There’s a complete ban on exporting goods or services for use in:
+There’s a complete ban on any new contracts for exporting goods or services for use in:
 
-- oil exploration or production in waters deeper than 150 metres in the offshore area north of the Arctic Circle
+- oil exploration or production in waters deeper than 150 metres
+- oil exploration or production in the offshore area north of the Arctic Circle
 - shale fracking
+
+Examples of services include:
+
+* drilling
+* well testing
+* supplying of specialised equipment
 
 ##Apply for an export licence
 
@@ -39,22 +46,37 @@ Applications take around 20 working days, but can take longer if the Export Cont
 
 ##Trafficking and brokering
 
-You must have a trade control licence if you or your company is involved in:
+You must have a trade control licence if you or your company is involved in trafficking and brokering.
 
-- trafficking
-- technical assistance
-- brokering services
-- financing and financial assistance
-
-Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
+This can include anything that helps to transfer items from one country to another. For example:
 
 - arranging or negotiating sales
 - arranging intra company transfers
 - drop shipping
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for a trade control licence.
+Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for a Standard Individual Trade Control licence.
 
 [How much does a licence cost?]
+
+##Providing financial assistance to traders
+
+You’ll need a separate financial assistance licence if you or your company provide financial assistance related to oil or gas services.
+
+This includes any type of advice or role in a financial transaction which would help banned or restricted trade (for example, processing a payment)
+
+Contact ECO to ask for the application form.
+
+##Providing technical assistance
+
+You’ll need a seperate technical assistance licence if you or your company provide technical service related to oil or gas. 
+
+This could means:
+
+* repairs and maintenance
+* manufacture and assembly
+* any technical advice or consulting
+
+Contact ECO to ask for the application form.
 
 ##Your license responsibilities
 
