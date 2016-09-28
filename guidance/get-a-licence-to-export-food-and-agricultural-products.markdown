@@ -27,7 +27,9 @@ $CTA
 
 Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods or drinks.
 
-Outside the EU, check with the food authority in country you're exporting to. They'll tell you if you need 'certificates of free sale' and which types they require. If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
+Outside the EU, check with the food authority in country you're exporting to. They'll tell you if you need 'certificates of free sale' and which types they require. They'll also tell you if they require other types of export certification
+
+If your food or drink contains animal products, also check if you need an [export health certificate](#meat-dairy-animal-products-outside-EU) (this is only required in special cases).
 
 There’s a [ban on exporting caviar, caviar substitutes, truffles and goods containing truffles to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
 
@@ -38,6 +40,10 @@ Fill in the [application form](https://www.gov.uk/government/uploads/system/uplo
 Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
+
+###Getting another type of export certification
+
+If you’re asked for another type of export certificate for non animal products and your product was manufactured in the UK, [contact the local authority where your products was made](http://www.food.gov.uk/enforcement/find-food-safety-team) with the details.
 
 ###If you need help
 
