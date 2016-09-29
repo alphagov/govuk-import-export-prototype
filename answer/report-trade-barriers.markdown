@@ -28,7 +28,9 @@ You can report a trade barrier to the Market Access Unit (MAU), if you come acro
 
 $A
 
-Market Access Unit   
+Market Access Unit
+Trade Policy Group
+Department for International Trade
 3VICTORIA3   
 1 Victoria Street   
 London   
@@ -39,7 +41,7 @@ $A
 
 $C
 
-<marketaccess@bis.gsi.gov.uk>
+<ruchi.nanda@trade.gsi.gov.uk>
 
 $C
 
