@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export goods that could be used for restraint, repression or inhumane treatment
+title: Get a licence to export goods that could be used for restraint, surveillance or inhumane treatment
 summary: You must have a licence to export goods that could be used to cause cruel, inhumane or degrading treatment to people.
 permalink: /guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html
 topic:
@@ -44,6 +44,13 @@ You can’t export any of the following goods, unless they’re going to be disp
 
 [Question for SME: how can exporters prove their goods are for museum use - do they need to be demonstrably inert/inactive?]
 
+##Exporting surveillance equipment to Iran
+
+You also need a licence to export surveillance goods to Iran, including:
+
+* equipment which might be used for the monitoring or interception of phone calls or digital communication (particularly if the direct or indirect 'end user' may be the Iranian government)
+* any technical assistance, brokering services and financial assistance which relates to surveillance or surveillance goods
+
 ##Apply for an export licence online
 {:#apply}
 
@@ -60,5 +67,6 @@ Email: <eco.help@bis.gsi.gov.uk<br>
 Telephone: 0202 7215 4594<br>
 Fax: 020 7215 2635<br>
 [Find out about call charges](/call-charges)
+
 
 
