@@ -13,7 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-You can [post goods abroad](https://www.gov.uk/send-goods-abroad) if your business gets small orders from overseas.
+You can post goods abroad if your business gets small orders from overseas.
 
 For bigger orders, most businesses use a courier or freight forwarder.
 
