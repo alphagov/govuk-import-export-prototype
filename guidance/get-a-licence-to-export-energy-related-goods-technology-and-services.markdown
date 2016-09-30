@@ -66,7 +66,7 @@ You’ll need a separate financial assistance licence if you or your company pro
 
 This includes any type of advice or role in a financial transaction which would help banned or restricted trade (for example, processing a payment)
 
-Contact ECO to ask for the application form.
+Contact ECO(#ECO) to ask for the application form.
 
 ##Providing technical assistance
 
@@ -93,7 +93,7 @@ The [ECO compliance code of practice](https://govuk-import-export.herokuapp.com/
 - how to train staff
 - how ECO compliance audits work
 
-##Contact the Export Control Organisation (ECO)
+##Contact the Export Control Organisation (ECO){:#ECO}
 
 ECO helpline <br>
 Email: <eco.help@bis.gsi.gov.uk> <br>
