@@ -181,3 +181,4 @@ Contact HSE if you need help.
 
 *[HCFCs]: Hydrochlorofluorocarbons
 *[RIN]: reference identification number
+*[CAS]: Chemical Abstracts Service
