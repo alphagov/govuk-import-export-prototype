@@ -63,7 +63,7 @@ Your licence will be valid for up to 3 months (or until your import permit expir
 
 The export licence costs £24 - an invoice will be sent to your address.
 
-If you need a purchase order number on the invoice, state this when you apply or email DFLU.fees@homeoffice.gsi.gov.uk.
+If you need a purchase order number on the invoice, state this when you apply or email <DFLU.fees@homeoffice.gsi.gov.uk>.
 
 ###Annual returns
 {:#annual-returns-precursors}
