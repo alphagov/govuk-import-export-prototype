@@ -44,6 +44,8 @@ $CTA
 
 Applications take around 20 working days, but can take longer if the Export Control Organisation (ECO) needs to check your application with the government of the country you’re exporting to.
 
+There's no fee for a licence.
+
 ##Trafficking and brokering
 
 You must have a trade control licence if you or your company is involved in trafficking and brokering.
