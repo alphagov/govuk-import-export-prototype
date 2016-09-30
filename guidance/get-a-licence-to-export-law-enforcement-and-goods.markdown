@@ -46,7 +46,7 @@ You can’t export any of the following goods, unless they’re going to be disp
 
 ##Exporting surveillance equipment to Iran
 
-You also need a licence to export surveillance goods to Iran, including:
+You also need a licence to export surveillance goods or services to Iran, including:
 
 * equipment which might be used for the monitoring or interception of phone calls or digital communication (particularly if the direct or indirect 'end user' may be the Iranian government)
 * any technical assistance, brokering services and financial assistance which relates to surveillance or surveillance goods
