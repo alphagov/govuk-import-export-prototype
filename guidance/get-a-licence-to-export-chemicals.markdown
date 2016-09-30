@@ -180,3 +180,4 @@ Contact HSE if you need help.
 <UKDNA@hse.gov.uk>
 
 *[HCFCs]: Hydrochlorofluorocarbons
+*[RIN]: reference identification number
