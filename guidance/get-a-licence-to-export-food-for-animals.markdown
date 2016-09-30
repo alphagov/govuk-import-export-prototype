@@ -14,24 +14,22 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You need permission to export animal feed and pet food. What you need to do depends on if you’re exporting [within the EU](#within-the eu) or [outside the EU](#outside-the-eu).
+To export animal feed and pet food outside the EU, you need to:
 
-There are different rules if you’re exporting [processed animal proteins](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html) that will be made into animal food or any other animal by-products used in animal feed or pet food.
+- apply for an Export Health Certificate (EHC)
+- check if you need a certificate of free sale and what type they require - ask the country you’re exporting to
+ 
+These rules cover feed of both meat and plant origin.
+
+You don't need any special documents to move finished pet food or animal feed within the EU.
+
+There are different rules if you’re exporting processed animal proteins, meat and bone meal or any other [animal by-products](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html) that will be used in animal feed or pet food.
 
 $CTA
 
 Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
 
 $CTA
-
-You don't need any special documents to move finished pet food or animal feed within the EU.
-
-To export it outside the EU, you need to:
-
-- apply for an Export Health Certificate (EHC)
-- check if you need a certificate of free sale - ask the country you’re exporting to
- 
-These rules cover feed of both meat and plant origin.
 
 ###Apply for an Export Health Certificate (EHC)
 
@@ -43,8 +41,8 @@ s5. Check your EHC’s guidance notes to find out if you need your EHC signed by
 s6. Your official veterinarian will be asked to check that your animal products meet the requirements of the country you’re sending them to.
 
 
-
 ###Apply for a certificate of free sale
+
 The country you’re exporting to may require you to have a 'certificate of free sale'.
 
 s1. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484868/COFSApplicationExportNonEUFeeding_v2.0.doc) (MS Word Document, 127KB).
