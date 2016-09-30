@@ -179,6 +179,6 @@ Contact HSE if you need help.
 
 <UKDNA@hse.gov.uk>
 
-*[HCFCs]: Hydrochlorofluorocarbons
+*[HCFCs]: hydrochlorofluorocarbons
 *[RIN]: reference identification number
-*[CAS]: Chemical Abstracts Service
+*[CAS]: chemical abstracts service
