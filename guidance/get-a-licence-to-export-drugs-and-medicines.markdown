@@ -44,7 +44,7 @@ You need a Home Office Controlled Drug licence to export controlled drugs anywhe
 
 To apply:
 
-- [register for a Home Office Controlled Drugs licence]((https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
+- [register for a Home Office Controlled Drugs licence](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 - [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) once you’ve registered
 
 Your licence will be valid for up to 2 months (or until your import permit expires, if sooner).
