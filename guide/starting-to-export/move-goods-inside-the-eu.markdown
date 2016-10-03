@@ -19,7 +19,9 @@ s1. [Check if you need a licence](/guide/starting-to-export/export-licences.html
 s2. Your courier or freight forwarder will ask you to complete a proforma invoice. Charge VAT if you’d do the same for customers in the UK. 
 s3. Attach the proforma invoice (and licence, if you need one) to your consignment.
 
-^Some countries may have import rules for certain goods. You can check by talking to your importer or reading the [country guide](https://www.gov.uk/government/collections/exporting-country-guides#europe), which includes contact details for local advice.
+^Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market.](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+
+
 
 ##After you export
 
