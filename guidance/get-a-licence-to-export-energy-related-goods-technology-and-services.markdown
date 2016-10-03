@@ -22,7 +22,7 @@ $CTA
 
 ##Goods and services you can’t export
 
-There’s a complete ban on any new contracts for exporting goods or services for use in:
+There’s a complete ban on any new contracts for exporting goods or services if they could be used for:
 
 - oil exploration or production in waters deeper than 150 metres
 - oil exploration or production in the offshore area north of the Arctic Circle
