@@ -38,7 +38,7 @@ Keep proof like:
 
 ##If you’re exporting WEEEs to be reused
 
-If you’re exporting whole electrical goods to be recycled or reused you must make evidence notes
+If you’re exporting whole electrical goods to be recycled or reused you must make evidence notes.
 
 Sign up for the [Settlement Centre](https://www.weee-sc.org.uk/) or [log in](https://www.weee-sc.org.uk/login.aspx) to create the notes.
 
@@ -54,9 +54,9 @@ $CTA
 
 ##Check if you need a notification control
 
-[Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you 
+[Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you.
 
-You must also create a contract between you and the business you're sending waste to before you ship it
+You must also create a contract between you and the business you're sending waste to before you ship it.
 
 ###Apply for notification controls
 
