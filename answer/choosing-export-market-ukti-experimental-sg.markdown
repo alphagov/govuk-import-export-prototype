@@ -22,10 +22,7 @@ Or [contact your nearest International Trade team](http://www.uktiofficefinder.u
 
 Read the [Overseas Business Risk reports](https://www.gov.uk/government/collections/overseas-business-risk) for information on political instability, terrorism, crime, corruption, human rights issues and intellectual property risks. 
 
-You can check the EU Market Access Database to research a country's:
-
-- [duty rates](http://madb.europa.eu/madb/datasetPreviewFormIFpubli.htm?datacat_id=IF&from=publi)
-- [licensing rules](http://madb.europa.eu/madb/datasetPreviewFormATpubli.htm?datacat_id=AT&from=publi)
+You can check the EU Market Access Database to research a country's [duty rates](http://madb.europa.eu/madb/datasetPreviewFormIFpubli.htm?datacat_id=IF&from=publi) and [licensing rules.](http://madb.europa.eu/madb/datasetPreviewFormATpubli.htm?datacat_id=AT&from=publi)
 
 
 ## Get started in a new overseas market
