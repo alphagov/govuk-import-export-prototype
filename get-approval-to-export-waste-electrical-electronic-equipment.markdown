@@ -19,22 +19,6 @@ You’ll need to [get approval](https://www.gov.uk/government/uploads/system/upl
 
 You’ll also need to apply for a notification control for most countries outside the EU.
 
-##If you’re exporting WEEEs to be reused
-
-If you’re exporting whole electrical goods to be recycled or reused you must make evidence notes
-
-Sign up for the [Settlement Centre](https://www.weee-sc.org.uk/) or [log in](https://www.weee-sc.org.uk/login.aspx) to create the notes.
-
-###Meeting recycling targets 
-
-If you’re exporting WEEE you must make sure the importer is meeting recycling targets.
-
-These will be between 55% and 80% depending on the category. [Use this template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488880/LIT_10353.xlsx) to document the percentage of WEEE they recover.
-
-$CTA
-If you don’t send evidence notes and meet recycling targets, your approval may be suspended or cancelled
-$CTA
-
 ###Record keeping
 
 If you get approval, you must make quarterly returns from January to 30 April, from May to 31 July, from August to 31 October and from November to 31 January.
@@ -51,6 +35,22 @@ Keep proof like:
 * photographs, invoices and receipts
 * shipping paperwork 
 * contracts
+
+##If you’re exporting WEEEs to be reused
+
+If you’re exporting whole electrical goods to be recycled or reused you must make evidence notes
+
+Sign up for the [Settlement Centre](https://www.weee-sc.org.uk/) or [log in](https://www.weee-sc.org.uk/login.aspx) to create the notes.
+
+###Meeting recycling targets 
+
+If you’re exporting WEEE you must make sure the importer is meeting recycling targets.
+
+These will be between 55% and 80% depending on the category. [Use this template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488880/LIT_10353.xlsx) to document the percentage of WEEE they recover.
+
+$CTA
+If you don’t send evidence notes and meet recycling targets, your approval may be suspended or cancelled
+$CTA
 
 ##Check if you need a notification control
 
