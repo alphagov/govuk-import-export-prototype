@@ -23,7 +23,7 @@ s3. Attach the proforma invoice (and licence, if you need one) to your consignme
 
 ##After you export
 
-You must keep records of proforma invoices and any customs paperwork for 4 years.
+You must keep records of proforma invoices and any official paperwork for 4 years.
 
 ###Tasks for bigger exporters
 
