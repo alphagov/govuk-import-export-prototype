@@ -13,9 +13,9 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-There are more tasks to complete to export outside the EU than within it. You may also need to pay import duty in the country you're exporting to - but you don't charge VAT on exports outside the EU.
+There are more tasks to complete to export outside the EU than within it. You may also need to pay import duty in the country you're exporting to.
 
-s1. Check the import rules of the country you’re exporting to. Talk to your importer and read information on [researching your export market.](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html)
+s1. Check the import rules of the country you’re exporting to. Talk to your importer or get help [researching your export market.](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html)
 s2. [Check if you need a licence](/guide/starting-to-export/export-licences.html) to export restricted goods outside the UK. 
 s3. [Find your goods' commodity code](/start/trade-tariff.html) - you'll need this for your commercial invoice. The code affects any import duty that will be charged.
 s4. Register for an EORI number, if you don't have one. How you apply depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) It usually takes 3 working days. Tell your courier or freight forwarder the number when you get it. 
