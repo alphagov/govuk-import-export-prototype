@@ -30,24 +30,19 @@ Commodity codes classify goods for import and export so you can:
 
 Read the [product classification guides](https://www.gov.uk/government/collections/classification-of-goods) to help you find the correct commodity code.
 
-You can [get advice from the classification service](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf#page=3) (PDF, 159KB).
+You can [get advice from the classification service.](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf#page=3) (PDF, 159KB)
 
-##If your goods aren’t listed in the Trade Tariff
+###Apply for a classification ruling
 
-Apply for a classification ruling through the Electronic Binding Tariff Information (eBTI) service.
+You can apply for a classification ruling to give certainty about the correct tariff classification for your goods.
 
 Rulings:
 
-- give certainty about the correct tariff classification for your goods
 - are legally binding throughout the EU, usually for 6 years
 - are free, but you may have to pay costs (for example, for laboratory analysis or expert advice)
 
-###Using the eBTI service
+You apply for a ruling by using the eBTI service.
 
 s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport).
 s2. Sign up to use eBTI on the [Government Gateway website](http://www.gateway.gov.uk/)
-s3. [Sign in](https://secure.hmce.gov.uk/ecom/login/index.html) to eBTI.
-
-^You can [check if your business already has an EORI number](http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp?Lang=en).
-
-{% endcontentfor %}
+s3. [Sign in to eBTI.](https://secure.hmce.gov.uk/ecom/login/index.html)
