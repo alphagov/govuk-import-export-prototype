@@ -1,3 +1,19 @@
+---
+layout: start
+title: Use the Trade Tariff to look up commodity codes
+permalink: /start/trade-tariff.html
+breadcrumbs:
+ - name: Home
+   url: '/'
+ - name: Business and self employed
+   url: '/'
+ - name: Exporting and doing business abroad
+   url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'
+start_button:
+  url: 'https://tariff-frontend-dev.cloudapps.digital/trade-tariff/sections'
+  label: Start now
+  will_continue_on: 
+---
 {% contentfor intro %}
 
 Commodity codes classify goods for import and export so you can:
