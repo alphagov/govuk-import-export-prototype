@@ -27,11 +27,14 @@ Search the ‘exporting is great’ database of opportunities by market and sect
 You local International Trade team can help you find overseas customers by:
 
 - helping you prepare for a [trade show or overseas market visit](https://www.events.ukti.gov.uk) (sometimes grants are available)
-- arranging introductions to potential overseas buyers, agents and distributors (there’s a charge for this service)
+- arranging introductions to potential overseas buyers, agents and distributors (there’s a charge for this service) 
 
-[Contact your local International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more. 
+[Contact your local International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more.
 
 ^[Get help researching export markets](/answer/choosing-export-market-ukti-experimental-sg.html) if you’re not sure which overseas markets to focus on.^
+
+You can also get help through the [trade show access programme](https://www.gov.uk/guidance/tradeshow-access-programme). If you're eligible to apply, contact your event organiser.
+
 
 ## Get help winning business from major overseas projects
 
