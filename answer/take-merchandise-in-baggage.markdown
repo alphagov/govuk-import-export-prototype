@@ -24,28 +24,12 @@ Within the EU, you don't need to declare your goods.
 
 ^There are different rules if you [take goods abroad temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html) (for example samples for a trade fair) or if you [export using a courier or freight forwarder](/guide/starting-to-export/overview.html).
 
-##Make a declaration
+##Making a declaration
 
-[Contact HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/excise-enquiries) to request a C88 form for 'merchanise in baggage'.
+Arrive at the airport or port around 2 hours early to make your declaration. If your goods require a [licence](/guide/starting-to-export/export-licences.html), you should also carry it with you.
 
-[Question for SME: Is the short form available online?]
+You’ll be asked to fill in a customs declaration form if any of the following apply to your goods:
 
-You’ll have to fill in more information if any of the following apply to your goods:
-
-* have a total value of over £750
-* weigh more than 1000kg 
-* are subject to export duty or are [restricted](/guide/starting-to-export/export-licences.html)
-
-Ask the helpline to send you notes on completing the form if you've not used it before.
-
-###What to do with your form
-
-Bring the completed form with you when you transport your goods - if your goods require a licence, you should also carry it with you.
-
-Arrive at the airport or port around 2 hours early to submit your form.
-
-
-
-
-
-
+- they have a total value of over £750
+- they weigh more than 1000kg
+- they are subject to export duty or are need a licence
