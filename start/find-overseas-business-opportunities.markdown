@@ -27,7 +27,7 @@ UK Trade and Investment (UKTI) can also help you find overseas business opportun
 - helping you prepare for overseas visits
 - providing [grants to attend overseas trade shows shows](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/482753/TAP_Programme_2015-16_full_year_03_Dec_2015.xlsx) - contact the organisation leading the event to apply
 
-[Contact your nearest International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more. 
+[Contact your nearest International Trade team](https://www.contactus.trade.gov.uk/office-finder) to find out more. 
 You can also sign up for [UKTI events, seminars and overseas visits.](https://www.events.ukti.gov.uk)
 
 ## Defence, security and cyber security
@@ -35,7 +35,7 @@ You can also sign up for [UKTI events, seminars and overseas visits.](https://ww
 Contact UKTI’s Defence and Security Organisation (UKTI DSO) to get help with: 
 
 - presentations, product demonstrations and hosting delegations (including a bespoke hanger for exhibitions and [demonstration centre](https://cyberexchange.uk.net/#/cdc) for cyber security products)
-- displaying your products on the UKTI DSO stand at [exhibitions and trade shows](https://www.gov.uk/government/publications/defence-and-security-exporting-event-and-exhibition-support) 
+- displaying your products on the UKTI DSO stand at [exhibitions and trade shows](https://www.gov.uk/government/publications/defence-and-security-exporting-event-and-exhibition-support)
 - booking military personnel to appear on your stand at an exhibition or trade show
 - providing after sales training to customers
 
