@@ -30,6 +30,10 @@ UK Trade and Investment (UKTI) can also help you find overseas business opportun
 [Contact your nearest International Trade team](https://www.contactus.trade.gov.uk/office-finder) to find out more. 
 You can also sign up for [UKTI events, seminars and overseas visits.](https://www.events.ukti.gov.uk)
 
+###Aid-funded business
+
+Get help to win business from [aid agency-funded projects](https://www.gov.uk/guidance/aid-funded-business).
+
 ## Defence, security and cyber security
 
 Contact UKTI’s Defence and Security Organisation (UKTI DSO) to get help with: 
