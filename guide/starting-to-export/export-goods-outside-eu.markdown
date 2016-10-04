@@ -26,8 +26,9 @@ Your courier or freight forwarder will use your commercial invoice to make an of
 
 ##After you export
 
-You must keep records of commercial invoices and any customs paperwork for 4 years.
+You must:
 
-Pay any tax or duty you owe in the destination country. You won't usually pay UK duty on exports.
+- keep records of commercial invoices and any customs paperwork for 4 years
+- pay any tax or duty you owe in the destination country - you won't usually pay UK duty on exports
 
 If you're VAT registered, you can [zero-rate](http://www.gov.uk/vat-businesses/vat-rates) the VAT on most goods you export to non-EU countries.
