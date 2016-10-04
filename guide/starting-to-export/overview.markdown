@@ -22,7 +22,7 @@ What you need to do depends on whether you're exporting:
 - [within the EU](/guide/starting-to-export/goods-within-eu.html)
 - [outside the EU](/guide/starting-to-export/goods-outside-eu.html)
 
-^There’s a different process if you [take goods with you](/take-merchandise-in-baggage.html) (for example in your baggage), or your company transports the goods itself -you may need to complete [customs form C88](https://www.gov.uk/guidance/declarations-and-the-single-administrative-document).
+^There’s a different process if you [take goods with you](/take-merchandise-in-baggage.html) (for example in your baggage), or [your company transports the goods itself](https://www.gov.uk/guidance/declarations-and-the-single-administrative-document) - you may need to complete customs form C88.
 
 ##Export advice and finance
 
