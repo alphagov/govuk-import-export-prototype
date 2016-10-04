@@ -29,6 +29,8 @@ If you buy excise goods produced by someone else and the UK excise duty has alre
 
 There's a [ban on exporting high quality wines, spirits, cigars and cigarillos to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
 
+There's also a [ban on exporting jet fuel and fuel additives to Syria](https://www.gov.uk/guidance/sanctions-on-syria#latest-updates-about-syria-sanctions).
+
 ### Scotch whisky
 
 You can only export single grain, blended malt, blended grain or blended Scotch whisky outside Scotland if the whisky is:
