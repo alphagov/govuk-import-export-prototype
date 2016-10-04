@@ -24,6 +24,8 @@ s6. Attach the commercial invoice (and licence, if you need one) to your consign
 
 Your courier or freight forwarder will use your commercial invoice to make an official customs declaration. Your goods can be held up in customs if the information you give isn't accurate.
 
+^If you don’t use a courier or freight forwarder, the process is more complicated and only suitable for more experienced exporters. You’ll need transport the goods yourself and complete your own [customs declaration](https://www.gov.uk/guidance/declarations-and-the-single-administrative-document) (form C88).
+
 ##After you export
 
 You must:
