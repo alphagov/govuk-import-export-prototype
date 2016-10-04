@@ -26,7 +26,7 @@ Within the EU, you don't need to declare your goods.
 
 ##Making a declaration
 
-Arrive at the airport or port around 2 hours early to make your declaration. If your goods require a [licence](/guide/starting-to-export/export-licences.html), you should also carry it with you.
+Arrive at the airport or port around 2 hours early to make your declaration. If your goods require a [licence](/guide/starting-to-export/export-licences.html), carry it with you.
 
 You’ll be asked to fill in a customs declaration form if any of the following apply to your goods:
 
