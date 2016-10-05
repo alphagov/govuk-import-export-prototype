@@ -22,6 +22,16 @@ Search the ‘exporting is great’ database of opportunities by market and sect
 {% endcontentfor %}
 {% contentfor more_information %}
 
+## Get help finding overseas customers online
+
+Join the e-exporting programme to get:
+
+- advice on developing a strategy from from e-commerce and international trade experts
+- special rates for some of the world’s most popular online selling platforms
+- regular updates on e-commerce trends and opportunities to hear from industry experts `and network with other online traders
+
+Contact <e-exporting@trade.gsi.gov.uk> to join the e-exporting programme.
+
 ## Get help finding overseas customers
 
 You local International Trade team can help you find overseas customers by:
@@ -48,17 +58,9 @@ You local International Trade team can help you win business from major overseas
 
 [Contact your local International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more.
 
+##Aid-agency funded business
+
 There’s a different way to apply for [aid-agency funded projects](https://www.gov.uk/guidance/aid-funded-business).
-
-## Get help finding overseas customers online
-
-Join the e-exporting programme to get:
-
-- advice on developing a strategy from from e-commerce and international trade experts
-- special rates for some of the world’s most popular online selling platforms
-- regular updates on e-commerce trends and opportunities to hear from industry experts `and network with other online traders
-
-Contact <e-exporting@trade.gsi.gov.uk> to join the e-exporting programme.
 
 ## Defence, security and cyber security
 
