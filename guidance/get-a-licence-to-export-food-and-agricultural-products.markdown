@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export food and agricultural products
+title: Get a certificate to export food and agricultural products
 summary: Check if you need a licence or certificate to export food and agricultural products.
 permalink: /guidance/get-a-licence-to-export-food-and-agricultural-products.html
 topic:
@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You may need a licence or follow special rules to export:
+You may need a certificate or to follow special rules to export:
 
 - [processed food and drinks](#processed-foods) including things like flour and spices
 - [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like honey and gelatine
@@ -25,7 +25,7 @@ $CTA
 ##Processed food and drinks
 {:#processed-foods}
 
-Within the [EU](https://www.gov.uk/eu-eea) you don't need a licence or follow special rules to move processed foods or drinks.
+Within the [EU](https://www.gov.uk/eu-eea) you don't need a certificate or to follow special rules to move processed foods or drinks.
 
 Outside the EU, check with the food authority in country you're exporting to. They'll tell you if you need 'certificates of free sale' and which types they require. They'll also tell you if they require other types of export certification
 
