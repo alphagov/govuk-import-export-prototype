@@ -58,11 +58,9 @@ You local International Trade team can help you win business from major overseas
 
 [Contact your local International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more.
 
-##Aid-agency funded business
+##Aid agency-funded business
 
-The aid-funded business service helps your company find out about how you can supply goods and services to support the work of humanitarian aid organisations.
-
-These organisations give relief to people affected by natural disasters such as hurricanes and typhoons, and those displaced by man-made disasters such as civil wars.
+If you want to apply for an aid agency-funded business project, the Department for International Trade can put you in touch with world and regional development banks.
 
 ###How to apply
 
