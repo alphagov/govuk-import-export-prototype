@@ -97,7 +97,7 @@ s1. Contact the [Centre for International Trade Carlisle](/government/organisati
 s2. Tell them what you're exporting and the destination country. You'll either be asked who your official veterinarian is or for the name of the local authority officer who looks after for food law enforcement at your premises. Email [ovteam@apha.gsi.gov.uk](ovteam@apha.gsi.gov.uk) if you can't find a vet .
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to your official veterinarian or local authority officer within 7 working days.
-s5. Your official veterinarian or local authority officer will be asked to check that your animals meet the requirements of the country you’re sending them to.
+s5. Your official veterinarian or local authority officer will be asked to check that your animal products meet the requirements of the country you’re sending them to.
 
 
 ##Vegetables, fruit and other plants used as food
