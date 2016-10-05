@@ -94,8 +94,6 @@ To get a health certificate, your plants must be inspected.
 * [potatoes](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515925/form-phe60.pdf)
 * plants from [outside the EU that were temporarily stored, repacked, or split up](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515946/form-hh87.pdf).
 
-[Question for SME: Is there a different form for ware potatoes?]
-
 You might also need to fill in a form for:
 
 * [growing season inspections](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/515931/form-phe86.pdf) if the importing country tells you to have an inspection carried out on crop that the plants or seeds were taken from..
