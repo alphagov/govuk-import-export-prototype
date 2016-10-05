@@ -16,9 +16,7 @@ breadcrumbs:
 You must make an Intrastat declaration every month. You can either do this:
 
 - [online](https://secure.hmce.gov.uk/ecom/is2/static/is2.html)
-- using software
-
-Search online to find software suppliers.
+- using software - search online to find software suppliers
 
 Read [guidance on how to complete your declaration.](https://www.uktradeinfo.com/Intrastat/AboutIntrastat/Pages/SupplementaryDeclarations.aspx)
 
