@@ -31,9 +31,10 @@ You local International Trade team can help you find overseas customers by:
 
 [Contact your local International Trade team](http://www.uktiofficefinder.ukti.gov.uk/contactSearch.html) to find out more.
 
+Check if you're eligible for a [grant to attend overseas trade shows](https://www.gov.uk/guidance/tradeshow-access-programme). Contact your event organiser for help.
+
 ^[Get help researching export markets](/answer/choosing-export-market-ukti-experimental-sg.html) if you’re not sure which overseas markets to focus on.^
 
-You can also check if you're eligible to use the [trade show access programme](https://www.gov.uk/guidance/tradeshow-access-programme). Contact your event organiser for help.
 
 ## Get help winning business from major overseas projects
 
