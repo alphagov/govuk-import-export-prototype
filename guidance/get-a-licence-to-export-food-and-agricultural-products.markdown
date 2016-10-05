@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a certificate to export food and agricultural products
-summary: Check if you need a licence or certificate to export food and agricultural products.
+summary: Check if you need certificate to export food and agricultural products.
 permalink: /guidance/get-a-licence-to-export-food-and-agricultural-products.html
 topic:
   name: Exporting and doing business abroad
