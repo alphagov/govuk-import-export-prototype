@@ -99,6 +99,7 @@ s3. You'll be given the application form for the EHC you need. Fill it in and re
 s4. Your EHC will be sent to your official veterinarian or local authority officer within 7 working days.
 s5. Your official veterinarian or local authority officer will be asked to check that your animals meet the requirements of the country you’re sending them to.
 
+
 ##Vegetables, fruit and other plants used as food
 {:#plants}
 
