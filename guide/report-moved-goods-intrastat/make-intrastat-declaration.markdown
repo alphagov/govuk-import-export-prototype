@@ -16,7 +16,7 @@ breadcrumbs:
 You must make an Intrastat declaration every month. You can either do this:
 
 - [online](https://secure.hmce.gov.uk/ecom/is2/static/is2.html)
-- [using software](/guide/report-moved-goods-intrastat/other-ways-make-declaration)
+- using software
 
 Read [guidance on how to complete your declaration.](https://www.uktradeinfo.com/Intrastat/AboutIntrastat/Pages/SupplementaryDeclarations.aspx)
 
