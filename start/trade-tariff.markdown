@@ -38,7 +38,7 @@ You can apply for a classification ruling to give certainty about the correct ta
 
 Rulings are:
 
-- legally binding throughout the EU, usually for 6 years
+- legally binding throughout the EU, usually for 3 years
 - free, but you may have to pay costs (for example, for laboratory analysis or expert advice)
 
 You apply for a ruling by using the eBTI service.
