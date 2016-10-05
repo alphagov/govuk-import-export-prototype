@@ -60,7 +60,7 @@ You local International Trade team can help you win business from major overseas
 
 ##Aid agency-funded business
 
-The Department for International Trade can help you apply for an aid agency-funded business project.
+The Department for International Trade (DIT) can help you apply for an aid agency-funded business project.
 
 To apply, contact <eddie.malone@trade.gsi.gov.uk> or a [member of the aid-funded business service](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/401907/Aid_Funded_Business_Network_of_Staff_14_15.pdf)(PDF, 181KB, 7 pages) at the Department for International Trade.
 
@@ -85,3 +85,5 @@ $C
 DSO provides media support for product launches or overseas campaigns. Call +44 (0)20 7215 8467.
 
 {% endcontentfor %}
+
+*[DIT]: Department for International Trade
