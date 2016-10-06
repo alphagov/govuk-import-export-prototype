@@ -17,7 +17,9 @@ The only exceptions are:
 * dead Crocodylia species with source code D, with a uniquely marked, closed leg ring
 * any animal product like skin, bones or shells that have been processed before 1947 for example carved or tinted horns or bones used in an antique art object 
 
-If it’s in any other annex, you’ll also have to get a CITES permit to export your ABP outside the EU. You don’t need to apply for one within the EU but some countries may ask you to prove that 
+If it’s in Annex B or C you’ll also have to get a CITES permit to export your ABP outside the EU. You don’t need to apply for one within the EU but some countries may ask you to prove that your goods entered the EU legally.
+
+If you're exporting a musical instrument made from endangered animals (for example piano with keys made from ivory) you may be able to avoid having to apply for a permit. Contact the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) if this applies.
 
 $CTA  
 [Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-bristol) if you’re exporting elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. You could be fined or imprisoned for up to 7 years if you break the rules.  
