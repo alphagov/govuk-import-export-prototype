@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a certificate to export endangered products of animal origin
+title: Get a certificate to export products made from endangered animals 
 summary: You must get a certificate to export endangered products of animal origin
 permalink: /guidance/get-a-certificate-to-export-endangered-products-of-animal-origin.html
 topic:
@@ -10,7 +10,7 @@ topic:
 
 [Use the tool](http://www.speciesplus.net/) to check if your product of animal origin is listed as an endangered species - if it’s banned outright you can’t export it.
 
-If it’s listed in Annex A you’ll need  'Article 10 certificates' both inside and outside the EU.
+If it’s listed in Annex A you’ll need  'Article 10 certificates' to export it both inside and outside the EU.
 
 The only exceptions are:
 
@@ -26,15 +26,13 @@ $CTA
 ##Apply for an ‘Article 10 certificate’
 
 Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:  
-
 * imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit  
 * specimens previously issued with an Article 10 certificate, the original yellow copy of the certificate
 * a specimen taken from the wild, a copy of any licences issued to allow it to be removed from the wild
 
 Complete your [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use). 
 
-Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number) as this may determine what type of certificate you get.
-
+Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number). If they're wrong you're more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
 
 ### If you don’t have supporting documents
 
@@ -78,5 +76,7 @@ If you lose your certificate, you can [ask APHA for a replacement](http://www.go
 [Apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
 
 Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
+
+
 
 APHA will contact you within 15 working days of receiving your application.
