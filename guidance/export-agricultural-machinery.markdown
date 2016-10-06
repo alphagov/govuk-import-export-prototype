@@ -18,7 +18,7 @@ You apply a different way in [Scotland](https://www.sasa.gov.uk/plant-health/pla
 
 $CTA
 
-[Check with the plant authority](https://www.ippc.int/en/countries/all/list-countries/) in the country that you’re exporting to find out if your farm machinery needs a health certificate (‘phytosanitary certificate’).
+Get help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) and check with the plant authority](https://www.ippc.int/en/countries/all/list-countries/) in the country that you’re exporting to find out if your farm machinery needs a health certificate (‘phytosanitary certificate’).
 
 Make sure you ask to receive an official document to explain the rules in that country and how to comply - this will help UK inspectors to prepare your export correctly.
 
