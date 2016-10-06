@@ -26,6 +26,12 @@ The consolidated list includes:
 
 The rules for radioactive substances apply both within the EU and outside the EU.
 
+$CTA
+
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+
+$CTA
+
 ## Exporting substances that aren’t on the consolidated list
 
 You must contact the [Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-radioactive-substances.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting will be used for military purposes or to make a weapon of mass destruction (WMD), even if it doesn’t appear on the consolidated military list. For example, components that will be used to make a weapon.
