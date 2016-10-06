@@ -27,8 +27,10 @@ $CTA
 
 ##Apply for an ‘Article 10 certificate’
 
-Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:  
-* imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit  
+Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:
+
+
+* imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit 
 * specimens previously issued with an Article 10 certificate, the original yellow copy of the certificate
 * a specimen taken from the wild, a copy of any licences issued to allow it to be removed from the wild
 
