@@ -30,7 +30,7 @@ If you export poultry, you must also join the [Poultry Health Scheme](#poultry).
 ###Apply for an ITAHC
 {:#animal-health-certificate}
 
-s1. Nominate an official veterinarian to inspect your horses. To find one, ask at your local vet or email [ovteam@apha.gsi.gov.uk](mailto:ovteam@apha.gsi.gov.uk).
+s1. Nominate an official veterinarian to inspect your animals. To find one, ask at your local vet or email [ovteam@apha.gsi.gov.uk](mailto:ovteam@apha.gsi.gov.uk).
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do)if you’ve not used it before.
 s3. Sign in to [TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the animals you're exporting.
 s4. Contact the [Animal and Plant Health Agency (APHA)](/government/organisations/animal-and-plant-health-agency/about/access-and-opening) ([DEARA ](https://www.dardni.gov.uk/contact) in Northern Ireland) - tell them that the ITAHC has been created and give them details of your official veterinarian.
