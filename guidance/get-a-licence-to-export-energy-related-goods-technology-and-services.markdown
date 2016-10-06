@@ -16,7 +16,7 @@ Check the list of [goods and services](http://eur-lex.europa.eu/legal-content/EN
 
 $CTA
 
-Also check Russia's import rules. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html).
+Also check Russia's import rules. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
 
 $CTA
 
