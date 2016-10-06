@@ -37,4 +37,4 @@ Count the value of goods that are:
 Don’t count the value of:
 
 * services
-*  [goods you’re taking out of the UK temporarily](/guide/take-goods-out-uk-temporarily-for-business/overview.html)
+* goods you’re taking out of the UK temporarily
