@@ -19,6 +19,12 @@ Your used agricultural machinery needs to travel with a plant health certificate
 
 You don’t need to do any inside the EU.
 
+$CTA
+
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+
+$CTA
+
 ##Exporting plants from England or Wales
 
 Most countries require you to have a health certificate (‘phytosanitary certificate’) if you export used farm machinery.
