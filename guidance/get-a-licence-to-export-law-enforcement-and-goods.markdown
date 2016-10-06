@@ -28,7 +28,7 @@ The rules apply both within the EU and outside the EU.
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [see the country guides](https://www.gov.uk/government/collections/exporting-country-guides).
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
 
 $CTA
 
