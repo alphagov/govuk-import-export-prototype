@@ -27,7 +27,7 @@ There’s a [ban on supplying art works, collectors’ pieces and antiques to No
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get research the legal rules in overseas markets](/answer/choosing-export-market-ukti.html)
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
 
 $CTA
 
