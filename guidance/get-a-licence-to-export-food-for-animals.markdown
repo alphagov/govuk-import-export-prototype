@@ -34,7 +34,7 @@ $CTA
 ###Apply for an Export Health Certificate (EHC)
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@apha.gsi.gov.uk> .
+s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@apha.gsi.gov.uk> ( or contact [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland).
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to you within xxx days/weeks.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](/local-council). 
