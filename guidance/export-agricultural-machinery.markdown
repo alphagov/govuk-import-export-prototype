@@ -23,13 +23,6 @@ $CTA
 Make sure you ask to receive an official document to explain the rules in that country and how to comply - this will help UK inspectors to prepare your export correctly.
 
 
-$CTA
-
-You can also get help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
-
-$CTA
-
-
 ###Applying for a plant health certificate 
 
 You must apply for your machinery to be inspected, either:
