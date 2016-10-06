@@ -22,7 +22,7 @@ Make sure you ask to receive an official document to explain the rules in that c
 
 $CTA
 
-Get help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) or [check with the plant authority](https://www.ippc.int/en/countries/all/list-countries/) in the country that you’re exporting to find out if your farm machinery needs a health certificate (‘phytosanitary certificate’).
+[Check with the plant authority](https://www.ippc.int/en/countries/all/list-countries/) in the country that you’re exporting to find out if your farm machinery needs a health certificate (‘phytosanitary certificate’).
 
 $CTA
 
