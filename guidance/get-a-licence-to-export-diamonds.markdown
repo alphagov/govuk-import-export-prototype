@@ -16,7 +16,7 @@ There's a ban on exporting precious stones, semi precious stones, gold and silve
 
 $CTA
 
-Also check the import rules of the country you’re exporting to. Talk to your importer or [research legal rules in overseas markets](/answer/choosing-export-market-ukti.html).
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
 
 $CTA
 
