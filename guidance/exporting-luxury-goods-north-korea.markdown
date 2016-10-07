@@ -45,28 +45,28 @@ The banned luxury goods are:
 
 The banned luxury goods are:
 
-- Pure-bred horses
-- Caviar and caviar substitutes; in the case of caviar substitutes, if the sales prices exceed EUR 20 per 100 grams
-- Truffles
-- Wines (including sparkling wines) exceeding a sales price of EUR 50 per litre, spirits exceeding and spirituous
-beverages exceeding a sales price of EUR 50 per litre
-- Cigars and cigarillos exceeding a sales price of EUR 10 each cigar or cigarillo
-- Perfumes and toilet waters exceeding a sales price of EUR 70 per 50 ml and cosmetics, including beauty and make-up
-products exceeding a sales price of EUR 70 each
-- Leather, saddlery and travel goods, handbags and similar articles exceeding a sales price of EUR 200 each
-- Garments, clothing accessories and shoes (regardless of their material) articles exceeding a sales price of EUR 600 per
-- Pearls, precious and semi-precious stones, articles of pearls, jewellery, gold or silversmith articles
-- Coins and banknotes, not being legal tender
-- Cutlery of precious metal or plated or clad with precious metal
-- Tableware of porcelain, china, stone- or earthenware or fine pottery exceeding a sales price of EUR 500 each
-- Lead crystal glassware exceeding a sales price of EUR 200 each
-- Luxury vehicles for the transport of persons on earth, air or sea, as well as their accessories; in the case of new
-vehicles, if the sales prices exceeds EUR 25 000; in the case of used vehicles, if the sales price exceeds EUR 15 00
-- Clocks and watches and their parts if the individual item exceeds a sales price of EUR 500
-- Works of art, collectors’ pieces and antiques
-- Articles and equipment for skiing, golf and water sports, if the individual item exceeds a sales price of EUR 500
-- Articles and equipment for billiard, automatic bowling, casino games and games operated by coins or banknotes, if 
-the individual item exceeds a sales price of EUR 500
+- pure-bred horses
+- caviar and caviar substitutes; in the case of caviar substitutes, if the sales prices exceed EUR 20 per 100 grams
+- truffles
+- wines (including sparkling wines) exceeding a sales price of EUR 50 per litre, spirits exceeding and spirituous
+beverages exceeding a sales price of €50 per litre
+- cigars and cigarillos exceeding a sales price of €10 each cigar or cigarillo
+- perfumes and toilet waters exceeding a sales price of €70 per 50 ml and cosmetics, including beauty and make-up
+products exceeding a sales price of €70 each
+- leather, saddlery and travel goods, handbags and similar articles exceeding a sales price of €200 each
+- garments, clothing accessories and shoes exceeding a sales price of €600 per
+- pearls, precious and semi-precious stones, jewellery, gold or silversmith articles
+- coins and banknotes, not being legal tender - for example, antique coins
+- cutlery of precious metal or plated or clad with precious metal
+- tableware of porcelain, china, stone- or earthenware or fine pottery exceeding a sales price of €500 each
+- lead crystal glassware exceeding a sales price of €200 each
+- luxury vehicles for the transport of persons on land, air or sea, as well as their accessories; in the case of new
+vehicles, if the sales prices exceeds €25,000; in the case of used vehicles, if the sales price exceeds €1500
+- clocks and watches and their parts if the individual item exceeds a sales price of €500
+- works of art, collectors’ pieces and antiques
+- equipment for skiing, golf and water sports, if the individual item exceeds a sales price of €500
+- equipment for billiard, automatic bowling, casino games and games operated by coins or banknotes, if 
+the individual item exceeds a sales price of €500
 
 ## Contact the Export Control Organisation (ECO)
 
