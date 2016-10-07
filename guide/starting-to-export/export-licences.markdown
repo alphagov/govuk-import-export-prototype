@@ -35,6 +35,7 @@ You may need a licence or follow special rules to export restricted goods or to 
 - [oil and gas related goods and services to Russia](/guidance/get-a-licence-to-export-energy-related-goods-technology-and-services.html)
 - [ozone-depleting substances and F-gases](/guidance/get-a-licence-to-export-cfcs-and-ozone-depleting-gases.html)
 - [waste](/guidance/get-a-licence-to-export-waste.html)
+- [waste electrical and electronic equipment](/guidance/get-approval-to-export-waste-electrical-electronic-equipment.html) (WEEE)
 - [radioactive substances](/guidance/get-a-licence-to-export-radioactive-substances.html) - or other goods, technology or services that could make it possible to use a radioactive substance for military purposes
 
 ##Diamonds, precious metals, arts
