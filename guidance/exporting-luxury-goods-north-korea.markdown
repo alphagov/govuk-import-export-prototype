@@ -1,7 +1,7 @@
 ---
 layout: guidance
-title: Exporting luxury goods to North Korea
-summary: There’s a ban on supplying luxury goods to anyone in the Democratic People’s Republic of Korea (North Korea), directly or indirectly.
+title: Exporting luxury goods to North Korea and Syria
+summary: There’s a ban on supplying luxury goods to anyone in the Democratic People’s Republic of Korea (North Korea) and Syria, directly or indirectly.
 permalink: /guidance/exporting-luxury-goods-north-korea.html
 breadcrumbs:
  - name: Home
@@ -14,7 +14,10 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-The banned luxury goods are:
+
+## North Korea
+
+The banned luxury goods for North Korea are:
 
 - pure bred horses
 - caviar and caviar substitutes
@@ -43,7 +46,7 @@ The banned luxury goods are:
 
 ## Syria
 
-The banned luxury goods are:
+The banned luxury goods for Syria are:
 
 - pure-bred horses
 - caviar and caviar substitutes; in the case of caviar substitutes, if the sales prices exceed EUR 20 per 100 grams
