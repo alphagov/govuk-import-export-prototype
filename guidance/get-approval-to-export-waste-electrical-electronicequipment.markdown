@@ -19,7 +19,7 @@ If you get approval, you can export:
 - whole electrical and electronic appliances for reuse overseas
 - materials extracted from waste electrical and electronic equipment (WEEE) to be treated, recovered or recycled overseas
 
-You can't export whole appliances that you didn’t get from a producer compliance scheme (PCS).
+You can only export whole appliances that you receiverd from a producer compliance scheme (PCS).
 
 $CTA
 If you export outside the [EEA](/eu-eea), the treatment or recovery site must operate to the [equivalent standard](https://www.gov.uk/government/publications/receiving-exported-waste-meeting-eu-equivalent-standards) of an authorised treatment facility (ATF) in the UK.
@@ -50,7 +50,7 @@ When you export WEEE, you must also:
 
 You may also need to follow the rules for [transporting dangerous goods](https://www.gov.uk/shipping-dangerous-goods) and [hazardous waste](https://www.gov.uk/dispose-hazardous-waste).
 
-###Reporting and record keeping
+###Make quarterly returns and keep records 
 {:#reporting}
 If you get approval, you must make quarterly returns.
 
@@ -84,4 +84,6 @@ Send them to the environmental regulator that confirmed your approval by the dea
 
 You should also [keep records](https://www.gov.uk/government/publications/weee-evidence-and-national-protocols-guidance/waste-electrical-and-electronic-equipment-weee-evidence-and-national-protocols-guidance#aatfs-and-aes-keeping-records) of documents to support your evidence notes for at least 4 years. You may need them as part of a compliance audit.
 
+###If you need help
 
+Contact the environmental regulator that you sent your application form to. Their address is on the form.
