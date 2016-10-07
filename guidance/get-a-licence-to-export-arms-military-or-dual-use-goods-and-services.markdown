@@ -46,6 +46,12 @@ If you don’t get a licence for items that need one your goods will be delayed 
 
 Even if your items don’t need a licence, the customs and transport documents must state that the items can only be moved outside the EU with an export licence.
 
+$CTA
+
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+
+$CTA
+
 ## Apply for an export licence
 
 Depending on the type of goods and the destination, you may be able to apply to use an Open General Export Licence (OGEL). It’s usually much quicker to use an OGEL.
