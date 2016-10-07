@@ -81,6 +81,7 @@ There’s a complete ban on exporting:
 * blinding laser weapons
 * man-portable air defence systems (MANPADs) to end users who aren’t states
 * non-civil nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
+* jet fuel and jet fuel additives (Syria)
 
 For other items, decisions are partly based on where you’re exporting to.
 
