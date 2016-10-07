@@ -19,6 +19,12 @@ You’ll need to [get approval](https://www.gov.uk/government/uploads/system/upl
 
 You’ll also need to apply for a notification control for most countries outside the EU.
 
+$CTA
+
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+
+$CTA
+
 ###Record keeping
 
 If you get approval, you must make quarterly returns from January to 30 April, from May to 31 July, from August to 31 October and from November to 31 January.
