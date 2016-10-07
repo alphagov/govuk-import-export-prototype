@@ -12,11 +12,7 @@ Your used agricultural machinery may need to travel with a plant health certific
 
 You don’t need to do anything inside the EU.
 
-$CTA
-
 You apply a different way in [Scotland](https://www.sasa.gov.uk/plant-health/plant-health-licensing) and [Northern Ireland](https://www.daera-ni.gov.uk/contact).
-
-$CTA
 
 Make sure you ask to receive an official document to explain the rules in that country and how to comply - this will help UK inspectors to prepare your export correctly.
 
