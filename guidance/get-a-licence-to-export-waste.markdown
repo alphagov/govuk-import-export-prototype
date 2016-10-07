@@ -15,9 +15,11 @@ topic:
 
 Create a contract between you and the business you're sending waste to before you ship it.
 
+Exporting hazardous or household waste is prohibited. So is waste for disposal except in very special circumstances, for example if there's an emergency or a trial for new technology. 
+
 $CTA
 
-Exporting hazardous or household waste is prohibited. So is waste for disposal except in very special circumstances, for example if there's an emergency or a trial for new technology. 
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
 
 $CTA
 
