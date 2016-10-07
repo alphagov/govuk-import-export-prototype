@@ -49,13 +49,13 @@ The banned luxury goods for North Korea are:
 The banned luxury goods for Syria are:
 
 - pure-bred horses
-- caviar and caviar substitutes; in the case of caviar substitutes, if the sales prices exceed EUR 20 per 100 grams
+- caviar and caviar substitutes; in the case of caviar substitutes, if sold at more than €20 per 100 grams
 - truffles
 - wines (including sparkling wines) exceeding a sales price of EUR 50 per litre, spirits exceeding and spirituous
-beverages exceeding a sales price of €50 per litre
-- cigars and cigarillos exceeding a sales price of €10 each cigar or cigarillo
-- perfumes and toilet waters exceeding a sales price of €70 per 50 ml and cosmetics, including beauty and make-up
-products exceeding a sales price of €70 each
+beverages if sold at more than €50 per litre
+- cigars and cigarillos if sold at more than€10 each cigar or cigarillo
+- perfumes and toilet waters if sold at more than €70 per 50 ml and cosmetics, including beauty and make-up
+products if sold at more than €70 each
 - leather, saddlery and travel goods, handbags and similar articles exceeding a sales price of €200 each
 - garments, clothing accessories and shoes exceeding a sales price of €600 per
 - pearls, precious and semi-precious stones, jewellery, gold or silversmith articles
