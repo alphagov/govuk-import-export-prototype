@@ -51,7 +51,7 @@ When you export WEEE, you must also:
 You may also need to follow the rules for [transporting dangerous goods](https://www.gov.uk/shipping-dangerous-goods) and [hazardous waste](https://www.gov.uk/dispose-hazardous-waste).
 
 ###Reporting and record keeping
-{:#reporting)
+{:#reporting}
 If you get approval, you must make quarterly returns.
 
 Include the amount in tonnes of WEEE exported:
