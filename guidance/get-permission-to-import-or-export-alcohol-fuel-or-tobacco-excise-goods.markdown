@@ -31,6 +31,12 @@ There's a [ban on exporting high quality wines, spirits, cigars and cigarillos t
 
 There's also a [ban on exporting jet fuel and fuel additives to Syria](https://www.gov.uk/guidance/sanctions-on-syria#latest-updates-about-syria-sanctions).
 
+$CTA
+
+Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+
+$CTA
+
 ### Scotch whisky
 
 You can only export single grain, blended malt, blended grain or blended Scotch whisky outside Scotland if the whisky is:
