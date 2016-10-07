@@ -56,20 +56,20 @@ beverages if sold at more than €50 per litre
 - cigars and cigarillos if sold at more than€10 each cigar or cigarillo
 - perfumes and toilet waters if sold at more than €70 per 50 ml and cosmetics, including beauty and make-up
 products if sold at more than €70 each
-- leather, saddlery and travel goods, handbags and similar articles exceeding a sales price of €200 each
-- garments, clothing accessories and shoes exceeding a sales price of €600 per
-- pearls, precious and semi-precious stones, jewellery, gold or silversmith articles
+- leather, saddlery and travel goods, handbags and similar items if sold at more than €200 each
+- garments, clothing accessories and shoes if sold at more than €600 per item
+- pearls, precious and semi-precious stones, jewellery, gold or silversmith items
 - coins and banknotes, not being legal tender - for example, antique coins
 - cutlery of precious metal or plated or clad with precious metal
 - tableware of porcelain, china, stone- or earthenware or fine pottery exceeding a sales price of €500 each
-- lead crystal glassware exceeding a sales price of €200 each
+- lead crystal glassware if sold at more than€200 each
 - luxury vehicles for the transport of persons on land, air or sea, as well as their accessories; in the case of new
-vehicles, if the sales prices exceeds €25,000; in the case of used vehicles, if the sales price exceeds €1500
-- clocks and watches and their parts if the individual item exceeds a sales price of €500
+vehicles, if the sales prices exceeds €25,000; in the case of used vehicles, if sold at more than €1500
+- clocks and watches and their parts if the individual item if sold at more than €500
 - works of art, collectors’ pieces and antiques
-- equipment for skiing, golf and water sports, if the individual item exceeds a sales price of €500
+- equipment for skiing, golf and water sports, if an individual item is if sold at more than €500
 - equipment for billiard, automatic bowling, casino games and games operated by coins or banknotes, if 
-the individual item exceeds a sales price of €500
+an individual item is sold at more than €500
 
 ## Contact the Export Control Organisation (ECO)
 
