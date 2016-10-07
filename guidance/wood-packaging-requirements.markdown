@@ -17,7 +17,7 @@ Packaging products include:
 - pallets, box pallets and pallet collars
 - dunnage (loose wood used to protect goods and their packaging)
 
-These rules don't apply to processed woods like plywood, raw wood of less than 6mm thickness, or other packaging materials like cardboard.
+These rules don't apply to processed woods like plywood, raw wood of less than 6mm thickness, or cardboard or other packaging materials.
 
 $CTA
 
