@@ -14,114 +14,74 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
+If you get approval, you can export:
 
-You’ll need to [get approval](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/312450/LIT_7337.pdf) to be an exporter of waste electrical and electronic equipment (WEEE) such as TVs, keyboards, fridges and mobile phones.
+- whole electrical and electronic appliances for reuse overseas
+- materials extracted from waste electrical and electronic equipment (WEEE) to be treated, recovered or recycled overseas
 
-You’ll also need to apply for a notification control for most countries outside the EU.
-
-$CTA
-
-Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+You can't export whole appliances that you didn’t get from a producer compliance scheme (PCS).
 
 $CTA
-
-###Record keeping
-
-If you get approval, you must make quarterly returns from January to 30 April, from May to 31 July, from August to 31 October and from November to 31 January.
-
-Send them to the environmental regulator that confirmed your approval. They must say how much WEE you exported:
-
-* in tonnes 
-* for reuse as a whole appliance, treatment, recovery or recycling
-
-For each specify what the category is and whether or not it was household waste - you also need to say which schemes you’ve sent evidence notes to.
-
-Keep proof like:
-
-* photographs, invoices and receipts
-* shipping paperwork 
-* contracts
-
-##If you’re exporting WEEEs to be reused
-
-If you’re exporting whole electrical goods to be recycled or reused you must make evidence notes.
-
-Sign up for the [Settlement Centre](https://www.weee-sc.org.uk/) or [log in](https://www.weee-sc.org.uk/login.aspx) to create the notes.
-
-###Meeting recycling targets 
-
-If you’re exporting WEEE you must make sure the importer is meeting recycling targets.
-
-These will be between 55% and 80% depending on the category. [Use this template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488880/LIT_10353.xlsx) to document the percentage of WEEE they recover.
-
-$CTA
-If you don’t send evidence notes and meet recycling targets, your approval may be suspended or cancelled
+If you export outside the [EEA](/eu-eea), the treatment or recovery site must operate to the [equivalent standard](https://www.gov.uk/government/publications/receiving-exported-waste-meeting-eu-equivalent-standards) of an authorised treatment facility (ATF) in the UK.
 $CTA
 
-##Check if you need a notification control
+##Apply to be an approved exporter
 
-[Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you.
+Download and fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/312450/LIT_7337.pdf) (PDF, 433KB)
 
-You must also create a contract between you and the business you're sending waste to before you ship it.
+Print and send your application to the appropriate UK regulator - the address is on the form.
 
-###Apply for notification controls
+The fee for applying is £500, or £2,570 if you’ll export more than 400 tonnes of WEEE.
 
-s1. Register for [International Waste Shipments (IWS)](https://international-waste-shipments.service.gov.uk/registration/applicant-registration) and start your application.
-s2. Download and complete the financial guarantee (this must be accepted before you ship the waste).
-s4. If your waste is going to another location to be stored or processed before it arrives at its final destination, [attach a completed an interim operation form](http://ec.europa.eu/environment/waste/shipments/pdf/correspondents_guidelines3_en.pdf)or 'movement document'.
-s5. Make sure a copy of the notification control and all supporting documents travels with your goods.
+You must usually apply 12 weeks before you want approval to start. For approvals to start on 1 January, apply by 30 September.
 
-[Question for SME: Can the movement document and the interim form be found within the online service? How to users know their financial guarantee has been accepted?]
-
-You may need to get insurance before you submit your application as the importing country may ask to see it.
-
-$CTA
-
-Also check the import rules of the country you’re exporting to. Talk to your importer or [get help with overseas customs rules](/answer/choosing-export-market-ukti.html)
-
-$CTA
-
-If you haven't heard back from the Environment Agency within 30 days of submitting your application, email askshipments@environment-agency.gov.uk.
-
-###How long it lasts
-
-You’ll have 1 year to ship your goods before your ‘notification control’ expires unless the site you're exporting to has pre-consent status. If they do, your control could last up to 3 years.
-
-###Fees
-
-You must pay a fee for this service.
-
-The minimum fee for a 'recovery' shipment is £1,450 (for example if you’re recycling the waste) and maximum cost is £14,380 for over 500 shipments. You'll be told the exact fee in your notification control application.
-
-[Question for SME: Will they be sent an invoice?]
-
-You can apply for a refund from the Environment Agency if you:
-
-* don't send the goods within 12 months
-* if your notification control is rejected 
-* if you withdraw your application before you get an answer
-
-###Increase the number of waste shipments
-
-If you’d like to increase your exports without applying for a new control:
-
-* send the written request to the Environment Agency before any extra shipments take place
-* get written consent for your extra shipments from the importing country’s competent authorities’ (their contact details are listed in your notification control application)
-* not exceed the maximum tonnage detailed in your notification document
-
-Send your request to:
+Your approval lasts for one year. You'll need to apply again if you continue to export WEEE.
 
 
-International Waste Shipments Team    
-Environment Agency   
-Richard Fairclough House   
-Knutsford Road    
-Warrington   
-WA4 1HT     
 
-###If you need help
+###Once you've got approval
 
-Contact the [Environment Agency](https://www.gov.uk/government/organisations/environment-agency#org-contacts).
+When you export WEEE, you must also:
 
+- for whole appliances, issue an [evidence note and document how much WEEE is recycled](https://www.gov.uk/government/publications/weee-evidence-and-national-protocols-guidance/waste-electrical-and-electronic-equipment-weee-evidence-and-national-protocols-guidance) 
+- follow other rules for [exporting waste](/guidance/get-a-licence-to-export-waste.html)
+- [make quarterly returns and keep records](#reporting)
+- complete a [waste transfer note](https://www.gov.uk/managing-your-waste-an-overview/waste-transfer-notes)
+
+You may also need to follow the rules for [transporting dangerous goods](https://www.gov.uk/shipping-dangerous-goods) and [hazardous waste](https://www.gov.uk/dispose-hazardous-waste).
+
+###Reporting and record keeping
+{:#reporting)
+If you get approval, you must make quarterly returns.
+
+Include the amount in tonnes of WEEE exported:
+
+- in total
+- for treatment, recovery or recycling or reuse as a whole appliance 
+
+[question for SME - is it correct that you can only export WEEE for treatment, recovery or recycling or reuse as a whole appliance? If so, why does someone need to report this as a separate figure from the total exported - ie how could the amounts be different?]
+
+For both, specify:
+
+- the waste category 
+- whether it's household or non-household waste
+- the producer compliance scheme (PCS) it was from
+
+Also include the amount in tonnes of:
+
+- WEEE to each scheme you gave evidence notes to, and the scheme names
+- any non-obligated WEEE (this means not from a PCS) you exported by category
+
+Send them to the environmental regulator that confirmed your approval by the deadline.
+
+
+| Quarter | Months covered              | Deadline for reporting |
+|---------|-----------------------------|---------------------|
+| 1       | January, February, March    | 30 April            |
+| 2       | April, May, June            | 31 July             |
+| 3       | July, August, September     | 31 October          |
+| 4       | October, November, December | 31 January          |
+
+You should also [keep records](https://www.gov.uk/government/publications/weee-evidence-and-national-protocols-guidance/waste-electrical-and-electronic-equipment-weee-evidence-and-national-protocols-guidance#aatfs-and-aes-keeping-records) of documents to support your evidence notes for at least 4 years. You may need them as part of a compliance audit.
 
 
