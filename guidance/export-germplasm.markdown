@@ -35,7 +35,7 @@ To move germplasm within the EU, you must:
 
 ###Apply for an ITAHC
 
-s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email ovteam@apha.gsi.gov.uk.
+s1. Nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@apha.gsi.gov.uk>.
 s2. [Register with the TRACES system](https://webgate.ec.europa.eu/sanco/traces/registration/open.do) if you’ve not used it before.
 s3. [Sign in to TRACES](https://webgate.ec.europa.eu/sanco/traces/security/askLogin.do) and fill in the details of the germplasm you’re exporting.
 s4. Contact the [Animal and Plant Health Agency (APHA)](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) or [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland - tell them that the ITAHC has been created and give them details of your official veterinarian.
