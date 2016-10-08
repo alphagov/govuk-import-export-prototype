@@ -40,7 +40,7 @@ Or [download a copy of the UK strategic export control lists](https://www.gov.uk
 
 You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK, unless:
 
-* you're exporting dual use items to some EU countries
+* you're exporting dual use items to some EU countries or the Channel Islands
 * you're exporting goods owned by the Ministry of Defence
 
 ### Exporting dual use items to EU countries
@@ -48,6 +48,8 @@ You must have a licence to supply anything on the UK strategic export control li
 If your items are categorised as ‘Schedule 3 UK controlled dual-use, software and technology’, you may not need a licence if the goods are going to another EU country.
 
 The European Commission publishes information on which EU countries require licences for dual use items in its [‘national measures’ information note](http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm).
+
+You don't need a licence to export dual use items to the Channel Islands.
 
 Even if your items don’t need a licence, the customs and transport documents must state that the items can only be moved outside the EU with an export licence.
 
