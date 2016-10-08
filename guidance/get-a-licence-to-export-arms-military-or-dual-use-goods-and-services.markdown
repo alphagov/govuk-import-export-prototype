@@ -208,6 +208,8 @@ Contact your usual desk officer or email <ACP-ELC@mod.uk> if you have a question
 
 ## Your licence responsibilities
 
+You'll get an electornic copy of your licence through the SPIRE system.
+
 You must include a copy of the licence with the shipping paperwork. If you’re posting the goods, you must include a copy of the licence in a separate envelope, attached to the package.
 
 You are responsible for making sure that your export licence is still valid when you export the goods.
@@ -226,6 +228,10 @@ If you have a Standard Individual Export Licence (SIEL), you must:
 
 * [contact HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) in advance to arrange an inspection of your goods (goods must be available for inspection at least 3 days before the export date)
 * keep records of end user details
+
+### If you need a signed hard copy of your licence
+
+Some countries require Private Security Companies (PSCs) to provide signed hard copies of their licences. This is to comply with international rules on preventing maritime piracy. Contact ECO for details.
 
 ### ECO compliance visits
 
