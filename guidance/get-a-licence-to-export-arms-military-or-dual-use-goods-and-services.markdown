@@ -75,10 +75,6 @@ There's no charge for a licence.
 
 The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
 
-ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
-
-ECO also looks at the ‘[incorporation factors](http://www.publications.parliament.uk/pa/cm200102/cmhansrd/vo020708/text/20708w01.htm#column_652)’ if the goods will be incorporated into military equipment which will then be exported to another country.
-
 ## Taking military or dual use goods out of the UK temporarily
 
 You still need to get an export licence to take military or dual use goods out of the country temporarily (eg to demonstrate them to potential buyers at a trade show or take them to a commemorative military event).
@@ -86,6 +82,10 @@ You still need to get an export licence to take military or dual use goods out o
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a temporary export licence.
 
 ## How ECO decides whether to give licences
+
+ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
+
+ECO also looks at the ‘[incorporation factors](http://www.publications.parliament.uk/pa/cm200102/cmhansrd/vo020708/text/20708w01.htm#column_652)’ if the goods will be incorporated into military equipment which will then be exported to another country.
 
 There’s a complete ban on exporting:
 
