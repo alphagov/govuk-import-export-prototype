@@ -81,11 +81,10 @@ There’s a complete ban on exporting:
 * blinding laser weapons
 * man-portable air defence systems (MANPADs) to end users who aren’t states
 * non-civil nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
-* jet fuel and jet fuel additives (Syria)
 
 For other items, decisions are partly based on where you’re exporting to.
 
-For example, ECO won’t usually give a licence if there’s an embargo on exporting military goods (arms embargo). Arms embargoed countries are:
+For example, ECO won’t usually give a licence if there’s an embargo on exporting military goods (arms embargo). Embargoed countries are:
 
 * Argentina (if the goods will be used by the Argentine military)
 * Armenia and Azerbaijan (if the goods could be used on the border between the two countries, or in the Nagorno-Karabakh region)
@@ -106,9 +105,11 @@ For example, ECO won’t usually give a licence if there’s an embargo on expor
 * Syria
 * Zimbabwe
 
+There's also an embargo on exporting jet fuel and jet fuel additives to Syria.
+
 There are some limited exceptions (eg for some types of goods that will be used for humanitarian relief or peacekeeping).
 
-ECO won’t usually give a licence to export small arms, light weapons, weapon components or ammunition to:
+There's an embargo on exporting small arms, light weapons, weapon components or ammunition to:
 
 * Benin
 * Burkina Faso
@@ -122,6 +123,12 @@ ECO won’t usually give a licence to export small arms, light weapons, weapon c
 * Nigeria
 * Senegal
 * Togo
+
+There's an embargo on exporting any of the following to China:
+
+* lethal weapons such as machine guns, large calibre weapons, bombs, torpedoes, rockets and missiles (plus specially designed components and ammunition for these items)
+* military aircraft and helicopters, vessels of war, armoured fighting vehicles and other weapons platforms
+* any equipment which might be used for internal repression
 
 ## Trafficking, brokering and arranging sales or movements
 
