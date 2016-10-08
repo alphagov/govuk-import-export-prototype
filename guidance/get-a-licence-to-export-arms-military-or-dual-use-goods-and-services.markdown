@@ -94,6 +94,26 @@ You still need to get an export licence to take military or dual use goods out o
 
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a temporary export licence.
 
+## Additional forms you may need to complete your licence application
+
+When you apply through the Spire service, you’ll be told whether you need to complete any additional forms.
+
+### Undertaking forms
+
+[OGEL (military goods, software and technology): consignee undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153770/military-goods_-_software_-_and_-_technology-ogel-undertaking_11_March_2013.doc) (MS Word, 54KB)
+[OIEL: undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/555500/oiel-euu-template4.docx) (MS Word, 23KB)
+[Stockist undertaking (SU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3095/stockist-undertaking-form-july-2012.doc) (MS Word, 73KB)
+[End user undertaking (EUU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3094/end-user-undertaking-form-july-2012.doc) (MS Word, 76KB)
+[End user certificate (EUC) form for Chemical Weapons Convention schedule 3 chemcicals](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7962/end-user-certificate-july-2012.doc) (MS Word, 70KB)
+[Who should complete and user and stockist undertaking forms?](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7963/12-749-end-user-scenarios.pdf) 
+[End user undertaking and stockist undertaking checklist](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7961/end-user-checklist-july-2012.doc) (MS Word, 108KB)
+
+### Other forms
+
+[EC firearns and ammunition transfer documents for SIEL applications (form EC3)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14897/ec3.doc) (MS Word, 111KB)
+[EC firearms and ammunition transfer declaration for dealer to dealer OIELs (form EC5)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14893/ec5_1_.doc) (MS Word, 117KB)
+[Continuation sheet for EC3 or EC5 forms](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14896/ec4_1_.doc)(MS Word, 87KB)
+
 ## How ECO decides whether to give licences
 
 ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
