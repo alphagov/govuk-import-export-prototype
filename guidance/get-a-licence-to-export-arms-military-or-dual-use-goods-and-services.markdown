@@ -30,22 +30,32 @@ This includes information in any form. For example print, email, telephone or el
 
 ## When you need an export licence
 
+If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted.
+
 $CTA
 Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to find out if your goods are on the UK strategic export control lists, and how they’re categorised.
 $CTA
 
 Or [download a copy of the UK strategic export control lists](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation).
 
-You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK.
+You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK, unless:
 
-There’s one exception to this. If your items are categorised as ‘Schedule 3 UK controlled dual-use, software and technology’, you may not need a licence if the goods are going to another EU country.
+* you're exporting dual use items to some EU countries
+* you're exporting goods owned by the Ministry of Defence
+
+### Exporting dual use items to EU countries
+
+If your items are categorised as ‘Schedule 3 UK controlled dual-use, software and technology’, you may not need a licence if the goods are going to another EU country.
 
 The European Commission publishes information on which EU countries require licences for dual use items in its [‘national measures’ information note](http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm).
 
-If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted.
-
 Even if your items don’t need a licence, the customs and transport documents must state that the items can only be moved outside the EU with an export licence.
 
+### Exporting goods owned by the Ministry of Defence
+
+You don't need a licence to export goods owned by the UK Ministry of Defence (MOD).
+
+Instead, get an approval letter from the Arms Control and Counter Proliferation Policy (ACP) office in the MOD. Email <acp-elc@mod.uk> or call 020 7218 9080 for details.
 
 ## Apply for an export licence
 
