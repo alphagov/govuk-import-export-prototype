@@ -26,6 +26,8 @@ The consolidated control lists includes equipment, drugs or products that could 
 
 The rules apply both within the EU and outside the EU.
 
+There's a ban on exporting equipment that could be used for internal repression to China.
+
 $CTA
 
 Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
