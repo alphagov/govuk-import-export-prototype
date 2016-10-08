@@ -59,6 +59,19 @@ You don't need a licence to export goods owned by the UK Ministry of Defence (MO
 
 Instead, get an approval letter from the Arms Control and Counter Proliferation Policy (ACP) office in the MOD. Email <acp-elc@mod.uk> or call 020 7218 9080 for details.
 
+## Goods that don’t usually need a licence
+
+Even if your items wouldn’t usually need a licence, you must must not export, traffic or broker the movement of any items if you find out they might be used:
+
+* for weapons of mass destruction (WMD) purposes (for example, chemicals, biological agents or technology that might be used in a nuclear weapons facility)
+* for military purposes in an an [embargoed country](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#how-eco-decides-whether-to-give-licences)
+
+These are called ‘end use’, ‘end user’ or ‘catch all’ controls.
+
+Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO).
+
+You must apply for a licence if ECO tells you to.
+
 ## Apply for an export licence
 
 Depending on the type of goods and the destination, you may be able to apply to use an Open General Export Licence (OGEL). It’s usually much quicker to use an OGEL.
@@ -159,19 +172,6 @@ There’s one exception to this. You don’t always need a licence to broker the
 The European Commission publishes information on which EU countries require licences for dual use items in its [‘national measures’ information note](http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm).
 
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
-
-## Exporting, trafficking or brokering goods that don’t usually need a licence
-
-Even if your items wouldn’t usually need a licence, you must must not export, traffic or broker the movement of any items if you find out they might be used:
-
-* for weapons of mass destruction (WMD) purposes (for example, chemicals, biological agents or technology that might be used in a nuclear weapons facility)
-* for military purposes in an an [embargoed country](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#how-eco-decides-whether-to-give-licences)
-
-These are called ‘end use’, ‘end user’ or ‘catch all’ controls.
-
-Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO).
-
-You must apply for a licence if ECO tells you to.
 
 ## Sharing classified information
 
