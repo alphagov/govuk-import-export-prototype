@@ -10,8 +10,6 @@ topic:
 
 Excise goods are goods you have to pay [alcohol excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/alcohol-duties), [fuel excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/fuel-duty) or [tobacco excise duty](https://govuk-import-export.herokuapp.com/topic/business-tax/tobacco-products-duty) on.
 
-## Exporting excise goods: your options
-
 You must be registered with HMRC to produce excise goods or to handle excise goods before the excise duty has been paid (called being in ‘duty suspension’).
 
 If you’re registered with HMRC to produce excise goods, you can:
@@ -29,11 +27,10 @@ If you buy excise goods produced by someone else and the UK excise duty has alre
 
 There's a [ban on exporting high quality wines, spirits, cigars and cigarillos to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
 
-There's also a [ban on exporting jet fuel and fuel additives to Syria](https://www.gov.uk/guidance/sanctions-on-syria#latest-updates-about-syria-sanctions).
 
 $CTA
 
-Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods. [Research the legal and tax rules](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) before you send any goods overseas.
 
 $CTA
 
@@ -78,10 +75,11 @@ If you follow the right processes, the excise duty isn’t payable until the goo
 
 ### How to move duty suspended goods within the EU
 
-You can only move goods under excise duty suspension if, either: 
+You can only move goods under excise duty suspension if either: 
 
 * they’ve been made inside the EU
 * any import duty or import VAT due has been paid
+* they’re being sold as duty free goods through a [registered ‘export shop’](https://www.gov.uk/government/publications/excise-notice-197a-excise-goods-holding-and-movement) (for example, at an airport on on board an airplane)
 
 Usually, you must use the [Excise Movement and Control System (EMCS)](https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use) to report that you’re moving excise goods in duty suspension.
 
@@ -100,21 +98,17 @@ country.
 
 [Question for SME: is chewing tobacco subject to excise duty at both ends, or is there an alternative way of avoiding double taxation?]
 
-## Selling goods directly to customers outside the UK
+## Selling goods directly to consumers outside the UK
 
-$CTA
+You can only sell excise goods directly to consumers if the UK excise duty has been paid.
 
-Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods. [Research the legal and tax rules](https://www.gov.uk/government/collections/exporting-country-guides) before you send any goods overseas.
-
-$CTA
-
-All EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
+On top of that, all EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
 
 EU countries may tell you to appoint a tax representative in their country (for example, an accountant or law firm) to guarantee and pay the duty on your behalf.
 
 [Question for SME: are accountants and law firms good examples?
 
-If UK excise duty has already been paid on goods you sell overseas, you can claim it back through excise duty drawback.
+When you sell the goods in another EU country, you can claim the UK excise duty back through excise duty drawback.
 
 ## How to claim excise duty drawback
 
@@ -147,4 +141,4 @@ If your question is about certificates of free sale, contact the Rural Payments 
 **Rural Payments Agency**         
 Telephone: 03000 200 301  
 Monday to Friday: 8.30am to 5pm\\
-[Find out about call charges](/call-charges)   
+[Find out about call charges](/call-charges)  
