@@ -179,19 +179,45 @@ There's an embargo on exporting any of the following to China:
 
 Trafficking and brokering can include anything that helps to transfer items from one non-EU country to another. For example:
 
-* arranging or negotiating sales
-* providing freight or insurance services
-* providing financial or legal advice
+* arranging or negotiating contracts
+* arranging or providing freight or transport services
 * arranging intra company transfers
 * drop shipping
 
-You must have a trade control licence if you or your company is involved in trafficking or brokering anything that appears on the UK strategic export control lists. 
+### Trafficking or brokering banned goods or to embargoed countries
 
-There’s one exception to this. You don’t always need a licence to broker the transfer of items categorised as ‘Schedule 3 UK controlled dual-use, software and technology’ within the EU. 
+There are tighter controls on trafficking or brokering for some goods and for some locations.
 
-The European Commission publishes information on which EU countries require licences for dual use items in its [‘national measures’ information note](http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm).
+For goods where there’s a total ban on UK exports (for example, anti personnel land mines) or where there’s a UK arms embargo in place, trafficking and brokering also includes: 
 
-Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
+* general advertising and promotion (eg placing advertisements)
+* finance, financial services, insurance or reinsurance services
+* contract promotion activity
+
+### When you need a licence
+
+You must have a trade control licence if you or your company is involved in trafficking or brokering anything that’s categorised as ‘Schedule 2 military goods, software and technology’, except for:
+
+* goods with the code ML21 (software)
+* goods with the code ML22 (technology)
+* ‘Category C’ goods (which includes some equipment for riot control and delivering incapacitation chemicals - contact ECO for details)
+
+[Question for Claire - is there a definitive list of Category C goods anywhere?]
+
+$CTA
+Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to find out how your goods are categorised.
+$CTA
+
+[Question for Claire: the guidance currently published on GOV.UK suggests that the trafficking and brokering controls only apply to military and torture use goods (ie not dual use items). Is that right? Does that mean the EC controls on trafficking and brokering outlined in the EC ‘national measures’ document don’t apply, because the UK is a member of the EU?]
+
+### Who the trafficking and brokering rules apply to
+
+The trafficking and brokering rules apply to:
+
+* companies or other bodies incorporated under UK law 
+* UK nationals (including British citizens, British overseas territories citizens, British Nationals (Overseas), British Overseas Citizens and ‘British subjects’ and ‘British protected persons’ under the British Nationality Act 1981)
+
+The rules apply to UK nationals whether they have right of abode in the UK or not. They apply whether the UK national is working for a UK company, for a non-UK company or for themselves.
 
 ## Sharing classified information
 
