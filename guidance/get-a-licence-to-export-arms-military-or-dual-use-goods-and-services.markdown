@@ -61,10 +61,12 @@ Instead, get an approval letter from the Arms Control and Counter Proliferation 
 
 ## Goods that don’t usually need a licence
 
-Even if your items wouldn’t usually need a licence, you must must not export, traffic or broker the movement of any items if you find out they might be used:
+Even if your items wouldn’t usually need a licence, you must must not export, traffic or broker the movement of any items, services or technology if you find out they might be used:
 
 * for weapons of mass destruction (WMD) purposes (for example, chemicals, biological agents or technology that might be used in a nuclear weapons facility)
 * for military purposes in an an [embargoed country](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#how-eco-decides-whether-to-give-licences)
+
+This includes 'technical assistance' - for example, assembly, maintenance or repair services. 
 
 These are called ‘end use’, ‘end user’ or ‘catch all’ controls.
 
