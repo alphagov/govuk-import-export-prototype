@@ -48,28 +48,25 @@ The banned luxury goods for North Korea are:
 
 The banned luxury goods for Syria are:
 
-- pure-bred horses
-- caviar and caviar substitutes; in the case of caviar substitutes, if sold at more than €20 per 100 grams
+- pure bred horses
+- caviar and caviar substitutes sold for more than €20 per 100 grams
 - truffles
-- wines (including sparkling wines) exceeding a sales price of EUR 50 per litre, spirits exceeding and spirituous
-beverages if sold at more than €50 per litre
-- cigars and cigarillos if sold at more than€10 each cigar or cigarillo
-- perfumes and toilet waters if sold at more than €70 per 50 ml and cosmetics, including beauty and make-up
-products if sold at more than €70 each
-- leather, saddlery and travel goods, handbags and similar items if sold at more than €200 each
-- garments, clothing accessories and shoes if sold at more than €600 per item
-- pearls, precious and semi-precious stones, jewellery, gold or silversmith items
-- coins and banknotes, not being legal tender - for example, antique coins
-- cutlery of precious metal or plated or clad with precious metal
-- tableware of porcelain, china, stone- or earthenware or fine pottery exceeding a sales price of €500 each
-- lead crystal glassware if sold at more than€200 each
-- luxury vehicles for the transport of persons on land, air or sea, as well as their accessories; in the case of new
-vehicles, if the sales prices exceeds €25,000; in the case of used vehicles, if sold at more than €1500
-- clocks and watches and their parts if the individual item if sold at more than €500
+- wines and spirits sold for more than €50 per litre
+- cigars and cigarillos sold for more than €10 each
+- perfumes and toilet waters sold for more than €70 per 50 ml
+- cosmetics, make up and beauty products sold for more than €70 each
+- leather goods sold for more than €200 each, for example handbags, travel goods and saddlery
+- clothes, clothing accessories and shoes sold for more than €600 per item
+- pearls, precious and semi precious stones, jewellery, gold or silversmith items
+- coins and banknotes that aren’t legal tender - for example, antique coins
+- cutlery made from precious metal or plated or clad with precious metal
+- tableware made from porcelain, china or stone, or earthenware or fine pottery, sold for more than €500 each
+- lead crystal glassware sold for more than €200 each
+- vehicles, boats, aircraft and their accessories sold for more than €25,000 (or €1,500 if used)
+- clocks, watches and their parts sold for more than €500
 - works of art, collectors’ pieces and antiques
-- equipment for skiing, golf and water sports, if an individual item is if sold at more than €500
-- equipment for billiard, automatic bowling, casino games and games operated by coins or banknotes, if 
-an individual item is sold at more than €500
+- equipment for skiing, golf and water sports sold for more than €500
+- equipment for billiards, automatic bowling, casino games and slot machines sold for more than €500
 
 ## Contact the Export Control Organisation (ECO)
 
