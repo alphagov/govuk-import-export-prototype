@@ -41,7 +41,7 @@ Your approval lasts for one year. You'll need to apply again if you continue to 
 
 
 
-###Once you've got approval
+##Once you've got approval
 
 When you export WEEE, you must also:
 
@@ -86,6 +86,6 @@ Send them to the environmental regulator that confirmed your approval by the dea
 
 You should also [keep records](https://www.gov.uk/government/publications/weee-evidence-and-national-protocols-guidance/waste-electrical-and-electronic-equipment-weee-evidence-and-national-protocols-guidance#aatfs-and-aes-keeping-records) of documents to support your evidence notes for at least 4 years. You may need them as part of a compliance audit.
 
-###If you need help
+##If you need help
 
 Contact the environmental regulator that you sent your application form to. Their address is on the form.
