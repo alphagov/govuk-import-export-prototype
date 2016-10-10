@@ -70,7 +70,7 @@ Contact ECO to ask for the application form.
 
 ##Providing technical assistance
 
-You’ll need a seperate technical assistance licence if you or your company provide technical service related to oil or gas. 
+You’ll need a separate technical assistance licence if you or your company provide technical service related to oil or gas. 
 
 This could means:
 
