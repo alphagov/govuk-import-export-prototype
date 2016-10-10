@@ -21,7 +21,7 @@ If you get approval, you can export:
 
 You can only export whole appliances that you received from a producer compliance scheme (PCS).
 
-[Question for SME: Our understanding is that you can you can only export WEEE in these circumstances. Is this true?]
+[Question for SME: Our understanding is that you can only export WEEE in these circumstances. Is this true?]
 
 $CTA
 If you export outside the [EEA](/eu-eea), the treatment or recovery site must operate to the [equivalent standard](https://www.gov.uk/government/publications/receiving-exported-waste-meeting-eu-equivalent-standards) of an authorised treatment facility (ATF) in the UK.
