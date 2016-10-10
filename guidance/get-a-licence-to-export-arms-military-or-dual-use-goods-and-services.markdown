@@ -102,19 +102,19 @@ When you apply through the Spire service, you’ll be told whether you need to c
 
 ### Undertaking forms
 
-[OGEL (military goods, software and technology): consignee undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153770/military-goods_-_software_-_and_-_technology-ogel-undertaking_11_March_2013.doc) (MS Word, 54KB)
-[OIEL: undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/555500/oiel-euu-template4.docx) (MS Word, 23KB)
-[Stockist undertaking (SU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3095/stockist-undertaking-form-july-2012.doc) (MS Word, 73KB)
-[End user undertaking (EUU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3094/end-user-undertaking-form-july-2012.doc) (MS Word, 76KB)
-[End user certificate (EUC) form for Chemical Weapons Convention schedule 3 chemcicals](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7962/end-user-certificate-july-2012.doc) (MS Word, 70KB)
+[OGEL (military goods, software and technology): consignee undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153770/military-goods_-_software_-_and_-_technology-ogel-undertaking_11_March_2013.doc) (MS Word, 54KB)  
+[OIEL: undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/555500/oiel-euu-template4.docx) (MS Word, 23KB)  
+[Stockist undertaking (SU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3095/stockist-undertaking-form-july-2012.doc) (MS Word, 73KB)  
+[End user undertaking (EUU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3094/end-user-undertaking-form-july-2012.doc) (MS Word, 76KB)  
+[End user certificate (EUC) form for Chemical Weapons Convention schedule 3 chemcicals](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7962/end-user-certificate-july-2012.doc) (MS Word, 70KB)  
 [Who should complete and user and stockist undertaking forms?](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7963/12-749-end-user-scenarios.pdf) 
-[End user undertaking and stockist undertaking checklist](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7961/end-user-checklist-july-2012.doc) (MS Word, 108KB)
+[End user undertaking and stockist undertaking checklist](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7961/end-user-checklist-july-2012.doc) (MS Word, 108KB)  
 
 ### Other forms
 
-[EC firearns and ammunition transfer documents for SIEL applications (form EC3)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14897/ec3.doc) (MS Word, 111KB)
-[EC firearms and ammunition transfer declaration for dealer to dealer OIELs (form EC5)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14893/ec5_1_.doc) (MS Word, 117KB)
-[Continuation sheet for EC3 or EC5 forms](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14896/ec4_1_.doc)(MS Word, 87KB)
+[EC firearns and ammunition transfer documents for SIEL applications (form EC3)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14897/ec3.doc) (MS Word, 111KB)  
+[EC firearms and ammunition transfer declaration for dealer to dealer OIELs (form EC5)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14893/ec5_1_.doc) (MS Word, 117KB)  
+[Continuation sheet for EC3 or EC5 forms](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/14896/ec4_1_.doc)(MS Word, 87KB)  
 
 ## How ECO decides whether to give licences
 
@@ -209,6 +209,8 @@ You must have a trade control licence if you or your company is involved in traf
 $CTA
 Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to find out how your goods are categorised.
 $CTA
+
+Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 
 [Question for Claire: the guidance currently published on GOV.UK suggests that the trafficking and brokering controls only apply to military and torture use goods (ie not dual use items). Is that right? Does that mean the EC controls on trafficking and brokering outlined in the EC ‘national measures’ document don’t apply, because the UK is a member of the EU?]
 
