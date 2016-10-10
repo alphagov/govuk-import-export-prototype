@@ -42,7 +42,7 @@ You may need a licence or follow special rules to export restricted goods or to 
 
 - [art works, antiques and culturally significant goods](/guidance/get-a-licence-to-export-cultural-goods.html)
 - [jewels, gold and precious metals](/guidance/get-a-licence-to-export-diamonds.html) 
-- [luxury goods to North Korea](/guidance/exporting-luxury-goods-north-korea.html)
+- [luxury goods to North Korea and Syria](/guidance/exporting-luxury-goods-north-korea.html)
 
 ##Goods that can be used for restraint or repression
 - [goods that could be used for restraint, repression or inhumane treatment](/guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html)
