@@ -45,9 +45,9 @@ If the packaging fails an inspection and you're given the option to treat it, yo
 
 ##Export solid wood packaging
 
-If you’re moving packaging inside the EU, check that it complies with EU or [ISPM15 international standards](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf)(PDF, 197 KB) - there are [special rules for Ireland and Northern Ireland](http://www.forestry.gov.uk/forestry/INFD-9QHKKH).
+If you’re moving packaging inside the EU there are [special rules for Ireland and Northern Ireland](http://www.forestry.gov.uk/forestry/INFD-9QHKKH).
 
-If you export packaging outside the EU, check if the country you’re trading with accepts ISPM15 and if they have any other requirements. 
+If you export packaging outside the EU, check if the country you’re trading with accepts [ISPM15]((http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) (PDF, 197 KB) and if they have any other requirements. 
 
 You can either:
 
