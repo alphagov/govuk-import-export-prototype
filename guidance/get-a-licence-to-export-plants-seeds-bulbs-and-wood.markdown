@@ -157,6 +157,24 @@ Send the permit application form by post or email to [APHA](https://www.gov.uk/g
 
 APHA will contact you within 15 working days of receiving your application. You must pay a £63 for an export licence and £37 for a re-export licence.
 
+##Temporary exports
+
+If you regularly take goods abroad temporarily for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit.
+
+You can use the certificate whether you're moving goods within or outside the EU.
+
+You can add multiple specimen types in one application if needed.
+
+It is valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.
+
+###Apply
+
+- complete the [application](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate)
+- send it to the address on the form
+
+You’ll get your certificate within xx days/weeks and there’s no fee.
+
+[Question for SME: how regularly must you export to qualify for a certificate?]
 
 ##Prohibited plants and soil
 {:#prohibited-plants}
