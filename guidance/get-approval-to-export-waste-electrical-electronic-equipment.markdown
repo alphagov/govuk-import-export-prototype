@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Exporting electrical waste
-summary: You need approval to export waste electrical and electronic equipment (WEEE)  
+summary: You need approval to export waste electrical and electronic equipment (WEEE).  
 permalink: /guidance/get-approval-to-export-waste-electrical-electronic-equipment.html
 breadcrumbs:
  - name: Home
@@ -20,6 +20,8 @@ If you get approval, you can export:
 - materials extracted from waste electrical and electronic equipment (WEEE) to be treated, recovered or recycled overseas
 
 You can only export whole appliances that you received from a producer compliance scheme (PCS).
+
+[Question for SME: Our understanding is that you can you can only export WEEE in these circumstances. Is this true?]
 
 $CTA
 If you export outside the [EEA](/eu-eea), the treatment or recovery site must operate to the [equivalent standard](https://www.gov.uk/government/publications/receiving-exported-waste-meeting-eu-equivalent-standards) of an authorised treatment facility (ATF) in the UK.
