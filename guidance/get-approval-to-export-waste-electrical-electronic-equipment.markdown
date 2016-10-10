@@ -19,7 +19,7 @@ If you get approval, you can export:
 - whole electrical and electronic appliances for reuse overseas
 - materials extracted from waste electrical and electronic equipment (WEEE) to be treated, recovered or recycled overseas
 
-You can only export whole appliances that you receiverd from a producer compliance scheme (PCS).
+You can only export whole appliances that you received from a producer compliance scheme (PCS).
 
 $CTA
 If you export outside the [EEA](/eu-eea), the treatment or recovery site must operate to the [equivalent standard](https://www.gov.uk/government/publications/receiving-exported-waste-meeting-eu-equivalent-standards) of an authorised treatment facility (ATF) in the UK.
