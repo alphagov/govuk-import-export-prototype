@@ -169,10 +169,6 @@ You don’t need to apply for ‘Article 10 certificates’ if:
 * you’re re-exporting live animals that were bred in captivity - follow the rules of Annex B species instead)
 * the animals are in [this list of exeption](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82) .
 
-$CTA  
-[Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-bristol) if you’re exporting elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. You could be fined or imprisoned for up to 7 years if you break the rules.  
-$CTA
-
 ##Apply for an ‘Article 10 certificate’
 
 Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:  
@@ -183,8 +179,7 @@ Your application must include supporting documents showing the specimen was acqu
 
 Complete your [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use). 
 
-Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number) as this may determine what type of certificate you get.
-
+Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number) as this may determine what type of certificate you get. If they’re wrong you’re more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
 
 ### If you don’t have supporting documents
 
@@ -244,17 +239,14 @@ Send your application to the [centre for international trade in Bristol](https:/
 
 ###Temporary exports 
 
-If you regularly ​take goods abroad for a short period of time for public 
-​exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. You can use the certificate whether you're moving goods within or outside the EU.
+If you regularly take goods abroad for a short period of time for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. You can use the certificate whether you're moving goods within or outside the EU.
 
 
-​It applies to items for: circuses and menageries.
+It applies to items for circuses and menageries.
 
 You can add multiple specimen types in one application if needed.
-​
 
-It is valid for 3 years
-​ and means you don't need to apply for permission each time you take your display items abroad.​
+It is valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.​
 
 
 ###Apply
