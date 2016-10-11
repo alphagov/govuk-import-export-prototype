@@ -167,12 +167,13 @@ There may also be times when a species is listed in one place but its subspecies
 You don’t need to apply for ‘Article 10 certificates’ if:
 
 * you’re re-exporting live animals that were bred in captivity - follow the rules of Annex B species instead)
-* the animals are in [this list of exeption](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82) .
+* the animals are in [this list of exeption](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82).
+
+You usually won't get a certificate for wild bird of prey who are unable to survive in the wild or 'disabled'. You might get permission in execeptional circumstances, for example if your export will benefit conservation or have important educational purposes but [you'll have to provide extra evidence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf).
 
 ##Apply for an ‘Article 10 certificate’
 
 Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:  
-
 * imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit  
 * specimens previously issued with an Article 10 certificate, the original yellow copy of the certificate
 * a specimen taken from the wild, a copy of any licences issued to allow it to be removed from the wild
@@ -223,6 +224,8 @@ If you lose your certificate, you can [ask APHA for a replacement](http://www.go
 [Apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
 
 Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
+
+If you're re-exporting a species, you'll be asked for supporting documents to prove it legally entered the EU.
 
 APHA will contact you within 15 working days of receiving your application.
 
