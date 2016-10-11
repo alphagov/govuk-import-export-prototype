@@ -61,7 +61,7 @@ You can reuse undamaged and uninfested wood packaging in:
 - the EU
 - countries that accept ISPM15
 
-If ISPM15 compliant wood packaging has been repaired, remanufactured or changed in any way, you must arrange for it to be re-treated and re-marked to maintain the standard. [Find a company]((http://www.timcon.org/FindASupplier/Default.asp)) authorised to carry out treatment to ISPM15 standards.
+If ISPM15 compliant wood packaging has been repaired, remanufactured or changed in any way, you must arrange for it to be re-treated and re-marked to maintain the standard. [Find a company](http://www.timcon.org/FindASupplier/Default.asp)) authorised to carry out treatment to ISPM15 standards.
 
 ###Get help
 
