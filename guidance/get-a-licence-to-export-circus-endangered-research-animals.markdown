@@ -223,7 +223,7 @@ If you lose your certificate, you can [ask APHA for a replacement](http://www.go
 ##Applying for a CITES permit
 [Apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
 
-If you're re-exporting a specie include supporting documents to prove it legally entered the EU.
+If you're re-exporting a species include supporting documents to prove it legally entered the EU.
 
 Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
 
