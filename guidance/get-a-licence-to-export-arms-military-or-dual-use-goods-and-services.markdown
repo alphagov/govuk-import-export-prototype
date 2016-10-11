@@ -250,7 +250,7 @@ If you don’t comply with the terms of your licence it could be revoked, and yo
 
 ### If you use an Open General Export Licence (OGEL) 
 
-If you use an Open General Export Licence (OGEL), [check the terms of your OGEL](link to collection of OGEL documents).
+If you use an Open General Export Licence (OGEL), [check the terms of your OGEL](https://www.gov.uk/government/collections/open-general-export-licences-ogels).
 
 ### If you have a Standard Individual Export Licence (SIEL)
 
