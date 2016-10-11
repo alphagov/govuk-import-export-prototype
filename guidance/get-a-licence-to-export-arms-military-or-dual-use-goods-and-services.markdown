@@ -57,7 +57,7 @@ Even if your items don’t need a licence, the customs and transport documents m
 
 You don't need a licence to export goods owned by the UK Ministry of Defence (MOD).
 
-Instead, get an approval letter from the Arms Control and Counter Proliferation Policy (ACP) office in the MOD. Email <acp-elc@mod.uk> or call 020 7218 9080 for details.
+Instead, get an approval letter from the Arms Control and Counter Proliferation Policy (ACP) office in the MOD. Email <ECJU-MODTeam@mod.uk> or call 020 7218 9080 for details.
 
 ## Goods that don’t usually need a licence
 
