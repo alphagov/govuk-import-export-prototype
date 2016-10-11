@@ -8,7 +8,8 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-It’s a criminal offence to export something on the consolidated military list of strategic military and dual use items (known as the 'consolidated list') outside the UK unless you have the right licence.
+It can be a criminal offence to export something on the UK strategic export control lists
+outside the UK unless you have the right licence.
 
 $CTA
 
@@ -16,11 +17,13 @@ $CTA
 
 $CTA
 
-The consolidated list includes:
+The UK strategic export control lists include:
 
 - radioactive substances (‘radioactive sources’ or ‘radionuclides’) that can be used for military purposes
 - ‘dual use’ radioactive substances - substances that can be used for military or civilian purposes (for example, in research, medicine industry or agriculture)
-- other goods, technology or services that could make it possible to use a radioactive substance for military purposes (eg technology, software or training manuals)
+- other goods, technology or services that could make it possible to use a radioactive substance for military purposes (eg technology, software, training manuals, diagrams or blueprints)
+
+This includes information in any form. For example print, email, telephone or electronic file transfer.
 
 ‘Dual use’ items can be raw materials, components or finished systems.
 
@@ -32,13 +35,20 @@ Some countries may have import rules for certain goods. You can check by talking
 
 $CTA
 
-## Exporting substances that aren’t on the consolidated list
+## Goods that don’t usually need a licence
 
-You must contact the [Export Control Organisation (ECO)](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-radioactive-substances.html#contact-the-export-control-organisation-eco) if you find out that something you’re exporting will be used for military purposes or to make a weapon of mass destruction (WMD), even if it doesn’t appear on the consolidated military list. For example, components that will be used to make a weapon.
+Even if your items wouldn’t usually need a licence, you must must not export, traffic or broker the movement of any items, services or technology if you find out they might be used:
 
-These are called ‘end use’ or ‘catch all’ controls.
+* for weapons of mass destruction (WMD) purposes (for example, technology that might be used in a nuclear weapons facility)
+* for military purposes in an an [embargoed country](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#how-eco-decides-whether-to-give-licences)
 
-You must apply for an export licence if ECO tells you to.
+This includes 'technical assistance' - for example, assembly, maintenance or repair services. 
+
+These are called ‘end use’, ‘end user’ or ‘catch all’ controls.
+
+Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO).
+
+You must apply for a licence if ECO tells you to.
 
 ## Apply for an export licence
 
@@ -50,6 +60,21 @@ Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login)
 
 $CTA
 
+## Additional forms you may need to complete your licence application
+
+When you apply through the Spire service, you’ll be told whether you need to complete any additional forms.
+
+### Undertaking forms
+
+[OGEL (military goods, software and technology): consignee undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153770/military-goods_-_software_-_and_-_technology-ogel-undertaking_11_March_2013.doc) (MS Word, 54KB)  
+[OIEL: undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/555500/oiel-euu-template4.docx) (MS Word, 23KB)  
+[Stockist undertaking (SU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3095/stockist-undertaking-form-july-2012.doc) (MS Word, 73KB)  
+[End user undertaking (EUU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3094/end-user-undertaking-form-july-2012.doc) (MS Word, 76KB)  
+[End user certificate (EUC) form for Chemical Weapons Convention schedule 3 chemcicals](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7962/end-user-certificate-july-2012.doc) (MS Word, 70KB)  
+[Who should complete and user and stockist undertaking forms?](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7963/12-749-end-user-scenarios.pdf) (PDF, 143KB)
+[End user undertaking and stockist undertaking checklist](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7961/end-user-checklist-july-2012.doc) (MS Word, 108KB)  
+
+## After you apply
 
 ECO sometimes needs to check licence applications with the government of the country you’re exporting to. 
 
@@ -73,30 +98,60 @@ Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login
 
 ## Trafficking and brokering radioactive substances
 
-You must have a trade control licence if you or your company is involved in trafficking or brokering anything that appears on the consolidated list.
+You must have a trade control licence if you or your company is involved in trafficking or brokering anything that appears on the UK strategic export control lists.
 
-Trafficking and brokering can include anything that helps to transfer items from one country to another. For example:
+Trafficking and brokering can include anything that helps to transfer items from one non-EU country to another. For example:
 
-- arranging or negotiating sales
-- arranging intra company transfers
-- drop shipping
+* arranging or negotiating contracts
+* arranging or providing freight or transport services
+* arranging intra company transfers
+* drop shipping
 
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 
-## Your license responsibilities
+### Trafficking or brokering to embargoed countries
 
-You're responsible for making sure that your licence is still valid when you export the goods.
+There are tighter controls on trafficking or brokering for some goods and for some locations.
 
-Check the [ECO notices to exporters](https://www.gov.uk/government/collections/notices-to-exporters) to keep up to date.
+For countries where there’s a UK embargo in place, trafficking and brokering also includes: 
 
-The [ECO compliance code of practice](/government/publications/compliance-code-of-practice) has guidance on:
+* general advertising and promotion (eg placing advertisements)
+* finance, financial services, insurance or reinsurance services
+* contract promotion activity
 
-- what records to keep
-- what compliance processes to put in place
-- how to train staff
-- how ECO compliance audits work
+## Your licence responsibilities
 
-### Sharing classified information during the export process
+You'll get an electronic copy of your licence through the SPIRE system.
+
+You must include a copy of the licence with the shipping paperwork. If you’re posting the goods, you must include a copy of the licence in a separate envelope, attached to the package.
+
+You are responsible for making sure that your export licence is still valid when you export the goods.
+
+Keep up to date with the [ECO notices to exporters](http://blogs.bis.gov.uk/exportcontrol/).
+
+If you don’t comply with the terms of your licence it could be revoked, and you could be fined or prosecuted.
+
+### If you use an Open General Export Licence (OGEL) 
+
+If you use an Open General Export Licence (OGEL), [check the terms of your OGEL](https://www.gov.uk/government/collections/open-general-export-licences-ogels).
+
+### If you have a Standard Individual Export Licence (SIEL)
+
+If you have a Standard Individual Export Licence (SIEL), you must:
+
+* [contact HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries) in advance to arrange an inspection of your goods (goods must be available for inspection at least 3 days before the export date)
+* keep records of end user details
+
+## ECO compliance visits
+
+ECO carries out regular compliance visits to make sure licence holders follow the correct processes. The [ECO compliance code of practice](/government/publications/compliance-code-of-practice) has guidance on:
+
+* what records to keep
+* what compliance processes to put in place
+* how to train staff
+* how compliance audits work
+
+## Sharing classified information during the export process
 
 You must get approval from the Ministry of Defence (MOD) before sharing classified information or equipment with a person or organisation outside the UK. This means information or equipment classified as:
 
@@ -115,21 +170,3 @@ Telephone: 0202 7215 4594 <br>
 Fax: 020 7215 2635 <br>
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to check if you need a licence or to get advice from ECO on how to classify radioactive substances.
-
-## Training
-
-ECO runs training sessions on:
-
-- how export controls work
-- how to make export licence applications
-- how classification works
-
-Search the [Business Events Finder](https://www.business-events.org.uk/) to book a place on a training session. Or check the [ECO notices to exporters](https://www.gov.uk/government/collections/notices-to-exporters) to find out about future traning sessions.
-
-You can do an [online course](http://www.strategicexportcontrols.org).
-
-### Bespoke training
-
-ECO can provide bespoke training sessions at your business premises. Sessions cost £1,000 plus VAT for a whole day, or £750 plus VAT for a half day.
-
-Email [denise.carter@bis.gsi.gov.uk](mailto:denise.carter@bis.gsi.gov.uk] or call 020 7215 4459 for details.
