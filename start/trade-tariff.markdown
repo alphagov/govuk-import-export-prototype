@@ -30,18 +30,32 @@ Commodity codes classify goods for import and export so you can:
 
 Read the [product classification guides](https://www.gov.uk/government/collections/classification-of-goods) to help you find the correct commodity code.
 
-You can [get advice from the classification service](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447050/CIP_27_Tariff_Classification_Change_of_Service_Delivery.pdf#page=3) (PDF, 159KB).
+###Getting advice
+
+You can get advice on how to classify your goods by emailing <classification.enquiries@hmrc.gsi.gov.uk>.
+
+Include information about:
+
+- what the product is
+- what it’s made of (if made or more than one material please explain the breakdown of the materials
+- what it’s used for
+- how the product works or functions
+- how it’s presented or packaged
+
+You need to give more detail for [footwear, food, chemicals, textiles and vehicles](https://www.gov.uk/government/publications/notice-600-classifying-your-imports-or-exports/notice-600-classifying-your-imports-or-exports#list-of-useful-contacts).
+
+If you need advice about more than one product, make a separate request.
 
 ###Apply for a classification ruling
 
-You can apply for a classification ruling to give certainty about the correct tariff classification and how much duty you'll need to pay when importing your goods into the EU.
+You can apply for a Binding Tariff Information (BTI) ruling to give certainty about the correct classification and how much duty you'll need to pay when importing your goods into the EU.
 
-Classification rulings are:
+BTIs are:
 
-- legally binding throughout the EU, usually for 3 years
+- legally binding throughout the EU for 3 years
 - free, but you may have to pay costs (for example, for laboratory analysis or expert advice)
 
-Apply for a classification ruling by using the eBTI service.
+You apply for a BTI ruling online.
 
 s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 s2. Sign up to use eBTI on the [Government Gateway website.](http://www.gateway.gov.uk/)
