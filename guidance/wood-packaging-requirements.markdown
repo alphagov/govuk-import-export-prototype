@@ -47,7 +47,7 @@ If the packaging fails an inspection and you're given the option to treat it, yo
 
 If you’re moving packaging inside the EU there are [special rules for Ireland and Northern Ireland](http://www.forestry.gov.uk/forestry/INFD-9QHKKH).
 
-If you export packaging outside the EU, check if the country you’re trading with accepts [ISPM15]((http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) (PDF, 197 KB) and if they have any other requirements. 
+If you export packaging outside the EU, check if the country you’re trading with accepts [ISPM15](http://www.forestry.gov.uk/pdf/fcph004.pdf/$file/fcph004.pdf) (PDF, 197 KB) and if they have any other requirements. 
 
 You can either:
 
@@ -56,12 +56,12 @@ You can either:
 
 ##Reusing and returning solid  wood packaging
 
- You can reuse undamaged and uninfested wood packaging in 
+You can reuse undamaged and uninfested wood packaging in:
 
 - the EU
 - countries that accept ISPM15
 
-If ISPM15 compliant  wood packaging has been repaired, remanufactured or changed in any way, you must arrange for it to be re-treated and re-marked to maintain the standard. [Find a company]((http://www.timcon.org/FindASupplier/Default.asp)) authorised to carry out treatment to ISPM15 standards.
+If ISPM15 compliant wood packaging has been repaired, remanufactured or changed in any way, you must arrange for it to be re-treated and re-marked to maintain the standard. [Find a company]((http://www.timcon.org/FindASupplier/Default.asp)) authorised to carry out treatment to ISPM15 standards.
 
 ###Get help
 
