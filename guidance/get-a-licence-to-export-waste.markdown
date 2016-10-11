@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-[Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you or if the waste you’re exporting is prohibited. If it's not, you need to:
+[Use the tool](http://apps.environment-agency.gov.uk/waste-import-export/124357.aspx) to find out which controls apply to you or if the waste you’re exporting is banned. If it's not prohibited, you need to:
 
 * complete the form in the tool if your waste requires Article 18 controls 
 * come back to this page if you need a notification control
