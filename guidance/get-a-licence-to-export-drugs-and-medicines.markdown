@@ -350,7 +350,7 @@ You’ll need an licence to export controlled drugs to the Channel Islands (Jers
 
 If you export 24 or more shipments in a 12 month period you can [apply for a time-limited blanket export licence](https://www.gov.uk/government/publications/controlled-drugs-export-to-channel-islands). The licence will be valid for up to a year.
 
-If you export less than 24 shipments in a 12 month period you’ll need to [apply through NDS]{:#apply-export-licence}.
+If you export less than 24 shipments in a 12 month period you’ll need to [#apply through NDS]{:#apply-export-licence}.
 
 Occasional exporters will need to apply for individual export authorisations for each consignment. 
 
