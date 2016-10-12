@@ -354,8 +354,6 @@ If you export less than 24 shipments in a 12 month period you’ll need to [appl
 
 Occasional exporters will need to apply for individual export authorisations for each consignment. 
 
-[SME question: What is the threshold for an occasional exporter?]
-
 You must send a valid import permit from the competent authority with your application.
 
 [SME question: Where do you send your permit?]
