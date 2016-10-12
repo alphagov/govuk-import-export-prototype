@@ -42,7 +42,15 @@ Include information about:
 - how the product works or functions
 - how it’s presented or packaged
 
-You need to give more detail for [footwear, food, chemicals, textiles and vehicles](https://www.gov.uk/government/publications/notice-600-classifying-your-imports-or-exports/notice-600-classifying-your-imports-or-exports#list-of-useful-contacts).
+You need to give more detail for [footwear](https://www.gov.uk/guidance/classifying-footwear#further-information), food, [chemicals](https://www.gov.uk/guidance/classifying-organic-chemicals#further-information), 
+
+
+
+[textiles](https://www.gov.uk/guidance/classifying-textile-apparel#further-information)
+
+and [vehicles](https://www.gov.uk/guidance/classifying-vehicles#further-information)
+
+(https://www.gov.uk/government/publications/notice-600-classifying-your-imports-or-exports/notice-600-classifying-your-imports-or-exports#list-of-useful-contacts).
 
 If you need advice about more than one product, send a separate email.
 
