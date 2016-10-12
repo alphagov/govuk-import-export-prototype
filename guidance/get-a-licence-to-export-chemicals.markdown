@@ -38,12 +38,6 @@ You must report any suspicious transactions - [check the contact in the country 
 
 You may need a licence or to follow special rules to export drug precursor chemicals. This includes moving them within the EU.
 
-$CTA
-
-[You must already have a domestic license](https://www.gov.uk/guidance/precursor-chemical-licensing) before you apply for an export licence.
-
-$CTA
-
 ###Apply for an export licence
 {:#apply-export-licence}
 
