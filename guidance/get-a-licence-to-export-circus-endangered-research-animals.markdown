@@ -180,6 +180,7 @@ Your application must include supporting documents showing the specimen was acqu
 
 Complete your [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use). 
 
+
 $CTA
 
 Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number) as this may determine what type of certificate you get. 
@@ -187,6 +188,7 @@ Make sure you include your good’s markings correctly (for example it’s tags,
 If they’re wrong you’re more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
 
 $CTA
+
 
 ### If you don’t have supporting documents
 
