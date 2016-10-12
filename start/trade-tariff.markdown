@@ -36,7 +36,7 @@ You can get advice on how to classify your goods by emailing <classification.enq
 
 Include information about your product - what it's made from, its use and function, and how it's presented or packaged.
 
-You need to give more detail for [footwear](https://www.gov.uk/guidance/classifying-footwear#further-information), [food](https://www.gov.uk/guidance/classifying-edible-vegetables-roots-and-tubers#further-information), [chemicals](https://www.gov.uk/guidance/classifying-organic-chemicals#further-information), [textiles](https://www.gov.uk/guidance/classifying-textile-apparel#further-information) and [vehicles](https://www.gov.uk/guidance/classifying-vehicles#further-information).
+You need to give specific detail for [footwear](https://www.gov.uk/guidance/classifying-footwear#further-information), [food](https://www.gov.uk/guidance/classifying-edible-vegetables-roots-and-tubers#further-information), [chemicals](https://www.gov.uk/guidance/classifying-organic-chemicals#further-information), [textiles](https://www.gov.uk/guidance/classifying-textile-apparel#further-information) and [vehicles](https://www.gov.uk/guidance/classifying-vehicles#further-information).
 
 If you need advice about more than one product, send a separate email.
 
