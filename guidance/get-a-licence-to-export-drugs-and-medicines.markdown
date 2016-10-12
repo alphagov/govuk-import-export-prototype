@@ -56,11 +56,11 @@ The export licence costs £24.
 DFLU will send you a written invoice to the registered address on your customer account.
 
 ###Help with controlled drugs
-
+{:#DFLU}
 Contact the Drugs and Firearms Licensing Unit (DFLU) if you need help.
 
 **Drugs and Firearms Licensing Unit** 
-{:#DFLU}
+
 Telephone: 020 7035 6330
 [DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)
 [Find out about call charges](/call-charges)
