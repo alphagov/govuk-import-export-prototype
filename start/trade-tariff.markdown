@@ -37,7 +37,7 @@ You can get advice on how to classify your goods by emailing <classification.enq
 Include information about:
 
 - what the product is
-- what it’s made of (if made or more than one material please explain the breakdown of the materials
+- what it’s made from (if more than one material, give a breakdown)
 - what it’s used for
 - how the product works or functions
 - how it’s presented or packaged
