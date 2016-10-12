@@ -29,14 +29,14 @@ If your drug is on the list you need a controlled drugs licence and a National D
 ###Controlled drugs licence
 
 - register online for a[controlled drugs licence](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
-- log in once you've registered (https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml).
+- [log in once you've registered](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml).
 
 You should get your licence within 16 weeks. The licence is valid for 3 months.
 
 ###NDS account
 
 - register online for a [National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
-- log in once you’ve registered](https://dlcu.homeoffice.gov.uk/Login.aspx)
+- [log in once you’ve registered](https://dlcu.homeoffice.gov.uk/Login.aspx)
 
 Your licence will be valid for up to 2 months (or until your import permit expires, if sooner).
 
