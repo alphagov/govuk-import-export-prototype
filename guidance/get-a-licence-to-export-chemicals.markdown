@@ -43,7 +43,7 @@ You may need a licence or to follow special rules to export drug precursor chemi
 
 [Check the table](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb) to confirm if your chemical needs:
 
-* an export licence (“individual authorisation”) 
+* an export licence (“individual authorisation”) - the application process can take up to 16 weeks
 * a pre-export notification (“PEN”) - you won’t need to apply for anything else but your licence will take 15 days longer to be processed
 
 To apply, either:
