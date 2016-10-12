@@ -24,11 +24,9 @@ If your drug is not on the list but you think it might have the properties of a 
 
 ###Apply for a licence
 
-If your drug is on the list you need a controlled drugs licence and a National Drugs control System (NDS)account:
-
-###Register for an NDS account
-
 To get an import licence, you must to register for an NDS account. Once your registration has been approved, you may apply for an import licence.
+
+###Register with NDS account
 
 - register online for a [National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 - [log in once you’ve registered](https://dlcu.homeoffice.gov.uk/Login.aspx)
