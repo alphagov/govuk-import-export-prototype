@@ -26,7 +26,7 @@ $CTA
 
 [Check the controlled drugs list](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation).
 
-If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
+If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](#DFLU).
 
 If your drug is controlled, you need to apply for a [Home Office controlled drug licence](#apply-export-licence) to export it.
 
@@ -59,7 +59,8 @@ DFLU will send you a written invoice to the registered address on your customer 
 
 Contact the Drugs and Firearms Licensing Unit (DFLU) if you need help.
 
-**Drugs and Firearms Licensing Unit**  
+**Drugs and Firearms Licensing Unit** 
+{:#DFLU}
 Telephone: 020 7035 6330
 [DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)
 [Find out about call charges](/call-charges)
