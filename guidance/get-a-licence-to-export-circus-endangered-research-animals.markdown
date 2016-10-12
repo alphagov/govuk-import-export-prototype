@@ -173,7 +173,8 @@ You usually won't get a certificate for wild bird of prey who are unable to surv
 
 ##Apply for an ‘Article 10 certificate’
 
-Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:  
+Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:
+
 * imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit 
 * specimens previously issued with an Article 10 certificate, the original yellow copy of the certificate
 * a specimen taken from the wild, a copy of any licences issued to allow it to be removed from the wild
@@ -184,8 +185,6 @@ Complete your [application form](https://www.gov.uk/government/publications/enda
 $CTA
 
 Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number) as this may determine what type of certificate you get. 
-
-If they’re wrong you’re more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
 
 $CTA
 
@@ -229,6 +228,7 @@ APHA aims to process all application forms within within 30 working days (6 week
 If you lose your certificate, you can [ask APHA for a replacement](http://www.gov.uk/guidance/replace-a-lost-stolen-or-incorrect-document-for-a-controlled-species).
 
 ##Applying for a CITES permit
+
 [Apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
 
 If you're re-exporting a species include supporting documents to prove it legally entered the EU.
