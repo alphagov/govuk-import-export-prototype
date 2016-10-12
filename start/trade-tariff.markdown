@@ -34,13 +34,7 @@ Read the [product classification guides](https://www.gov.uk/government/collectio
 
 You can get advice on how to classify your goods by emailing <classification.enquiries@hmrc.gsi.gov.uk>.
 
-Include information about:
-
-- what the product is
-- what it’s made from (if more than one material, give a breakdown)
-- what it’s used for
-- how the product works or functions
-- how it’s presented or packaged
+Include information about your product - what it's made from, its use and function, and how it's presented or packaged.
 
 You need to give more detail for [footwear](https://www.gov.uk/guidance/classifying-footwear#further-information), [food](https://www.gov.uk/guidance/classifying-edible-vegetables-roots-and-tubers#further-information), [chemicals](https://www.gov.uk/guidance/classifying-organic-chemicals#further-information), [textiles](https://www.gov.uk/guidance/classifying-textile-apparel#further-information) and [vehicles](https://www.gov.uk/guidance/classifying-vehicles#further-information).
 
