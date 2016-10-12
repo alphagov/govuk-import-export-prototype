@@ -174,13 +174,19 @@ You usually won't get a certificate for wild bird of prey who are unable to surv
 ##Apply for an ‘Article 10 certificate’
 
 Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:  
-* imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit  
+* imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit 
 * specimens previously issued with an Article 10 certificate, the original yellow copy of the certificate
 * a specimen taken from the wild, a copy of any licences issued to allow it to be removed from the wild
 
 Complete your [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use). 
 
-Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number) as this may determine what type of certificate you get. If they’re wrong you’re more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
+$CTA
+
+Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number) as this may determine what type of certificate you get. 
+
+If they’re wrong you’re more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
+
+$CTA
 
 ### If you don’t have supporting documents
 
