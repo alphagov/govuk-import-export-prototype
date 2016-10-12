@@ -61,15 +61,39 @@ Contact the Drugs and Firearms Licensing Unit (DFLU) if you need help.
 
 **Drugs and Firearms Licensing Unit** 
 
-Telephone: 020 7035 6330
-[DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)
-[Find out about call charges](/call-charges)
+Telephone: 020 7035 6330  
+[DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)  
+[Find out about call charges](/call-charges)  
 
+##Exporting controlled drugs to the Channel Islands
+{:#channel-islands}
+
+You’ll need an licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
+
+If you export 24 or more shipments in a 12 month period you can [apply for a time-limited blanket export licence](https://www.gov.uk/government/publications/controlled-drugs-export-to-channel-islands). The licence will be valid for up to a year.
+
+If you export less than 24 shipments in a 12 month period you’ll need to [apply for an export licence](#apply-export-licence) through NDS.
+
+Occasional exporters will need to apply for individual export authorisations for each consignment. 
+
+You must send a valid import permit from the competent authority with your application to <Channel_Islands@homeoffice.gsi.gov.uk>.
+
+###Renew your licence
+
+You’ll need to renew your licence at least 4 weeks before it expires.
+
+###Monthly returns of exports
+
+Exporters should complete the Channel Islands export monthly return form which must be sent to <Channel_Islands@homeoffice.gsi.gov.uk>.
+ 
+Holders of frequent exporter licences must submit a monthly return form detailing the actual substances that have been shipped.
+
+You'll need to do a nil return for each month that you've not shipped for over a month. Your licence may be suspended if you don't send a monthly return form for each month you've held a licence.
 
 ##Drugs that can be used for lethal injections
 {:#lethal-injections}
 
-You need a licence to export the following barbiturates outside of the EU:
+You need a licence to export the following barbiturates outside the EU:
 
 - amobarbital (CAS RN 57-43-2)
 - amobarbital sodium salt (CAS RN 64-43-7)
@@ -343,32 +367,3 @@ page two hold a Marketing Authorisation in the same name. It does not independen
 
 *[VMD]: Veterinary Medicines Directorate
 *[AVM-GSL]: Authorised Veterinary Medicine - General Sales List
-
-##Channel Islands
-{:#channel-islands}
-
-You’ll need an licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
-
-If you export 24 or more shipments in a 12 month period you can [apply for a time-limited blanket export licence](https://www.gov.uk/government/publications/controlled-drugs-export-to-channel-islands). The licence will be valid for up to a year.
-
-If you export less than 24 shipments in a 12 month period you’ll need to [apply for an export licence](#apply-export-licence) through NDS.
-
-Occasional exporters will need to apply for individual export authorisations for each consignment. 
-
-You must send a valid import permit from the competent authority with your application to <Channel_Islands@homeoffice.gsi.gov.uk>.
-
-####Renew your licence
-
-You’ll need to renew your licence at least 4 weeks before it expires.
-
-###Monthly returns of exports
-
-Exporters should complete the Channel Islands export monthly return form which must be sent to <Channel_Islands@homeoffice.gsi.gov.uk>.
- 
-Holders of frequent exporter licences must submit a monthly return form detailing the actual substances that have been shipped.
-
-You'll need to do a nil return for each month that you've not shipped for over a month. Your licence may be suspended if you don't send a monthly return form for each month you've held a licence.
-
-*[VMD]: Veterinary Medicines Directorate
-*[AVM-GSL]: Authorised Veterinary Medicine - General Sales List
-
