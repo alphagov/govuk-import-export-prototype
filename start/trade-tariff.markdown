@@ -55,7 +55,7 @@ BTIs are:
 - legally binding throughout the EU for 3 years
 - free, but you may have to pay costs (for example, for laboratory analysis or expert advice)
 
-You apply for a BTI ruling online.
+You apply for a ruling using the eBTI online service.
 
 s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or [not registered for VAT.](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport)
 s2. Sign up to use eBTI on the [Government Gateway website.](http://www.gateway.gov.uk/)
