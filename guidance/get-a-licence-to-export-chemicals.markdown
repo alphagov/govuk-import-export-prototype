@@ -51,7 +51,7 @@ To apply, either:
 - [register for an account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) with the National Drugs control System (NDS)
 - [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) if you’ve already registered
 
-Your licence will be valid for up to 3 months (or until your import permit expires, if sooner).
+Your licence will be valid for 3 months.
 
 #####Fees
 
