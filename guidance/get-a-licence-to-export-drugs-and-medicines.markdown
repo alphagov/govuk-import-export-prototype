@@ -354,9 +354,7 @@ If you export less than 24 shipments in a 12 month period you’ll need to [appl
 
 Occasional exporters will need to apply for individual export authorisations for each consignment. 
 
-You must send a valid import permit from the competent authority with your application.
-
-[SME question: Where do you send your permit?]
+You must send a valid import permit from the competent authority with your application to <Channel_Islands@homeoffice.gsi.gov.uk>.
 
 ####Renew your licence
 
