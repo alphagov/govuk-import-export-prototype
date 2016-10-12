@@ -35,9 +35,8 @@ If you're a retail pharmacy, you usually don't need a domestic licence unless yo
 
 ###Apply for a Controlled Drugs licence
 
-You must then register with the [Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml).
-
-You can then log in to apply for a [domestic controlled drug licence](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml).
+Register with the [Controlled Drugs Licensing System](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml).
+Log in to [apply](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml).
 
 ###Apply for an import licence
 
@@ -93,7 +92,7 @@ What you need to do depends on if you're importing from within or from outside t
 
 ###Within the EEA
 
-To import from within the EEA, you need a wholesale dealer's licence [wholesale dealer's licence](#wholesale-licence)
+To import from within the EEA, you need a [wholesale dealer's licence](#wholesale-licence)
 
 
 ###Outside the EEA
@@ -117,7 +116,7 @@ For urgent cases out of office hours, you should contact the MHRA duty officer o
 
 [SME question: How long does an import notification usually take (if not urgent)?]
 
-##Fees
+###Fees
 
 Fees are charged annually, based on the number of notifications you submit. MHRA provide an an early estimate in the financial year, followed by an invoice for the whole year.
 
