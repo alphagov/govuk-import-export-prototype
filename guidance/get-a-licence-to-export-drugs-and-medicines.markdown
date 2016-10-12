@@ -346,7 +346,7 @@ page two hold a Marketing Authorisation in the same name. It does not independen
 ##Channel Islands
 {:#channel-islands}
 
-You’ll need an additional licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
+You’ll need an licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
 
 If you export 24 or more shipments in a 12 month period you can [apply for a time-limited blanket export licence](https://www.gov.uk/government/publications/controlled-drugs-export-to-channel-islands). The licence will be valid for up to a year.
 
