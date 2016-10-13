@@ -21,7 +21,7 @@ The UK strategic export control lists include finished items or systems, raw mat
 * goods, technology or services or components designed or modified for military use (for example vehicles, aircraft or marine craft, imaging equipment, armoured protective equipment, cryptographic technology or training materials for a weapons system)
 * ‘dual use’ items - goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example nuclear materials, chemical agents, electronics, computer or telecommunications equipment, sensors, lasers, machine tools, navigation and avionics equipment, marine technology or aerospace technology)
 
-The the UK strategic export control lists also cover the transfer of information that could be used for military or dual use purposes. For example:
+The UK strategic export control lists also cover the transfer of information that could be used for military or dual use purposes. For example:
 
 * technical or training manuals
 * diagrams or blueprints
@@ -57,7 +57,7 @@ Even if your items don’t need a licence, the customs and transport documents m
 
 You don't need a licence to export goods owned by the UK Ministry of Defence (MOD).
 
-Instead, get an approval letter from the Arms Control and Counter Proliferation Policy (ACP) office in the MOD. Email <ECJU-MODTeam@mod.uk> or call 020 7218 9080 for details.
+Instead, get an approval letter from the Export Control Joint Unit in the MOD. Email <ECJU-MODTeam@mod.uk> for details.
 
 ## Goods that don’t usually need a licence
 
@@ -107,7 +107,7 @@ When you apply through the Spire service, you’ll be told whether you need to c
 [Stockist undertaking (SU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3095/stockist-undertaking-form-july-2012.doc) (MS Word, 73KB)  
 [End user undertaking (EUU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3094/end-user-undertaking-form-july-2012.doc) (MS Word, 76KB)  
 [End user certificate (EUC) form for Chemical Weapons Convention schedule 3 chemcicals](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7962/end-user-certificate-july-2012.doc) (MS Word, 70KB)  
-[Who should complete and user and stockist undertaking forms?](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7963/12-749-end-user-scenarios.pdf) 
+[Who should complete end user and stockist undertaking forms?](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7963/12-749-end-user-scenarios.pdf) 
 [End user undertaking and stockist undertaking checklist](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7961/end-user-checklist-july-2012.doc) (MS Word, 108KB)  
 
 ### Other forms
@@ -122,16 +122,7 @@ ECO uses the [consolidated EU and national arms export licensing criteria](http:
 
 ECO also looks at the ‘[incorporation factors](http://www.publications.parliament.uk/pa/cm200102/cmhansrd/vo020708/text/20708w01.htm#column_652)’ if the goods will be incorporated into military equipment which will then be exported to another country.
 
-There’s a complete ban on exporting:
-
-* anti personnel landmines, and parts or components for anti personnel landmines
-* blinding laser weapons
-* man-portable air defence systems (MANPADs) to end users who aren’t states
-* non-civil nuclear supplies or materials to a country that’s not one of the other recognised nuclear weapons states (United States, Russia, France and China)
-
-For other items, decisions are partly based on where you’re exporting to.
-
-For example, ECO won’t usually give a licence if there’s an embargo on exporting military goods (arms embargo). Embargoed countries are:
+Decisions are partly based on where you’re exporting to. For example, ECO won’t usually give a licence if there’s an embargo on exporting military goods (arms embargo). Embargoed countries are:
 
 * Argentina (if the goods will be used by the Argentine military)
 * Armenia and Azerbaijan (if the goods could be used on the border between the two countries, or in the Nagorno-Karabakh region)
@@ -144,7 +135,7 @@ For example, ECO won’t usually give a licence if there’s an embargo on expor
 * Libya
 * North Korea (Democratic People’s Republic of Korea)
 * Republic of Guinea
-* Russia (including any related financial or technial services)
+* Russia
 * Sierra Leone
 * Somalia
 * South Sudan
