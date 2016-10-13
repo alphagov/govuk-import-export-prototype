@@ -24,6 +24,12 @@ HM Treasury won’t usually grant a licence to provide financial services to a d
 
 You must not provide any financial services to anyone on the [list of financial sanctions targets in Syria](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487325/syria.pdf) (PDF, 92KB).
 
+## Iran
+
+There is a ban on investing businesses that manufacture military goods in Iran. 
+
+If an Iraninan person invest in your uranium or nuclear-related business, they must have a licence.
+
 ## If you’re providing services under a financial sanctions licence
 
 You must [tell HM Treasury](/guide/doing-business-financial-sanctions/get-help.html) as soon as possible if you’re dealing with a client under a financial services licence and they commit an offence under financial sanctions (eg they breach the terms of their licence).
