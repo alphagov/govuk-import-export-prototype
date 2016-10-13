@@ -33,7 +33,7 @@ To get an import licence, you must to register for an NDS account. Once your reg
 
 ###Apply for an import licence
 
-- register online for a[controlled drugs licence](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
+- register online for a [controlled drugs licence](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
 - [log in once you've registered](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml).
 
 You should get your licence within 16 weeks. The licence is valid for 3 months.
