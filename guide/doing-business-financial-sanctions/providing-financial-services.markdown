@@ -32,8 +32,7 @@ If an Iraninan person invest in your uranium or nuclear-related business, they m
 
 ##Crimea and Sevastopol
 
-There is a ban on supporting any project or business in Crimea and Sevastopol which recognise it's illegal annexation. 
-Including:
+There is a ban on supporting any project or business in Crimea and Sevastopol which recognise it's illegal annexation, including:
 
 * buying property
 * providing tourism services
