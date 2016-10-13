@@ -144,7 +144,7 @@ For example, ECO won’t usually give a licence if there’s an embargo on expor
 * Libya
 * North Korea (Democratic People’s Republic of Korea)
 * Republic of Guinea
-* Russia
+* Russia (including any related financial or technial services)
 * Sierra Leone
 * Somalia
 * South Sudan
