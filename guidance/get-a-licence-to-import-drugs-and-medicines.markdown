@@ -22,11 +22,10 @@ You need permission to import:
 
 If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
 
-###Apply for a licence
+
+###Register with NDS 
 
 To get an import licence, you must to register for an NDS account. Once your registration has been approved, you may apply for an import licence.
-
-###Register with NDS account
 
 - register online for a [National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
 - [log in once you’ve registered](https://dlcu.homeoffice.gov.uk/Login.aspx)
@@ -38,7 +37,6 @@ To get an import licence, you must to register for an NDS account. Once your reg
 - [log in once you've registered](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml).
 
 You should get your licence within 16 weeks. The licence is valid for 3 months.
-
 
 If you're a retail pharmacy, you usually don't need a domestic licence unless you also need a [wholesaler dealer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences). Email [info@mhra.gsi.gov.uk](mailto:info@mhra.gsi.gov.uk) to check.
 
