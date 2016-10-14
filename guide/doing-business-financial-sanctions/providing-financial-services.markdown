@@ -24,24 +24,6 @@ HM Treasury won’t usually grant a licence to provide financial services to a d
 
 You must not provide any financial services to anyone on the [list of financial sanctions targets in Syria](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/487325/syria.pdf) (PDF, 92KB).
 
-## Iran
-
-There is a ban on investing businesses that manufacture military goods in Iran. 
-
-If an Iraninan person invest in your uranium or nuclear-related business, they must have a licence.
-
-##Crimea and Sevastopol
-
-There is a ban on supporting any project or business in Crimea and Sevastopol which recognise it's illegal annexation, including:
-
-* buying property
-* providing tourism services
-* investing in businesses (particularly energy infrastructure and transport)
-
-You also can't suuply equipment, technology and technical services, or investment, for oil, gas or mineral resources activities in the region.
-
-[Contact UK Trade and Investment (UKTI) Ukraine](commercial.kyiv@gmail.com) if you want to find out more about supplying any goods or services in Crimer and Sevastopol.
-
 ## If you’re providing services under a financial sanctions licence
 
 You must [tell HM Treasury](/guide/doing-business-financial-sanctions/get-help.html) as soon as possible if you’re dealing with a client under a financial services licence and they commit an offence under financial sanctions (eg they breach the terms of their licence).
