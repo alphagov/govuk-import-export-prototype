@@ -61,6 +61,4 @@ Musical instruments made from endangered animals (for example ivory piano keys) 
 
 ##If you need help
 
-[be good to add something in about this, ideally as an H2 that’ll appear in the page nav]
-
-Contact APHA.
+Contact the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) if you need any help.
