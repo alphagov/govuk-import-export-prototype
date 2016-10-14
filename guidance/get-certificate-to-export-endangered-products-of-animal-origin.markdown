@@ -8,9 +8,9 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-Use the Species+ tool to [search for the animal] that the product is made from. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
+Use the Species+ tool to [search for the animal](https://www.speciesplus.net/) that the product is made from. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
-What you need to do depends on whether you’re exporting [within the EU] or [outside the EU].
+What you need to do depends on whether you’re exporting [within the EU](#within-the-eu) or [outside the EU](#outside-the-eu).
 
 If Species+ says the animal is banned, you can't export the product. There aren't any exceptions to this rule.
 
@@ -22,7 +22,7 @@ $CTA
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate] unless it your product is an antique, processed before 1947.
+If it’s classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) unless it your product is an antique, processed before 1947.
 
 ###Apply for an Article 10 certificate
 
@@ -43,9 +43,9 @@ If you lose your certificate, you can ask APHA for a replacement.
 
 ##Outside the EU
 
-If the animal is classed as Annex A, you must [apply for an Article 10 certificate] (#link up page).
+If the animal is classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate).
 
-If it's classed as B or C, you need a [CITES export permit].
+If it's classed as B or C, you need a [CITES export permit](#apply-for-a-cites-permit).
 
 If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
 
