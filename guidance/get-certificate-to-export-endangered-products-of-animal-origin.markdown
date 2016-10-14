@@ -18,6 +18,8 @@ $CTA
 [Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-bristol) if you’re exporting elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. You could be fined or imprisoned for up to 7 years if you break the rules.
 $CTA
 
+[Question for SME: Are these things banned?]
+
 ##Within the EU
 
 If the animal is classed as B, C or D, you don't need to do anything.
