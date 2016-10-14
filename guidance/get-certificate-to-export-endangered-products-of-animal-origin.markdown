@@ -8,80 +8,59 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-[Use the tool](http://www.speciesplus.net/) to check if your product of animal origin is listed as an endangered species - if it’s banned outright you can’t export it.
+Use the Species+ tool to [search for the animal] that the product is made from. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
-If it’s listed in Annex A you’ll need  'Article 10 certificates' to export it both inside and outside the EU.
+What you need to do depends on whether you’re exporting [within the EU] or [outside the EU].
 
-The only exceptions are:
+If Species+ says the animal is banned, you can't export the product. There aren't any exceptions to this rule.
 
-* any animal product like skin, bones or shells that have been processed before 1947 for example carved or tinted horns or bones used in an antique art object
-
-If it’s in Annex B or C you’ll also have to get a CITES permit to export your animal product outside the EU. If it's in Annex D check if it's also in Appendix III of the CITES list using the tool. You'll only need a permit if it's in both.
-
-You don’t need to apply for one within the EU but some countries may ask you to prove that your goods entered the EU legally.
-
-If you're exporting a musical instrument made from endangered animals (for example piano with keys made from ivory) you may be able to avoid having to apply for a permit. Contact the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) if this applies.
-
-$CTA  
-[Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-bristol) if you’re exporting elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. You could be fined or imprisoned for up to 7 years if you break the rules.  
+$CTA
+[Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-bristol) if you’re exporting elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. You could be fined or imprisoned for up to 7 years if you break the rules.
 $CTA
 
-##Apply for an ‘Article 10 certificate’
+##Within the EU
 
-Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:
+If the animal is classed as B, C or D, you don't need to do anything.
 
+If it’s classed as Annex A, you must [apply for an Article 10 certificate] unless it your product is an antique, processed before 1947.
 
-* imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit 
-* specimens previously issued with an Article 10 certificate, the original yellow copy of the certificate
-* a specimen taken from the wild, a copy of any licences issued to allow it to be removed from the wild
+###Apply for an Article 10 certificate
 
-Complete your [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) and send it to <wildlife.licensing@apha.gsi.gov.uk>.
+Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
+Send it to <wildlife.licensing@apha.gsi.gov.uk>
 
-Make sure you include your good’s markings correctly (for example its tags, microchip numbers or ring number). If they're wrong you're more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
+Include any supporting documents that show you acquired the product legally, for example:
 
-### If you don’t have supporting documents
+- a copy of the import permit
+- a previous Article 10 certificate (use the yellow copy)
 
-If you don’t have any of the supporting documents, you might still be able to get an Article 10 certificate. 
+The certificate costs £31. Find out how to pay for your application.
 
-You’ll need to provide other details of the specimen’s origin, for example:
+You should get your certificate within 6 weeks.
 
-* details of its parents and the breeder’s name
-* parents’ certificate numbers
-* a copy of an import certificate confirming the specimens were bred in captivity, or imported or acquired lawfully
-
-Send this information to:
-
-$A
-UK CITES Management Authority
-Centre for International Trade - Bristol
-Floor 1, Zone 17 
-Temple Quay House 
-2 The Square 
-Bristol 
-BS1 6EB
-$A
-
-Phone: 0117 372 3700
-
-Fax: 0117 372 8206 
-
-Email: <wildlife.licensing@apha.gsi.gov.uk>
-
-Find out about [call charges](https://www.gov.uk/call-charges).
-
-###Fees and how to pay
-
-An article 10 certificate costs £31. Find out how to [pay for your application](https://www.gov.uk/guidance/controlled-species-fees-and-how-to-pay#how-to-pay).
-
-APHA aims to process all application forms within within 30 working days (6 weeks). 
-
-If you lose your certificate, you can [ask APHA for a replacement](http://www.gov.uk/guidance/replace-a-lost-stolen-or-incorrect-document-for-a-controlled-species).
-
-##Applying for a CITES permit
-[Apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
-
-Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
+If you lose your certificate, you can ask APHA for a replacement.
 
 
+##Outside the EU
 
-APHA will contact you within 15 working days of receiving your application.
+If the animal is classed as Annex A, you must [apply for an Article 10 certificate] (#link up page).
+
+If it's classed as B or C, you need a [CITES export permit].
+
+If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
+
+###Apply for a CITES permit
+
+Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
+
+Email or post the completed form to [APHA](Send the permit application form by post or email to APHA (DEARA in Northern Ireland) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+
+A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
+
+Musical instruments made from endangered animals (for example ivory piano keys) may not need a permit. Contact the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to check.
+
+##If you need help
+
+[be good to add something in about this, ideally as an H2 that’ll appear in the page nav]
+
+Contact APHA.
