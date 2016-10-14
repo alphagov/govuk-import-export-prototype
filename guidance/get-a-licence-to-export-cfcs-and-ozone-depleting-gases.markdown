@@ -15,11 +15,12 @@ You don’t need a licence to move [ozone-depleting substances](http://eur-lex.e
 
 ###Ozone-depleting substances
 
-You can only export ozone-depleting substances (ODS) outside the EU in special situations. You can get an export licence for:
+You can only export ozone-depleting substances (ODS) [to countries that have signed the Montreal Protocol](http://ozone.unep.org/en/article-5-parties-status) in special situations. You can get an export licence for:
 
 - HCFCs used for refrigeration, air conditioning, foam blowing fire-fighting or solvents 
 - CFCs or CTCs for laboratory or analytical use
 - all ODS used as part of a chemical process to create another substance ('feedstock')
+- Recovered, recycled or reclaimed halons stored for critical uses, for example in aircraft extinguishing systems
 - [other special situations](https://circabc.europa.eu/sd/a/6e32df10-ab7d-4bc0-83e1-ae3ef90cc45e/0%20General%20Informaton%20manual%20EN%20v1.0)
 
 $CTA
