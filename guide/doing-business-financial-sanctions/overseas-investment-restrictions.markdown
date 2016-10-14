@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Doing business with someone who is subject to financial sanctions
-permalink: /guide/doing-business-financial-sanctions/providing-financial-services.html
+permalink: /guide/doing-business-financial-sanctions/overseas-investment-restrictions.html
 page_number: 5
 page_title: Overseas investment restrictions 
 breadcrumbs:
