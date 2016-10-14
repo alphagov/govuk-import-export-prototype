@@ -49,7 +49,7 @@ To export live fish and shellfish outside the EU, you must:
 {:#export-health-certificate}
 
 s1. Contact the [Centre for International Trade Carlisle](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@alpha.gsi.gov.uk> (or contact [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland).
+s2.Tell them what you're exporting and the destination country. You'll either be asked who your official veterinarian is or for the name of the local authority officer who looks after for food law enforcement at your premises. Email [ovteam@apha.gsi.gov.uk](ovteam@apha.gsi.gov.uk) if you can't find a vet .
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
 s4. Your EHC will be sent to your official veterinarian within 7 working days.
 s5. Check your EHC’s guidance notes to find out if you need your EHC signed by your official veterinarian or an inspector from your [local authority](http://www.gov.uk/local-council). 
