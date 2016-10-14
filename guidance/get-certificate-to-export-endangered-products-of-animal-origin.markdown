@@ -14,8 +14,7 @@ If it’s listed in Annex A you’ll need  'Article 10 certificates' to export i
 
 The only exceptions are:
 
-* dead Crocodylia species with source code D, with a uniquely marked, closed leg ring
-* any animal product like skin, bones or shells that have been processed before 1947 for example carved or tinted horns or bones used in an antique art object 
+* any animal product like skin, bones or shells that have been processed before 1947 for example carved or tinted horns or bones used in an antique art object
 
 If it’s in Annex B or C you’ll also have to get a CITES permit to export your animal product outside the EU. If it's in Annex D check if it's also in Appendix III of the CITES list using the tool. You'll only need a permit if it's in both.
 
@@ -36,9 +35,9 @@ Your application must include supporting documents showing the specimen was acqu
 * specimens previously issued with an Article 10 certificate, the original yellow copy of the certificate
 * a specimen taken from the wild, a copy of any licences issued to allow it to be removed from the wild
 
-Complete your [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use). 
+Complete your [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) and send it to <wildlife.licensing@apha.gsi.gov.uk>.
 
-Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number). If they're wrong you're more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
+Make sure you include your good’s markings correctly (for example its tags, microchip numbers or ring number). If they're wrong you're more likely to get a transaction specific certificate instead of a species specific one. This means it only be valid for one sale.
 
 ### If you don’t have supporting documents
 
