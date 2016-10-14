@@ -36,12 +36,13 @@ Include any supporting documents that show you acquired the product legally, for
 - a copy of the import permit
 - a previous Article 10 certificate (use the yellow copy)
 
-The certificate costs £31. Find out how to pay for your application.
+The certificate costs £31. 
 
 You should get your certificate within 6 weeks.
 
 If you lose your certificate, you can ask APHA for a replacement.
 
+[Question for SME: Where do users apply for a replacement?]
 
 ##Outside the EU
 
