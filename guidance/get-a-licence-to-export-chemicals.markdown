@@ -70,11 +70,11 @@ Complete the [annual return form](https://www.gov.uk/government/uploads/system/u
 
 ###Contact
 
-Contact Drug Licensing and Compliance Unit (DLCU) if you need help with exporting precursor chemicals.
-{:#contact-dlcu}
+Contact the Drugs and Firearms Licensing Unit (DFLU) if you need help with exporting precursor chemicals.
+{:#contact-dflu}
 
 
-**Drug Licensing and Compliance Unit**  
+**Drugs and Firearms Licensing Unit**  
 <DLFU.ie@homeoffice.gsi.gov.uk>  
 Telephone: 020 7035 6330  
 [Find out about call charges](/call-charges)  
@@ -115,7 +115,7 @@ Chemicals classed as Annex 5 are banned and can’t be exported without an exemp
 
 $CTA
 
-[Question for SME: Who should someone contact to find out about exemptions]
+[Question for SME: Who should someone contact to find out about exemptions?]
 
 ###Making an online notification
 
