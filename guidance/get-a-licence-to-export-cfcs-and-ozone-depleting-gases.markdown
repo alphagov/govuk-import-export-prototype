@@ -12,7 +12,7 @@ To export outside the [EU](/eu-eea), what you need to do depends on whether you�
 - [ozone-depleting substances](#ozone) like HCFCs or CFCs
 - [HFCs and other F-gases](#fgas)
 
-Within the EU, you don’t need a licence.
+Within the EU, you don’t need a licence or to follow special rules.
 
 $CTA
 
