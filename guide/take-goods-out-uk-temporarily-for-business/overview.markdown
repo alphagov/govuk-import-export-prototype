@@ -15,7 +15,7 @@ breadcrumbs:
 
 You may need permission to temporarily move or export goods outside the UK, eg if you take sales samples to a trade show.
 
-^If you process or repair goods outside the EU you may be able to claim relief to [pay less duty when you re-import goods](https://www.gov.uk/guidance/outward-processing-relief-opr).
+^If you process or repair goods outside the EU you may be able to [pay less duty when you re-import your goods](https://www.gov.uk/guidance/outward-processing-relief-opr).
 
 ##Move goods around the EU 
 
