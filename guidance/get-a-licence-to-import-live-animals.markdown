@@ -60,17 +60,13 @@ Pigs must have either a slapmark, an ear tag, or a tattoo with the herd mark of 
 
 If you’re the operator of the destination site, and it’s an EU-approved market or assembly centre, you must not admit any animal unless it has the right certification and complies with EU regulation.
 
-$CTA
-
 If there are any errors in the documentation for your incoming consignment, eg unidentified animals, you must:
 
 - contact APHA immediately
 - isolate the relevant animal until APHA has authorised its release
 
-$CTA
 
-
-###Importing endangered species
+### Importing endangered species
 
 If you’re moving an endangered species into Great Britain from an EU country, you may need to apply for a CITES permit.
 
