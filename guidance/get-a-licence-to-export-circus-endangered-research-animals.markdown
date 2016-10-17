@@ -164,9 +164,9 @@ There are special rules for:
 
 * wild bird of prey who are unable to survive in the wild or 'disabled'. You’ll only get permission to export them in exceptional circumstances, for example if your export will benefit conservation or be educational but [you'll have to provide extra evidence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf).
 
-*[captive bred birds from this list](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82) - you won’t need a certificate to export them
+* [captive bred birds from this list](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82) - you won’t need a certificate to export them
 
-##Within the EU
+###Within the EU
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
@@ -189,7 +189,7 @@ You should get your certificate within 6 weeks.
 If you lose your certificate, you can ask APHA for a replacement.
 
 
-##Outside the EU
+###Outside the EU
 
 If the animal is classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) unless you’re re-exporting animals that were bred in captivity.
 
