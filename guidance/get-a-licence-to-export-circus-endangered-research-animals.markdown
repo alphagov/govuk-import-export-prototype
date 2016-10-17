@@ -154,90 +154,62 @@ You must make sure you meet [animal welfare standards](https://www.gov.uk/guidan
 
 ##Endangered animals
 
-[Use the tool](http://www.speciesplus.net/) to check if your product of animal is listed as an endangered species in the “EU Wildlife Trade Regulations” and the “CITES listing”- if it’s banned outright you can’t export it.
+Use the Species+ tool to [search for the animal] that the product is made from. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
-There may also be times when a species is listed in one place but its subspecies is in another list - it will say so in the tool both for the EU (Annex A, B, C and D) and the CITES list (Appendix I,II, III, IV, V).
+What you need to do depends on whether you’re exporting [within the EU] or [outside the EU].
 
- | Where it’s listed  | What do you need to do   | In the EU  | outside the EU |
- |---------------- |-------------------------- |---------------|------------ |
- | Annex A of the EU list  | apply for ‘Article 10 certificates’*   | yes   | yes  |
- | Annex B and C of the EU list   | apply for a CITES export permit   | no   | yes  |
- | both Annex D of the EU list and Appendix III in the CITES list  | apply for a CITES export permit | no  | yes  |
+If Species+ says the animal is banned, you can't export the product. There aren't any exceptions to this rule.
 
-You don’t need to apply for ‘Article 10 certificates’ if:
+Question for SME: Do we need to mention [this list of exemptions](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82), why are they in the list at all if they’re exempt?] 
 
-* you’re re-exporting live animals that were bred in captivity - follow the rules of Annex B species instead)
-* the animals are in [this list of exeption](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82).
+There are special rules for:
 
-You usually won't get a certificate for wild bird of prey who are unable to survive in the wild or 'disabled'. You might get permission in execeptional circumstances, for example if your export will benefit conservation or have important educational purposes but [you'll have to provide extra evidence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf).
+* wild bird of prey who are unable to survive in the wild or 'disabled'. You’ll only get permission to export them in exceptional circumstances, for example if your export will benefit conservation or be educational but [you'll have to provide extra evidence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf).
 
-##Apply for an ‘Article 10 certificate’
+*[captive bred birds from this list](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82) - you won’t need a certificate to export them
 
-Your application must include supporting documents showing the specimen was acquired or imported lawfully. These could be for:
+##Within the EU
 
-* imported specimens a copy of the original import permit stamped by the UK Border Agency (UKBA) or the number of that permit 
-* specimens previously issued with an Article 10 certificate, the original yellow copy of the certificate
-* a specimen taken from the wild, a copy of any licences issued to allow it to be removed from the wild
+If the animal is classed as B, C or D, you don't need to do anything.
 
-Complete your [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use). 
+If it’s classed as Annex A, you must [apply for an Article 10 certificate] unless you’re re-exporting live animals that were bred in captivity.
+
+###Apply for an Article 10 certificate
+
+Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
+Send it to <wildlife.licensing@apha.gsi.gov.uk>
+
+Include any supporting documents that show you acquired the product legally, for example:
+
+- a copy of the import permit
+- a previous Article 10 certificate (use the yellow copy)
+
+The certificate costs £31. Find out how to pay for your application.
+
+You should get your certificate within 6 weeks.
+
+If you lose your certificate, you can ask APHA for a replacement.
 
 
-$CTA
+##Outside the EU
 
-Make sure you include your good’s markings correctly (for example it’s tags, microchip numbers or ring number) as this may determine what type of certificate you get. 
+If the animal is classed as Annex A, you must [apply for an Article 10 certificate] (#link up page) unless you’re re-exporting animals that were bred in captivity.
 
-$CTA
+If it's classed as A, B or C, you need a [CITES export permit].
 
+If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
 
-### If you don’t have supporting documents
+###Apply for a CITES permit
 
-If you don’t have any of the supporting documents, you might still be able to get an Article 10 certificate. 
-
-You’ll need to provide other details of the specimen’s origin, for example:
-
-* details of its parents and the breeder’s name
-* parents’ certificate numbers
-* a copy of an import certificate confirming the specimens were bred in captivity, or imported or acquired lawfully
-
-Send this information to:
-
-$A
-UK CITES Management Authority
-Centre for International Trade - Bristol
-Floor 1, Zone 17 
-Temple Quay House 
-2 The Square 
-Bristol 
-BS1 6EB
-$A
-
-Phone: 0117 372 3700
-
-Fax: 0117 372 8206 
-
-Email: <wildlife.licensing@apha.gsi.gov.uk>
-
-Find out about [call charges](https://www.gov.uk/call-charges).
-
-###Fees and how to pay
-
-An article 10 certificate costs £31. Find out how to [pay for your application](https://www.gov.uk/guidance/controlled-species-fees-and-how-to-pay#how-to-pay).
-
-APHA aims to process all application forms within within 30 working days (6 weeks). 
-
-If you lose your certificate, you can [ask APHA for a replacement](http://www.gov.uk/guidance/replace-a-lost-stolen-or-incorrect-document-for-a-controlled-species).
-
-##Applying for a CITES permit
-
-[Apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB).
+Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
 
 If you're re-exporting a species include supporting documents to prove it legally entered the EU.
 
-Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
+Email or post the completed form to [APHA](Send the permit application form by post or email to APHA (DEARA in Northern Ireland) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
 
-If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503243/form-citb20.pdf).
+A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
 
-APHA will contact you within 15 working days of receiving your application.
+If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/50323/form-citb20.pdf).
 
 ###Exporting alien invasive species
 
@@ -254,13 +226,11 @@ Send your application to the [centre for international trade in Bristol](https:/
 
 If you regularly take goods abroad for a short period of time for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. You can use the certificate whether you're moving goods within or outside the EU.
 
-
 It applies to items for circuses and menageries.
 
 You can add multiple specimen types in one application if needed.
 
 It is valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.​
-
 
 ###Apply
 
