@@ -14,6 +14,8 @@ What you need to do depends on whether you’re exporting [within the EU](#withi
 
 If Species+ says the animal is banned, you can't export the product. There aren't any exceptions to this rule.
 
+You don’t need any special documents if your goods are antiques processed before 1947.
+
 $CTA
 [Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-bristol) if you’re exporting elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. You could be fined or imprisoned for up to 7 years if you break the rules.
 $CTA
@@ -24,7 +26,7 @@ $CTA
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) unless it your product is an antique, processed before 1947.
+If it’s classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate).
 
 ###Apply for an Article 10 certificate
 
