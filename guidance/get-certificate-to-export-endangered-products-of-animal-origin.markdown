@@ -50,7 +50,7 @@ If you lose your certificate, you can ask APHA for a replacement.
 
 If the animal is classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate).
 
-If it's classed as B or C, you need a [CITES export permit](#apply-for-a-cites-permit).
+If it's classed as A, B or C, you need a [CITES export permit](#apply-for-a-cites-permit).
 
 If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
 
