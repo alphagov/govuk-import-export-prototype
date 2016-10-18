@@ -1,3 +1,4 @@
+
 ---
 layout: guidance
 title: Get a licence to import live animals
@@ -24,26 +25,18 @@ What you need to do to move or import live animals depends on whether you’re e
 - within the EU, or from Switzerland, Liechtenstein, Norway, or Iceland
 - outside the EU
 
-$CTA
-
-Contact the [APHA Centre for International Trade Carlisle](APHA Centre for International Trade Carlisle) to find out if your exporter needs to include a commercial document with their consignment
-
-$CTA
 
 ## Within the EU
 
 All animals you import from within the EU must accompanied by an Intra Trade Animal Health Certificate (ITAHC).
 
-$CTA
-
 Make sure your exporter includes original health certificates with the consignment, and that they are kept by the person who ordered the consignment.
-
-$CTA
 
 ###Before your consignment arrives
 
 Send written notification of your consignment to the [APHA Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) office closest to the import destination 24 hours before it arrives.
 
+APHA can also advise if your exporter needs to include a commercial document with their consignment.
 
 You must include the:
 
@@ -84,7 +77,7 @@ If there are any errors in the documentation for your incoming consignment, eg u
 [how long can release take to authorise?]
 
 
-### Importing endangered species
+###Importing endangered species
 
 If you’re moving an endangered species into Great Britain from an EU country, you may need to apply for a CITES permit.
 
@@ -116,8 +109,10 @@ If the general licence you need doesn’t exist, you must apply for a specific l
 
 You should return the completed application form to the:
 
-- APHA Centre for International Trade Carlisle if the entry point is in England
+- [APHA Centre for International Trade Carlisle](#Contact-APHA) if the entry point is in England
 - Scottish or Welsh government if the entry point is in Scotland or Wales
+
+[Best link for Scottish, Welsh govs? What about N.Ireland?]
 
 Some animals, such as rodents, lagomorphs and most exotic mammals, must have a specific licence - complete [form RM01](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/288876/RM01_notice_of_appointment_of_an_administrative_receiver_receiver_or_manager.pdf) for this licence.
 
@@ -137,16 +132,17 @@ The animals below are covered by a general licence. This means you don’t need 
 - cattle
 - sheep and goats
 - poultry and hatching eggs
-- pigs 
+- pigs
 - non-domestic ungulates
+
 
 You must follow the conditions in the general licence.
 
 Some general licences must also travel with the consignment - check the licence that applies to the animals you’re importing.
 
-Contact the [APHA](#Contact-APHA) Centre for International Trade: Carlisle to find out which legislation applies.
+Contact the [APHA](#Contact-APHA) Centre for International Trade Carlisle to find out which legislation applies.
 
-[Many animal products must come from establishments that are approved to export into the EU.]
+Many animal products must come from establishments that are approved to export into the EU.
 
 
 ### Quarantine controls
@@ -160,7 +156,7 @@ If your animals is on the list:
 
 Complete the form to apply for a licence to import live animals excluding pet dogs, cats and ferrets.
 
-##When you need a health certificate
+## When you need a health certificate
 {:#health-certificate}
 
 If you’re importing live animals you must make sure the exporter you’re working with gets the health certificate required by EU or national law.
@@ -168,10 +164,10 @@ If you’re importing live animals you must make sure the exporter you’re work
 Contact the APHA Centre for International Trade Carlisle to find out when you need to do this.
 
 
-## Consignment checks
-
+### Consignment checks
 
 Contact [APHA](#Contact-APHA) to find out if your consignment must be checked at a Border Inspection Post (BIP).
+
 
 ### Before your consignment arrives
 
@@ -249,7 +245,7 @@ A permit costs £67 for each type of specimen you import.
 You will get your licence within xx days/weeks.
 
 
-## Animal welfare when importing live animals
+### Animal welfare when importing live animals
 
 You must make sure you meet animal welfare standards when importing live animals.
 
@@ -271,3 +267,5 @@ Email: <defra.helpline@defra.gsi.gov.uk>
 Telephone: 03459 33 55 77
 Monday to Friday, 9am to 5pm
 Find out about call charges
+
+
