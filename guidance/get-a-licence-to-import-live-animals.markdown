@@ -87,6 +87,10 @@ If your animals are on the list:
 
 [complete the form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf)
 Email it to <wildlife.licensing@apha.gsi.gov.uk>
+
+A permit costs £63. You should receive it within 15 working days.
+
+
 ###Animal welfare
 
 You must make sure you meet animal welfare standards when importing live animals.
