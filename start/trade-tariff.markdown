@@ -51,7 +51,7 @@ BTIs are:
 
 You apply for a ruling using the eBTI online service.
 
-s1. You’ll need an EORI number - how you get one depends on whether you're [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) or not registered for VAT. Forms for [importers](https://online.hmrc.gov.uk/shortforms/form/EORINonVATImport?dept-name=&sub-dept-name=&location=43&origin=http://www.hmrc.gov.uk) and [exporters](https://online.hmrc.gov.uk/shortforms/form/EORIVAT) are available for those not registered.
+ s1. You’ll need an EORI number. How you get one depends on whether you’re [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT), [not VAT-registered and you’re exporting](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) or [not VAT-registered and you’re importing](https://online.hmrc.gov.uk/shortforms/form/EORINonVATImport).
 s2. Sign up to use eBTI on the [Government Gateway website.](http://www.gateway.gov.uk/)
 s3. [Sign in to eBTI.](https://secure.hmce.gov.uk/ecom/login/index.html)
 
