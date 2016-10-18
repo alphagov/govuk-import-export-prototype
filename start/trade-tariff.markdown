@@ -51,6 +51,6 @@ You apply for a ruling using the eBTI online service.
 
 s1. You’ll need an EORI number. How you get one depends on whether you’re [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT), [not VAT-registered and you’re exporting](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) or [not VAT-registered and you’re importing](https://online.hmrc.gov.uk/shortforms/form/EORINonVATImport).
 s2. Sign up to use eBTI on the [Government Gateway website.](http://www.gateway.gov.uk/)
-s3. [Sign in to eBTI.](https://secure.hmce.gov.uk/ecom/login/index.html) and ready the [guidance notes on how to make an eBTI application.](https://www.gov.uk/guidance/binding-tariff-information-rulings)
+s3. [Sign in to eBTI.](https://secure.hmce.gov.uk/ecom/login/index.html) and read the [guidance notes on how to make an eBTI application.](https://www.gov.uk/guidance/binding-tariff-information-rulings)
 
 {% endcontentfor %}
