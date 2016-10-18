@@ -50,7 +50,7 @@ You must include the:
 
 The freight forwarder should keep the journey log and animal transport certificate.
 
-## When your consignment arrives
+### When your consignment arrives
 
 Get your consignment checked by an APHA inspector.
 
@@ -157,7 +157,7 @@ If your animals is on the list:
 
 Complete the form to apply for a licence to import live animals excluding pet dogs, cats and ferrets.
 
-## When you need a health certificate
+### When you need a health certificate
 {:#health-certificate}
 
 If you’re importing live animals you must make sure the exporter you’re working with gets the health certificate required by EU or national law.
@@ -225,14 +225,14 @@ You must pay an additional fee of £80 to get a whole or part inspection done at
 Contact the Border Inspection Post you plan to use for information on the fee you’ll be charged, and fees for animal products.
 
 
-## Endangered species
+### Endangered species
 
 If you’re importing an endangered species into the EU, you may need to apply for a CITES permit before the import takes place.
 
 Find out more about CITES, including the species that are on the CITES list.
 
 
-### Get a CITES permit
+## Get a CITES permit
 
 If you need a permit:
 - [complete the application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423416/form-fed0172-wd.doc)
