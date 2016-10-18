@@ -17,9 +17,6 @@ UK Export Finance (UKEF) helps UK exporters to:
 - fulfil orders by supporting working capital loans, for example by helping you buy new machinery
 - get insurance to cover you if you don't get paid
 
-^UKEF can't help to insure exports to EU countries (except Greece), Australia, Canada, Iceland, Japan, New Zealand, Norway, Switzerland and the USA.
-
-
 To find out more, contact:
 
 - one of UKEF’s regional [Export Finance Advisers](https://www.gov.uk/government/publications/uk-regional-export-finance-advisors) (you can book a free consultation)
