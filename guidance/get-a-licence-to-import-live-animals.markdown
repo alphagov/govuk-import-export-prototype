@@ -1,4 +1,3 @@
-
 ---
 layout: guidance
 title: Get a licence to import live animals
