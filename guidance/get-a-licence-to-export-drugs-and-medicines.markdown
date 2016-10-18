@@ -65,7 +65,7 @@ Telephone: 020 7035 6330
 [DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)  
 [Find out about call charges](/call-charges)  
 
-##Exporting controlled drugs to the Channel Islands
+###Exporting controlled drugs to the Channel Islands
 {:#channel-islands}
 
 You’ll need an licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
@@ -132,9 +132,7 @@ To export veterinary and human medicines you must:
 - check you have a drug manufacturer, wholesale dealer or marketing licence - if you don’t, [apply for the licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences)
 - check if you need an export certificate - contact your importer or the government in the destination country to find out
 
-If you need an export certificate, how you apply depends on whether you’re exporting.
-
-How you apply for the certificate depends on whether you’re exporting:
+If you need an export certificate, how you apply depends on whether you’re exporting:
 
 - [medicine for humans](#human-medicines)
 - [medicine for animals](#animal-medicines)
@@ -250,7 +248,7 @@ If your application is successful, you’ll get the original version of your cer
 You can get extra copies of certificates for £34 each.
 
 
-###Export certificates for medicines for animals
+##Export certificates for medicines for animals
 {:#animal-medicines}
 
 There are 5 types of certificate. 
@@ -300,7 +298,7 @@ Defra-SFA is for specified feed additives (SFA). It can show either:
  
 Say which you'd like the certificate to show when you apply.
 
-##Apply for an animal medicine export certificate
+###Apply for an animal medicine export certificate
 
 For Defra-SFA, you have to [apply by email](#apply-email).
 
