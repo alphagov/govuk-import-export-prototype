@@ -154,7 +154,7 @@ You must make sure you meet [animal welfare standards](https://www.gov.uk/guidan
 
 ##Endangered animals
 
-Use the Species+ tool to [search for the animal](https://www.speciesplus.net/) that the product is made from. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
+Use the Species+ tool to [search for your animal](https://www.speciesplus.net/). Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
 What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
 
