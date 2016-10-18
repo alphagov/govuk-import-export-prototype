@@ -9,7 +9,7 @@ topic:
 ---
 
 
-Certain animals, including some that are covered by European Union regulations, must have an import licence or authorisation to be imported into Great Britain.
+You must have an import licence or authorisation to import certain animals to Great Britain.
 
 What you need to do to move or import live animals depends on whether you’re exporting them:
 
@@ -24,11 +24,17 @@ $CTA
 
 ## Within the EU
 
+All animals you import from within the EU must accompanied by an Intra Trade Animal Health Certificate (ITAHC).
 
-If you’re bringing live animals into Great Britain from the EU, you need to:
+$CTA
 
-- send written notification of your consignment to the [APHA Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) office closest to the import destination 24 hours before it arrives
-- get your consignment checked by an APHA inspector.
+Make sure your exporter includes original health certificates with the consignment, and that they are kept by the person who ordered the consignment.
+
+$CTA
+
+###Before your consignment arrives
+
+Send written notification of your consignment to the [APHA Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) office closest to the import destination 24 hours before it arrives.
 
 
 You must include the:
@@ -41,15 +47,15 @@ You must include the:
 - signature of the person responsible for the consignment
 
 
-You must make sure your exporter includes original health certificates with the consignment, and that they are kept by the person who ordered the consignment.
+The freight forwarder should keep the journey log and animal transport certificate.
 
-The transporter should keep the journey log and animal transport certificate.
+## When your consignment arrives
 
-### When your consignment arrives
+Get your consignment checked by an APHA inspector.
 
-The animals must be taken directly to the place of destination that you’ve named on the health certificate.
+Once checked, animals must be taken directly to the place of destination that you’ve named on the health certificate.
 
-You must rest livestock (except for registered horses) for 48 hours before moving them again.
+You must rest livestock (except for registered horses) for 48 hours if you intend to move them again.
 
 
 ### Checking animal identification
@@ -66,6 +72,8 @@ If there are any errors in the documentation for your incoming consignment, eg u
 
 - contact APHA immediately
 - isolate the relevant animal until APHA has authorised its release
+
+[how long can release take to authorise?]
 
 
 ### Importing endangered species
