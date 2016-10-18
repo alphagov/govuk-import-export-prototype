@@ -124,10 +124,11 @@ Some animals, such as rodents, lagomorphs and most exotic mammals, must have a s
 
 ### When you need a health certificate
 
-If you’re importing live animals and animal products, you must make sure the exporter you’re working with gets the health certificate required by EU or national law.
+You must make sure your exporter has a health certificate required by EU or national law.
 
-You can contact the APHA Centre for International Trade Carlisle to find out when you need to do this.
+Contact the [APHA Centre for International Trade Carlisle](#Contact-APHA) to find out when you need to do this.
 
+[Need to clarify]
 
 ### When you don’t need a licence
 
