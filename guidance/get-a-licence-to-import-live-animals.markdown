@@ -77,7 +77,7 @@ If there are any errors in the documentation for your incoming consignment, eg u
 [how long can release take to authorise?]
 
 
-###Importing endangered species
+### Importing endangered species
 
 If you’re moving an endangered species into Great Britain from an EU country, you may need to apply for a CITES permit.
 
@@ -116,6 +116,7 @@ You should return the completed application form to the:
 
 Some animals, such as rodents, lagomorphs and most exotic mammals, must have a specific licence - complete [form RM01](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/288876/RM01_notice_of_appointment_of_an_administrative_receiver_receiver_or_manager.pdf) for this licence.
 
+
 ### When you need a health certificate
 
 If you’re importing live animals and animal products, you must make sure the exporter you’re working with gets the health certificate required by EU or national law.
@@ -140,7 +141,6 @@ You must follow the conditions in the general licence.
 
 Some general licences must also travel with the consignment - check the licence that applies to the animals you’re importing.
 
-
 Contact the [APHA](#Contact-APHA) Centre for International Trade Carlisle to find out which legislation applies.
 
 Many animal products must come from establishments that are approved to export into the EU.
@@ -156,6 +156,7 @@ If your animals is on the list:
 - send it to the [International Trade Centre Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)
 
 Complete the form to apply for a licence to import live animals excluding pet dogs, cats and ferrets.
+
 
 ### When you need a health certificate
 {:#health-certificate}
@@ -173,6 +174,7 @@ Contact [APHA](#Contact-APHA) to find out if your consignment must be checked at
 ### Before your consignment arrives
 
 It’s a legal requirement to tell the Border Inspection Post about your consignment in advance - if you don’t, you may be charged an additional fee or your checks could take longer.
+
 
 You need to:
 
