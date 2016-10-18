@@ -72,39 +72,57 @@ s6. Your official veterinarian will be asked to check that your germplasm meet t
 
 ##Germplasm from endangered animals
 
-Within the EU, check if your germplasm is from endangered species listed in [appendix 1](http://www.speciesplus.net/).
+Use the Species+ tool to [search for the animal](https://www.speciesplus.net/) that the germplasm came from. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
-You usually can’t move germplasm from these endangered animals except in special cases (like for research necessary for the species to survive). [Contact APHA](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out (or [DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland).
+What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
 
-Outside the EU, you need to:
+If Species+ says the animal is banned, you can't export its germplasm. There aren't any exceptions to this rule.
 
-- check the [list of banned exports](https://cites.org/eng/resources/ref/suspend.php) - some germplasm to certain countries are banned outright
-- [apply for a CITES permit](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB), if the animal isn’t banned
+You don’t need any special documents if you’re using germplasm for non-commercial reasons, eg for scientific research.
 
-Send the permit application form by post or email to [APHA](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-circus-endangered-research-animals.html#contacts) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland), including the [fee](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/355264/cites-ag-ct-01.pdf) (PDF, 146KB).
+###Within the EU
 
-APHA will contact you within 15 working days of receiving your application.
+If the animal is classed as B, C or D, you don't need to do anything.
 
-You must pay a £63 for an export licence and £37 for a re-export licence.
+If it’s classed as Annex A, you must [apply for an Article 10 certificate](apply-for-an-article-10-certificate).
+###Apply for an Article 10 certificate
 
-##Temporary exports
+Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
+Send it to <wildlife.licensing@apha.gsi.gov.uk>
 
-If you regularly take goods abroad temporarily for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit.
+Include any supporting documents that show you acquired the product legally, for example:
 
-You can use the certificate whether you're moving goods within or outside the EU.
+- a copy of the import permit
+- a previous Article 10 certificate (use the yellow copy)
 
-You can add multiple specimen types in one application if needed.
+The certificate costs £31. Find out how to pay for your application.
 
-It is valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.
+You should get your certificate within 6 weeks.
 
-###Apply
+If you lose your certificate, you can ask APHA for a replacement.
 
-- complete the [application](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate)
-- send it to the address on the form
 
-You’ll get your certificate within xx days/weeks and there’s no fee.
+###Outside the EU
 
-[Question for SME: how regularly must you export to qualify for a certificate?]
+If the animal is classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) unless it’s a dead specimen of Crocodylia species included in Annex A with source code D, with a uniquely marked, closed leg ring
+
+
+If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
+
+If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
+
+###Apply for a CITES permit
+
+Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
+
+If you're re-exporting goods include supporting documents to prove it legally entered the EU.
+
+Email or post the completed form to [APHA](Send the permit application form by post or email to APHA (DEARA in Northern Ireland) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+
+A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
+
+If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/50323/form-citb20.pdf).
+
 
 
 
