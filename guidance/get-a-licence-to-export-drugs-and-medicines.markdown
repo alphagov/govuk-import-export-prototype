@@ -75,7 +75,7 @@ If you'll export 24 or more shipments in a 12 month period, [apply for frequent 
 If you'll export less than 24 shipments in a 12 month period you need to:
 
 - [apply for an export licence](#apply-export-licence) for each consignment
-- send an import permit from the authority in the destination country to <Channel_Islands@homeoffice.gsi.gov.uk>
+- send an import permit from the destination country to <Channel_Islands@homeoffice.gsi.gov.uk>
 
 Frequent exporters must also fill in an [export returns form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/480881/monthly-exp-form.xls) (XLS, 181KB) every month.
 
