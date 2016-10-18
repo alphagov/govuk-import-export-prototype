@@ -261,11 +261,10 @@ You must make sure you meet animal welfare standards when importing live animals
 ## Contact APHA
 {:#Contact-APHA)
 
-Contact the APHA Centre for International Trade Carlisle.
-
-Part of: Guidance on importing and exporting live animals or animal products
-
-Related guides: Importing live animals or animal products from non-EU countries: general licences and authorisations
+Imports: animals and animal products
+Email: imports@apha.gsi.gov.uk
+Telephone: 03000 200 301
+[Find out about call charges](https://www.gov.uk/call-charges)
 
 
 ## Contact Defra
@@ -274,6 +273,4 @@ Related guides: Importing live animals or animal products from non-EU countries:
 Email: <defra.helpline@defra.gsi.gov.uk>
 Telephone: 03459 33 55 77
 Monday to Friday, 9am to 5pm
-Find out about call charges
-
-
+[Find out about call charges](https://www.gov.uk/call-charges)
