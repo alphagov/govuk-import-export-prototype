@@ -140,6 +140,7 @@ You must follow the conditions in the general licence.
 
 Some general licences must also travel with the consignment - check the licence that applies to the animals you’re importing.
 
+
 Contact the [APHA](#Contact-APHA) Centre for International Trade Carlisle to find out which legislation applies.
 
 Many animal products must come from establishments that are approved to export into the EU.
