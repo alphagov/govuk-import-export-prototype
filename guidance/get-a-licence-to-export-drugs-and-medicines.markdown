@@ -68,27 +68,16 @@ Telephone: 020 7035 6330
 ###Exporting controlled drugs to the Channel Islands
 {:#channel-islands}
 
-You’ll need an licence to export controlled drugs to the Channel Islands (Jersey and Guernsey). 
+You need a licence to export controlled drugs to the Channel Islands. 
 
-If you export 24 or more shipments in a 12 month period you can [apply for a time-limited blanket export licence](https://www.gov.uk/government/publications/controlled-drugs-export-to-channel-islands). The licence will be valid for up to a year.
+If you'll export 24 or more shipments in a 12 month period, [apply for frequent exporter licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/480879/freq-exporter-licence-app.doc) (Word, 85.KB). Your licence lasts for up to 1 year - to renew, apply for a new one at least 4 weeks before your licence expires.
 
-If you export less than 24 shipments in a 12 month period you’ll need to [apply for an export licence](#apply-export-licence) through NDS.
+If you'll export less than 24 shipments in a 12 month period you need to:
 
-Occasional exporters will need to apply for individual export authorisations for each consignment. 
+- [apply for an export licence](#apply-export-licence) for each consignment
+- send an import permit from the authority in the destination country to <Channel_Islands@homeoffice.gsi.gov.uk>
 
-You must send a valid import permit from the competent authority with your application to <Channel_Islands@homeoffice.gsi.gov.uk>.
-
-###Renew your licence
-
-You’ll need to renew your licence at least 4 weeks before it expires.
-
-###Monthly returns of exports
-
-Exporters should complete the Channel Islands export monthly return form which must be sent to <Channel_Islands@homeoffice.gsi.gov.uk>.
- 
-Holders of frequent exporter licences must submit a monthly return form detailing the actual substances that have been shipped.
-
-You'll need to do a nil return for each month that you've not shipped for over a month. Your licence may be suspended if you don't send a monthly return form for each month you've held a licence.
+Frequent exporters must also fill in an [export returns form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/480881/monthly-exp-form.xls) (XLS, 181KB) every month.
 
 ##Drugs that can be used for lethal injections
 {:#lethal-injections}
