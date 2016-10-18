@@ -1,15 +1,23 @@
 ---
 layout: guidance
 title: Get a licence to import live animals
-summary: You must have a licence to import live animals.
+summary: You must get a licence or certificate to import live animals.
 permalink: /guidance/get-a-licence-to-import-live-animals.html
 topic:
   name: Importing
   url: /topic/business-and-self-employed/importing.html
 ---
 
+$CTA
 
-You must have an import licence or authorisation to import certain animals to Great Britain.
+There are different guides for:
+
+- pets
+- livestock, poultry and bees
+- horses and ponies
+- fish and shellfish
+
+$CTA
 
 What you need to do to move or import live animals depends on whether you’re exporting them:
 
