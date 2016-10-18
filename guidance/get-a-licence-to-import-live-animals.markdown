@@ -98,20 +98,20 @@ You can only bring live animals or animal products into the EU from countries on
 
 ### Check if you need a licence
 
-Check the list of general licences that are available. If the general licence or authorisation you need exists, you don’t have to apply, but you must make sure you follow the conditions in the published licence.
+Check the [list of general licences](https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries-general-licences-and-authorisations) that are available. If the general licence or authorisation you need exists, you don’t have to apply, but you must make sure you follow the conditions in the published licence.
 
 Some general licences must travel with the consignment - check your general licence to see if this is the case.
 
 ### Specific licences
 
-If the general licence you need doesn’t exist, you must apply for a specific licence for that product using form IV58.
+If the general licence you need doesn’t exist, you must apply for a specific licence for that product using [form IV58](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488485/form-iv58.pdf).
 
 You should return the completed application form to the:
 
 - APHA Centre for International Trade Carlisle if the entry point is in England
 - Scottish or Welsh government if the entry point is in Scotland or Wales
 
-Some animals, such as rodents, lagomorphs and most exotic mammals, must have a specific licence - complete form RM01 for this licence.
+Some animals, such as rodents, lagomorphs and most exotic mammals, must have a specific licence - complete [form RM01](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/288876/RM01_notice_of_appointment_of_an_administrative_receiver_receiver_or_manager.pdf) for this licence.
 
 ### When you need a health certificate
 
