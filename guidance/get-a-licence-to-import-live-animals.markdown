@@ -25,9 +25,11 @@ $CTA
 ## Within the EU
 
 
-If you’re bringing live animals into Great Britain from the EU, you must get your consignment checked by an APHA inspector.
+If you’re bringing live animals into Great Britain from the EU, you need to:
 
-Send written notification of your consignment to the [APHA Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) office that’s closest to the destination, 24 hours before it arrives to arrange this.
+- send written notification of your consignment to the [APHA Centre for International Trade Carlisle](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle) office closest to the import destination 24 hours before it arrives
+- get your consignment checked by an APHA inspector.
+
 
 You must include the:
 
