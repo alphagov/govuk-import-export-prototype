@@ -19,6 +19,7 @@ There are different guides for:
 
 $CTA
 
+
 What you need to do to move or import live animals depends on whether you’re exporting them:
 
 - within the EU, or from Switzerland, Liechtenstein, Norway, or Iceland
