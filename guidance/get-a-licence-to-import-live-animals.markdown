@@ -112,7 +112,8 @@ You should return the completed application form to the:
 - [APHA Centre for International Trade Carlisle](#Contact-APHA) if the entry point is in England
 - Scottish or Welsh government if the entry point is in Scotland or Wales
 
-[Best link for Scottish, Welsh govs? What about N.Ireland?]
+[Scottish, Welsh link needed]
+[N.Ireland?]
 
 Some animals, such as rodents, lagomorphs and most exotic mammals, must have a specific licence - complete [form RM01](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/288876/RM01_notice_of_appointment_of_an_administrative_receiver_receiver_or_manager.pdf) for this licence.
 
