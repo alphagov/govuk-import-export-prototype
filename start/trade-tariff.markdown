@@ -34,9 +34,7 @@ Read the [product classification guides](https://www.gov.uk/government/collectio
 
 You can get advice on how to classify your goods by emailing <classification.enquiries@hmrc.gsi.gov.uk>.
 
-Include information about your product - what it's made from, its use and function, and how it's presented or packaged.
-
-You need to give specific detail for [footwear](https://www.gov.uk/guidance/classifying-footwear#further-information), [food](https://www.gov.uk/guidance/classifying-edible-vegetables-roots-and-tubers#further-information), [chemicals](https://www.gov.uk/guidance/classifying-organic-chemicals#further-information), [textiles](https://www.gov.uk/guidance/classifying-textile-apparel#further-information) and [vehicles](https://www.gov.uk/guidance/classifying-vehicles#further-information).
+Include a full description of your product - what it's made from, its use and function, and how it's presented or packaged.
 
 If you need advice about more than one product, send a separate email.
 
@@ -51,8 +49,8 @@ BTIs are:
 
 You apply for a ruling using the eBTI online service.
 
- s1. You’ll need an EORI number. How you get one depends on whether you’re [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT), [not VAT-registered and you’re exporting](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) or [not VAT-registered and you’re importing](https://online.hmrc.gov.uk/shortforms/form/EORINonVATImport).
+s1. You’ll need an EORI number. How you get one depends on whether you’re [registered for VAT](https://online.hmrc.gov.uk/shortforms/form/EORIVAT), [not VAT-registered and you’re exporting](https://online.hmrc.gov.uk/shortforms/form/EORINonVATExport) or [not VAT-registered and you’re importing](https://online.hmrc.gov.uk/shortforms/form/EORINonVATImport).
 s2. Sign up to use eBTI on the [Government Gateway website.](http://www.gateway.gov.uk/)
-s3. [Sign in to eBTI.](https://secure.hmce.gov.uk/ecom/login/index.html)
+s3. [Sign in to eBTI.](https://secure.hmce.gov.uk/ecom/login/index.html) and ready the [guidance notes on how to make an eBTI application.](https://www.gov.uk/guidance/binding-tariff-information-rulings)
 
 {% endcontentfor %}
