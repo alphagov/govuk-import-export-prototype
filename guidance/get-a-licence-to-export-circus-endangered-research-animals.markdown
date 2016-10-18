@@ -158,7 +158,7 @@ Use the Species+ tool to [search for your animal](https://www.speciesplus.net/).
 
 What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
 
-If Species+ says the animal is banned, you can't export the product. There aren't any exceptions to this rule.
+If Species+ says the animal is banned, you can't export it. There aren't any exceptions to this rule.
 
 There are special rules for:
 
