@@ -31,7 +31,7 @@ Some countries may have import rules for certain goods. You can check by talking
 
 $CTA
 
-###Apply for an Export Health Certificate (EHC)
+##Apply for an Export Health Certificate (EHC)
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@apha.gsi.gov.uk> ( or contact [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland).
