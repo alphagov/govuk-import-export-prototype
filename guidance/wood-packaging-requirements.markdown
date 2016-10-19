@@ -52,7 +52,7 @@ If you export packaging outside the EU, check if the country you’re trading wi
 You can either:
 
 - check the [global exporters' guide](http://www.timcon.org/ISPM15/ISPM15GlobalGuide.asp)
-- contact the country’s embassy or [plant protection organisation (NPPO)](https://www.ippc.int/en/partners/regional-plant-protection-organizations)
+- contact the country’s embassy or [national plant protection organisation (NPPO)](https://www.ippc.int/en/partners/regional-plant-protection-organizations)
 
 ##Reusing and returning solid  wood packaging
 
