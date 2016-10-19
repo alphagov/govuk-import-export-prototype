@@ -28,8 +28,6 @@ Within the EU, you don't need to declare your goods.
 
 Arrive at the airport or port at least 2 hours early to make your declaration. If your goods require a [licence](/guide/starting-to-export/export-licences.html), carry it with you.
 
-You’ll be asked to fill in a customs declaration form if any of the following apply to your goods:
+You must give your export declaration to the export officer at the airport or port of departure.
 
-- they have a total value of over £750
-- they weigh more than 1000kg
-- they are subject to export duty or are need a licence
+To find out how to complete your export declaration you should refer to [Notice 6 Merchandise in Baggage](https://www.gov.uk/government/publications/notice-6-merchandise-in-baggage/notice-6-merchandise-in-baggage#section8). 
