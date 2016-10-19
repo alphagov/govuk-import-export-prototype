@@ -157,6 +157,7 @@ You don’t need any special documents if you’re using germplasm for non-comme
 If the animal is classed as B, C or D, you don't need to do anything.
 
 If it’s classed as Annex A, you must [apply for an Article 10 certificate](apply-for-an-article-10-certificate) it’s an artificially propagated plant.
+
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
@@ -173,10 +174,7 @@ You should get your certificate within 6 weeks.
 
 If you lose your certificate, you can ask APHA for a replacement.
 
-
 ###Outside the EU
-
-If the animal is classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) unless it’s an artificially propagated plant.
 
 If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
 
