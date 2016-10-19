@@ -88,6 +88,7 @@ If it’s classed as Annex A, you must [apply for an Article 10 certificate] unl
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
+
 Send it to <wildlife.licensing@apha.gsi.gov.uk>
 
 Include any supporting documents that show you acquired the product legally, for example:
@@ -103,8 +104,6 @@ If you lose your certificate, you can ask APHA for a replacement.
 
 
 ###Outside the EU
-
-If the animal is classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) unless it’s a dead specimen of Crocodylia species included in Annex A with source code D, with a uniquely marked, closed leg ring
 
 
 If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
