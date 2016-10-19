@@ -75,7 +75,7 @@ Contact the Drugs and Firearms Licensing Unit (DFLU) if you need help with expor
 
 
 **Drugs and Firearms Licensing Unit**  
-<DLFU.ie@homeoffice.gsi.gov.uk>  
+<DFLU.ie@homeoffice.gsi.gov.uk>  
 Telephone: 020 7035 6330  
 [Find out about call charges](/call-charges)  
 
