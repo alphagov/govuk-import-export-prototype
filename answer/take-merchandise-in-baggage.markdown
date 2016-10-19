@@ -30,4 +30,4 @@ Arrive at the airport or port at least 2 hours early to make your declaration. I
 
 You must give your export declaration to the export officer at the airport or port of departure.
 
-To find out how to complete your export declaration you should refer to [Notice 6 Merchandise in Baggage](https://www.gov.uk/government/publications/notice-6-merchandise-in-baggage/notice-6-merchandise-in-baggage#section8). 
+Call the excise and customs helpine on 0300 200 3700 to find out how to complete your export declaration. Refer to [Notice 6 Merchandise in Baggage](https://www.gov.uk/government/publications/notice-6-merchandise-in-baggage/notice-6-merchandise-in-baggage#section8) to complete the [form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/386159/c88-ess.pdf). 
