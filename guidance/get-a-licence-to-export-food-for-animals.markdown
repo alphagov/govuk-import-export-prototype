@@ -31,7 +31,7 @@ Some countries may have import rules for certain goods. You can check by talking
 
 $CTA
 
-##Apply for an Export Health Certificate (EHC)
+## Apply for an Export Health Certificate (EHC)
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you're exporting and the destination country, and who your official veterinarian is. You can find one by asking at your local vet, or email <ovteam@apha.gsi.gov.uk> ( or contact [DEARA](https://www.daera-ni.gov.uk/contact) in Northern Ireland).
@@ -41,7 +41,7 @@ s5. Check your EHC’s guidance notes to find out if you need your EHC signed by
 s6. Your official veterinarian will be asked to check that your animal products meet the requirements of the country you’re sending them to.
 
 
-###Apply for a certificate of free sale
+## Apply for a certificate of free sale
 
 The country you’re exporting to may require you to have a 'certificate of free sale'.
 
@@ -51,7 +51,7 @@ s3. You’ll usually get your certificate within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
 
-###Help with certificates of free sale
+### Help with certificates of free sale
 
 Contact the Rural Payments Agency (RPA).
 
