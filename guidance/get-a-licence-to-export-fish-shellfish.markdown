@@ -23,21 +23,33 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-Outside the EU, check with the fish authority in country you’re exporting to. Ask for a written statement which includes all their requirements and the disease status in that country.
+Outside the EU, check with the fish authority in country you’re exporting to. They'll tell you if you need an export health certificate or a TRACES notification.
+
+Ask for a written statement which includes all their requirements and the disease status in that country.
 
 You'll need to fill in an export notification and attach the information you receive from the importing country about their rules.
 
 ###Apply for an export notification
 
+Apply for a export notification 5 working days before you are due to export.
+
 The form you need to fill in depends on if you're exporting from:
 
 - [England or Wales](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/530280/exp1.pdf) (PDF, 166KB)
-- [Scotland](www.gov.scot/Resource/0048/00484726.doc) (Word, 2MB)
+- [Scotland](http://www.gov.scot/Resource/0048/00484726.doc) (Word, 2MB)
 - [Northern Ireland](https://www.daera-ni.gov.uk/sites/default/files/publications/daera/notification-of-proposed-fish-movement.doc)(Word, 35KB)
 
-Send the completed application to the contact address on your form and supporting documents from the importing country.
+Send the completed application to the contact address on your form with supporting documents from the importing country.
+
+If you need an export health certificate, your goods will be inspected and you'll be given a certificate when you pass.
+
+Attach this to your consignment.
+
+$CTA
 
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
+
+$CTA
 
 ##Outside the EU
 
@@ -51,11 +63,13 @@ To export live fish and shellfish outside the EU, you must:
 {:#export-health-certificate}
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you’re exporting and the destination country. They'll ask for the name of the local authority officer who looks after food law enforcement at your premises.
-s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to your local authority within 7 working days.
-s5. Check your EHC’s guidance notes to find out if you need your EHC signed by an inspector from your [local authority](/local-council). 
-s6. Your local authority inspector will be asked to check that your animal products meet the requirements of the country you’re sending them to.
+s2. Tell them what you’re exporting and the destination country. 
+s3. If required, they'll ask for the name of the local authority officer who looks after food law enforcement at your premises.
+s4. Or, they'll ask you to nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email ovteam@apha.gsi.gov.uk.
+s5. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
+s6. Your EHC will be sent to your local authority within 7 working days.
+s7. Check your EHC’s guidance notes to find out if you need your EHC signed by an inspector from your [local authority](/local-council). 
+s8. Your local authority inspector will be asked to check that your animal products meet the requirements of the country you’re sending them to.
 
 
 There's no fee for the certificate but you'll be charged for your vet or local authority officer's time.
