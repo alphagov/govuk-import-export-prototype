@@ -223,18 +223,11 @@ Send your application to the [Centre for International Trade in Bristol](https:/
 
 ###Temporary exports 
 
-If you regularly take goods abroad for a short period of time for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. You can use the certificate whether you're moving goods within or outside the EU.
+If you regularly take goods abroad for a short period of time for public exhibitions (for example circuses and menageries), [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. 
 
-It applies to items for circuses and menageries.
+You can use the certificate whether you're moving goods within or outside the EU. It's valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.​
 
-You can add multiple specimen types in one application if needed.
-
-It is valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.​
-
-###Apply
-
-- complete the [application](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate)
-- send it to the address on the form
+To apply, fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate). Send it to the address on the form
 
 You’ll get your certificate within xx days/weeks and there’s no fee.
 
