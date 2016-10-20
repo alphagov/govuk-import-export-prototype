@@ -208,8 +208,6 @@ If you're exporting as part of conservation work, you might be able to [get a fe
 
 ###Exporting alien invasive species
 
-[Are we sure these rules are for export? Would make more sense for import - and the splash page implies this page be the case https://www.gov.uk/government/publications/invasive-alien-species-permit-application]
-
 You apply a different way if you’re exporting animals classed as 'alien invasive species'. These are:
 
 Amur sleeper, Asian hornet, small Indian mongoose, Bryant’s fox squirrel, Chinese mitten crab, coypu, eastern crayfish, grey squirrel, Indian house crow, marbled crayfish, Muntjac deer, North American bullfrog, Pallas’s squirrel, raccoon, red eared slider, red swamp crayfish, ruddy duck, sacred ibis, Siberian chipmunk, signal crayfish, South American coati, topmouth gudgeon, virile (northern) crayfish.
