@@ -78,13 +78,14 @@ What you need to do depends on whether you’re exporting [within the EU](#withi
 
 If Species+ says the animal is banned, you can't export its germplasm. There aren't any exceptions to this rule.
 
-You don’t need any special documents if you’re using germplasm for non-commercial reasons, eg for scientific research.
-
 ###Within the EU
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
 If it’s classed as Annex A, you must [apply for an Article 10 certificate](apply-for-an-article-10-certificate).
+
+You don’t need any special documents if you’re using germplasm for non-commercial reasons, eg for scientific research.
+
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
