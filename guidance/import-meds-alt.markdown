@@ -10,7 +10,7 @@ topic:
 
 ##Licensed medicines
 
-You can [search for UK-licensed medicines] using the MHRA database. There are different rules for importing [unlicensed medicines](#unlicensed-medicines).
+You can [search the MHRA database](http://www.mhra.gov.uk/spc-pil/) to check the medicine is UK-licesned. There are different rules for importing [unlicensed medicines](#unlicensed-medicines).
 
 s1. [Check if you need a manufacturer or wholesaler licence](#manufacturer-wholesale-licence), if you don’t have them already. Allow 90 working days if you need to apply.
 s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
@@ -43,7 +43,7 @@ You may be able to import unlicensed medicine if both:
 - a patient has a special clinical need for the medicine
 - there isn't an appropriate licensed product available in the UK
 
-s1. [Check if you need a wholesaler or manufacturer ‘specials’ licence], if you don’t have them already. Allow 90 working days if you need to apply - you’ll need to pay a fee.
+s1. [Check if you need a wholesaler or manufacturer ‘specials’ licence](#wholesale-specials-licence), if you don’t have them already. Allow 90 working days if you need to apply - you’ll need to pay a fee.
 s2. [Tell MHRA you plan to import unlicensed medicine](#tell-MHRA). Allow at least 28 days, unless it’s an emergency.
 s3. MHRA will contact you if you’re not allowed to import the product, for example if there are concerns about the product’s safety or quality. 
 s4. At the end of the financial year, you pay a [fee](#notification-fee) based on the number of imports you made.
