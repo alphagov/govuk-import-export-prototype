@@ -10,7 +10,7 @@ topic:
 
 ##Licensed medicines
 
-You can [search the MHRA database](http://www.mhra.gov.uk/spc-pil/) to check the medicine is UK-licesned. There are different rules for importing [unlicensed medicines](#unlicensed-medicines).
+You can [search the MHRA database](http://www.mhra.gov.uk/spc-pil/) to check the medicine is UK-licensed. There are different rules for importing [unlicensed medicines](#unlicensed-medicines).
 
 s1. [Check if you need a manufacturer or wholesaler licence](#manufacturer-wholesale-licence), if you don’t have them already. Allow 90 working days if you need to apply.
 s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
