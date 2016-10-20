@@ -208,14 +208,16 @@ If you're exporting as part of conservation work, you might be able to [get a fe
 
 ###Exporting alien invasive species
 
-If you’re exporting a non-native species which might threaten the environment it is placed in, there are special rules.
+You apply a different way if you’re exporting an 'alien invasive species'. These are:
 
-You’ll need to fill in a different application if you’re exporting alien invasive species for:
+Amur sleeper, Asian hornet, small Indian mongoose, Bryant’s fox squirrel, Chinese mitten crab, coypu, eastern crayfish, grey squirrel, Indian house crow, marbled crayfish, Muntjac deer, North American bullfrog, Pallas’s squirrel, raccoon, red eared slider, red swamp crayfish, ruddy duck, sacred ibis, Siberian chipmunk, signal crayfish, South American coati, topmouth gudgeon, virile (northern) crayfish
+
+The form you fill in depeonds on whether your exporting the species for:
 
 * [research, conversation, scientific or medical use](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/544606/form-ias-permit-article8.pdf)
 * [anything else](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/544609/form-ias-permit-article9.pdf)
 
-Send your application to the [centre for international trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)
+Send your application to the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)
 
 ###Temporary exports 
 
