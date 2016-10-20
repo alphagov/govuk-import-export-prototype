@@ -35,7 +35,7 @@ The form you need to fill in depends on if you're exporting from:
 - [Scotland](www.gov.scot/Resource/0048/00484726.doc) (Word, 2MB)
 - [Northern Ireland](https://www.daera-ni.gov.uk/sites/default/files/publications/daera/notification-of-proposed-fish-movement.doc)(Word, 35KB)
 
-Send the completed application to the contact address on your form.
+Send the completed application to the contact address on your form along with supporting documents from the importing country's fish authority.
 
 If you’re exporting to Norway, you may also need a [UK catch certificate](#catch-certificate).
 
@@ -49,8 +49,6 @@ To export live fish and shellfish outside the EU, you must:
 
 ###Apply for an EHC
 {:#export-health-certificate}
-
-## Apply for an Export Health Certificate (EHC)
 
 s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you’re exporting and the destination country. They'll ask for the name of the local authority officer who looks after food law enforcement at your premises.
