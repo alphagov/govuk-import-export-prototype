@@ -46,7 +46,7 @@ s3. [Tell MHRA you plan to import unlicensed medicine](#tell-MHRA). Allow at lea
 s4. MHRA will contact you if you’re not allowed to import the product, for example if there are concerns about the product’s safety or quality. 
 s5. At the end of the financial year, you pay a [fee](#notification-fee) based on the number of imports you made.
 
-If the medicine is not licensed in the EEA or Australia, Canada, New Zealand or Switzerland, make sure that any animal by-products it contains meet [TSE (Transmissible Spongiform Encephalopathies) requirements](https://www.gov.uk/government/publications/tse-requirements-for-imported-unlicensed-human-medicines).
+If the medicine is not licensed in the EEA or Australia, Canada, New Zealand or Switzerland, make sure that any animal by-products it contains meet [TSE requirements](https://www.gov.uk/government/publications/tse-requirements-for-imported-unlicensed-human-medicines).
 
 [Question for SME: Is there a list of TSE risk materials available we could link to?]
 [How does someone get a EDQM certificate or conduct a risk assessment to prove each risk material is compliant?]
