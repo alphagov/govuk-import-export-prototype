@@ -12,7 +12,7 @@ topic:
 
 You can [search the MHRA database](http://www.mhra.gov.uk/spc-pil/) to check the medicine is UK-licensed. There are different rules for importing [unlicensed medicines](#unlicensed-medicines).
 
-s1. [Check if you need a manufacturer or wholesaler licence](#manufacturer-wholesale-licence), if you don’t have them already. Allow 90 working days if you need to apply.
+s1. [Check if you need a manufacturer or wholesaler licence](#manufacturer-wholesale-licence), if you don’t have them already. Allow 90 working days to apply.
 s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
 s3. If you don’t hold the marketing authorisation for the medicine, tell the holder that you’re importing it (unless they asked you to source it). You can find their details by searching for the [medicine’s Summary of Product Characteristics](http://www.mhra.gov.uk/spc-pil/) (SPC).
 s4. Check if the medicine has a [marketing authorisation from the European Medicines Agency](http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/landing/epar_search.jsp&mid=WC0b01ac058001d124) (EMA). If it does, [tell EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/q_and_a/q_and_a_detail_000079.jsp&mid=) that you’re importing it.
@@ -40,7 +40,7 @@ Read how to [apply for a manufacturer or wholesaler licence](https://www.gov.uk/
 
 You may be able to import unlicensed medicine if a patient has a special clinical need for the medicine and there isn't an appropriate licensed product available in the UK.
 
-s1. [Check if you need a wholesaler or manufacturer ‘specials’ licence](#wholesale-specials-licence), if you don’t have them already. Allow 90 working days if you need to apply - you’ll need to pay a fee.
+s1. [Check if you need a wholesaler or manufacturer ‘specials’ licence](#wholesale-specials-licence), if you don’t have them already. Allow 90 working days - you’ll need to pay a fee.
 s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
 s3. [Tell MHRA you plan to import unlicensed medicine](#tell-MHRA). Allow at least 28 days, unless it’s an emergency.
 s4. MHRA will contact you if you’re not allowed to import the product, for example if there are concerns about the product’s safety or quality. 
