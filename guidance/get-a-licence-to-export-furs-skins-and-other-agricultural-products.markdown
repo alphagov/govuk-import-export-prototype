@@ -77,13 +77,13 @@ What you need to do depends on whether you’re exporting [within the EU](#withi
 
 If Species+ says the animal is banned, you can't export the product. There aren't any exceptions to this rule.
 
-You don’t need any special documents if you’re using or displaying goods for non-commercial reasons, eg for scientific research or in an educational display.
-
 ###Within the EU
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
 If it’s classed as Annex A, you must [apply for an Article 10 certificate] unless you’re exporting dead Crocodylia species with source code D, with a uniquely marked, closed leg ring.
+
+You don’t need any special documents if you’re using or displaying goods for non-commercial reasons, eg for scientific research or in an educational display.
 
 ###Apply for an Article 10 certificate
 
