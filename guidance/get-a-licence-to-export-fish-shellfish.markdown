@@ -23,9 +23,11 @@ $CTA
 ##Within the EU
 {:#within-eu}
 
-If the country you’re exporting to requires a health certificate and/or a TRACES notification, you'll need to fill in an export notification form.
+Outside the EU, check with the fish authority in country you’re exporting to. Ask for a written statement which includes all their requirements and the disease status in that country.
 
-###Apply for a health certificate
+You'll need to fill in an export notification and attach the information you receive from the importing country about their rules.
+
+###Apply for an export notification
 
 The form you need to fill in depends on if you're exporting from:
 
