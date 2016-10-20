@@ -160,17 +160,16 @@ What you need to do depends on whether you’re exporting [within the EU](#withi
 
 If Species+ says the animal is banned, you can't export it. There aren't any exceptions to this rule.
 
-There are special rules for:
-
-* wild bird of prey who are unable to survive in the wild or 'disabled'. You’ll only get permission to export them in exceptional circumstances, for example if your export will benefit conservation or be educational but [you'll have to provide extra evidence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf).
-
-* [captive bred birds from this list](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2006R0865:20080225:EN:PDF#page=82) - you won’t need a certificate to export them
-
 ###Within the EU
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
 If it’s classed as Annex A, you must [apply for an Article 10 certificate] unless you’re re-exporting live animals that were bred in captivity.
+
+
+$CTA
+You don't need a certificate for [certain captive bred birds](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008R0100#d1e34-14-1) and there are spceial rules for [wild disabled birds of prey](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf) (PDF, 82KB).
+$CTA
 
 ###Apply for an Article 10 certificate
 
