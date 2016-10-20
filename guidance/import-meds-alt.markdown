@@ -38,10 +38,7 @@ Read how to [apply for a manufacturer or wholesaler licence](https://www.gov.uk/
 
 ##Unlicensed medicines
 
-You may be able to import unlicensed medicine if both:
-
-- a patient has a special clinical need for the medicine
-- there isn't an appropriate licensed product available in the UK
+You may be able to import unlicensed medicine if a patient has a special clinical need for the medicine and there isn't an appropriate licensed product available in the UK.
 
 s1. [Check if you need a wholesaler or manufacturer ‘specials’ licence](#wholesale-specials-licence), if you don’t have them already. Allow 90 working days if you need to apply - you’ll need to pay a fee.
 s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
