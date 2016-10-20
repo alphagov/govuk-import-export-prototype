@@ -14,8 +14,8 @@ You can [search the MHRA database](http://www.mhra.gov.uk/spc-pil/) to check the
 
 s1. [Check if you need a manufacturer or wholesaler licence](#manufacturer-wholesale-licence), if you don’t have them already. Allow 90 working days if you need to apply.
 s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
-s2. If you don’t hold the marketing authorisation for the medicine, tell the holder that you’re importing it (unless they asked you to source it). You can find their details by [searching for the medicine’s Summary of Product Characteristics](http://www.mhra.gov.uk/spc-pil/) (SPC).
-s3. Check if the medicine has a [marketing authorisation from the European Medicines Agency](http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/landing/epar_search.jsp&mid=WC0b01ac058001d124) (EMA). If it does, [tell EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/q_and_a/q_and_a_detail_000079.jsp&mid=) that you’re importing it.
+s3. If you don’t hold the marketing authorisation for the medicine, tell the holder that you’re importing it (unless they asked you to source it). You can find their details by searching for the [medicine’s Summary of Product Characteristics](http://www.mhra.gov.uk/spc-pil/) (SPC).
+s4. Check if the medicine has a [marketing authorisation from the European Medicines Agency](http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/landing/epar_search.jsp&mid=WC0b01ac058001d124) (EMA). If it does, [tell EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/q_and_a/q_and_a_detail_000079.jsp&mid=) that you’re importing it.
 
 
 
@@ -44,9 +44,10 @@ You may be able to import unlicensed medicine if both:
 - there isn't an appropriate licensed product available in the UK
 
 s1. [Check if you need a wholesaler or manufacturer ‘specials’ licence](#wholesale-specials-licence), if you don’t have them already. Allow 90 working days if you need to apply - you’ll need to pay a fee.
-s2. [Tell MHRA you plan to import unlicensed medicine](#tell-MHRA). Allow at least 28 days, unless it’s an emergency.
-s3. MHRA will contact you if you’re not allowed to import the product, for example if there are concerns about the product’s safety or quality. 
-s4. At the end of the financial year, you pay a [fee](#notification-fee) based on the number of imports you made.
+s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
+s3. [Tell MHRA you plan to import unlicensed medicine](#tell-MHRA). Allow at least 28 days, unless it’s an emergency.
+s4. MHRA will contact you if you’re not allowed to import the product, for example if there are concerns about the product’s safety or quality. 
+s5. At the end of the financial year, you pay a [fee](#notification-fee) based on the number of imports you made.
 
 If the medicine is not licensed in the EEA or Australia, Canada, New Zealand or Switzerland, make sure that any animal by-products it contains meet [TSE (Transmissible Spongiform Encephalopathies) requirements](https://www.gov.uk/government/publications/tse-requirements-for-imported-unlicensed-human-medicines).
 
@@ -68,10 +69,7 @@ Fill in the [notification of intent form](https://www.gov.uk/government/uploads/
 
 If the medicine is for a life-threatening illness, a significant injury or other clinical emergency, you can get permission within 1 working day. Call 020 3080 7002 (or 020 3080 6000 if the line is busy, or 07795 641532 out of hours).
 
-
-###Fees
 {:#notification-fee}
-
 On top of the [cost of the wholesaler or specials licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences#fees-and-payment), you pay a fee based on the number of notifications you made in a year.
 
 | Number of notifications | Fee     |
