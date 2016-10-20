@@ -208,11 +208,13 @@ If you're exporting as part of conservation work, you might be able to [get a fe
 
 ###Exporting alien invasive species
 
-You apply a different way if you’re exporting an 'alien invasive species'. These are:
+[Are we sure these rules are for export? Would make more sense for import - and the splash page implies this page be the case https://www.gov.uk/government/publications/invasive-alien-species-permit-application]
 
-Amur sleeper, Asian hornet, small Indian mongoose, Bryant’s fox squirrel, Chinese mitten crab, coypu, eastern crayfish, grey squirrel, Indian house crow, marbled crayfish, Muntjac deer, North American bullfrog, Pallas’s squirrel, raccoon, red eared slider, red swamp crayfish, ruddy duck, sacred ibis, Siberian chipmunk, signal crayfish, South American coati, topmouth gudgeon, virile (northern) crayfish
+You apply a different way if you’re exporting animals classed as 'alien invasive species'. These are:
 
-The form you fill in depeonds on whether your exporting the species for:
+Amur sleeper, Asian hornet, small Indian mongoose, Bryant’s fox squirrel, Chinese mitten crab, coypu, eastern crayfish, grey squirrel, Indian house crow, marbled crayfish, Muntjac deer, North American bullfrog, Pallas’s squirrel, raccoon, red eared slider, red swamp crayfish, ruddy duck, sacred ibis, Siberian chipmunk, signal crayfish, South American coati, topmouth gudgeon, virile (northern) crayfish.
+
+The form you fill in depends on whether your exporting the species for:
 
 * [research, conversation, scientific or medical use](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/544606/form-ias-permit-article8.pdf)
 * [anything else](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/544609/form-ias-permit-article9.pdf)
