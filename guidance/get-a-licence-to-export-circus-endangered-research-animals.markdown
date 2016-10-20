@@ -217,7 +217,7 @@ The form you fill in depends on whether your exporting the species for:
 * [research, conversation, scientific or medical use](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/544606/form-ias-permit-article8.pdf)
 * [anything else](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/544609/form-ias-permit-article9.pdf)
 
-Send your application to the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)
+Send your application to the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 ###Temporary exports 
 
