@@ -14,8 +14,7 @@ breadcrumbs:
 UK Export Finance (UKEF) helps UK exporters to: 
 
 - win export contracts by providing better financing terms to your buyers
-- fulfil orders by supporting working capital loans, for example by helping you buy new machinery
-- get insurance to cover you if you don't get paid
+- fulfil orders by supporting working capital loans, for example to meet the costs of new export opportunities
 
 To find out more, contact:
 
@@ -26,10 +25,8 @@ To find out more, contact:
 $C
 
 **UK Export Finance customer services**   
-<customer.service@ukef.gsi.gov.uk>   
+<customer.service@ukexportfinance.gov.uk>   
 Customer services: +44 (0)20 7271 8010   
-General enquiries: +44 (0)20 7271 8000   
-Fax: +44 (0)20 7271 8001  
 Find out about [call charges](/call-charges) 
 
 $C
