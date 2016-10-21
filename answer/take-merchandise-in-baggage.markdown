@@ -35,4 +35,4 @@ To get a form, you can either:
 - [download it](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/386159/c88-ess.pdf)
 - call the excise and customs helpine on 0300 200 3700 to get a copy sent to you by post
 
-Refer to [Notice 6 Merchandise in Baggage](https://www.gov.uk/government/publications/notice-6-merchandise-in-baggage/notice-6-merchandise-in-baggage#section8) for guidance on how to complete the form.
+Refer to [Notice 6: merchandise in baggage](https://www.gov.uk/government/publications/notice-6-merchandise-in-baggage/notice-6-merchandise-in-baggage#section8) for guidance on how to complete the form.
