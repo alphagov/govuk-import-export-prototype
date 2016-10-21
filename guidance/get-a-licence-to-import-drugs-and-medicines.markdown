@@ -96,3 +96,41 @@ You can get help by contacting MHRA.
 <imports@mhra.gsi.gov.uk> 
 Telephone: 020 3080 7002
 [Find out about call charges](/call-charges)
+
+
+##Controlled drugs
+{:#controlled-drugs}
+
+[Check the controlled drugs list](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation).
+
+If your drug is controlled, you need to [apply for a Home Office controlled drug licence](#apply-import-licence) to import it.
+
+If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
+
+
+$CTA
+You must already have a domestic licence before you import controlled drugs. If you don’t, [apply for one](https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies). Allow 16 weeks.
+$CTA
+
+###Apply for a controlled drug licence
+{:#apply-import-licence}
+
+To apply for a Home Office controlled drug licence:
+
+- [register for a Home Office controlled drugs licence](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
+- [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) once you’ve registered
+
+Your licence will be valid for up to 3 months.
+
+[How long does it take to apply?]
+
+
+Each licence costs £24. You need to pay for it before you import and it can only be used for one shipment.
+
+###Contact
+
+Email the Drugs & Firearms Licensing Unit if you need help with your application.
+
+<DFLU.ie@homeoffice.gsi.gov.uk>
+Telephone 020 7035 6330
+[Find out about call charges](https://www.gov.uk/call-charges)
