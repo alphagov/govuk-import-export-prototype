@@ -245,3 +245,4 @@ If the recipient tells you that you don’t need a letter of authority, ask for 
 ###Outside the EU
 
 [Contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out what you need to do, including what the rules are in the country you're exporting to.
+
