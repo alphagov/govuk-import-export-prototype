@@ -10,11 +10,12 @@ topic:
 
 You need permission to import:
 
-- licensed medicines
-- unlicensed medicines
-- controlled drugs like opioids, stimulants or psychotropic substances
+- [licensed medicines](#licensed-medicines)
+- [unlicensed medicines](#unlicensed-medicines)
+- [controlled drugs] (#controlled-drugs) like opioids, stimulants or psychotropic substances
 
 ##Licensed medicines
+{:#licensed-medicines}
 
 You can [search the MHRA database](http://www.mhra.gov.uk/spc-pil/) to check the medicine is UK-licensed. There are different rules for importing [unlicensed medicines](#unlicensed-medicines).
 
@@ -43,6 +44,7 @@ If you’re importing from outside the EEA, you need:
 Read how to [apply for a manufacturer or wholesaler licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences). Allow 90 days to get the licence - you’ll need to pay a fee and have a site inspection.
 
 ##Unlicensed medicines
+{:#unlicensed-medicines}
 
 You may be able to import unlicensed medicine if a patient has a special clinical need for the medicine and there isn't an appropriate licensed product available in the UK.
 
