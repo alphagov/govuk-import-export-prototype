@@ -152,16 +152,17 @@ If Species+ says the plant is banned, you can't export it. There aren't any exce
 
 ###Within the EU
 
-If the animal is classed as B, C or D, you don't need to do anything.
+If the plant is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate](apply-for-an-article-10-certificate) it’s an artificially propagated plant.
+If it’s classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) if it’s an artificially propagated plant.
 
-You don’t need any special documents if you’re using germplasm for non-commercial reasons, eg for scientific research, educational display or giving it away.
+You don’t need any special documents if you’re using plants for non-commercial reasons, eg for scientific research, educational display or giving it away.
 
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
-Send it to <wildlife.licensing@apha.gsi.gov.uk>
+
+Send it to <wildlife.licensing@apha.gsi.gov.uk>.
 
 Include any supporting documents that show you acquired the product legally, for example:
 
@@ -172,11 +173,11 @@ The certificate costs £31. Find out how to pay for your application.
 
 You should get your certificate within 6 weeks.
 
-If you lose your certificate, you can ask APHA for a replacement.
+If you lose your certificate, you can [ask APHA for a replacement](http://www.gov.uk/guidance/replace-a-lost-stolen-or-incorrect-document-for-a-controlled-species).
 
 ###Outside the EU
 
-If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
+If it's classed as A, B or C, you need a [CITES export permit](#apply-for-a-cites-permit).
 
 If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
 
@@ -192,15 +193,19 @@ A permit costs £63 (or £37 to re-import). You should receive it within 15 work
 
 If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/50323/form-citb20.pdf).
 
-##Temporary exports
+###Regular exports for public exhibition
 
-If you regularly take goods abroad temporarily for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit.
+If you regularly take plants abroad for a short period of time for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. 
 
-You can use the certificate whether you're moving goods within or outside the EU.
+You can use the certificate whether you're moving goods within or outside the EU. 
 
-You can add multiple specimen types in one application if needed.
+It's valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.​
 
-It is valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.
+To apply, fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate). Send it to the address on the form.
+
+You’ll get your certificate within xx days/weeks and there’s no fee.
+
+[Question for SME: how regularly must you export to qualify for a certificate?]
 
 ###Apply
 
