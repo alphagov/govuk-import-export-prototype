@@ -200,26 +200,14 @@ Fill in the [application form](https://www.gov.uk/government/uploads/system/uplo
 
 If you're re-exporting a species include supporting documents to prove it legally entered the EU.
 
-Email or post the completed form to [APHA](Send the permit application form by post or email to APHA (DEARA in Northern Ireland) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+Email or post the completed form to [APHA](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491835/contacts-international-trade.pdf)or([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland.
 
 A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
 
-If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/50323/form-citb20.pdf).
+If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503243/form-citb20.pdf).
 
-###Exporting alien invasive species
 
-You apply a different way if you’re exporting animals classed as 'alien invasive species'. These are:
-
-Amur sleeper, Asian hornet, small Indian mongoose, Bryant’s fox squirrel, Chinese mitten crab, coypu, eastern crayfish, grey squirrel, Indian house crow, marbled crayfish, Muntjac deer, North American bullfrog, Pallas’s squirrel, raccoon, red eared slider, red swamp crayfish, ruddy duck, sacred ibis, Siberian chipmunk, signal crayfish, South American coati, topmouth gudgeon, virile (northern) crayfish.
-
-The form you fill in depends on whether your exporting the species for:
-
-* [research, conversation, scientific or medical use](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/544606/form-ias-permit-article8.pdf)
-* [anything else](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/544609/form-ias-permit-article9.pdf)
-
-Send your application to the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
-
-###Temporary exports 
+###Regular exports for public exhibition
 
 If you regularly take goods abroad for a short period of time for public exhibitions (for example circuses and menageries), [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. 
 
