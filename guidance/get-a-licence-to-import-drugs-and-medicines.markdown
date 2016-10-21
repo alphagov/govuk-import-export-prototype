@@ -1,257 +1,98 @@
 ---
 layout: guidance
-title: Get a licence to import drugs and medicines
+title: Get a licence to import drugs and medicines [Alt]
 summary: You must get permission to import certain drugs and medicines inside and outside the EU.
-permalink: /guidance/get-a-licence-to-import-drugs-and-medicines.html
+permalink: /guidance/alt-ah-import-drugs-and-medicines.html
 topic:
  name: Importing
  url: /topic/business-and-self-employed/importing.html
 ---
 
-You need permission to import:
+##Licensed medicines
 
-- [controlled drugs](#Controlled-drugs) like opioids, stimulants or psychotropic substances
-- [medicines for humans](#Human-medicines) or [animals](#Veterinary-medicines)
+You can [search the MHRA database](http://www.mhra.gov.uk/spc-pil/) to check the medicine is UK-licensed. There are different rules for importing [unlicensed medicines](#unlicensed-medicines).
 
-[Question for SME: does the 'Apply for a controlled drugs licence' section at [https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#apply-licence) apply to imports?]
-
-##Controlled drugs
-{:#controlled-drugs}
-
-[Check the controlled drugs list](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation)
-
-If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](https://dlcu.homeoffice.gov.uk/Default.aspx).
+s1. [Check if you need a manufacturer or wholesaler licence](#manufacturer-wholesale-licence), if you don’t have them already. Allow 90 working days to apply.
+s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
+s3. If you don’t hold the marketing authorisation for the medicine, tell the holder that you’re importing it (unless they asked you to source it). You can find their details by searching for the [medicine’s Summary of Product Characteristics](http://www.mhra.gov.uk/spc-pil/) (SPC).
+s4. Check if the medicine has a [marketing authorisation from the European Medicines Agency](http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/landing/epar_search.jsp&mid=WC0b01ac058001d124) (EMA). If it does, [tell EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/q_and_a/q_and_a_detail_000079.jsp&mid=) that you’re importing it.
 
 
-###Register with NDS 
 
-To get an import licence, you must to register for an NDS account. Once your registration has been approved, you may apply for an import licence.
+###Check if you need a manufacturer or wholesaler licence
+{:#manufacturer-wholesale-licence}
 
-- register online for a [National Drugs control System (NDS) account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx)
-- [log in once you’ve registered](https://dlcu.homeoffice.gov.uk/Login.aspx)
+Which licence you need depends on where you're importing the medicines from and where you'll supply them.
 
+If you’re importing from within the EEA:
 
-###Apply for an import licence
+- you need a wholesaler licence if you’ll supply medicines within the UK or another EEA country
+- you don’t need a licence to supply countries outside the EEA
 
-- register online for a [controlled drugs licence](https://eforms.homeoffice.gov.uk/outreach/drugs_registration.ofml)
-- [log in once you've registered](https://eforms.homeoffice.gov.uk/outreach/DrugsConsole.ofml).
+If you’re importing from outside the EEA, you need:
 
-You should get your licence within 16 weeks. The licence is valid for 3 months.
+- a manufacturer licence if you’ll supply medicines within the UK or another EEA country
+- a wholesaler licence If you’ll supply medicines outside the EEA
 
-If you're a retail pharmacy, you usually don't need a domestic licence unless you also need a [wholesaler dealer licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences). Email [info@mhra.gsi.gov.uk](mailto:info@mhra.gsi.gov.uk) to check.
-
-You only need to register for an online account once - you can then log in to apply for a new licence.
-
-###Fees
-
-Each licence costs £24. You need to pay for it before you import and it can only be used for one shipment.
-
-###Contact
-
-Email the Drugs & Firearms Licensing Unit if you need help with your appliation
-
-[DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)
-Telephone 020 7035 6330
-[Find out about call charges](https://www.gov.uk/call-charges)
-
-##Human medicines
-{:#human-medicines}
-
-What you need to do depends on what you're importing and where you're sending it.
-
-Make sure you have a [wholesaler licence](#wholesaler-licence) if you import medicines from:
-
--  the [European Economic Area](https://www.gov.uk/eu-eea) (EEA)
- and then supply a country within it
--  outside the EEA and supply them to a country outside the EEA
-
-You need a manufacturer’s licence instead if you’re importing from outside the EEA to supply to an EEA country.
-
-Otherwise, you don’t need a licence
-
-###If you need to apply for a licence
-
-You can apply for a wholesale dealer licence or a manufacturer's licence through the [MHRA Process Licensing Portal](https://pclportal.mhra.gov.uk/).
-
-[If you supply medicines in the UK that you've imported from outside the EEA, is it correct that you don't need a wholesaler licence? This appears to contradict https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences which says 'to sell or supply medicines to anyone other than the patient using the medicine, you need a wholesaler licence']
-
-[Question for SME: which accompanying documents do importers need to submit?]
+Read how to [apply for a manufacturer or wholesaler licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences). Allow 90 days to get the licence - you’ll need to pay a fee and have a site inspection.
 
 ##Unlicensed medicines
 
-What you need to do depends on if you're importing from within or from outside the European Economic Area (EEA).
+You may be able to import unlicensed medicine if a patient has a special clinical need for the medicine and there isn't an appropriate licensed product available in the UK.
 
-###Within the EEA
+s1. [Check if you need a wholesaler or manufacturer ‘specials’ licence](#wholesale-specials-licence), if you don’t have them already. Allow 90 working days - you’ll need to pay a fee.
+s2. Follow the rules if the medicine contains a [controlled substance](#controlled-drugs).
+s3. [Tell MHRA you plan to import unlicensed medicine](#tell-MHRA). Allow at least 28 days, unless it’s an emergency.
+s4. MHRA will contact you if you’re not allowed to import the product, for example if there are concerns about the product’s safety or quality. 
+s5. At the end of the financial year, you pay a [fee](#notification-fee) based on the number of imports you made.
 
-To import from within the EEA, you need a [wholesale dealer's licence](#wholesale-licence)
+If the medicine is not licensed in the EEA or Australia, Canada, New Zealand or Switzerland, make sure that any animal by-products it contains meet [TSE requirements](https://www.gov.uk/government/publications/tse-requirements-for-imported-unlicensed-human-medicines).
 
+[Question for SME: Is there a list of TSE risk materials available we could link to?]
+[How does someone get a EDQM certificate or conduct a risk assessment to prove each risk material is compliant?]
 
-###Outside the EEA
 
-To import from outside the EEA, you need a [manufacturer's specials licence](#specials-licence).
+###Check if you need a manufacturer or wholesaler licence
+{:#wholesale-specials-licence}
 
-[SME question: what defines these patients’ special needs?]
+You need a wholesaler licence to import unlicensed medicines from within the EEA, or a manufacturer's ‘specials’ licence if you’re importing from outside the EEA.
 
-###Apply for a 'specials' licence
-{:#specials-licence}
+Read how to [apply for a wholesaler or a ‘specials’ licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences). Allow 90 days to get the licence - you’ll need to pay a fee and have a site inspection.
 
-[Complete the application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366681/Full_Manufacturers_Specials_licence.doc) and email it to [pcl@mhra.gsi.gov.uk](mailto:pcl@mhra.gsi.gov.uk).
+###Tell MHRA that you plan to import unlicensed medicine
+{:#tell-MHRA}
 
-###Urgent imports
+Fill in the [notification of intent form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473221/Notification_of_intent_to_import_-_application_form.xls) (XLS, 27KB) and email it 28 days before you import the product. The email address is on the form.
 
-In cases of clinical emergency (usually the treatment of life-threatening illness or where significant injury is likely) MHRA is able to process an import notification within one working day.
+If the medicine is for a life-threatening illness, a significant injury or other clinical emergency, you can get permission within 1 working day. Call 020 3080 7002 (or 020 3080 6000 if the line is busy, or 07795 641532 out of hours).
 
-Contact the import notifications supervisor on 020 3080 7002 or call 020 3080 6000.
+{:#notification-fee}
+On top of the [cost of the wholesaler or specials licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences#fees-and-payment), you pay a fee based on the number of notifications you made in a year.
 
-For urgent cases out of office hours, you should contact the MHRA duty officer on 07795 641532.
+| Number of notifications | Fee     |
+|-------------------------|---------|
+| 1 to 20                 | £130     |
+| 21 to 100               | £519     |
+| 101 to 1,000            | £2,077   |
+| 1,001 to 5,000          | £10,383  |
+| 5,001 to 20,000         | £25,957  |
+| 20,001 to 50,000        | £51,914  |
+| 50,001 to 100,000       | £103,828 |
+| 100,001+                | £155,742 |
 
-[SME question: How long does an import notification usually take (if not urgent)?]
 
-###Fees
+You’ll get:
 
-Fees are charged annually, based on the number of notifications you submit. MHRA provide an an early estimate in the financial year, followed by an invoice for the whole year.
+- an estimate based on a how many notifications MHRA think you’ll make, early in the year
+- an invoice at the end of the financial year
 
-[Question for SME: How are customer's provided with the estimate?]
+[SME question - when is the financial year for this purpose? April?]
 
-Number of estimated notifications 	| Annual fee (£)
--|-
-1 to 20 | 130
-21 to 100 | 519
-101 to 1,000 | 2,077
-1,001 to 5,000 | 10,383
-5,001 to 20,000 | 25,957
-20,001 to 50,000 | 51,914
-50,001 to 100,000 | 103,828
-Over 100,001 | 155,742
+##Help with importing medicines
 
-##TSE (Transmissible Spongiform Encephalopathies)
+You can get help by contacting MHRA.
 
-If your products contain TSE risk materials, you must allow them to be assessed. The importer is responsible for any assessments required. 
-
-[SME question:Who does the assessment and how do importers organise this?]
-
-##Veterinary medicines
-{:Veterinary-medicines}
-
-How you get a certificate depends on whether you're importing an EU-authorised medicine.
-
-Use the [Product Information Database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/) to find out if your medicine is authorised.
-
-If you’re a veterinary surgeon you’ll need one of the following:
-
-- a Special Import Certificate (SIC) to import EU-authorised veterinary medicine or medicinal products
-- a Special Treatment Certificate (STC) to import medicine or medicinal products from outside the EU 
-
-If you're a researcher, you should:
- 
-- make sure you have a Home Office Project License
-- apply for a [Research Import Certificate](http://www.vmd.defra.gov.uk/ric/Application.aspx) (RIC)
-
-You need a new RIC for each product, substance, or combination of active substances you import.
-
-###SICs and STCs
-
-You can only apply to import veterinary medicines under an SIC or STC if you’re a:
-
-- veterinary surgeon registered with the Royal College of Veterinary Surgeons (RCVS). 
-- Home Office Project license holder
-
-[SME question: How do you apply for the Home Office project licence?]
-
-For STCs, you need to apply separately for each species of animal you're importing.. An application for a group of animals such as a herd or flock on the same treatment may be submitted as one application.
-
-###Apply for an SIC or STC
-
-You should [apply for your certificate online](https://www.vmd.defra.gov.uk/sis/default.aspx).
-
-If the online system isn't working, you can use the relevant application form:
-
-- [SIC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549418/_630643_Application_Form_SIC.docx) (MS Word Document, 44.1KB)
-- [STC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549417/_630628_Application_Form_STC.docx) (MS Word Document, 62.5KB)
-
-
-
-There's no fee for this certificate.
-
-The time it will take to receive your certificate depends on the application type.
-
-Application type| Number of working days
- -|- 
-New products| 15 
-Previously imported products | 10
-Urgent - for previously imported products| 2
-
-###Live vaccines
-
-For information on importing live vaccines under a SIC or STC, contact [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
-
-###New products
-
-If you are applying for a product that has not previously been permitted import into the UK (a new product), in addition to a completed application you will need to provide a copy of the:
-
-- summary of product characteristics (SPC) or equivalent product information (for STC applications) in English
-- product labels in the native language
-
-[SME question: if you're importing a new productto supply to a wholesaler, what do you do?]
-[SME question: How do people get their Summary of Product Characteristics?]
-
-###Wholesale dealers import certificates (WDIC)
-
-You need a WDIC if you import and hold medicinal products for supply to a SIC or STC holder.
-
-###Apply for a WDIC
-{:wholesale-licence}
-
-You need to:
-
-- complete the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/549415/_630639_Application_Form_WDIC.docx) (MS Word Document, 42.6KB)
-- email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
-
-It is free unless more than 100 SICs or STCs naming the wholesale dealer as the importer were supplied in the 12 months before the application. In this case, the fee is £760. 
-
-When a fee applies, it should not accompany the application; an invoice will be sent to you following issue of your certificate.
-
-A WDIC will not be issued for a new product without evidence of a demand for the product.
-
-[SME question: what evidence is required and how is it sent?]
-[SME question: is this the correct process?]
-
-###RIC
-
-To apply you need to:
-
-- make sure you have a home office project licence 
-- [register for the special imports scheme](http://www.vmd.defra.gov.uk/ric/Application.aspx)
-- print your certificate
-- email it to [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk)
-
-There's no fee for this certificate.
-
-###Urgent applications
-
-An application is treated as urgent if it is for a product for which the VMD thinks there is an immediate, clinically threatening need.
-
-If you think your individual application is urgent, provide an explanation of the urgency.
-
-You can also email [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk) for help.
-
-###WDICs
-
-Applications will be accepted or rejected within 10 days of receipt.
-
-The date of receipt is the first working day that the application is received, so those applications submitted at a weekend, or on a bank holiday, will be classed as received on the first working day thereafter.
-
-
-
-###Suspension of timescales
-
-If any information is missing, or further clarification is required, the VMD may contact you. The timescales will be suspended pending a response from you.
-
-If a response is not received within 14 days, the application will be refused and you will need to re-apply.
-
-[SME question: 14 working days?]
-
-##Allergen products
-
-When you import a complete product, but repackaging or re-labelling is required, contact the VMD at [importcert@vmd.defra.gsi.gov.uk](mailto:importcert@vmd.defra.gsi.gov.uk) for help.
-
+**MHRA**
+<imports@mhra.gsi.gov.uk> 
+Telephone: 020 3080 7002
+[Find out about call charges](/call-charges)
