@@ -8,6 +8,12 @@ topic:
  url: /topic/business-and-self-employed/importing.html
 ---
 
+You need permission to import:
+
+- licensed medicines
+- unlicensed medicines
+- controlled drugs
+
 ##Licensed medicines
 
 You can [search the MHRA database](http://www.mhra.gov.uk/spc-pil/) to check the medicine is UK-licensed. There are different rules for importing [unlicensed medicines](#unlicensed-medicines).
