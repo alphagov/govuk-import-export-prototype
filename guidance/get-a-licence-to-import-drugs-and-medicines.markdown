@@ -12,7 +12,7 @@ You need permission to import:
 
 - licensed medicines
 - unlicensed medicines
-- controlled drugs
+- controlled drugs like opioids, stimulants or psychotropic substances
 
 ##Licensed medicines
 
