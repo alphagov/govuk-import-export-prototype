@@ -42,7 +42,7 @@ If you need advice about more than one product, send a separate email.
 
 You can apply for a Binding Tariff Information (BTI) ruling to give certainty about the correct classification and how much duty you'll need to pay when importing your goods into the EU.
 
-BTIs are:
+BTI rulings are:
 
 - legally binding throughout the EU for 3 years
 - free, but you may have to pay costs (for example, for laboratory analysis or expert advice)
