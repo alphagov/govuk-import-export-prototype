@@ -164,7 +164,7 @@ If Species+ says the animal is banned, you can't export it. There aren't any exc
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate] unless you’re re-exporting live animals that were bred in captivity.
+If it’s classed as Annex A, you must apply for an Article 10 certificate unless you’re re-exporting live animals that were bred in captivity.
 
 
 $CTA
@@ -185,7 +185,7 @@ The certificate costs £31. Find out how to pay for your application.
 
 You should get your certificate within 6 weeks.
 
-If you lose your certificate, you can ask APHA for a replacement.
+If you lose your certificate, [you can ask APHA for a replacement](http://www.gov.uk/guidance/replace-a-lost-stolen-or-incorrect-document-for-a-controlled-species).
 
 
 ###Outside the EU
