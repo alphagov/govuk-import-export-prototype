@@ -34,11 +34,9 @@ It usually costs £325.96 and you'll need to pay a security deposit.
 
 ##Using an ATA Carnet
 
-Call the HMRC imports and exports helpline before your journey.
+Call the HMRC imports and exports helpline when you're planning your journey.
 
 They'll check that a customs officer can stamp your Carnet at the port or airport your goods are being shipped from.
-
-[Question for SME: how far in advance should people contact the helpline?]
 
 $C 
 
@@ -54,8 +52,6 @@ $C
 ##When you return to the UK
 
 Go through the red channel at customs if you’re bringing the goods back in your baggage.
-
-[Question for SME: if I’m bringing back the goods by freight, how do I know whether I need to complete a C21? Will I be told at customs, or is it something I can determine in advance?]
 
 ##Get help with ATA Carnets
 
