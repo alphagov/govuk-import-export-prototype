@@ -173,7 +173,6 @@ The certificate costs £31. Find out how to pay for your application.
 
 You should get your certificate within 6 weeks.
 
-If you lose your certificate, you can [ask APHA for a replacement](http://www.gov.uk/guidance/replace-a-lost-stolen-or-incorrect-document-for-a-controlled-species).
 
 ###Outside the EU
 
