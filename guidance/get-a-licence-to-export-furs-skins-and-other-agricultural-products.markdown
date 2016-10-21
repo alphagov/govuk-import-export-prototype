@@ -71,7 +71,7 @@ Follow the rules for [transporting animal by-products](https://www.gov.uk/guidan
 
 ##Endangered animals
 
-Use the Species+ tool to [search for the animal](https://www.speciesplus.net/)your by-product. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
+Use the Species+ tool to [search for the animal](https://www.speciesplus.net/)your by-product is from. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
 What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
 
@@ -81,9 +81,12 @@ If Species+ says the animal is banned, you can't export the product. There aren'
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate] unless you’re exporting dead Crocodylia species with source code D, with a uniquely marked, closed leg ring.
+If it’s classed as Annex A, you must [apply for an Article 10 certificate].
 
-You don’t need any special documents if you’re using or displaying goods for non-commercial reasons, eg for scientific research or in an educational display.
+You don’t need a certificate to export:
+
+- crocodylia with source code D, with a uniquely marked, closed leg ring
+- animal by-products for scientific research or other non-commercial reasons
 
 ###Apply for an Article 10 certificate
 
@@ -99,8 +102,6 @@ Include any supporting documents that show you acquired the product legally, for
 The certificate costs £31. Find out how to pay for your application.
 
 You should get your certificate within 6 weeks.
-
-If you lose your certificate, you can ask APHA for a replacement.
 
 
 ###Outside the EU
