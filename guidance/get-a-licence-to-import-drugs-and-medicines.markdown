@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to import drugs and medicines [Alt]
+title: Get a licence to import drugs and medicines
 summary: You must get permission to import certain drugs and medicines inside and outside the EU.
 permalink: /guidance/alt-ah-import-drugs-and-medicines.html
 topic:
