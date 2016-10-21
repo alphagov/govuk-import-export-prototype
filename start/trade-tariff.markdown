@@ -1,6 +1,6 @@
 ---
 layout: start
-title: Trade Tariff: look up commodity codes, duty and VAT rates
+title: "Trade Tariff: look up commodity codes, duty and VAT rates"
 permalink: /start/trade-tariff.html
 breadcrumbs:
  - name: Home
