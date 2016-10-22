@@ -13,22 +13,8 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-There are restrictions on investing and doing businesses in certain countries.
+There are restrictions on investing in and doing businesses with:
 
-## Iran
-
-There is a ban on investing businesses that manufacture military goods in Iran. 
-
-If an Iraninan person invests in your uranium or nuclear-related business, the investment must be licenced.
-
-##Crimea and Sevastopol
-
-There is a ban on supporting any project or business in Crimea and Sevastopol which recognise it's illegal annexation, including:
-
-* buying property
-* providing tourism services
-* investing in businesses (particularly energy infrastructure and transport)
-
-You also can't suuply equipment, technology and technical services, or investment, for oil, gas or mineral resources activities in the region.
-
-[Contact UK Trade and Investment (UKTI) Ukraine](commercial.kyiv@gmail.com) if you want to find out more about supplying any goods or services in Crimer and Sevastopol.
+* [Crimea and Sevastopol](https://www.gov.uk/government/publications/exporting-to-ukraine)
+* [Iran](https://www.gov.uk/government/publications/doing-business-with-iran)
+* Syria (see [Council Regulation (EU) 36/2012](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0036&qid=1475514789675))
