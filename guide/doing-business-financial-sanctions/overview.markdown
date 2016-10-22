@@ -13,9 +13,33 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-The consolidated list of financial sanctions targets lists people, businesses, organisations, financial institutions and regimes you’re not allowed to deal with by law.
+The consolidated list of financial sanctions targets lists people, businesses, organisations, financial institutions and regimes you’re generally not allowed to deal with by law.
 
 For example, because there’s a suspected connection with terrorism, terrorist financing or human rights abuses.
+
+## Asset freezes
+
+If a person or organisation is on the consolidated list it means they have had their assets frozen.
+
+This means you must not deal with them in a way that gives them a significant financial benefit. For example:
+
+* make funds or resources available to them directly (eg by buying something from them, employing them, giving them a gift or loan or repaying a loan from them)
+* make funds or resources available to them indirectly (eg by making a payment to an organisation that’s controlled by them)
+* give them access to assets you’re holding on their behalf (eg letting them withdraw money from a bank account)
+* buy, sell or deal with assets that belong to them, or are held or controlled by them
+* provide them with [financial services](/guide/doing-business-financial-sanctions/providing-financial-services.html)
+
+You must not do anything to get round financial sanctions, or help anyone else to get round financial sanctions - directly or indirectly.
+
+‘Resources’ can mean anything with a potential value, not just cash or investments.
+
+In some circumstances you may be able to [get a licence](/guide/doing-business-financial-sanctions/apply-licence.html) to deal with someone who is subject to financial sanctions.
+
+### Organisations which aren’t on the consolidated list
+
+Even if they’re not on the consolidated list themselves, organisations are subject to financial sanctions if they’re more than 50% owned by a person or other organisation that’s on the consolidated list.
+
+## Consolidated list of financial sanctions targets
 
 [Consolidated list of financial sanctions targets](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.htm) (HTML)  
 [Consolidated list of financial sanctions targets](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.csv) (CSV, 2.82MB) 
@@ -24,28 +48,6 @@ For example, because there’s a suspected connection with terrorism, terrorist 
 [Consolidated list of financial sanctions targets](http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.xls) (PDF, 2.9MB)  
 [Guide to using the consolidated list of financial sanctions targets](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/292095/fin_sanc_consolidated_list_format_guide.pdf) (PDF, 162KB)  
 
-## What you must do
-
-If a person or organisation is on the consolidated list of financial sanctions targets you must [get a licence from HM Treasury](/guide/doing-business-financial-sanctions/apply-licence.html) to deal with them in a way that gives them a significant financial benefit.
-
-For example:
-
-- making funds or resources available to them directly (eg by buying something from them, employing them, giving them a gift or loan or repaying a loan from them)
-- making funds or resources available to them indirectly (eg by making a payment to an organisation that’s controlled by them)
-
-‘Resources’ can mean anything with a potential value, not just cash or investments.
-
-## Asset freezes
-
-If a person or organisation is on the consolidated list it means they have had their assets frozen. This means you must [get a licence from HM Treasury](/guide/doing-business-financial-sanctions/apply-licence.html) to:
-
-give them access to assets you’re holding on their behalf (eg letting them withdraw money from a bank account)
-buy, sell or deal with assets that belong to them, or are held or controlled by them
-
-There are [additional requirements](/guide/doing-business-financial-sanctions/providing-financial-services.html) about providing financial services to someone who is subject to financial sanctions.
-
-%It’s a criminal offence not to get a licence.%
-
 ## If you find out someone you’re dealing with is subject to financial sanctions
 
 If you find out that someone you’re dealing with is subject to financial sanctions, you must immediately:
@@ -53,6 +55,6 @@ If you find out that someone you’re dealing with is subject to financial sanct
 - stop dealing with them
 - freeze any assets you are holding for them
 
-Then [tell HM Treasury](/guide/doing-business-financial-sanctions/get-help.html) as soon as possible.
+Then [tell the Office of Financial Sanctions Implementation ](/guide/doing-business-financial-sanctions/get-help.html) as soon as possible.
 
 You won’t be prosecuted unless you knew that the person you were dealing with was subject to financial sanctions (or reasonably, you should have known).
