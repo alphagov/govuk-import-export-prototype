@@ -12,18 +12,19 @@ breadcrumbs:
  - name: Exporting and doing business abroad
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
-Contact HM Treasury if you have a question about financial sanctions.
+Contact the Office of Financial Sanctions Implementation if you have a question about financial sanctions.
 
 $C  
-**HM Treasury: financial sanctions enquiries**  
-Email: <financialsanctions@hmtreasury.gsi.gov.uk>  
+**Office of Financial Sanctions Implementation**  
+Email: <ofsi@hmtreasury.gsi.gov.uk>  
 Telephone: 020 7270 5454  
+9am to 5pm, Monday to Friday
 [Find out about call charges](call-charges)  
 $C  
 
 $A  
 
-Financial sanctions enquiries  
+Office of Financial Sanctions Implementation 
 HM Treasury  
 1 Horse Guards Road  
 London  
@@ -31,4 +32,4 @@ SW1A 2HQ
 
 $A
 
-[Subscribe to financial sanctions updates from HM Treasury](https://public.govdelivery.com/accounts/UKHMTREAS/subscriber/new) to stay up to date.
+[Subscribe to financial sanctions updates from the Office of Financial Sanctions Implementation](https://public.govdelivery.com/accounts/UKHMTREAS/subscriber/new) to stay up to date.
