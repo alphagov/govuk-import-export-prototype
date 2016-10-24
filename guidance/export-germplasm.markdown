@@ -100,13 +100,7 @@ The certificate costs £31. Find out how to pay for your application.
 
 You should get your certificate within 6 weeks.
 
-If you lose your certificate, you can ask APHA for a replacement.
-
-
 ###Outside the EU
-
-If the animal is classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) unless it’s a dead specimen of Crocodylia species included in Annex A with source code D, with a uniquely marked, closed leg ring
-
 
 If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
 
