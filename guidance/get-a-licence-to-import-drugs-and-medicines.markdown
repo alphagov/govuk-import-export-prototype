@@ -25,7 +25,6 @@ s3. If you don’t hold the marketing authorisation for the medicine, tell the h
 s4. Check if the medicine has a [marketing authorisation from the European Medicines Agency](http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/landing/epar_search.jsp&mid=WC0b01ac058001d124) (EMA). If it does, [tell EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/q_and_a/q_and_a_detail_000079.jsp&mid=) that you’re importing it.
 
 
-
 ###Check if you need a manufacturer or wholesaler licence
 {:#manufacturer-wholesale-licence}
 
@@ -76,6 +75,7 @@ If the medicine is for a life-threatening illness, a significant injury or other
 
 {:#notification-fee}
 On top of the [cost of the wholesaler or specials licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences#fees-and-payment), you pay a fee based on the number of notifications you made in a year.
+
 
 | Number of notifications | Fee     |
 |-------------------------|---------|
