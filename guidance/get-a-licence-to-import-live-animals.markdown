@@ -31,7 +31,7 @@ Whether you're importing from within the EU or from outside it, you must follow 
 ## Within the EU
 
 
-You must send written notification of your consignment to the [APHA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that’s closest to the destination, 24 hours before it arrives.
+You must send written notification of your consignment to the [APHA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that’s closest to the port you're importing to, 24 hours before it arrives.
 
 [can you email this? If so, which email address should you use?]
 
