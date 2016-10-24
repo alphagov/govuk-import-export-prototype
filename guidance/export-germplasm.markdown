@@ -112,7 +112,7 @@ Fill in the [application form](https://www.gov.uk/government/uploads/system/uplo
 
 If you're re-exporting goods include supporting documents to prove it legally entered the EU.
 
-Email or post the completed form to [APHA](Send the permit application form by post or email to APHA (DEARA in Northern Ireland) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+Email or post the completed form to [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)and([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
 
 A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
 
