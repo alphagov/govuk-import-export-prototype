@@ -164,9 +164,9 @@ If Species+ says the fish or shellfish is banned, you can't export the product. 
 
 ###Within the EU
 
-If the animal is classed as B, C or D, you don't need to do anything.
+If the fish or shellfish is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate].
+If it’s classed as Annex A, you must [apply for an Article 10 certificate](apply-for-an-article-10-certificate).
 You don’t need any special documents if you’re using or displaying goods for non-commercial reasons, eg for scientific research or in an educational display.
 
 ###Apply for an Article 10 certificate
@@ -205,9 +205,9 @@ A permit costs £63 (or £37 to re-import). You should receive it within 15 work
 
 If you’re exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/50323/form-citb20.pdf).
 
-###Temporary exports 
+###Regular exports for public exhibition
 
-If you regularly take goods abroad for a short period of time for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. You can use the certificate whether you're moving goods within or outside the EU.
+If you regularly take fish or shellfish abroad for a short period of time for public exhibitions, [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. You can use the certificate whether you're moving goods within or outside the EU.
 
 You can add multiple specimen types in one application if needed.
 
