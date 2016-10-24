@@ -26,9 +26,9 @@ What you need to do depends on whether you're exporting:
 
 ##Export advice and finance
 
-You can get help [choosing where to export](https://www.gov.uk/government/organisations/uk-trade-investment/about/about-our-services) and [finding overseas business opportunities](https://www.exportingisgreat.gov.uk/).
+You can get help [choosing where to export](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) and [finding overseas business opportunities](https://govuk-import-export.herokuapp.com/start/find-overseas-business-opportunities-experimental-sg.html).
 
-You may be able to get [export insurance or finance](https://www.gov.uk/guidance/export-finance-and-insurance-an-overview) to:
+You may be able to get [export insurance or finance](https://govuk-import-export.herokuapp.com/export-insurance-export-finance.html) to:
 
 - protect you against the risk of not getting paid  
 - help finance an export deal your bank can't do on their own  
