@@ -22,14 +22,14 @@ $CTA
 
 What you need to do to move or import live animals depends on whether you’re exporting them:
 
-- within the EU, or from Switzerland, Liechtenstein, Norway, or Iceland
-- outside the EU
+- [within the EU](#within), or from Switzerland, Liechtenstein, Norway, or Iceland
+- [outside the EU](#outside)
 
 Whether you're importing from within the EU or from outside it, you must follow [animal welfare standards](https://www.gov.uk/guidance/farm-animal-welfare-during-transportation).
 
 
 ## Within the EU
-
+{:#within}
 
 You must send details about your consignment to the [APHA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) closest to the port you're importing to, 24 hours before it arrives.
 
@@ -75,6 +75,7 @@ Pigs must have either a slapmark, an ear tag, or a tattoo with the herd mark of 
 
 
 ## Outside the EU
+{:outside}
 
 You can only bring live animals or animal products into the EU from countries on the [EU’s approved list](http://ec.europa.eu/food/safety/international_affairs/trade/third/index_en.htm).
 
