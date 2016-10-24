@@ -49,7 +49,7 @@ You must include the:
 [SME question: how does the inspector know where to go to do the inspection?]
 
 
-## When your consignment arrives
+### When your consignment arrives
 
 An inspector will check your consignment at the port or airport.
 
