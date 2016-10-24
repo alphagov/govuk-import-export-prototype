@@ -16,7 +16,7 @@ Financial services providers must follow the [general rules on dealing with peop
 
 ## Terrorism and terrorist financing
 
-You must [get a licence](/guide/doing-business-financial-sanctions/apply-licence.html) to provide finacial services to anyone on the [list of designated persons](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/504365/terrorism.pdf) (PDF, 238KB), directly or indirectly or in a way that benefits them. For example:
+You must [get a licence](/guide/doing-business-financial-sanctions/apply-licence.html) to provide financial services to anyone on the [list of designated persons](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/504365/terrorism.pdf) (PDF, 238KB), directly or indirectly or in a way that benefits them. For example:
 
 * banking services, credit or financial trading
 * securities, money brokering, assessment management or settlement or clearing services
