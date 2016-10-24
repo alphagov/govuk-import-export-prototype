@@ -112,7 +112,7 @@ You should return the completed application form to the:
 
 [SME question: where should we point those importing to Scotland, Wales, or Northern Ireland?]
 
-## Quarantine controls
+### Quarantine controls
 
 [Check the list of animals at risk of rabies](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427913/guid-rm01a.pdf)
 
