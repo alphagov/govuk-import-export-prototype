@@ -76,7 +76,6 @@ If the medicine is for a life-threatening illness, a significant injury or other
 {:#notification-fee}
 On top of the [cost of the wholesaler or specials licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences#fees-and-payment), you pay a fee based on the number of notifications you made in a year.
 
-
 | Number of notifications | Fee     |
 |-------------------------|---------|
 | 1 to 20                 | £130     |
