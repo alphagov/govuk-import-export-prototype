@@ -95,7 +95,6 @@ You don’t need a catch certificate to export:
 - mussels, cockles, oysters and scallops
 - fish fry or larvae
 
-
 ###How to apply
 
 Fill in a [UK catch certificate application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/311517/uk-catch-certificate.pdf) (PDF, 95KB).
@@ -157,7 +156,7 @@ Monday to Friday, 9am to 5pm
 
 ##Endangered Fish and Shellfish
 
-Use the Species+ tool to [search for your fish](https://www.speciesplus.net/). Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
+Use the Species+ tool to [search for your fish and shellfish](https://www.speciesplus.net/). Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
 What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
 
@@ -192,7 +191,7 @@ If you lose your certificate, you can ask APHA for a replacement.
 
 If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
 
-If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
+If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit](#apply-for-a-CITES-permit). Otherwise you don't need to do anything.
 
 ###Apply for a CITES permit
 
@@ -200,7 +199,7 @@ Fill in the [application form](https://www.gov.uk/government/uploads/system/uplo
 
 If you're re-exporting goods include supporting documents to prove it legally entered the EU.
 
-Email or post the completed form to [APHA](Send the permit application form by post or email to APHA (DEARA in Northern Ireland) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+Email or post the completed form to [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)and([DEARA](https://www.dardni.gov.uk/contact)in Northern Ireland.
 
 A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
 
