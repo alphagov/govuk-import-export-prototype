@@ -59,7 +59,7 @@ You must rest livestock (except for registered horses) for 48 hours if you inten
 
 ###Identification checks
 
-You must check that any containers holding animals that can’t be individually marked (eg bees or day-old chicks) match animals listed on the health certificate.
+You must check that any containers holding animals that can’t be individually marked (for example, bees or day-old chicks) match animals listed on the health certificate.
 
 
 If there are any errors in the documentation for your incoming consignment, such as unidentified animals, you must:
