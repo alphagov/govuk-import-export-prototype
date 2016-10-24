@@ -10,7 +10,7 @@ topic:
 
 $CTA
 
-[Check the UK strategic export control lists using the Goods Checker tool](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
+[Check the UK strategic export control lists using the Goods Checker tool](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
 
 $CTA
 
