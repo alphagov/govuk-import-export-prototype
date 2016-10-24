@@ -31,7 +31,7 @@ Whether you're importing from within the EU or from outside it, you must follow 
 ## Within the EU
 
 
-You must send written notification of your consignment to the [APHA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) that’s closest to the port you're importing to, 24 hours before it arrives.
+You must send details about your consignment to the [APHA office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) closest to the port you're importing to, 24 hours before it arrives.
 
 [can you email this? If so, which email address should you use?]
 
@@ -86,7 +86,6 @@ If the general licence or authorisation you need exists, you don’t have to app
 
 Some general licences must travel with the consignment - check your general licence to see if this is the case.
 
-
 [SME question: How is this arranged? Do you contact the exporter, or does the courier do it?]
 
 ### When you don’t need a licence
@@ -101,10 +100,6 @@ The animals below are covered by a general licence. This means you don’t need 
 - pigs
 - non-domestic ungulates
 
-
-Some general licences must also travel with the consignment - check the licence that applies to the animals you’re importing.
-
-
 ### Specific licences
 
 If the general licence you need doesn’t exist, you must apply for a specific licence for that product using [form IV58](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/488485/form-iv58.pdf).
@@ -114,9 +109,7 @@ You should return the completed application form to the:
 - [APHA Centre for International Trade Carlisle](#Contact-APHA) if the entry point is in England
 - Scottish or Welsh government if the entry point is in Scotland or Wales
 
-[Scottish, Welsh link needed]
-[N.Ireland?]
-
+[SME question: where should we point those importing to Scotland, Wales, or Northern Ireland?]
 
 ## Quarantine controls
 
@@ -144,7 +137,6 @@ If it does, you need to:
 - [complete part 1 of the CVED](https://www.food.gov.uk/sites/default/files/multimedia/pdfs/blankcved.pdf)
 - return it to the appropriate [Border Inspection Post](http://ec.europa.eu/food/animals/docs/bips_contact_unitedkingdom.pdf) before the consignment is unloaded
 
-
 If you don’t, you may be charged an additional fee or your checks could take longer.
 
 ### When your consignment arrives
@@ -159,9 +151,7 @@ Official veterinarians at the border inspection post will then check animal or a
 
 If your consignment passes the check, officials will give you a completed and validated Common Veterinary Entry Document (CVED).
 
-
 ### Fees
-
 
 It costs £44 to have your consignment checked.
 
@@ -174,9 +164,7 @@ You must pay an additional fee of £80 to get an inspection done at weekends, or
 If you’re importing an endangered species, you may need to apply for a CITES permit before the import takes place.
 [Find out if your animals species is on the endangered list].
 
-
 Find out more about CITES, including the species that are on the CITES list.
-
 
 [SME question: does the importer need an article 10 certificate?]
 
