@@ -76,7 +76,7 @@ Use the Species+ tool to [search for the animal](https://www.speciesplus.net/) t
 
 What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
 
-If Species+ says the animal is banned, you can't export its germplasm. There aren't any exceptions to this rule.
+If Species+ says the animal is banned, you can't export its germplasm. 
 
 ###Within the EU
 
@@ -89,16 +89,16 @@ You don’t need any special documents if you’re using germplasm for non-comme
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
-Send it to <wildlife.licensing@apha.gsi.gov.uk>
+Email it to <wildlife.licensing@apha.gsi.gov.uk> or [post it to the Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Include any supporting documents that show you acquired the product legally, for example:
 
 - a copy of the import permit
 - a previous Article 10 certificate (use the yellow copy)
 
-The certificate costs £31. Find out how to pay for your application.
+The certificate costs £31. 
 
-You should get your certificate within 6 weeks.
+You should get your certificate within 15 working days.
 
 ###Outside the EU
 
@@ -110,11 +110,11 @@ If it's classed as D, check the animal's CITES listing in the Species+ tool. If 
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
 
-If you're re-exporting goods include supporting documents to prove it legally entered the EU.
+If you're re-exporting goods include a CITES import permit to prove it legally entered the EU.
 
-Email or post the completed form to [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)and([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+Email or post the completed form to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
+A permit costs £63 (or £37 to re-export). You should receive it within 15 working days.
 
 If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/50323/form-citb20.pdf).
 
