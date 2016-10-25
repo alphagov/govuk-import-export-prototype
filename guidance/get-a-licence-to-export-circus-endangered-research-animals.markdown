@@ -158,7 +158,7 @@ Use the Species+ tool to [search for your animal](https://www.speciesplus.net/).
 
 What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
 
-If Species+ says the animal is banned, you can't export it. There aren't any exceptions to this rule.
+If Species+ says the animal is banned, you can't export it. 
 
 ###Within the EU
 
@@ -166,6 +166,7 @@ If the animal is classed as B, C or D, you don't need to do anything.
 
 If it’s classed as Annex A, you must apply for an Article 10 certificate unless you’re re-exporting live animals that were bred in captivity.
 
+You don’t need any special documents if you’re using live animals for non-commercial reasons, eg for scientific research.
 
 $CTA
 You don't need a certificate for [certain captive bred birds](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008R0100#d1e34-14-1) and there are spceial rules for [wild disabled birds of prey](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf) (PDF, 82KB).
@@ -174,16 +175,16 @@ $CTA
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
-Send it to <wildlife.licensing@apha.gsi.gov.uk>
+Email it to <wildlife.licensing@apha.gsi.gov.uk> or [post it to the Centre for International Trade Bristol]([Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Include any supporting documents that show you acquired the product legally, for example:
 
 - a copy of the import permit
 - a previous Article 10 certificate (use the yellow copy)
 
-The certificate costs £31. Find out how to pay for your application.
+The certificate costs £31.
 
-You should get your certificate within 6 weeks.
+You should get your certificate within 15 working days.
 
 ###Outside the EU
 
@@ -195,26 +196,13 @@ If it's classed as D, check the animal's CITES listing in the Species+ tool. If 
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
 
-If you're re-exporting a species include supporting documents to prove it legally entered the EU.
+If you're re-exporting a species include CITES import permit to prove it legally entered the EU.
 
-Email or post the completed form to [APHA](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491835/contacts-international-trade.pdf)or([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland.
+Email or post the completed form to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
+A permit costs £63 (or £37 to re-export). You should receive it within 15 working days.
 
 If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503243/form-citb20.pdf).
-
-
-###Regular exports for public exhibition
-
-If you regularly take goods abroad for a short period of time for public exhibitions (for example circuses and menageries), [check if you can use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a CITES permit. 
-
-You can use the certificate whether you're moving goods within or outside the EU. It's valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.​
-
-To apply, fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate). Send it to the address on the form
-
-You’ll get your certificate within xx days/weeks and there’s no fee.
-
-[Question for SME: how regularly must you export to qualify for a certificate?]
 
 
 ##Circuses
@@ -264,6 +252,18 @@ Passports cost:
 - £2 for a group of birds or rodents (maximum of 15 ringed or microchipped birds or rodents per group, no limit on the number without rings or microchips)
 
 You need a separate passport for each species and breed.
+
+##Regular exports for public exhibition
+
+If you regularly take endangered circus animals abroad, [you could use a travelling exhibition certificate](http://ec.europa.eu/environment/cites/pdf/referenceguide_en.pdf) instead of a [CITES permit](apply-for-a-cites-permit) or [article 10 certificate](apply-for-an-article-10-certificate). 
+
+You can use the certificate whether you're moving goods within or outside the EU. It's valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.​
+
+To apply, fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate). 
+
+Email or post the completed form to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+
+You’ll get your certificate within 15 working days and there’s no fee.
 
 ###Get an ITAHC
 
