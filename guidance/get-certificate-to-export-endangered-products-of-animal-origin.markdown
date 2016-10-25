@@ -14,8 +14,12 @@ What you need to do depends on whether you’re exporting [within the EU](#withi
 
 If Species+ says the animal is banned, you can't export the product. There aren't any exceptions to this rule.
 
+[Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-bristol) if you want to export elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. 
+
 $CTA
-[Check with APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-bristol) if you’re exporting elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. You could be fined or imprisoned for up to 7 years if you break the rules.
+
+You’ll only be able to export them in special circumstances like for scientific research, museum exhibitions or heirlooms - you could be fined or imprisoned for up to 7 years if you break the rules.
+
 $CTA
 
 [Question for SME: Are these things banned?]
