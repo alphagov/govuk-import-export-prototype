@@ -28,7 +28,7 @@ If it’s classed as Annex A, you must [apply for an Article 10 certificate](#ap
 
 You don’t need any special documents if:
 
-* your goods are antiques processed before 1947
+* your goods are antiques made before 1947
 * you're giving your goods away
 * you’re using or displaying goods for non-commercial reasons, eg for scientific research or in an educational display
 
@@ -36,7 +36,7 @@ You don’t need any special documents if:
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
-Send it to <wildlife.licensing@apha.gsi.gov.uk>
+Email it to <wildlife.licensing@apha.gsi.gov.uk> or [post it to the Centre for International Trade Bristol]([Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Include any supporting documents that show you acquired the product legally, for example:
 
@@ -45,9 +45,7 @@ Include any supporting documents that show you acquired the product legally, for
 
 The certificate costs £31. 
 
-You should get your certificate within 6 weeks.
-
-If you lose your certificate, you can ask APHA for a replacement.
+You should get your certificate within 15 days.
 
 [Question for SME: Where do users apply for a replacement?]
 
@@ -61,11 +59,11 @@ If it's classed as D, check the animal's CITES listing in the Species+ tool. If 
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
 
-Email or post the completed form to [APHA](Send the permit application form by post or email to APHA (DEARA in Northern Ireland) ([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland)
+Email or post the completed form to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
-A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
+A permit costs £63 (or £37 to re-export). You should receive it within 15 working days.
 
-Musical instruments made from endangered animals (for example ivory piano keys) may not need a permit. Contact the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to check.
+If you regularly travel with musical instruments made from endangered animals (for example ivory piano keys) that you intend to bring back to the UK, you may not need a permit. Contact the [Centre for International Trade in Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc) to check.
 
 ##If you need help
 
