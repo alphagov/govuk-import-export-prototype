@@ -30,6 +30,6 @@ You can:
 - sign up [seminars and webinars](https://www.events.ukti.gov.uk) on starting to export or exporting to new markets
 - use the [Export Savvy website](https://www.exportsavvy.co.uk/plan/create-your-plan) to create a strategy for a new market
 - get advice from experienced exporters on the [Open to Export website](http://opentoexport.com/ask-the-experts/latest-questions/) 
-- contact your nearest [International Trade team](https://www.contactus.trade.gov.uk/office-finder) to get bespoke research. There’s a charge for bespoke research.
+- get bespoke research by contacting your nearest [International Trade team](https://www.contactus.trade.gov.uk/office-finder) - there's a charge for this
 
 ^When you’re ready, get help to [find overseas customers an export opportunities](/start/find-overseas-business-opportunities-experimental-sg.html).^
