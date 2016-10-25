@@ -134,7 +134,7 @@ It’s valid for 3 years and means you don't need to apply for permission each t
 - complete the [application](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate)
 - send it to the address on the form
 
-You’ll get your certificate within 15 days and there’s no fee.
+You’ll get your certificate within 15 working days and there’s no fee.
 
 [Question for SME: how regularly must you export to qualify for a certificate?]
 
