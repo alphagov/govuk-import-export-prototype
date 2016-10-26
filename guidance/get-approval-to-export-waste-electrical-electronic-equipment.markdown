@@ -14,14 +14,12 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-If you get approval, you can export:
+As an approved treatment facility or any other WEEE collection company, you'll need approval if you offer services to export:
 
 - whole electrical and electronic appliances for reuse overseas
 - materials extracted from waste electrical and electronic equipment (WEEE) to be treated, recovered or recycled overseas
 
 You can only export whole appliances that you received from a producer compliance scheme (PCS).
-
-[Question for SME: Our understanding is that you can only export WEEE in these circumstances. Is this true?]
 
 $CTA
 If you export outside the [EEA](/eu-eea), the treatment or recovery site must operate to the [equivalent standard](https://www.gov.uk/government/publications/receiving-exported-waste-meeting-eu-equivalent-standards) of an authorised treatment facility (ATF) in the UK.
@@ -43,10 +41,9 @@ Your approval lasts for one year. You'll need to apply again if you continue to 
 
 ##Once you've got approval
 
-When you export WEEE, you must also:
+When you export WEEE, you should also:
 
-- for whole appliances, issue an [evidence note and document how much WEEE is recycled](https://www.gov.uk/government/publications/weee-evidence-and-national-protocols-guidance/waste-electrical-and-electronic-equipment-weee-evidence-and-national-protocols-guidance) 
-- follow other rules for [exporting waste](/guidance/get-a-licence-to-export-waste.html)
+- for whole appliances, issue an [evidence note and document how much WEEE is recycled](https://www.gov.uk/government/publications/weee-evidence-and-national-protocols-guidance/waste-electrical-and-electronic-equipment-weee-evidence-and-national-protocols-guidance) - if you offer this as a service
 - [make quarterly returns and keep records](#reporting)
 - complete a [waste transfer note](https://www.gov.uk/managing-your-waste-an-overview/waste-transfer-notes)
 
