@@ -17,8 +17,6 @@ Create a contract between you and the business you're sending waste to before yo
 
 Exporting hazardous or household waste is prohibited. So is waste for disposal except in very special circumstances, for example if there's an emergency or a trial for new technology. 
 
-If you're exporting electrical waste, your producer compliance scheme will usually make sure that you meet any extra requirements. If you're an approved treatment facility or a electrical waste business acting on behalf on a producer compliance scheme, you'll need to [apply for approval](https://www.gov.uk/guidance/waste-electrical-and-electronic-equipment-weee-exporting)
-
 $CTA
 
 Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
@@ -80,6 +78,11 @@ Knutsford Road
 Warrington   
 WA4 1HT     
 
+###Exporting WEEE
+
+If you're a producer of electrical wasteyour producer compliance scheme will usually make sure that you meet any extrrequirements. 
+
+If you're an approved treatment facility or a electrical waste business acting on behalf on a producer compliance scheme, you'll need to [apply for approval](https://www.gov.uk/guidance/waste-electrical-and-electronic-equipment-weee-exporting)
 
 ###If you need help
 
