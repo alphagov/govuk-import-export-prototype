@@ -86,6 +86,7 @@ You must hold the relevant import licence [link?] and the firearm must be accomp
 To apply, contact <firearms@homeoffice.gsi.gov.uk>      
 
 [include this section for trade shows/exhibitions?]
+[How do you apply for a EU deactivation certificate?]
 
 ##Restricted items
 
