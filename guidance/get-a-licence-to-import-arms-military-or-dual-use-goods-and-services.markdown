@@ -28,7 +28,6 @@ $CTA
 
 The licence you need depends on whether or not you're importing [prohibited (section 5)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/268395/bis-13-1384-do-i-need-an-import-licence.pdf) items.
 
-
 ##Items classified as firearms
 
 Your items are classed as firearms if they’re:
@@ -50,13 +49,15 @@ If your goods are prohibited you need to get a specific import licence (SIL)
 
 Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
 
-Otherwise, you shoule get an open import licence (OIL)
+Otherwise, you should get an open import licence (OIL).
 
 Email <enquiries.ilb@bis.gsi.gov.uk> for help.
 
 [or should it be enquiries.ilb@trade.gsi.gov.uk ?]
 
 ###Apply for an OIL
+
+To apply for this licence, you need to be a [registered firearms dealer](https://www.gov.uk/register-as-a-firearms-dealer).
 
 - [complete the application](https://www.spiretest.trade.gov.uk/spireuat/fox)
 - [log in](https://www.spiretest.trade.gov.uk/spireuat/fox/espire/LOGIN/login) once you’ve registered
