@@ -60,7 +60,7 @@ If your items are not prohibited, you need to apply for an OIL.
 You can only do this if you're a [registered firearms dealer](https://www.gov.uk/register-as-a-firearms-dealer)
 
 ###Apply for an OIL
-
+{:#SPIRE}
 You need to:
 
 - [complete the application](https://www.spiretest.trade.gov.uk/spireuat/fox)
@@ -123,9 +123,11 @@ If you are importing a restricted offensive weapon you should have evidence to d
 
 ###Temporary imports
 
-If you're importing weapons to re-export them, you need to apply for a [Open general transhipment licence (OGTL)](transhttps://www.gov.uk/government/publications/open-general-transhipment-licence).
+If you're importing weapons to re-export them, you need to apply for a [Open general transhipment licence (OGTL)](transhttps://www.gov.uk/government/publications/open-general-transhipment-licence). The licence you need depends on the items you're importing.
 
-The licence you need depends on the items you're importing.
+To apply, use the [SPIRE](#SPIRE) system
+
+
 
 Contact the Export Control Organisation for help by:
 
