@@ -121,13 +121,13 @@ If you are importing a restricted offensive weapon you should have evidence to d
 
 [what evidence is required?]
 
-###Temporary imports
+##Temporary imports
 
 If you're importing weapons to re-export them, you need to apply for a [Open general transhipment licence (OGTL)](transhttps://www.gov.uk/government/publications/open-general-transhipment-licence). The licence you need depends on the items you're importing.
 
 To apply, use the [SPIRE](#SPIRE) system
 
-
+There's no fee for a licence and you will receive it within xx days/weeks.
 
 Contact the Export Control Organisation for help by:
 
