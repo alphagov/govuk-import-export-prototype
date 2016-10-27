@@ -17,7 +17,6 @@ To import weapons and ammunition into the UK you must hold:
 
 Realistic imitation firearms can only be imported into the UK in certain circumstances. [Contact the Home office](f#irearms-licensing) for help.
 
-
 $CTA
 
 
@@ -27,11 +26,12 @@ Importing firearms without the right licence is a criminal offence.
 $CTA
 
 
+The licence you need depends on whether or not you're importing [prohibited (section 5)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/268395/bis-13-1384-do-i-need-an-import-licence.pdf) items.
+
+
 ##Items classified as firearms
 
-
-Whether you’re importing from within or from outside the EU, your items are classed as firearms if they’re:
-
+Your items are classed as firearms if they’re:
 
 - rifles, shotguns or handguns
 - automatic and semi-automatic firearms
@@ -41,24 +41,23 @@ Whether you’re importing from within or from outside the EU, your items are cl
 - items that have the appearance of being a firearm and can be readily converted into a live firearm
 
 
-##Apply to import non-prohibited items
+If your goods are prohibited you need to get a specific import licence (SIL)
 
-
-[register](https://www.spiretest.trade.gov.uk/spireuat/fox)
-[log in](https://www.spiretest.trade.gov.uk/spireuat/fox/espire/LOGIN/login) once you’ve registered
-
-
-Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
-
-
-##Apply to import prohibited [(section 5)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/268395/bis-13-1384-do-i-need-an-import-licence.pdf) firearms
-
-
-[register](https://www.ilb.trade.gov.uk/icms/fox/icms/)
+##[complete the application](https://www.ilb.trade.gov.uk/icms/fox/icms/)
 [log in](https://www.ilb.trade.gov.uk/icms/fox/live/IMP_LOGIN/login) once you’ve registered
 
+Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
+
+Otherwise, you shoule get an open import licence (OIL)
+
+###Apply for an OIL
+
+- [complete the application](https://www.spiretest.trade.gov.uk/spireuat/fox)
+- [log in](https://www.spiretest.trade.gov.uk/spireuat/fox/espire/LOGIN/login) once you’ve registered
+
 
 Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
+
 
 
 For help, email <enquiries.ilb@bis.gsi.gov.uk>
