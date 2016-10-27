@@ -88,8 +88,6 @@ To apply, contact <firearms@homeoffice.gsi.gov.uk>
 
 It’s also an offence to import [certain specified weapons including knives, swords and other blades](https://www.gov.uk/guidance/import-controls-on-offensive-weapons#importing-knives-swords-and-other-offensive-weapons-into-the-uk).
 
-Offensive weapons which are designed to kill or inflict serious injury and do not have a legitimate use are banned or restricted from being imported into the UK.
-
 
 ###Circumstances where restricted offensive weapons can be imported
 
