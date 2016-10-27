@@ -33,14 +33,12 @@ $CTA
 Whether you’re importing from within or from outside the EU, your items are classed as firearms if they’re:
 
 
-rifles
-shotguns
-handguns
-automatic and semi-automatic firearms
-CS gas canisters, pepper sprays and other self defence sprays
-high voltage electric stun guns
-high powered air rifles and pistols
-items that have the appearance of being a firearm and can be readily converted into a live firearm
+- rifles, shotguns or handguns
+- automatic and semi-automatic firearms
+- CS gas canisters, pepper sprays and other self defence sprays
+- high voltage electric stun guns
+- high powered air rifles and pistols
+- items that have the appearance of being a firearm and can be readily converted into a live firearm
 
 
 ##Apply to import non-prohibited items
