@@ -74,12 +74,13 @@ Contact your exporter to make sure they attach copies of their transfer and expo
 $CTA
 
 
-##Deactivated firearms [include this for trade shows/exhibitions, or is this too edge case/mainstream?]
+##Deactivated firearms
 
 You must hold the relevant import licence [link?] and the firearm must be accompanied by an EU deactivation certificate.
 
 To apply, contact <firearms@homeoffice.gsi.gov.uk>      
 
+[include this section for trade shows/exhibitions?]
 
 ##Restricted items
 
