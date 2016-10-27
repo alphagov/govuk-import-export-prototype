@@ -121,6 +121,17 @@ If you are importing a restricted offensive weapon you should have evidence to d
 
 [what evidence is required?]
 
+###Temporary imports
+
+If you're importing weapons to re-export them, you need to apply for a [Open general transhipment licence (OGTL)](transhttps://www.gov.uk/government/publications/open-general-transhipment-licence).
+
+The licence you need depends on the items you're importing.
+
+Contact the Export Control Organisation for help by:
+
+- email: eco.help@bis.gsi.gov.uk
+- telephone: 020 7215 4594.
+
 ##When you don’t need a licence       
 
 You don’t usually need a licence to import any firearm manufactured before 1900. Email <enquiries.ilb@bis.gsi.gov.uk> for help.          
