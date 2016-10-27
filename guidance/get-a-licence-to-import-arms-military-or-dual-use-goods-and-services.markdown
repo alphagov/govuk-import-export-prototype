@@ -52,6 +52,10 @@ Licences are valid for 6 months. There’s no charge, and you will receive it wi
 
 Otherwise, you shoule get an open import licence (OIL)
 
+Email <enquiries.ilb@bis.gsi.gov.uk> for help.
+
+[or should it be enquiries.ilb@trade.gsi.gov.uk ?]
+
 ###Apply for an OIL
 
 - [complete the application](https://www.spiretest.trade.gov.uk/spireuat/fox)
@@ -59,13 +63,6 @@ Otherwise, you shoule get an open import licence (OIL)
 
 
 Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
-
-
-
-For help, email <enquiries.ilb@bis.gsi.gov.uk>
-
-
-[or should it be enquiries.ilb@trade.gsi.gov.uk ?]
 
 
 $CTA
