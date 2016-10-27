@@ -81,7 +81,7 @@ $CTA
 
 ##Deactivated firearms
 
-You must hold the relevant import licence [link?] and the firearm must be accompanied by an EU deactivation certificate.
+You must hold the relevant import licence [link?] and the firearm must be accompanied by an [EU deactivation certificate](https://www.gov.uk/government/publications/deactivated-firearms-implementing-regulation-eu-20152403).
 
 To apply, contact <firearms@homeoffice.gsi.gov.uk>      
 
