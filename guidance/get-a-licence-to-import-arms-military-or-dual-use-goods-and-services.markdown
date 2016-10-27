@@ -53,7 +53,7 @@ items that have the appearance of being a firearm and can be readily converted i
 Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
 
 
-##Apply to import prohibited (section 5)(https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/268395/bis-13-1384-do-i-need-an-import-licence.pdf) firearms
+##Apply to import prohibited [(section 5)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/268395/bis-13-1384-do-i-need-an-import-licence.pdf) firearms
 
 
 [register](https://www.ilb.trade.gov.uk/icms/fox/icms/)
