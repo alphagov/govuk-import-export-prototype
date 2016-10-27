@@ -68,7 +68,7 @@ Licences are valid for 6 months. There’s no charge, and you will receive it wi
 $CTA
 
 
-Contact your exporter to make sure they attach copies of their transfer and export licences to their consignment.
+Contact your exporter to make sure they attach copies of their transfer and export licences to the consignment.
 
 
 $CTA
