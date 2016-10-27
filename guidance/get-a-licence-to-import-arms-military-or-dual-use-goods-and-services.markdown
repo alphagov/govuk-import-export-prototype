@@ -43,8 +43,10 @@ Your items are classed as firearms if they’re:
 
 If your goods are prohibited you need to get a specific import licence (SIL)
 
-##[complete the application](https://www.ilb.trade.gov.uk/icms/fox/icms/)
-[log in](https://www.ilb.trade.gov.uk/icms/fox/live/IMP_LOGIN/login) once you’ve registered
+###Apply for an SIL
+
+- [complete the application](https://www.ilb.trade.gov.uk/icms/fox/icms/)
+- [log in](https://www.ilb.trade.gov.uk/icms/fox/live/IMP_LOGIN/login) once you’ve registered
 
 Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
 
