@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/importing.html
 ---
 
-To lawfully import weapons and ammunition into the UK you must hold:
+To import weapons and ammunition into the UK you must hold:
 
 - the relevant import licence or certificate
 - Home Office permission for handguns, pistols, revolvers and automatic or semi-automatic firearms
