@@ -80,7 +80,7 @@ WA4 1HT
 
 ###Exporting WEEE
 
-If you're a producer of electrical wasteyour producer compliance scheme will usually make sure that you meet any extrrequirements. 
+If you're a producer of electrical waste your producer compliance scheme will usually make sure that you meet any extra requirements. 
 
 If you're an approved treatment facility or a electrical waste business acting on behalf on a producer compliance scheme, you'll need to [apply for approval](https://www.gov.uk/guidance/waste-electrical-and-electronic-equipment-weee-exporting)
 
