@@ -130,5 +130,5 @@ Email <firearms.enquiries@homeoffice.gsi.gov.uk>
 
 For licence renewal or variation, Home Office shooting club, museum firearms licence:
 
-email <firearms.application@homeoffice.gsi.gov.uk>
-telephone: 020 7035 3538
+- email <firearms.application@homeoffice.gsi.gov.uk>
+- telephone: 020 7035 3538
