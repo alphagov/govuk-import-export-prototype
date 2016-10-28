@@ -60,7 +60,7 @@ Some organisations may be able to bring in prohibited items.
 
 [Check if you can apply](#restricted) for a specific import licence (SIL)
 
-###Apply
+###Apply for an SIL
 
 You need to:
 
