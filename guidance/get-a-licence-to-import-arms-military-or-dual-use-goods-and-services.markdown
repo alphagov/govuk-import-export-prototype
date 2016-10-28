@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to import arms, military or dual use goods and services
-summary: You must have a licence to import anything on the consolidated list of strategic military and dual use items (the ‘consolidated military list’).
+summary: You must get a licence to import weapons, ammunition or dual-use goods and services.
 permalink: /guidance/get-a-licence-to-import-arms-military-or-dual-use-goods-and-services.html
 topic:
   name: Importing
