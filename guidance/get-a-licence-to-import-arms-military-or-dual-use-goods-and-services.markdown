@@ -39,23 +39,7 @@ Your items are classed as firearms if they’re:
 - high powered air rifles and pistols
 - items that have the appearance of being a firearm and can be readily converted into a live firearm
 
-
-Some organisations may be able to bring in prohibited items. 
-
-[Check if you can apply](#restricted) for a specific import licence (SIL)
-
-###Apply for an SIL
-
-You need to:
-
-- [complete the application](https://www.ilb.trade.gov.uk/icms/fox/icms/)
-- [log in](https://www.ilb.trade.gov.uk/icms/fox/live/IMP_LOGIN/login) once you’ve registered
-
-Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
-
-Email <enquiries.ilb@bis.gsi.gov.uk> for help.
-
-[or should it be enquiries.ilb@trade.gsi.gov.uk ?]
+##Open import licence (OIL)
 
 If your items are not prohibited, you need to apply for an OIL.
 
@@ -68,8 +52,26 @@ You need to:
 - [complete the application](https://www.spiretest.trade.gov.uk/spireuat/fox)
 - [log in](https://www.spiretest.trade.gov.uk/spireuat/fox/espire/LOGIN/login) once you’ve registered
 
+Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
+
+##Specific import licence (SIL)
+
+Some organisations may be able to bring in prohibited items. 
+
+[Check if you can apply](#restricted) for a specific import licence (SIL)
+
+###Apply
+
+You need to:
+
+- [complete the application](https://www.ilb.trade.gov.uk/icms/fox/icms/)
+- [log in](https://www.ilb.trade.gov.uk/icms/fox/live/IMP_LOGIN/login) once you’ve registered
 
 Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
+
+Email <enquiries.ilb@bis.gsi.gov.uk> for help.
+
+[or should it be enquiries.ilb@trade.gsi.gov.uk ?]
 
 
 $CTA
