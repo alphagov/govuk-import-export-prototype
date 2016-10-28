@@ -54,13 +54,26 @@ You need to:
 
 Licences are valid for 6 months. There’s no charge, and you will receive it within xx days/weeks.
 
-##Specific import licence (SIL)
+##Restricted weapons
 
-Some organisations may be able to bring in prohibited items. 
+[Restricted weapons](https://www.gov.uk/guidance/import-controls-on-offensive-weapons#circumstances-where-restricted-offensive-weapons-can-be-imported) may be imported for specified purposes with a [specific import licence (SIL)](#SIL).
 
-[Check if you can apply](#restricted) for a specific import licence (SIL)
+It’s also an offence to import [certain specified weapons including knives, swords and other blades](https://www.gov.uk/guidance/import-controls-on-offensive-weapons#importing-knives-swords-and-other-offensive-weapons-into-the-uk).
+
+###Sanctions
+
+[Check if the service or item you want to import is subject to sanctions](https://www.gov.uk/guidance/import-controls#notices-to-importers)
+
+
+##Circumstances where restricted offensive weapons can be imported
+{:#restricted}
+
+If you are importing a restricted offensive weapon you should have evidence to demonstrate why you require it.
+
+[what evidence is required?]
 
 ###Apply for an SIL
+{:#SIL}
 
 You need to:
 
@@ -91,22 +104,6 @@ To apply, contact <firearms@homeoffice.gsi.gov.uk>
 
 [include this section for trade shows/exhibitions?]
 [How do you apply for a EU deactivation certificate?]
-
-##Restricted items
-
-[Check if the service or item you want to import is subject to sanctions](https://www.gov.uk/guidance/import-controls#notices-to-importers)
-
-It’s also an offence to import [certain specified weapons including knives, swords and other blades](https://www.gov.uk/guidance/import-controls-on-offensive-weapons#importing-knives-swords-and-other-offensive-weapons-into-the-uk).
-
-
-###Circumstances where restricted offensive weapons can be imported
-{:#restricted}
-
-[Restricted weapons](https://www.gov.uk/guidance/import-controls-on-offensive-weapons#circumstances-where-restricted-offensive-weapons-can-be-imported) may be imported for specified purposes.
-
-If you are importing a restricted offensive weapon you should have evidence to demonstrate why you require it.
-
-[what evidence is required?]
 
 ##Transhipment licensing
 
