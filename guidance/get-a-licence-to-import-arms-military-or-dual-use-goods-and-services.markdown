@@ -40,7 +40,9 @@ Your items are classed as firearms if they’re:
 - items that have the appearance of being a firearm and can be readily converted into a live firearm
 
 
-If your goods are prohibited you need to get a specific import licence (SIL)
+Some organisations may be able to bring in prohibited items. 
+
+[Check if you can apply](#restricted) for a specific import licence (SIL)
 
 ###Apply for an SIL
 
@@ -96,8 +98,9 @@ It’s also an offence to import [certain specified weapons including knives, sw
 
 
 ###Circumstances where restricted offensive weapons can be imported
+{:#restricted}
 
-[Some organisations are allowed to import restricted weapons](https://www.gov.uk/guidance/import-controls-on-offensive-weapons#circumstances-where-restricted-offensive-weapons-can-be-imported) for specified purposes, this includes.
+[Restricted weapons](https://www.gov.uk/guidance/import-controls-on-offensive-weapons#circumstances-where-restricted-offensive-weapons-can-be-imported) may be imported for specified purposes.
 
 If you are importing a restricted offensive weapon you should have evidence to demonstrate why you require it.
 
