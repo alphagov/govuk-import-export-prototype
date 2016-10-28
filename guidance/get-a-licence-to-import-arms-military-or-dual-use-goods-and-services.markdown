@@ -97,26 +97,7 @@ It’s also an offence to import [certain specified weapons including knives, sw
 
 ###Circumstances where restricted offensive weapons can be imported
 
-Some organisations are allowed to import and hold restricted offensive weapons for specified purposes, this includes:
-
-- museums, galleries and universities for exhibition
-- HM forces
-- visiting forces
-- police forces and the prison service (for example, batons and truncheon)
-- those making commercial imports solely for onward supply to the police or prison service or trade samples
-
-Restricted offensive weapons may also be imported:
-
-- for theatrical performances
-- for film and television programme production
-- if they are stealth knives for domestic use, preparing food, or as a toy
-
-Swords with a curved blade of 50cm or more may be imported where the weapon:
-
-- was made before 1954
-- was made by traditional hand sword-making methods
-- is for use in religious ceremonies or for martial arts
-- is for use in a historical re-enactments or sporting activity for which public liability insurance is held
+[Some organisations are allowed to import restricted weapons](https://www.gov.uk/guidance/import-controls-on-offensive-weapons#circumstances-where-restricted-offensive-weapons-can-be-imported) for specified purposes, this includes.
 
 If you are importing a restricted offensive weapon you should have evidence to demonstrate why you require it.
 
