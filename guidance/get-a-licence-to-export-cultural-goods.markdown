@@ -38,12 +38,7 @@ Read the Art Council’s [guidance](http://www.artscouncil.org.uk/what-we-do/sup
 ##How to apply
 
 s1. Contact the [Export Licensing Unit](/guidance/get-a-licence-to-export-cultural-goods.html#contact) to get an application form.
-s2. Complete your application and send it to the Export Licensing Unit. You may need to give extra information, such as a photograph of the item or details of its origin. 
-
-You need to provide supporting documents with your application, like:
-
-* proof of import - if the object arrived in the UK in the past 50 years
-* full 'provenance' (documentation which confirms it's authentic) and a photograph - if the object has been in the UK for the past 50 years or longer.
+s2. Complete your application and send it to the Export Licensing Unit. If the object arrived in the UK in the past 50 years, include proof of import. Otherwise, include proof that it's authentic (full provenance) and a photograph.
 
 If you plan to export an item temporarily, you must include the date it will return to the UK on the application.
 
