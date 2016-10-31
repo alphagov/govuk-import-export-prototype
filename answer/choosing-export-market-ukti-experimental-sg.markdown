@@ -22,7 +22,6 @@ Read the [Overseas Business Risk reports](https://www.gov.uk/government/collecti
 
 You can check the EU Market Access Database to research a country's [duty rates](http://madb.europa.eu/madb/datasetPreviewFormIFpubli.htm?datacat_id=IF&from=publi) and [licensing rules.](http://madb.europa.eu/madb/datasetPreviewFormATpubli.htm?datacat_id=AT&from=publi)
 
-
 ## Get started in a new overseas market
 
 You can:
@@ -33,3 +32,9 @@ You can:
 - get bespoke research by contacting your nearest [International Trade team](https://www.contactus.trade.gov.uk/office-finder) - there's a charge for this
 
 ^When you’re ready, get help to [find overseas customers an export opportunities](/start/find-overseas-business-opportunities-experimental-sg.html).^
+
+##Check there are no special requirements in another EU country
+
+If you're moving goods to another EU country, check if your product [may have special rules](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/products-list_en).
+
+If it does, [use the contact point](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/contacts-list_en) in the country you're moving your goods to to check the rules.
