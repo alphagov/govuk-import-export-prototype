@@ -35,6 +35,10 @@ You can:
 
 ##Check there are no special requirements in another EU country
 
-If you're moving goods to another EU country, check if your product [may have special rules](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/products-list_en).
+Most goods and services that you move within the EU are 'harmonised' - if they meet certain standards in the UK, you can take them everywhere in the EU.
 
-If it does, [use the contact point](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/contacts-list_en) in the country you're moving your goods to to check the rules.
+Some goods or services are exceptions and will need to follow extra 'technical rules'.
+
+s1. Check if your goods or services [may have to follow special rules](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/products-list_en).
+
+s2. If it does, [use the contact point](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/contacts-list_en) in the country you're moving your goods to to check the rules.
