@@ -14,8 +14,7 @@ You must be registered with HMRC to produce excise goods or to handle excise goo
 
 If you’re registered with HMRC to produce excise goods, you can:
 
-- export the goods outside the EU without paying UK excise duty, and pay the excise duty in the country the goods are being imported to
-- get approval to move goods within the EU while they’re in duty suspension
+- export the goods outside the EU without paying UK excise duty
 - move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
 - sell goods directly to consumers inside and outside the EU
 
@@ -30,7 +29,7 @@ There's a [ban on exporting high quality wines, spirits, cigars and cigarillos t
 
 $CTA
 
-Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods. [Research the legal and tax rules](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) before you send any goods overseas.
+Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods (including within the EU for duty suspended goods). [Research the legal and tax rules](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) before you send any goods overseas.
 
 $CTA
 
@@ -42,6 +41,8 @@ You can only export single grain, blended malt, blended grain or blended Scotch 
 - going to someone who is registered with HMRC as a blender, bottler, labeller or approved bulk importer
 
 You must not export Scotch whisky in a wooden cask or holder.
+
+If you need to prove the authenticity of your whisky, contact certificates.sdvs@hmrc.gsi.gov.uk to apply for a certificate of age and origin.
 
 ### Irish whiskey and poteen (potin)
 
@@ -64,16 +65,15 @@ It’s free to apply and the certificates don’t expire (unless the country you
 
 ## Moving duty suspended goods within the EU
 
-You can sell duty suspended excise goods to someone based outside the UK if they:
+You can sell duty suspended excise goods to someone based in the EU if they:
 
 - are approved as a [‘warehouse keeper’ of excise goods](https://www.gov.uk/guidance/receiving-storing-and-moving-excise-goods) in the UK or another EU country
+- are approved to regularly import duty suspended goods from the EU or you're approved but you have to ask permission each time ("Registered Consignees" and "Temporary Registered Consignees")
 - have a ‘duty representative’ registered with HMRC acting for them
-
-If you sell them to anyone else, excise duty becomes payable immediately.
 
 If you follow the right processes, the excise duty isn’t payable until the goods are released. And the importer is responsible for paying the excise duty.
 
-### How to move duty suspended goods within the EU
+###How to move duty suspended goods within the EU
 
 You can only move goods under excise duty suspension if either: 
 
@@ -90,8 +90,6 @@ If you send excise goods to another country, that country will usually apply exc
 So that you don’t pay excise duty twice, you can claim excise duty drawback on the UK excise duty that’s already been paid.
 
 To claim excise duty drawback, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. 
-
-You can’t claim it on goods you send to the Isle of Man, because it uses the same excise duty system as the UK.
 
 Chewing tobacco doesn’t qualify for excise duty drawback if you’re sending it to another EU 
 country.
@@ -119,7 +117,7 @@ The minimum amount you can claim is £500. If your claim is for less than £500,
 If you don’t make an excise duty drawback claim for 6 months, the minimum claim drops to £50.
 
 s1. Before you send the goods, [notify HMRC online](https://www.tax.service.gov.uk/forms/form/notice-of-intention-to-claim-drawback/new) that you’re going to make a claim for excise duty drawback. Or complete [form EX75](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374377/ex75.pdf) (PDF, 214KB) - sometimes called the ‘Notice of Intention’ or ‘NOI’ - and send it by post.
-s2. Wait for at least 2 full business days in case HMRC decides to inspect the goods. For example, if HMRC receives your notification on the Monday, you can send the goods on the Wednesday. If HMRC receives the notification after 4pm, it counts as the following business day.
+s2. Wait for at least 2 full business days in case HMRC decides to inspect the goods. For example, if HMRC receives your notification on the Monday, you can send the goods on the Thursday. If HMRC receives the notification after 4pm, it counts as the following business day.
 
 If your claim is successful, HMRC will pay the money into your bank account.
 
