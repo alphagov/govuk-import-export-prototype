@@ -100,23 +100,23 @@ country.
 
 You can only sell excise goods directly to consumers if the UK excise duty has been paid.
 
-On top of that, all EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
+##Selling foods in EU countries
+
+Some EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
 
 EU countries may tell you to appoint a tax representative in their country (for example, an accountant or law firm) to guarantee and pay the duty on your behalf.
-
-[Question for SME: are accountants and law firms good examples?
 
 When you sell the goods in another EU country, you can claim the UK excise duty back through excise duty drawback.
 
 ## How to claim excise duty drawback
 
-You must claim excise duty drawback within 3 years of the original duty payment.
+You must claim excise duty drawback within 3 years of the original duty pay
 
 The minimum amount you can claim is £500. If your claim is for less than £500, wait until you have other claims worth £500 in total, then send them together.
 
 If you don’t make an excise duty drawback claim for 6 months, the minimum claim drops to £50.
 
-s1. Before you send the goods, [notify HMRC online](https://www.tax.service.gov.uk/forms/form/notice-of-intention-to-claim-drawback/new) that you’re going to make a claim for excise duty drawback. Or complete [form EX75](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374377/ex75.pdf) (PDF, 214KB) - sometimes called the ‘Notice of Intention’ or ‘NOI’ - and send it by post.
+s1. Before you send the goods, [notify HMRC online](https://www.tax.service.gov.uk/forms/form/notice-of-intention-to-claim-drawback/new) that you’re going to make a claim for excise duty drawback. Or complete [form EX75](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374377/ex75.pdf) (PDF, 214KB) - sometimes called the ‘Notice of Intention’ or ‘NOI’ - and fax, email or post it.
 s2. Wait for at least 2 full business days in case HMRC decides to inspect the goods. For example, if HMRC receives your notification on the Monday, you can send the goods on the Thursday. If HMRC receives the notification after 4pm, it counts as the following business day.
 
 If your claim is successful, HMRC will pay the money into your bank account.
