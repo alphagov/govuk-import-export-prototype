@@ -7,11 +7,11 @@ topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
-Within the [EU](https://www.gov.uk/eu-eea), there aren't special rules unless you export [controlled chemicals](#licences-controlled-chemicals), eg those with a military use or controlled drugs.
+Within the [EU](https://www.gov.uk/eu-eea), there aren't special rules unless you export [controlled chemicals](#licences-controlled-chemicals), for example those with a military use.
 
 Outside the EU, you must follow the [additional export rules](#additional-export-rules), as well the rules for any controlled chemicals.
 
-Export rules cover single substances as well as mixtures (also called preparations), eg paints, inks, glues or oils.
+Export rules cover single substances as well as mixtures (also called preparations). For example, paints, inks, glues or oils.
 
 $CTA
 
@@ -36,37 +36,26 @@ You must report any suspicious transactions - [check the contact in the country 
 ###Drug precursor chemicals
 {:#precursors}
 
-You may need a licence or to follow special rules to export drug precursor chemicals. This includes moving them within the EU.
+
+You may need a licence to export drug precursor chemicals. This is in addition to any [domestic licence]/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies) you need to possess the chemicals in the UK.
 
 ###Apply for an export licence
 {:#apply-export-licence}
 
-[Check the table](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb) to confirm if your chemical needs:
-
-* an export licence (“individual authorisation”) - the application process can take up to 16 weeks
-* a pre-export notification (“PEN”) - you won’t need to apply for anything else but your licence will take 15 days longer to be processed
+[Check the table](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523144/4_-_Precursor_Chemical_import_and_export_wallchart__v02-2016_.pdf) (PDF, 69kb) to confirm if your chemical needs an export licence (sometimes called a pre-export notification or “PEN”).
 
 To apply, either:
 
 - [register for an account](https://dlcu.homeoffice.gov.uk/UserRegForm.aspx) with the National Drugs control System (NDS)
 - [log in](https://dlcu.homeoffice.gov.uk/Login.aspx) if you’ve already registered
 
-Your licence will be valid for 3 months.
+Apply at least 20 working days in advance. Your licence will be valid for 3 months.
 
 #####Fees
 
 The export licence costs £24 - an invoice will be sent to your address.
 
 If you need a purchase order number on the invoice, state this when you apply or email <DFLU.fees@homeoffice.gsi.gov.uk>.
-
-###Annual returns
-{:#annual-returns-precursors}
-
-You must tell the Home Office about the precursor drugs you export each year.
-
-Complete the [annual return form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/275020/Precursor_chemicals_AR_form-2013.xlsx) (XLS, 151kb) and email it by 31 January to the address on the form.
-
-[Question for SME: this from is from 2013 - is there an up-to-date version of the form available?]
 
 ###Contact
 
