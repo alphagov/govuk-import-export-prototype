@@ -167,7 +167,8 @@ If the animal is classed as Annex B, C or D, you don't need to do anything.
 If it’s classed as Annex A, you must apply for an Article 10 certificate unless you’re:
 
 - exporting live animals for non-commercial reasons like scientific research
-- re-exporting live animals that were bred in captivity or [certain captive bred birds](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008R0100#d1e34-14-1)
+- exporting [certain captive bred birds](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008R0100#d1e34-14-1)
+- re-exporting live animals that were bred in captivity
 
 
 $CTA
@@ -177,7 +178,7 @@ $CTA
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
-Email it to <wildlife.licensing@apha.gsi.gov.uk> or [post it to the Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+Email it to <wildlife.licensing@apha.gsi.gov.uk> or post it to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Include any supporting documents that show you acquired the product legally, for example:
 
@@ -198,7 +199,7 @@ If it's classed as D, check the animal's CITES listing in the Species+ tool. If 
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
 
-If you're re-exporting a species include CITES import permit to prove it legally entered the EU.
+If you're re-exporting a species, include its CITES import permit to prove it legally entered the EU.
 
 Email or post the completed form to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
