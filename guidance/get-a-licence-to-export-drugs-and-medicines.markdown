@@ -13,6 +13,7 @@ You need permission to export:
 - [certain drugs that can be used in lethal injections](#lethal-injections) outside the EU
 - [medicines](#medicines) for humans or animals
 
+There’s a different process if you want to [travel with controlled drugs for personal use](https://www.gov.uk/travelling-controlled-drugs) For example, taking medicine with you on holiday. 
 
 $CTA
 
@@ -20,22 +21,14 @@ Some countries may have import rules for certain goods. You can check by talking
 
 $CTA
 
-
 ##Controlled drugs
 {:#controlled-drugs}
 
-[Check the controlled drugs list](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation).
+[Check the list of common controlled drugs](https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation).
 
-If your drug is not on the list but you think it might have the properties of a controlled substance, [contact the Home Office](#DFLU).
+If your drug is not on the list but you think it might have the properties of a controlled drug, check the relevant legislation to find out if it’s controlled. The list of common controlled drugs has links to the relevant legislation.
 
-If your drug is controlled, you need to apply for a [Home Office controlled drug licence](#apply-export-licence) to export it.
-
-$CTA
-
-You must already have a domestic licence before you export, if you don't, [apply for one](https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies).
-
-$CTA
-
+If your drug is controlled, you need to apply for a [Home Office controlled drug licence](#apply-export-licence) to export it. This is in addition to any [domestic licence]/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies) you need to possess the chemicals in the UK.
 
 ###Apply for an export licence
 {:#apply-export-licence}
@@ -49,6 +42,8 @@ To apply:
 
 Your licence will be valid for up to 2 months (or until your import permit expires, if sooner).
 
+There’s a different form if you’re exporting controlled drugs to the Channel Islands. Contact <Channel_Islands@homeoffice.gsi.gov.uk> for details.
+
 ###Fees
 
 The export licence costs £24.
@@ -60,24 +55,9 @@ DFLU will send you a written invoice to the registered address on your customer 
 Contact the Drugs and Firearms Licensing Unit (DFLU) if you need help.
 
 **Drugs and Firearms Licensing Unit** 
-
 Telephone: 020 7035 6330  
 [DFLU.ie@homeoffice.gsi.gov.uk](mailto:DFLU.ie@homeoffice.gsi.gov.uk)  
 [Find out about call charges](/call-charges)  
-
-###Exporting controlled drugs to the Channel Islands
-{:#channel-islands}
-
-You need a licence to export controlled drugs to the Channel Islands. 
-
-If you'll export 24 or more shipments in a 12 month period, [apply for frequent exporter licence](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/480879/freq-exporter-licence-app.doc) (Word, 85.KB). Your licence lasts for up to 1 year - to renew, apply for a new one at least 4 weeks before your licence expires.
-
-If you'll export less than 24 shipments in a 12 month period you need to:
-
-- [apply for an export licence](#apply-export-licence) for each consignment
-- send an import permit from the destination country to <Channel_Islands@homeoffice.gsi.gov.uk>
-
-Frequent exporters must also fill in an [export returns form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/480881/monthly-exp-form.xls) (XLS, 181KB) every month.
 
 ##Drugs that can be used for lethal injections
 {:#lethal-injections}
@@ -111,7 +91,6 @@ The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk)
 [Question for SME: how much does it cost to get a licence?]
 
 ECO uses the [consolidated EU and national arms export licensing criteria](http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm140325/wmstext/140325m0001.htm#14032566000018) to decide whether to give a licence.
-
 
 ##Medicines 
 {:#medicines}
@@ -229,13 +208,11 @@ SW1W 9SZ
 |£68 |10 working days |
 |£152 |2 working days |
 
-
 If your application is successful, you’ll get the original version of your certificate and 2 copies.
 
 [SME question: How and when do you pay these fees?]
 
 You can get extra copies of certificates for £34 each.
-
 
 ##Export certificates for medicines for animals
 {:#animal-medicines}
@@ -267,7 +244,6 @@ Both Defra-1 and Defra-3 show:
 - the UK administrative address
 - the UK manufacturing site addresses
 - the authorised operations at the UK manufacturing sites
-
 
 For Defra-1, you fill in a schedule that lets you give addititional specific information about your export. You don't have this option with Defra-3.
 
