@@ -162,14 +162,16 @@ If Species+ says the animal is banned, you can't export it.
 
 ###Within the EU
 
-If the animal is classed as B, C or D, you don't need to do anything.
+If the animal is classed as Annex B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must apply for an Article 10 certificate unless you’re re-exporting live animals that were bred in captivity.
+If it’s classed as Annex A, you must apply for an Article 10 certificate unless you’re:
 
-You don’t need any special documents if you’re using live animals for non-commercial reasons, eg for scientific research.
+- exporting live animals for non-commercial reasons like scientific research
+- re-exporting live animals that were bred in captivity or [certain captive bred birds](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008R0100#d1e34-14-1)
+
 
 $CTA
-You don't need a certificate for [certain captive bred birds](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008R0100#d1e34-14-1) and there are spceial rules for [wild disabled birds of prey](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf) (PDF, 82KB).
+There are special rules for [wild disabled birds of prey](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf) (PDF, 82KB).
 $CTA
 
 ###Apply for an Article 10 certificate
@@ -190,7 +192,7 @@ You should get your certificate within 15 working days.
 
 If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
 
-If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
+If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a CITES export permit. Otherwise you don't need to do anything.
 
 ###Apply for a CITES permit
 
