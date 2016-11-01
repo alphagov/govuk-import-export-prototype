@@ -101,7 +101,7 @@ Include any supporting documents that show you acquired the product legally, for
 
 The certificate costs £31. 
 
-You should get your certificate within 15 days.
+You should get your certificate within 15 working days.
 
 
 ###Outside the EU
