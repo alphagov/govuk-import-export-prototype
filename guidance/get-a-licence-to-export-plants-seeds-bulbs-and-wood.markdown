@@ -148,7 +148,7 @@ Use the Species+ tool to [search for your plant](https://www.speciesplus.net/). 
 
 What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
 
-If Species+ says the plant is banned, you can't export it. There aren't any exceptions to this rule.
+If Species+ says the plant is banned, you can't export it. 
 
 ###Within the EU
 
@@ -162,7 +162,7 @@ You don’t need any special documents if you’re using plants for non-commerci
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
 
-Send it to <wildlife.licensing@apha.gsi.gov.uk>.
+Email it to <wildlife.licensing@apha.gsi.gov.uk> or [post it to the Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Include any supporting documents that show you acquired the product legally, for example:
 
@@ -171,14 +171,14 @@ Include any supporting documents that show you acquired the product legally, for
 
 The certificate costs £31. Find out how to pay for your application.
 
-You should get your certificate within 6 weeks.
+You should get your certificate within 15 working days.
 
 
 ###Outside the EU
 
 If it's classed as A, B or C, you need a [CITES export permit](#apply-for-a-cites-permit).
 
-If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
+If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit](apply-for-a-cites-permit). Otherwise you don't need to do anything.
 
 ###Apply for a CITES permit
 
@@ -188,7 +188,7 @@ If you're re-exporting goods include supporting documents to prove it legally en
 
 Email or post the completed form to [APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc)or([DEARA](https://www.dardni.gov.uk/contact) in Northern Ireland.
 
-A permit costs £63 (or £37 to re-import). You should receive it within 15 working days.
+A permit costs £74 (or £59 to re-export). You should receive it within 15 working days.
 
 If you're exporting as part of conservation work, you might be able to [get a fee waiver](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/50323/form-citb20.pdf).
 
@@ -200,20 +200,12 @@ You can use the certificate whether you're moving goods within or outside the EU
 
 It's valid for 3 years and means you don't need to apply for permission each time you take your display items abroad.​
 
-To apply, fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate). Send it to the address on the form.
-
-You’ll get your certificate within xx days/weeks and there’s no fee.
-
-[Question for SME: how regularly must you export to qualify for a certificate?]
-
 ###Apply
 
 - complete the [application](https://www.gov.uk/government/publications/endangered-species-application-for-travelling-exhibition-certificate)
 - send it to the address on the form
 
-You’ll get your certificate within xx days/weeks and there’s no fee.
-
-[Question for SME: how regularly must you export to qualify for a certificate?]
+You’ll get your certificate within 15 working days and there’s no fee.
 
 ##Prohibited plants and soil
 {:#prohibited-plants}
