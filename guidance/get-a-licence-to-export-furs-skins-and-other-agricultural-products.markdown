@@ -81,7 +81,7 @@ If Species+ says the animal is banned, you can't export the product.
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate].
+If it’s classed as Annex A, you must [apply for an Article 10 certificate](apply-for-an-article-10-certificate).
 
 You don’t need a certificate to export:
 
