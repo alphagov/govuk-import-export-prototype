@@ -22,6 +22,8 @@ Read the [Overseas Business Risk reports](https://www.gov.uk/government/collecti
 
 You can check the EU Market Access Database to research a country's [duty rates](http://madb.europa.eu/madb/datasetPreviewFormIFpubli.htm?datacat_id=IF&from=publi) and [licensing rules.](http://madb.europa.eu/madb/datasetPreviewFormATpubli.htm?datacat_id=AT&from=publi)
 
+Check whether [EU wide technical rules or national rules](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors_en) apply if you're sending goods within the EU. If technical rules or national rules apply, you can get advice from the [product contact point](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/contacts-list_en) for that country.
+
 ## Get started in a new overseas market
 
 You can:
@@ -32,13 +34,3 @@ You can:
 - get bespoke research by contacting your nearest [International Trade team](https://www.contactus.trade.gov.uk/office-finder) - there's a charge for this
 
 ^When you’re ready, get help to [find overseas customers an export opportunities](/start/find-overseas-business-opportunities-experimental-sg.html).^
-
-##Check there are no special requirements in another EU country
-
-Most goods and services that you move within the EU are 'harmonised' - if they meet certain standards in the UK, you can take them everywhere in the EU.
-
-Some goods or services are exceptions and will need to follow extra 'technical rules'.
-
-s1. Check if your goods or services [may have to follow special rules](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/products-list_en).
-
-s2. If it does, [use the contact point](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/contacts-list_en) in the country you're moving your goods to to check the rules.
