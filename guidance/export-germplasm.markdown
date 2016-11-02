@@ -89,8 +89,8 @@ You don’t need any special documents if you’re using germplasm for non-comme
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
-Email it to <wildlife.licensing@apha.gsi.gov.uk> or [post it to the Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
-
+Email it to <wildlife.licensing@apha.gsi.gov.uk> or post it to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+  
 Include any supporting documents that show you acquired the product legally, for example:
 
 - a copy of the import permit
@@ -102,15 +102,15 @@ You should get your certificate within 15 working days.
 
 ###Outside the EU
 
-If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
+If it's classed as Annex A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
 
-If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit]. Otherwise you don't need to do anything.
+If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a CITES export permit. Otherwise you don't need to do anything.
 
 ###Apply for a CITES permit
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
 
-If you're re-exporting goods include a CITES import permit to prove it legally entered the EU.
+If you're re-exporting goods, include a CITES import permit to prove it legally entered the EU.
 
 Email or post the completed form to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
