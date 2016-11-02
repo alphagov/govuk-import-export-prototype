@@ -104,7 +104,7 @@ You can only sell excise goods directly to consumers if the UK excise duty has b
 
 Some EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
 
-EU countries may tell you to appoint a tax representative in their country (for example, an accountant or law firm) to guarantee and pay the duty on your behalf.
+EU countries may tell you to appoint a tax representative in their country to guarantee and pay the duty on your behalf.
 
 When you sell the goods in another EU country, you can claim the UK excise duty back through excise duty drawback.
 
