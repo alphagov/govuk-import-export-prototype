@@ -170,6 +170,7 @@ If it’s classed as Annex A, you must apply for an Article 10 certificate unles
 - exporting [certain captive bred birds](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008R0100#d1e34-14-1)
 - re-exporting live animals that were bred in captivity
 
+In these 3 cases, you don't need to do anything.
 
 $CTA
 There are special rules for [wild disabled birds of prey](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/362327/cites-gn6.pdf) (PDF, 82KB).
