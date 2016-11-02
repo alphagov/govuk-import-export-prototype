@@ -74,11 +74,12 @@ s6. Your official veterinarian will be asked to check that your germplasm meet t
 
 Use the Species+ tool to [search for the animal](https://www.speciesplus.net/) that the germplasm came from. Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
-What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
+What you need to do depends on whether you’re exporting [within the EU](#within-eu-endangered) or [outside the EU](#outside-eu-endangered).
 
 If Species+ says the animal is banned, you can't export its germplasm. 
 
 ###Within the EU
+{:#within-eu-endangered}
 
 If the animal is classed as B, C or D, you don't need to do anything.
 
@@ -101,8 +102,9 @@ The certificate costs £31.
 You should get your certificate within 15 working days.
 
 ###Outside the EU
+{:#outside-eu-endangered}
 
-If it's classed as Annex A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
+If it's classed as Annex A, B or C, you need a CITES export permit.
 
 If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a CITES export permit. Otherwise you don't need to do anything.
 
