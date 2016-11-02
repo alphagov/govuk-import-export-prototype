@@ -156,11 +156,12 @@ You must make sure you meet [animal welfare standards](https://www.gov.uk/guidan
 
 Use the Species+ tool to [search for your animal](https://www.speciesplus.net/). Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
-What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
+What you need to do depends on whether you’re exporting [within the EU](#within-eu-endangered) or [outside the EU](##outside-eu-endangered).
 
 If Species+ says the animal is banned, you can't export it. 
 
 ###Within the EU
+{:#within-eu-endangered}
 
 If the animal is classed as Annex B, C or D, you don't need to do anything.
 
@@ -191,6 +192,7 @@ The certificate costs £31.
 You should get your certificate within 15 working days.
 
 ###Outside the EU
+{:#outside-eu-endangered}
 
 If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
 
