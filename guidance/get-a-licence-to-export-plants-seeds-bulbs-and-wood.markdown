@@ -23,7 +23,7 @@ $CTA
 ##Within the EU
 {:#plants-within-EU}
 
-To sell plants, seeds or bulbs within the [EU](/eu-eea) you must check if you need a:
+To sell plants, seeds or bulbs within the [EU](http://www.gov.uk/eu-eea) you must check if you need a:
 
 - [plant passport](#plant-passport) (you don’t need one to sell plants directly to the public)
 - [supplier document](#supplier-document)
@@ -154,15 +154,16 @@ If Species+ says the plant is banned, you can't export it.
 
 If the plant is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate](#apply-for-an-article-10-certificate) if it’s an artificially propagated plant.
+If it’s classed as Annex A, you must apply for an Article 10 certificate unless either:
 
-You don’t need any special documents if you’re using plants for non-commercial reasons, eg for scientific research, educational display or giving it away.
+- the plant is not artificially propagated
+- you're exporting the plant for non-commercial reasons like scientific research, educational display or because you're giving it away
 
 ###Apply for an Article 10 certificate
 
 Fill in the [application form](https://www.gov.uk/government/publications/endangered-species-application-for-commercial-use) for the Article 10 certificate. 
 
-Email it to <wildlife.licensing@apha.gsi.gov.uk> or [post it to the Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
+Email it to <wildlife.licensing@apha.gsi.gov.uk> or post it to the [Centre for International Trade Bristol](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#specialist-service-centres-ssc).
 
 Include any supporting documents that show you acquired the product legally, for example:
 
@@ -176,9 +177,9 @@ You should get your certificate within 15 working days.
 
 ###Outside the EU
 
-If it's classed as A, B or C, you need a [CITES export permit](#apply-for-a-cites-permit).
+If it's classed as A, B or C, you need a CITES export permit.
 
-If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit](apply-for-a-cites-permit). Otherwise you don't need to do anything.
+If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a CITES export permit. Otherwise you don't need to do anything.
 
 ###Apply for a CITES permit
 
@@ -241,4 +242,3 @@ If the recipient tells you that you don’t need a letter of authority, ask for 
 ###Outside the EU
 
 [Contact APHA](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening) to find out what you need to do, including what the rules are in the country you're exporting to.
-
