@@ -71,7 +71,7 @@ You can sell duty suspended excise goods to someone based in the EU if they:
 - are approved to regularly import duty suspended goods from the EU or you're approved but you have to ask permission each time ("Registered Consignees" and "Temporary Registered Consignees")
 - have a ‘duty representative’ registered with HMRC acting for them
 
-If you follow the right processes, the excise duty isn’t payable until the goods are released. And the importer is responsible for paying the excise duty.
+If you follow the right processes, the excise duty isn’t payable until the goods are released. 
 
 ###How to move duty suspended goods within the EU
 
