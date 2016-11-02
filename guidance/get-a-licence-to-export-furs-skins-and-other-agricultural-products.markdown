@@ -1,14 +1,14 @@
 ---
 layout: guidance
-title: Get a certificate to export animal by-products and proccessed animal protein
-summary: You must have a certificate to export bones, skins and other animal by-products.
+title: Get a certificate to export animal bones, protein and other by-products
+summary: You must have a certificate to export animal bones, protein and other by-products
 permalink: /guidance/get-a-licence-to-export-furs-skins-and-other-animal-products.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You usually need to follow special rules to export bones, skins and other animal by-products.
+You usually need to follow special rules to export animal bones, protein and other by-products.
 
 What you need to do depends on whether you’re exporting [within the EU](#within-eu) or [outside the EU](#outside-eu).
 
