@@ -36,7 +36,7 @@ You must report any suspicious transactions - [check the contact in the country 
 ###Drug precursor chemicals
 {:#precursors}
 
-You may need a licence to export drug precursor chemicals. This is in addition to any [domestic licence](/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies) you need to possess the chemicals in the UK.
+You may need a licence to export drug precursor chemicals. This is in addition to any [domestic licence](http://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns#applying-for-a-licence-companies) you need to possess the chemicals in the UK.
 
 ###Apply for an export licence
 {:#apply-export-licence}
