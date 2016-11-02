@@ -156,7 +156,7 @@ You must make sure you meet [animal welfare standards](https://www.gov.uk/guidan
 
 Use the Species+ tool to [search for your animal](https://www.speciesplus.net/). Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
-What you need to do depends on whether you’re exporting [within the EU](#within-eu-endangered) or [outside the EU](##outside-eu-endangered).
+What you need to do depends on whether you’re exporting [within the EU](#within-eu-endangered) or [outside the EU](#outside-eu-endangered).
 
 If Species+ says the animal is banned, you can't export it. 
 
