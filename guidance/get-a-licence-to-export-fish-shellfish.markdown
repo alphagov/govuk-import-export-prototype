@@ -158,15 +158,16 @@ Monday to Friday, 9am to 5pm
 
 Use the Species+ tool to [search for your fish and shellfish](https://www.speciesplus.net/). Check which annex (A, B, C or D) it's classified as under EU wildlife trade regulations.
 
-What you need to do depends on whether you’re exporting [within the EU](#within-the-EU) or [outside the EU](#outside-the-EU).
+What you need to do depends on whether you’re exporting [within the EU](#within-eu-endangered) or [outside the EU](#outside-eu-endangered).
 
 If Species+ says the fish or shellfish is banned, you can't export the product. 
 
 ###Within the EU
+{:#within-eu-endangered}
 
 If the fish or shellfish is classed as B, C or D, you don't need to do anything.
 
-If it’s classed as Annex A, you must [apply for an Article 10 certificate](apply-for-an-article-10-certificate).
+If it’s classed as Annex A, you must apply for an Article 10 certificate.
 
 You don’t need any special documents if you’re using or displaying goods for non-commercial reasons, eg for scientific research or in an educational display.
 
@@ -187,9 +188,9 @@ You should get your certificate within 15 working days.
 
 
 ###Outside the EU
+{:#outside-eu-endangered}
 
-
-If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
+If it's classed as A, B or C, you need a CITES export permit.
 
 If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a [CITES export permit](#apply-for-a-CITES-permit). Otherwise you don't need to do anything.
 
