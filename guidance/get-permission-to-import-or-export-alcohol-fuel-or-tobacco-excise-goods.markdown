@@ -110,7 +110,7 @@ When you sell the goods in another EU country, you can claim the UK excise duty 
 
 ## How to claim excise duty drawback
 
-You must claim excise duty drawback within 3 years of the original duty pay
+You can claim excise duty drawback if you've released the goods within 3 years of the original duty payment.
 
 The minimum amount you can claim is £500. If your claim is for less than £500, wait until you have other claims worth £500 in total, then send them together.
 
