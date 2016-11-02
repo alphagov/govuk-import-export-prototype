@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a certificate to export products made from endangered animals 
+title: Get a certificate to export products made from endangered animals
 summary: You must get a certificate to export products made from endangered animals.
 permalink: /guidance/get-a-certificate-to-export-endangered-products-of-animal-origin.html
 topic:
