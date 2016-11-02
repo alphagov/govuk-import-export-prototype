@@ -194,11 +194,11 @@ You should get your certificate within 15 working days.
 ###Outside the EU
 {:#outside-eu-endangered}
 
-If it's classed as A, B or C, you need a [CITES export permit](apply-for-a-cites-permit).
+If it's classed as A, B or C, you need a CITES export permit.
 
 If it's classed as D, check the animal's CITES listing in the Species+ tool. If it's in Appendix III, you'll need a CITES export permit. Otherwise you don't need to do anything.
 
-###Apply for a CITES permit
+###Apply for a CITES export permit
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423417/form-fed0172.pdf) (PDF, 98.5KB) for a CITES permit
 
