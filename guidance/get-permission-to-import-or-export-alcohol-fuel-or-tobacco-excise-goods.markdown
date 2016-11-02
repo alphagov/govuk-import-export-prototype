@@ -15,13 +15,13 @@ You must be registered with HMRC to produce excise goods or to handle excise goo
 If you’re registered with HMRC to produce excise goods, you can:
 
 - export the goods outside the EU without paying UK excise duty
-- move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
+- export goods outside the EU after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
 - sell goods directly to consumers inside and outside the EU
 
 If you buy excise goods produced by someone else and the UK excise duty has already been paid, you can:
 
-- export goods outside the EU
-- move goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
+- move goods outside the EU
+- export goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
 - sell goods directly to overseas consumers
 
 There's a [ban on exporting high quality wines, spirits, cigars and cigarillos to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
