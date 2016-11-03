@@ -92,12 +92,14 @@ You need to apply for an Export Health Certificate (EHC) to export unprocessed a
 
 There is a ban on most food exports to Russia, ask the Centre for International Trade for details.
 
-s1. Contact the [Centre for International Trade Carlisle](/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
-s2. Tell them what you're exporting and the destination country. You'll either be asked who your official veterinarian is or for the name of the local authority officer who looks after for food law enforcement at your premises. Email [ovteam@apha.gsi.gov.uk](ovteam@apha.gsi.gov.uk) if you can't find a vet .
+s1. Contact the [Centre for International Trade Carlisle](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
+s2. Tell them what you’re exporting and the destination country. If your goods won’t be used as food, you’ll be asked to nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@apha.gsi.gov.uk>.
 s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to your official veterinarian or local authority officer within 7 working days.
-s5. Your official veterinarian or local authority officer will be asked to check that your animal products meet the requirements of the country you’re sending them to.
+s4. Your EHC will be sent to your local authority or official veterinarian within 7 working days.
+s5. Arrange for your goods to be inspected by your local authority or official veterinarian. They’ll check the goods meet the requirements of the EHC.
+s6. Check your EHC’s guidance notes to find out if you need it signed by the inspector.
 
+There’s no fee for the certificate but you’ll be charged for your vet or local authority inspector’s time.
 
 ##Vegetables, fruit and other plants used as food
 {:#plants}
