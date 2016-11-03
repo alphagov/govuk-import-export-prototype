@@ -75,87 +75,59 @@ You’ll get your certificate within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
 
-
 ## Moving duty suspended goods within the EU
 
-
-You can supply duty suspended excise goods to someone based in the EU if they:
-
+You can supply duty suspended excise goods to someone based in the EU if the goods are:
 
 - being moved from one excise warehouse to another 
-- are approved as a [‘warehouse keeper’ of excise goods](https://www.gov.uk/guidance/receiving-storing-and-moving-excise-goods) in the UK or another EU country
 - are approved to regularly import duty suspended goods from the EU or you're approved but you have to ask permission each time ("Registered Consignees" and "Temporary Registered Consignees")
-
 
 If you follow the right processes, the excise duty isn’t payable until the goods are released for consumption.
 
-
 ###How to move duty suspended goods within the EU
-
 
 You can only move goods under excise duty suspension if either any import duty or import VAT due has been paid.
 
-
 (https://www.gov.uk/government/publications/excise-notice-197a-excise-goods-holding-and-movement) (for example, at an airport on on board an airplane)
-
 
 Usually, you must use the [Excise Movement and Control System (EMCS)](https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use) to report that you’re moving excise goods in duty suspension.
 
-
 ## Moving duty paid goods overseas
-
 
 So that excise duty isn't paid twice, you can claim excise duty drawback on the UK excise duty that’s already been paid.
 
-
 To claim excise duty drawback, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. 
-
 
 ## Selling goods directly to consumers outside the UK
 
-
 You can only sell excise goods directly to consumers if the UK excise duty has been paid.
-
 
 Most countries have conditions for sellers of excise goods, and most require duty guarantees before you send any goods (including within the EU for duty suspended goods). [Research the legal and tax rules](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) before you send any goods overseas.
 
-
 ###Selling goods directly to consumers in EU countries
-
 
 Some EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
 
-
 EU countries may tell you to appoint a tax representative in their country to guarantee and pay the duty on your behalf.
-
 
 When you sell duty-paid goods  to a consumer in another EU country, you can claim the UK excise duty back through excise duty drawback.
 
-
 ## How to claim excise duty drawback
-
 
 You can claim excise duty drawback if you've released the goods within 3 years of the original duty payment.
 
-
 The minimum amount you can claim is £500. If your claim is for less than £500, wait until you have other claims worth £500 in total, then send them together.
 
-
 If you don’t make an excise duty drawback claim for 6 months, the minimum claim drops to £50.
-
 
 s1. Before you send the goods, [notify HMRC online](https://www.tax.service.gov.uk/forms/form/notice-of-intention-to-claim-drawback/new) that you’re going to make a claim for excise duty drawback. Or complete [form EX75](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/374377/ex75.pdf) (PDF, 214KB) - sometimes called the ‘Notice of Intention’ or ‘NOI’ - and fax, email or post it.
 s2. Wait for at least 2 full business days in case HMRC decides to inspect the goods. For example, if HMRC receives your notification on the Monday, you can send the goods on the Thursday. If HMRC receives the notification after 4pm, it counts as the following business day.
 
-
 If your claim is successful, HMRC will pay the money into your bank account.
-
 
 ## Get help
 
-
 Contact the HMRC imports and exports helpline if you have a question.
-
 
 **HMRC imports and exports helpline**  
 Telephone: 0300 200 3700  
