@@ -341,7 +341,7 @@ You can pay:
 
 * by cash, cheque, banker's draft or any other payments agreed by RPA 
 
-If you choose block payments you will receive statements from RPA to tell you how much you still owe. 
+If you choose block payments, RPA will send you statements for your records. 
 
 Bank: RBS (NatWest)  
 Sort code: 60-70-80  
