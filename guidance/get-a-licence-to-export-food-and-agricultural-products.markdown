@@ -37,9 +37,10 @@ There’s a [ban on exporting caviar, caviar substitutes, truffles and goods con
 
 Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB).
 
-Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
+Send it to <trader@rpa.gsi.gov.uk>. The certificate will usually be issued within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
+
 ###If you need help
 
 Contact the Rural Payments Agency (RPA).
@@ -342,8 +343,6 @@ You can pay:
 
 If you choose block payments you will receive statements from RPA to tell you how much you still owe. 
 
-
-
 Bank: RBS (NatWest)  
 Sort code: 60-70-80  
 Account number: 550/00/85014583  
@@ -352,7 +351,7 @@ IBAN: GB48 NWBK 6072 0385 0145 83
 
 ###Getting your security back
 
-Your security will be refunded in full if you export at least 95% of the quantity on the licence A paper licence must be returned within 2 months of its expiry date – the security will be released automatically if your licence was electronic.
+Your security will be refunded in full if you export at least 95% of the quantity on the licence A paper licence must be returned within 2 months of its expiry date. The security will be released automatically if you used the CHIEF system to export the goods.
 
 ###If you need help
 
@@ -360,4 +359,4 @@ Contact the RPA if you need help with CAP goods exports.
 
 **RPA External Trade Helpline**      
 Telephone:03300 416500 
-Monday to Friday, 8.30am to 5pm
+Monday to Friday, 8.30am to 5pm  
