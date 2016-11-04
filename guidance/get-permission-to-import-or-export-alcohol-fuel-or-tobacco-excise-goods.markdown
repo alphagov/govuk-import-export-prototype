@@ -57,21 +57,16 @@ You must not export Irish whiskey or poteen in a wooden cask or holder.
 
 ## If you need a certificate of free sale to export alcohol outside the EU
 
-
 Some countries require a 'certificate of free sale' before they will let food and drink products into the country.
-
 
 Check whether you need a certificate by asking the food authority in the importing country. They'll tell you what type they require.
 
-
 If you need a certificate:
-
 
 - fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484867/COFSApplicationExportNonEU_v2.0.doc) (MS Word Document, 127KB)
 - send it to <trader@rpa.gsi.gov.uk>
  
-You’ll get your certificate within 5 working days.
-
+The certificate will usually be issued within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
 
