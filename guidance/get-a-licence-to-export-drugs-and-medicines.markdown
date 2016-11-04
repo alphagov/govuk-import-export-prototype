@@ -100,6 +100,14 @@ To export veterinary and human medicines you must:
 - check you have a drug manufacturer, wholesale dealer or marketing licence - if you don’t, [apply for the licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences)
 - check if you need an export certificate - contact your importer or the government in the destination country to find out
 
+
+$CTA
+
+You don’t need one of these licences to export ‘over the counter’ veterinary medicines classed as 'AVM-GSL'. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
+
+
+$CTA
+
 If you need an export certificate, how you apply depends on whether you’re exporting:
 
 - [medicine for humans](#human-medicines)
@@ -223,21 +231,14 @@ Which one you need will depend on what you need to prove to the country you're e
 
 You can ask for [extra information](#extra-information) on the certificate if the importing country requires it.
 
-$CTA
-
-You don’t need one of these licences for ‘over the counter’ veterinary medicines classed as 'AVM-GSL'. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
-
-[Question for SME:  Is it correct that you do need authorisation if you're a wholesaler? Please can you clarify the term 'over the counter'?]
-
-$CTA
 
 ###Defra-2
 
-The Defra-2 certificate and information that comes with it (the ‘schedule’) show that the product is authorised for sale and supply in the UK.
+The Defra-2 certificate and information that comes with it (the ‘schedule’) show that the export product is authorised for sale and supply in the UK.
 
 ###Defra-1 and Defra-3
 
-Both Defra-1 and Defra-3 show:
+Both Defra-1 and Defra-3 certificate show:
 
 - the product is manufactured in the UK
 - the product meets good manufacturing practice (GMP) requirements
@@ -245,18 +246,18 @@ Both Defra-1 and Defra-3 show:
 - the UK manufacturing site addresses
 - the authorised operations at the UK manufacturing sites
 
-For Defra-1, you fill in a schedule that lets you give addititional specific information about your export. You don't have this option with Defra-3.
+For Defra-1, you fill in a schedule that lets you give additional specific information about your export. You don't have this option with Defra-3.
 
 ###Defra-4
 
-Defra-4 shows both:
+Defra-4 certificate and and information that comes with it (the ‘schedule’), shows both:
 
 - the same things as in the Defra-1 and Defra-3 certificates
 - that active substances in your product are available in a UK-authorised product
 
 ###Defra-SFA
 
-Defra-SFA is for specified feed additives (SFA). It can show either:
+Defra-SFA certificate (and the ‘schedule’ information that comes with it) is for specified feed additives (SFA). It can show either:
 
 - the same things as in the Defra-1 and Defra-3 certificates
 - that your product is UK-authorised
@@ -278,6 +279,7 @@ The importing country may need more information about your export.
 ###If you need extra information on the certificate
 {:#extra-information}
 
+
 Some countries need information that is not on the standard certificates or schedule templates.
 
 When you apply, you can ask for this information to be included for Defra-1, 2, or 4 certificates, but you must also include some [standard wording](#wording) in your application.
@@ -287,7 +289,7 @@ You can also ask for the following to be attached to your export documentation:
 - manufacturing authorisation
 - a summary of product characteristics (SPC) or product literature (or both)
 - a marketing authorisation certificate
-- Spanish or French versions of your documents
+- Spanish or French versions of the ‘schedule’ documents
  
 [Question for SME: What does someone do with the certificate when they've got it? Attach it to their consignment?]
 
@@ -305,27 +307,30 @@ Include:
 - if you’re not the manufacturer, a letter from them giving permission for their details to be used in your application (Defra-1, 3 or 4 only)
 - a completed ‘schedule’ template (not required for Defra-3)
 
-A schedule gives specific information about your export. Download and fill in one of the following:
+A schedule gives specific information about your export.
+
+
+ Download and fill in one of the following:
 
 - [Defra-1 schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421321/758549_Defra1_ScheduleTemplate.docx) (MS Word Document, 19KB)
 - [Defra-2 schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421323/761073_Defra2_ScheduleTemplate.docx) (MS Word Document, 18.5KB)
 - [Defra-4 schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421325/765798_Defra4_ScheduleTemplate.docx) (MS Word Document, 18.3KB)
 - [Defra-SFA schedule template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/421326/766188_DefraSFA_ScheduleTemplate.docx) (MS Word Document, 16.5KB)
 
-In the schedule, you can include that the product is ‘free from ingredients of a ruminant origin’ (if requested by the importing country). You must make it clear that the statement is made by you and not the VMD.
+In the Defra-2 schedule, you can include that the product is ‘free from ingredients of a ruminant origin’ (if requested by the importing country). You must make it clear that the statement is made by you and not the VMD - ask them to verify the statement.
 
 ###Standard wording
 {:#wording}
 
-If you need [extra information](#extra-information) on the certificate, you must also include the appropriate standard wording.
+If you need [extra information](#extra-information) on the ‘schedule’ because the importing country requires it, you must also include the appropriate standard wording on every additional page.
 
 Defra-1 and 4 wording:
 
-> The VMD stamp and signature on this page confirm the site is GMP compliant and holds a Manufacturing Authorisation. It does not independently verify any of the other information contained on this page. The Qualified Person at the site named on page one is responsible for the veracity and validity of the other information on this document.
+> The VMD stamp and signature on this page confirms the site is GMP compliant and holds a Manufacturing Authorisation. It does not independently verify any of the other information contained on this page. The Qualified Person at the site named on page one is responsible for the veracity and validity of the other information on this document.
 
 Defra-2 wording:
 
-> The VMD stamp and signature on this page confirm the veterinary medicines named on
+> The VMD stamp and signature on this page confirms the veterinary medicines named on
 page two hold a Marketing Authorisation in the same name. It does not independently verify any of the other information contained on this page.
 
 *[VMD]: Veterinary Medicines Directorate
