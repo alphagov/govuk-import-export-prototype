@@ -14,7 +14,7 @@ You may need a certificate or to follow special rules to export:
 - [meat, fish, dairy and other animal products](#meat-dairy-animal-products) like honey and gelatine
 - [vegetables, fruit and other plants used as food](#plants)
 - [grain](#grain) (outside the EU only)
-- [sugar, cereals and rice](#sugar) (outside the EU only)
+- [sugar and rice](#sugar) (outside the EU only)
 
 $CTA
 
@@ -40,19 +40,18 @@ Fill in the [application form](https://www.gov.uk/government/uploads/system/uplo
 Send it to <trader@rpa.gsi.gov.uk>. You’ll usually get your certificate within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit).
-
-###Getting another type of export certification
-
-If you’re asked for another type of export certificate for non animal products and your product was manufactured in the UK, [contact the local authority where your products was made](http://www.food.gov.uk/enforcement/find-food-safety-team) with the details of what the importing country requires.
-
 ###If you need help
 
 Contact the Rural Payments Agency (RPA).
 
 **Rural Payments Agency**         
-Telephone: 03000 200 301  
+Telephone:  03300 416 500
 Monday to Friday: 8.30am to 5pm
-[Find out about call charges](/call-charges)      
+[Find out about call charges](/call-charges)    
+
+###Getting another type of export certification
+
+If you’re asked for another type of export certificate for non animal products and your product was manufactured in the UK, [contact the local authority where your products was made](http://www.food.gov.uk/enforcement/find-food-safety-team) with the details of what the importing country requires.
 
 ##Meat, dairy and other animal products
 {:#meat-dairy-animal-products}
@@ -290,7 +289,6 @@ s6. When you've passed your inspection, fill in another copy of the [application
 
 [Question: What is the second application form in step 6 for? Where does the user have to send it?]
 
-
 [Question for SME: Do users need to know about the country specific tests for Cuba and Vietnam or will the inspectors know what to test for according to the destination country?]
 
 If you fail the inspection, you’ll need to have your grain treated by a professional company. This usually takes 10 to 20 days, but you may be able to get your grain treated in transit.
@@ -314,51 +312,25 @@ You must pay:
 
 Small exporters are eligible for a [discounted fee](https://www.gov.uk/government/publications/plant-export-services-application-for-concessionary-rates).
 
-##Sugar, cereals and rice
+##Sugar and rice
 {:#sugar}
 
 You don’t need a certificate or licence to export within the EU.
 
-If you’re exporting these goods outside the EU in [large quantities](https://www.gov.uk/trade-tariff/sections) you need a 'mandatory export licence'.
+If you’re exporting these goods outside the EU, you need an export licence.
 
 ###Apply for a mandatory export licence
 
 s1. Call the Rural Payments Agency (RPA) to get a trader registration number .
 s2. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299695/Exports_-_Electronic_Licence_Application_Form.doc).
-s3. Pay a [security deposit](#security-deposit).
-s4. Your licence will be issued on the CHIEF system within 5 days and will appear when you make your declaration (link to declaration content). You can also ask for a paper one if the countries you're trading with require this.
+s3. You may need to pay a [security deposit](#security-deposit).
+s4. Your licence will be issued electronically. You can also ask for a paper one if the countries you're trading with require this.
 
 If you want to send your application by email rather by than fax or post you need to [get approval through form TS03](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299696/TSO3_-_Email_licence_v3_May_08.doc).
 
 If you'd like to cancel or amend your application you must do this before 12pm on the day you apply.
 
-You can export 105% of the quantity you put on the form without having to get a new licence.
-
-###Calculate your security rate
-{:#security-deposit}
-
-Your security rate for rice and cereals is 3 euros per tonne.
-
-Check the table to see how much you need to pay for sugar.
-
-| sugar commodity code | security rate for 100 kilos |
-|------------------------|------------------|
-| 1701 | €11 |
-| 1702, 2106 and 1702 6095 | €4.2 |
-| 1703 (molasses) | €0.9 |
-| 1702 6080 (inulin syrup) | €8 |
-| 1701 (non-quota sugar) |  €0.3 |
-| 1702 9080 (inulin syrup) | €0.6|
-
-You don’t need to pay a security if you meet the conditions of your licence and one of the following applies:
-
-* your total comes to €100 or less
-* your total comes to €500 [or less?] but you commit to paying any invoices sent by the RPA if the conditions of your licence arn't  met.[link to form]
-* you're a humanitarian organisation exporting goods for aid 
-
-[Question for SME: Is there a version of the €500 form which isn’t embedded within the leaflets? It seems that calling RPA to get the words might not be that efficient?]
-
-###How to pay 
+###If you’re asked to pay a security
 
 You can pay:
 
@@ -368,9 +340,9 @@ You can pay:
 
 * by cash, cheque, banker's draft or any other payments agreed by RPA 
 
-If you choose block payments you should get statements from RPA to tell you how much you still owe. You can commit to the block payments as a [group of traders](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf) (PDF, 51.7KB). You can also apply to [change the name](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439550/fdgs5_-_IX8_-_v5.0_Jun_2015.pdf) (PDF, 65.3KB) on the 'contract'.
+If you choose block payments you will receive statements from RPA to tell you how much you still owe. 
 
-Pay your security to:
+
 
 Bank: RBS (NatWest)  
 Sort code: 60-70-80  
@@ -380,18 +352,12 @@ IBAN: GB48 NWBK 6072 0385 0145 83
 
 ###Getting your security back
 
-Your security will be refunded in full if you export at least 95% of the quantity on the licence within 2 months of its expiry date - this will happen automatically if you used CHIEF.
-
-If you're using a paper licence, you'll need to return it to the RPA within 2 months of its expiry with any supporting documents and your securities will usually be returned to you within 21 days of receiving your proof.
-
-If you're late or fail to do this, you won't get your full security back or won't get it back at all.
-
-If you use your licence in stages, you can ask us for the security in stages, as long as you can prove that at least 5% of the total quantity has been imported or exported.
+Your security will be refunded in full if you export at least 95% of the quantity on the licence A paper licence must be returned within 2 months of its expiry date – the security will be released automatically if your licence was electronic.
 
 ###If you need help
 
-Contact the RPA if you need help with CAP good exports.
+Contact the RPA if you need help with CAP goods exports.
 
 **RPA External Trade Helpline**      
 Telephone:03300 416500 
-Monday to Friday, 9am to 5pm
+Monday to Friday, 8.30am to 5pm
