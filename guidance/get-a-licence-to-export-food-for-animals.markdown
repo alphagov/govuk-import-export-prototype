@@ -47,7 +47,8 @@ The country you’re exporting to may require you to have a 'certificate of free
 
 s1. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/484868/COFSApplicationExportNonEUFeeding_v2.0.doc) (MS Word Document, 127KB).
 s2. Send it to <trader@rpa.gsi.gov.uk>. 
-s3. You’ll usually get your certificate within 5 working days.
+
+The certificate will usually be issued within 5 working days.
 
 It’s free to apply and the certificates don’t expire (unless the country you’re exporting to specifies a time limit.)
 
