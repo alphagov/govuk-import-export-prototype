@@ -33,7 +33,7 @@ The banned luxury goods for North Korea are:
 - cutlery made from precious metal or plated or clad with precious metal
 - high quality tableware made from porcelain, china, stone or earthenware or fine pottery
 - high quality lead crystal glassware
-- high end electronic items for domestic use
+- high end electronic items for domestic use (for example toasters, coffee makers and sewing machines)
 - high end video equipment, audio equipment and cameras
 - luxury vehicles, boats or aircraft (and spare parts for luxury vehicles, boats or aircraft)
 - luxury clocks and watches (and parts for luxury clocks and watches)
@@ -62,7 +62,7 @@ The banned luxury goods for Syria are:
 - cutlery made from precious metal or plated or clad with precious metal
 - tableware made from porcelain, china or stone, or earthenware or fine pottery, sold for more than €500 each
 - lead crystal glassware sold for more than €200 each
-- vehicles, boats, aircraft and their accessories sold for more than €25,000 (or €1,500 if used)
+- vehicles, boats, aircraft and their accessories sold for more than €25,000 (or €15,000 if used)
 - clocks, watches and their parts sold for more than €500
 - works of art, collectors’ pieces and antiques
 - equipment for skiing, golf and water sports sold for more than €500
