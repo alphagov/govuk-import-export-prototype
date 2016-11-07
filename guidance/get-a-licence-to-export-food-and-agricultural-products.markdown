@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a certificate to export food and agricultural products
+title: Export food and agricultural products: special rules
 summary: Check if you need certificate to export food and agricultural products.
 permalink: /guidance/get-a-licence-to-export-food-and-agricultural-products.html
 topic:
@@ -46,8 +46,8 @@ It’s free to apply and the certificates don’t expire (unless the country you
 Contact the Rural Payments Agency (RPA).
 
 **Rural Payments Agency**         
-Telephone:  03300 416 500
-Monday to Friday: 8.30am to 5pm
+Telephone:  03300 416 500  
+Monday to Friday: 8.30am to 5pm  
 [Find out about call charges](/call-charges)    
 
 ###Getting another type of export certification
@@ -94,10 +94,9 @@ There is a ban on most food exports to Russia, ask the Centre for International 
 
 s1. Contact the [Centre for International Trade Carlisle](http://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#centre-for-international-trade-carlisle).
 s2. Tell them what you’re exporting and the destination country. If your goods won’t be used as food, you’ll be asked to nominate an official veterinarian to inspect your goods. To find one, ask at your local vet or email <ovteam@apha.gsi.gov.uk>.
-s3. You'll be given the application form for the EHC you need. Fill it in and return it to the address on the form.
-s4. Your EHC will be sent to your local authority or official veterinarian within 7 working days.
-s5. Arrange for your goods to be inspected by your local authority or official veterinarian. They’ll check the goods meet the requirements of the EHC.
-s6. Check your EHC’s guidance notes to find out if you need it signed by the inspector.
+s3. You'll be given the application form you need. Fill it in and return it to the address on the form.
+s4. Your certificate will be sent to your local authority or official veterinarian within 7 working days.
+s5. Your local authority inspector or nominated vet will be asked to check that your animal products meet the requirements of the country you’re sending them to.
 
 There’s no fee for the certificate but you’ll be charged for your vet or local authority inspector’s time.
 
@@ -114,7 +113,6 @@ Check if your [fruit](https://www.gov.uk/government/uploads/system/uploads/attac
 If you need a supplier document, contact the [Plant Health Office](https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening#plant-health-offices) to apply.
 
 If you don't need one, you don't have to do anything to move plants used as food within the EU. But you always have to comply with the normal standards to [sell fresh fruit and vegetables](https://www.gov.uk/guidance/comply-with-marketing-standards-for-fresh-fruit-and-vegetables).
-
 
 [Question for SME: Am I right in thinking supplier documents are free and that they are required for food?]
 
@@ -302,7 +300,6 @@ Sometimes you’ll also need a declaration to add to your plant certificate to p
 
 [Question for SME: Do APHA provide these automatically? It’s not on the form]
 
-
 ###Fees
 
 You must pay:
@@ -322,41 +319,23 @@ If you’re exporting these goods outside the EU, you need an export licence.
 
 ###Apply for a mandatory export licence
 
-s1. Call the Rural Payments Agency (RPA) to get a trader registration number .
+s1. [Call the Rural Payments Agency (RPA)](if-you-need-help)
+ to get a trader registration number - ask them if there is a  [security deposit](#getting-your-security-back) to pay and how much it will be.
 s2. Fill in the [application form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299695/Exports_-_Electronic_Licence_Application_Form.doc).
-s3. You may need to pay a [security deposit](#security-deposit).
-s4. Your licence will be issued electronically. You can also ask for a paper one if the countries you're trading with require this.
+s3. Your licence will be issued electronically. You can also ask for a paper one if the countries you're trading with require this.
 
 If you want to send your application by email rather by than fax or post you need to [get approval through form TS03](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299696/TSO3_-_Email_licence_v3_May_08.doc).
 
 If you'd like to cancel or amend your application you must do this before 12pm on the day you apply.
 
-###If you’re asked to pay a security
-
-You can pay:
-
-* in a single payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439547/fdgs6t_-_IX6S_-_V2.0_Jun_2015.pdf) (PDF, 132KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439546/fdgs13_-_IX6U_-_V4.0_Jun_2015.pdf) (PDF, 159KB)
-
-* in a group or 'block' payment in [pounds](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439549/fdgs7t_-_IX7_-_V2.0_Jun_2015.pdf) (PDF, 101KB) or [euros](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439544/fdgs10t_-_IX5U_-_V2.0_Jun_2015.pdf) (PDF, 43.2KB)
-
-* by cash, cheque, banker's draft or any other payments agreed by RPA 
-
-If you choose block payments, RPA will send you statements for your records. 
-
-Bank: RBS (NatWest)  
-Sort code: 60-70-80  
-Account number: 550/00/85014583  
-BIC: NWBKGB2L  
-IBAN: GB48 NWBK 6072 0385 0145 83  
-
 ###Getting your security back
 
-Your security will be refunded in full if you export at least 95% of the quantity on the licence A paper licence must be returned within 2 months of its expiry date. The security will be released automatically if you used the CHIEF system to export the goods.
+Your security will be refunded in full if you export at least 95% of the quantity on the licence A paper licence must be returned within 60 days of its expiry date. The security will be released automatically if you used the CHIEF system to export the goods.
 
 ###If you need help
 
-Contact the RPA if you need help with CAP goods exports.
+Contact the RPA if you need help with CAP good exports.
 
-**RPA External Trade Helpline**      
-Telephone:03300 416500 
+**RPA External Trade Helpline**  
+Telephone: 03300 416500  
 Monday to Friday, 8.30am to 5pm  
