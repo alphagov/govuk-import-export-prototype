@@ -86,7 +86,7 @@ To export chemicals outside the EU, you must:
 You need to include a reference identification number (RIN) in your customs declaration if either:
 
 - the chemical is restricted - classed as ‘Annex 1’
-- you export 10kg or less of any non-restricted chemical for research or analysis
+f- you export 10kg or less of any non-restricted chemical for research or analysis
 
 Search for Annex 1 chemicals using the [tool on the European Chemicals Agency (ECHA) website](http://echa.europa.eu/information-on-chemicals/pic/chemicals). 
 
@@ -99,7 +99,7 @@ You'll need this information when you apply for a RIN. You do this by making an 
 
 $CTA
 
-Chemicals classed as Annex 5 are banned and can’t be exported without an exemption. Contact xxx.
+Chemicals classed as Annex 5 are banned and can’t be exported without an exemption. Contact HSE if you need help: UKDNA@hse.gov.uk.
 
 $CTA
 
@@ -111,7 +111,7 @@ To get a RIN you need to make an online notification at least 30 days before you
 
 Chemicals in parts 2 and 3 of Annex 1 may take longer or be refused because they must be authorised by the country you’re exporting to. 
 
-You first need an online account. Email the Health and Safety Executive (HSE) at <UKDNA@hse.gov.uk> with the subject line ‘Edexim account request’. Include details of:
+You first need [an online account](https://epic.echa.europa.eu/pic-industry-web/index.xhtml). Email the Health and Safety Executive (HSE) at <UKDNA@hse.gov.uk> with the subject line ‘Edexim account request’. Include details of:
 
 - the chemical you want to export and its CAS number
 - your company - name, address, website and [Companies House number](https://beta.companieshouse.gov.uk/), if it’s a limited company
@@ -125,17 +125,12 @@ You can use the same RIN for all exports of the same chemical in the same calend
 
 When transporting restricted chemicals, you’ll need to follow the rules for moving [dangerous goods](/guidance/moving-dangerous-goods).
 
-###If your company is registered outside the UK
-
-Apply for a RIN from the  authority in the country you’re exporting to instead.
-
 ###Annual reporting requirements
 
 Every year you must tell HSE about the Annex 1 chemicals you’ve exported.
 
-Fill in the [annual return template](http://www.hse.gov.uk/pic/exporters/exporter-tonnage-return.xls) (XLS, 15kb) and email it to HSE by 31 March the year after.
-
-[Question for SME: Which email address should someone use to return the form?]
+You can do this on your [online notification account]( You can do this using your online notification account.
+).
 
 
 ###Products that contain highly restricted chemicals
