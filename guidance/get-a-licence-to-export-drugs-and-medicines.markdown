@@ -100,12 +100,24 @@ To export veterinary and human medicines you must:
 - check you have a drug manufacturer, wholesale dealer or marketing licence - if you don’t, [apply for the licence](https://www.gov.uk/guidance/apply-for-manufacturer-or-wholesaler-of-medicines-licences)
 - check if you need an export certificate - contact your importer or the government in the destination country to find out
 
+
+$CTA
+
+You don’t need one of these licences to export ‘over the counter’ veterinary medicines classed as 'AVM-GSL'. You can check classifications on the Veterinary Medicines Directorate (VMD) [product information database](http://www.vmd.defra.gov.uk/ProductInformationDatabase/Search.aspx).
+
+
+$CTA
+
 If you need an export certificate, how you apply depends on whether you’re exporting:
 
 - [medicine for humans](#human-medicines)
 - [medicine for animals](#animal-medicines)
 
 You don't need a certificate to export medicines for humans or animals within the EU.
+
+There are additional rules if your medicine is [coated in or contains animal products](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-food-and-agricultural-products.html#meat-dairy-animal-products) like gelatine.
+
+[Question for food/agri SME: is the line above accurate? To which countries does this apply?] 
 
 ###Export certificates for medicines for humans
 {:#human-medicines}
@@ -219,6 +231,7 @@ Which one you need will depend on what you need to prove to the country you're e
 
 You can ask for [extra information](#extra-information) on the certificate if the importing country requires it.
 
+
 ###Defra-2
 
 The Defra-2 certificate and information that comes with it (the ‘schedule’) show that the export product is authorised for sale and supply in the UK.
@@ -265,6 +278,7 @@ The importing country may need more information about your export.
 
 ###If you need extra information on the certificate
 {:#extra-information}
+
 
 Some countries need information that is not on the standard certificates or schedule templates.
 
@@ -318,6 +332,11 @@ Defra-2 wording:
 
 > The VMD stamp and signature on this page confirms the veterinary medicines named on
 page two hold a Marketing Authorisation in the same name. It does not independently verify any of the other information contained on this page.
+
+*[VMD]: Veterinary Medicines Directorate
+*[AVM-GSL]: Authorised Veterinary Medicine - General Sales List
+
+
 
 *[VMD]: Veterinary Medicines Directorate
 *[AVM-GSL]: Authorised Veterinary Medicine - General Sales List
