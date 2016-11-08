@@ -12,7 +12,7 @@ topic:
 
 It’s a criminal offence to export certain equipment used to drill for oil or gas to Russia without a licence.
 
-Check the list of [goods and services](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2014_229_R_0001#d1e32-9-1) covered by EU sanctions that need a licence.
+Check the list of [goods and services](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0833-20151009) covered by EU sanctions that need a licence.
 
 $CTA
 
@@ -38,7 +38,7 @@ Examples of services include:
 
 $CTA
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for an export licence.
+Use the [SPIRE service](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
 
 $CTA 
 
@@ -56,9 +56,9 @@ This can include anything that helps to transfer items from one country to anoth
 - arranging intra company transfers
 - drop shipping
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for a Standard Individual Trade Control licence.
+Use the [SPIRE service](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to apply for a Standard Individual Trade Control licence.
 
-[How much does a licence cost?]
+There’s no charge for a licence.
 
 ##Providing financial assistance to traders
 
@@ -96,7 +96,7 @@ The [ECO compliance code of practice](https://govuk-import-export.herokuapp.com/
 ##Contact the Export Control Organisation (ECO)
 
 ECO helpline <br>
-Email: <eco.help@bis.gsi.gov.uk> <br>
+Email: <eco.help@trade.gsi.gov.uk> <br>
 Telephone: 0202 7215 4594 <br>
 Fax: 020 7215 2635 <br>
 
