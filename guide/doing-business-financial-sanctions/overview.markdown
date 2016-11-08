@@ -19,7 +19,7 @@ The consolidated list of financial sanctions targets lists people, businesses, o
 
 If a person or organisation is on the consolidated list it means they have had their assets frozen.
 
-This means you must not deal with them in a way that gives them a significant financial benefit. For example:
+This means you must not:
 
 * make funds or resources available to them directly (for example by buying something from them, employing them, giving them a gift or loan or repaying a loan to them)
 * make funds or resources available to them indirectly (for example by paying off a loan on their behalf)
