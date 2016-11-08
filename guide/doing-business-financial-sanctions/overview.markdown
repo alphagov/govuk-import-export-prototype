@@ -13,9 +13,7 @@ breadcrumbs:
    url: '/topic/business-and-self-employed/exporting-and-doing-business-abroad.html'   
 ---
 
-The consolidated list of financial sanctions targets lists people, businesses, organisations, financial institutions and regimes you’re generally not allowed to deal with by law.
-
-For example, because there’s a suspected connection with terrorism, terrorist financing or human rights abuses.
+The consolidated list of financial sanctions targets lists people, businesses, organisations and financial institutions you’re generally not allowed to deal with by law.
 
 ## Asset freezes
 
@@ -23,9 +21,9 @@ If a person or organisation is on the consolidated list it means they have had t
 
 This means you must not deal with them in a way that gives them a significant financial benefit. For example:
 
-* make funds or resources available to them directly (eg by buying something from them, employing them, giving them a gift or loan or repaying a loan from them)
-* make funds or resources available to them indirectly (eg by making a payment to an organisation that’s controlled by them)
-* give them access to assets you’re holding on their behalf (eg letting them withdraw money from a bank account)
+* make funds or resources available to them directly (for example by buying something from them, employing them, giving them a gift or loan or repaying a loan to them)
+* make funds or resources available to them indirectly (for example by paying off a loan on their behalf)
+* give them access to assets you’re holding on their behalf (for example letting them withdraw money from a bank account)
 * buy, sell or deal with assets that belong to them, or are held or controlled by them
 * provide them with [financial services](/guide/doing-business-financial-sanctions/providing-financial-services.html)
 
@@ -37,7 +35,12 @@ In some circumstances you may be able to [get a licence](/guide/doing-business-f
 
 ### Organisations which aren’t on the consolidated list
 
-Even if they’re not on the consolidated list themselves, organisations are subject to financial sanctions if they’re more than 50% owned by a person or other organisation that’s on the consolidated list.
+Even if they’re not on the consolidated list themselves, organisations are subject to financial sanctions if they’re:
+
+- more than 50% owned by a person or organisation that’s on the consolidated list
+- controlled by a person or organisation that’s on the consolidated list
+
+[Contact the Office of Financial Sanctions Implementation ](/guide/doing-business-financial-sanctions/get-help.html) if you're not sure.
 
 ## Consolidated list of financial sanctions targets
 
@@ -50,11 +53,9 @@ Even if they’re not on the consolidated list themselves, organisations are sub
 
 ## If you find out someone you’re dealing with is subject to financial sanctions
 
-If you find out that someone you’re dealing with is subject to financial sanctions, you must immediately:
+If you find out that a person or organisation you’re dealing with is subject to financial sanctions, you must immediately:
 
 - stop dealing with them
 - freeze any assets you are holding for them
 
-Then [tell the Office of Financial Sanctions Implementation ](/guide/doing-business-financial-sanctions/get-help.html) as soon as possible.
-
-You won’t be prosecuted unless you knew that the person you were dealing with was subject to financial sanctions (or reasonably, you should have known).
+Then [tell the Office of Financial Sanctions Implementation](/guide/doing-business-financial-sanctions/get-help.html) as soon as possible.
