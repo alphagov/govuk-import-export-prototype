@@ -25,7 +25,6 @@ This means you must not deal with them in a way that gives them a significant fi
 * make funds or resources available to them indirectly (for example by paying off a loan on their behalf)
 * give them access to assets you’re holding on their behalf (for example letting them withdraw money from a bank account)
 * buy, sell or deal with assets that belong to them, or are held or controlled by them
-* provide them with [financial services](/guide/doing-business-financial-sanctions/providing-financial-services.html)
 
 You must not do anything to get round financial sanctions, or help anyone else to get round financial sanctions - directly or indirectly.
 
