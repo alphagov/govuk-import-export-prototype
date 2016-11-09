@@ -30,7 +30,7 @@ If you buy excise goods produced by someone else and the UK excise duty has alre
 - sell goods directly to overseas consumers
 
 
-There's a [ban on exporting high quality wines, spirits, cigars and cigarillos to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
+There's a [ban on exporting high quality wines, spirits, cigars and cigarillos to North Korea or Syria](/guidance/exporting-luxury-goods-north-korea.html).
 
 
 ### Scotch whisky
@@ -46,7 +46,7 @@ You can only export single grain, blended malt, blended grain or blended Scotch 
 You must not export Scotch whisky in a wooden cask or holder.
 
 
-If you need to prove the authenticity of your whisky, contact certificates.sdvs@hmrc.gsi.gov.uk to apply for a certificate of age and origin.
+If you need to prove the authenticity of your whisky, contact <certificates.sdvs@hmrc.gsi.gov.uk> to apply for a certificate of age and origin.
 
 
 ### Irish whiskey and poteen (potin)
@@ -72,30 +72,26 @@ It’s free to apply and the certificates don’t expire (unless the country you
 
 ## Moving duty suspended goods within the EU
 
-You can supply duty suspended excise goods to someone based in the EU if the goods are:
+You can supply duty suspended excise goods to someone based in the EU if the goods are being moved:
 
-- being moved from one excise warehouse to another 
-- are approved to regularly import duty suspended goods from the EU or you're approved but you have to ask permission each time ("Registered Consignees" and "Temporary Registered Consignees")
+- from one excise warehouse to another
+- to a port or airport, from where they will leave the EU
 
 If you follow the right processes, the excise duty isn’t payable until the goods are released for consumption.
 
 ###How to move duty suspended goods within the EU
 
-You can only move goods under excise duty suspension if either any import duty or import VAT due has been paid.
-
-(https://www.gov.uk/government/publications/excise-notice-197a-excise-goods-holding-and-movement) (for example, at an airport on on board an airplane)
+You can only move goods under excise duty suspension if any import duty or import VAT due has been paid.
 
 Usually, you must use the [Excise Movement and Control System (EMCS)](https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use) to report that you’re moving excise goods in duty suspension.
 
-## Moving duty paid goods overseas
+## Exporting duty paid goods overseas
 
 So that excise duty isn't paid twice, you can claim excise duty drawback on the UK excise duty that’s already been paid.
 
 To claim excise duty drawback, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. 
 
 ## Selling goods directly to consumers outside the UK
-
-You can only sell excise goods directly to consumers if the UK excise duty has been paid.
 
 Most countries have conditions for sellers of excise goods, and most require duty guarantees before you send any goods (including within the EU for duty suspended goods). [Research the legal and tax rules](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) before you send any goods overseas.
 
