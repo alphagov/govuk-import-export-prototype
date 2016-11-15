@@ -49,9 +49,19 @@ You'll need to:
 ##HFCs and other F-gases
 {:#fgas}
 
-HFCs and other [F-gases](https://www.gov.uk/government/collections/eu-f-gas-regulation-guidance-for-users-producers-and-traders#regulated-gases-and-supporting-guidance) are also used in refrigeration and air conditioning systems, solvents or aerosols.
+HFCs and [other F-gases](https://www.gov.uk/government/collections/eu-f-gas-regulation-guidance-for-users-producers-and-traders#regulated-gases-and-supporting-guidance) are also used in refrigeration and air conditioning systems, solvents or aerosols.
 
-You don’t need a licence to export HFCs and other F-gases, but you may need to [submit an annual report](https://www.gov.uk/guidance/f-gas-exporters-record-keeping-and-reporting-requirements) about your exports.
+You don’t need a licence to export HFCs and other F-gases, but you must submit an annual report if you export 100 tonnes or more of CO2 equivalent.
+
+This is 70kg of HFC 134a, or 25kg of HFC 404A. You can find out how to [calculate the CO2 equivalent weight](https://www.gov.uk/guidance/calculate-the-carbon-dioxide-equivalent-quantity-of-an-f-gas) of other F-gases.
+
+###Send your annual report
+Report the quantity of F-gases you sent in the previous calendar year by 31 March.
+
+You'll need to:
+
+- [register for an EU Login account](https://webgate.ec.europa.eu/cas/eim/external/register.cgi?loginRequestId=ECAS_LR-2950551), if you don't already have one
+- [sign in](https://webgate.ec.europa.eu/cas/login?loginRequestId=ECAS_LR-2950551) to submit your report 
 
 ##Get help
 
