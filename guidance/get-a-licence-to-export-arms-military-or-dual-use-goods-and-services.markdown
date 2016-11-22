@@ -101,7 +101,7 @@ When you apply through the Spire service, you’ll be told whether you need to c
 [OIEL: undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/555500/oiel-euu-template4.docx) (MS Word, 23KB)  
 [Stockist undertaking (SU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3095/stockist-undertaking-form-july-2012.doc) (MS Word, 73KB)  
 [End user undertaking (EUU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3094/end-user-undertaking-form-july-2012.doc) (MS Word, 76KB)  
-[End user certificate (EUC) form for Chemical Weapons Convention schedule 3 chemcicals](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7962/end-user-certificate-july-2012.doc) (MS Word, 70KB)  
+[End user certificate (EUC) form for Chemical Weapons Convention schedule 3 chemicals](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7962/end-user-certificate-july-2012.doc) (MS Word, 70KB)  
 [Who should complete end user and stockist undertaking forms?](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7963/12-749-end-user-scenarios.pdf) 
 [End user undertaking and stockist undertaking checklist](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7961/end-user-checklist-july-2012.doc) (MS Word, 108KB)  
 
