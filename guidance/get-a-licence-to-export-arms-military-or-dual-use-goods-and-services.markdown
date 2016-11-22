@@ -50,7 +50,7 @@ You must also have a licence to [export military or dual use goods out of the co
 
 ### Exporting dual use items to other EU countries
 
-If your items are categorised as ‘Schedule 3 UK controlled dual-use, software and technology’, you may not need a licence  unless they're list in [Annex IV of EU Dual Use Regulation 428/2009](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:134:0001:0269:en:PDF#page=260).
+If your items are categorised as ‘Schedule 3 UK controlled dual-use, software and technology’, you may not need a licence  unless they're listed in [Annex IV of EU Dual Use Regulation 428/2009](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:134:0001:0269:en:PDF#page=260).
 
 You don't need a licence to export dual use items to the Channel Islands.
 
