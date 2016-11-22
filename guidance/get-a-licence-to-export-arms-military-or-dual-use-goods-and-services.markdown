@@ -73,9 +73,7 @@ This includes 'technical assistance' - for example, assembly, maintenance or rep
 
 These are called ‘end use’, ‘end user’ or ‘catch all’ controls.
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO).
-
-You must apply for a licence if ECO tells you to - you can [use the SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to ask them for end user advice.
+Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO). You must apply for a licence if the ECO tells you to.
 
 ## Apply for an export licence
 
