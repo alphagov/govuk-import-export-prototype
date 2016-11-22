@@ -26,7 +26,9 @@ The UK strategic export control lists also cover the transfer of information tha
 * technical or training manuals
 * diagrams or blueprints
 
-This includes information in any form. For example print, email, telephone or electronic file transfer.
+This includes information in any form. For example print, email, telephone, text message or electronic file transfers of information about controlled technology.
+
+You must apply for a licence if the government tells you that you need one.
 
 ## When you need an export licence
 
@@ -40,8 +42,11 @@ Or [download a copy of the UK strategic export control lists](https://www.gov.uk
 
 You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK, unless:
 
-* you're exporting dual use items to some EU countries or the Channel Islands
+* you're exporting [dual use items to some EU countries or the Channel Islands](#exporting-dual-use-items-to-eu-countries)
+
 * you're exporting goods owned by the Ministry of Defence
+
+You must also have a licence to [export military or dual use goods out of the country temporarily](#taking-military-or-dual-use-goods-out-of-the-UK-temporarily).
 
 ### Exporting dual use items to EU countries
 
