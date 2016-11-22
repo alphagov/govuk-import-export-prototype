@@ -174,6 +174,13 @@ Trafficking and brokering can include anything that helps to transfer items from
 * arranging intra company transfers
 * drop shipping
 
+###Goods that you can't traffick, broker, arrange sales for or move
+
+There's a ban on "Category A" goods, including:
+
+* explosives like anti personnel land mines and cluster munitions
+* torture goods
+
 ### Trafficking or brokering banned goods or to embargoed countries
 
 There are tighter controls on trafficking or brokering for some goods and for some locations.
@@ -190,17 +197,20 @@ You must have a trade control licence if you or your company is involved in traf
 
 * goods with the code ML21 (software)
 * goods with the code ML22 (technology)
+
+There are 2 types of Open General Trade Control Licences available. These are quicker to get than other types of licences.  
+
+They are for:
+
 * ‘Category C’ goods (which includes some equipment for riot control and delivering incapacitation chemicals - contact ECO for details)
 
-[Question for Claire - is there a definitive list of Category C goods anywhere?]
+* some 'Category B' goods - small arms and light weapons
 
 $CTA
 Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to find out how your goods are categorised.
 $CTA
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
-
-[Question for Claire: the guidance currently published on GOV.UK suggests that the trafficking and brokering controls only apply to military and torture use goods (ie not dual use items). Is that right? Does that mean the EC controls on trafficking and brokering outlined in the EC ‘national measures’ document don’t apply, because the UK is a member of the EU?]
 
 ### Who the trafficking and brokering rules apply to
 
