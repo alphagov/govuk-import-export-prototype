@@ -234,7 +234,7 @@ Contact your usual desk officer or email <ACP-ELC@mod.uk> if you have a question
 
 ## Your licence responsibilities
 
-You'll get an electornic copy of your licence through the SPIRE system.
+You'll get an electronic copy of your licence through the SPIRE system.
 
 You must include a copy of the licence with the shipping paperwork. If you’re posting the goods, you must include a copy of the licence in a separate envelope, attached to the package.
 
