@@ -46,7 +46,7 @@ You must have a licence to supply anything on the UK strategic export control li
 
 * you're exporting goods owned by the Ministry of Defence
 
-You must also have a licence to [export military or dual use goods out of the country temporarily](#taking-military-or-dual-use-goods-out-of-the-UK-temporarily).
+You must also have a licence to [export military or dual use goods out of the country temporarily](/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#taking-military-or-dual-use-goods-out-of-the-uk-temporarily).
 
 ### Exporting dual use items to other EU countries
 
