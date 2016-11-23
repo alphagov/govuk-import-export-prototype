@@ -174,7 +174,7 @@ Trafficking and brokering can include anything that helps to transfer items from
 
 ###Goods that you can't traffick, broker, arrange sales for or move
 
-There's a ban on "Category A" goods, including:
+There's a ban on ["Category A" goods](http://www.legislation.gov.uk/uksi/2008/3231/schedule/1/made), including:
 
 * explosives like anti personnel land mines and cluster munitions
 * torture goods
@@ -202,7 +202,7 @@ They are for:
 
 * ‘Category C’ goods (which includes some equipment for riot control and delivering incapacitation chemicals - contact ECO for details)
 
-* some 'Category B' goods - small arms and light weapons
+* some 'Schedule 2 military goods, software and technology' goods - small arms and light weapons
 
 $CTA
 Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to find out how your goods are categorised.
