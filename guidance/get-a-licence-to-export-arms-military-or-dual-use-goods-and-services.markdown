@@ -70,7 +70,7 @@ You don't need a licence to export goods owned by the UK Ministry of Defence (MO
 
 Instead, get an approval letter from the Export Control Joint Unit in the MOD. Email <ECJU-MODTeam@mod.uk> for details.
 
-##Goods you can't export
+##Goods you can't get a licence for
 
 Even if your items wouldn’t usually need a licence, you must not export, traffic or broker the movement of any items, services or technology if you find out or are told they might be used:
 
@@ -173,7 +173,7 @@ There's an embargo on exporting any of the following to China:
 
 ## Trafficking, brokering and arranging sales or movements
 
-Trafficking and brokering can include anything that helps to transfer items from one non-EU country to another. For example:
+Trafficking and brokering ("trade controls") can include anything that helps to transfer items from one non-EU country to another. For example:
 
 * arranging or negotiating contracts
 * arranging or providing freight or transport services
