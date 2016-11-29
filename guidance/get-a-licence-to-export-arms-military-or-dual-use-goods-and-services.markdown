@@ -173,6 +173,8 @@ There's a ban on ["Category A" goods](http://www.legislation.gov.uk/uksi/2008/32
 * explosives like anti personnel land mines and cluster munitions
 * torture goods
 
+You won't be able to export 'Schedule 3 UK controlled dual-use, software and technology' if you are told they might be used for weapons of mass destruction (WMD) purposes.
+
 ### Trafficking or brokering banned goods or to embargoed countries
 
 There are tighter controls on trafficking or brokering for some goods and for some locations.
@@ -185,16 +187,16 @@ For goods where there’s a total ban on UK exports (for example, anti personnel
 
 ### When you need a licence
 
-You must have a trade control licence if you or your company is involved in trafficking or brokering anything that’s categorised as ‘Schedule 2 military goods, software and technology’, except for:
+You must have a trade control licence if you or your company is involved in trafficking or brokering anything that’s categorised as ‘Schedule 2 military goods, software and technology’, except:
 
-* goods with the code ML21 (software)
-* goods with the code ML22 (technology)
+* goods with the code ML21 (software) 
+* goods with the code ML22 (technology).
 
 There are 2 types of Open General Trade Control Licences available. These are quicker to get than other types of licences.  
 
 They are for:
 
-* ‘Category C’ goods (which includes some equipment for riot control and delivering incapacitation chemicals - contact ECO for details)
+* some equipment for riot control and delivering incapacitation chemicals - contact ECO for details 
 
 * some 'Schedule 2 military goods, software and technology' goods - small arms and light weapons
 
