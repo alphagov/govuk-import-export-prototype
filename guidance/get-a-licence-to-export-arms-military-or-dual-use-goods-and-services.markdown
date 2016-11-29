@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export military or dual use goods, services or technology
-summary: You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK (except for exporting ‘dual use’ items to some EU countries).
+summary: You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK (except for exporting some ‘dual use’ items to EU countries).
 permalink: /guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html
 breadcrumbs:
  - name: Home
@@ -18,24 +18,32 @@ topic:
 The UK strategic export control lists include finished items or systems, raw materials and components. For example:
 
 * weapons and explosives
-* goods, technology or services or components designed or modified for military use (for example vehicles, aircraft or marine craft, imaging equipment, armoured protective equipment, cryptographic technology or training materials for a weapons system)
-* ‘dual use’ items - goods, technology, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example nuclear materials, chemical agents, electronics, computer or telecommunications equipment, sensors, lasers, machine tools, navigation and avionics equipment, marine technology or aerospace technology)
+* goods, technology, software or components designed or modified for military use (for example vehicles, aircraft or marine craft, imaging equipment, armoured protective equipment, cryptographic technology or training materials for a weapons system)
+* ‘dual use’ goods, technology, software, documents or diagrams which meet certain technical standards and could be used for military or civilian purposes (for example nuclear materials, chemical agents, electronics, computer or telecommunications equipment, sensors, lasers, machine tools, navigation and avionics equipment, marine technology or aerospace technology)
 
-The UK strategic export control lists also cover the transfer of information that could be used for military or dual use purposes. For example:
+The UK strategic export control lists include the transfer of information that could be used for military or dual use purposes. For example:
 
 * technical or training manuals
 * diagrams or blueprints
 
-This includes information in any form. For example print, email, telephone, text message or electronic file transfers of information about controlled technology.
+You'll need a licence for information in any form. For example print, email, telephone, text message or electronic file transfers of information about controlled technology.
+
+You'll also need a licence for 
 
 You must apply for a licence if the government tells you that you need one.
+
+$CTA
+
+If you're exporting goods that are being picked directly from your place of work by your customer ("ex-works goods), tell them to check if they need an export licence.
+
+$CTA
 
 ## When you need an export licence
 
 If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted.
 
 $CTA
-Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to find out if your goods are on the UK strategic export control lists, and how they’re categorised.
+Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to determine if your goods are on the UK strategic export control lists, and how they’re categorised.
 $CTA
 
 Or [download a copy of the UK strategic export control lists](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation).
@@ -64,7 +72,7 @@ Instead, get an approval letter from the Export Control Joint Unit in the MOD. E
 
 ##Goods you can't export
 
-Even if your items wouldn’t usually need a licence, you must must not export, traffic or broker the movement of any items, services or technology if you find out or are told they might be used:
+Even if your items wouldn’t usually need a licence, you must not export, traffic or broker the movement of any items, services or technology if you find out or are told they might be used:
 
 * for weapons of mass destruction (WMD) purposes (for example, chemicals, biological agents or technology that might be used in a nuclear weapons facility)
 * for military purposes in an an [embargoed country](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#how-eco-decides-whether-to-give-licences)
