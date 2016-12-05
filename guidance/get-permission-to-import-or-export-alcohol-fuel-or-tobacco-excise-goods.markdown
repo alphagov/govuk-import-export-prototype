@@ -46,7 +46,7 @@ You can only export single grain, blended malt, blended grain or blended Scotch 
 You must not export Scotch whisky in a wooden cask or holder.
 
 
-If you need to prove the authenticity of your whisky, contact <certificates.sdvs@hmrc.gsi.gov.uk> to apply for a certificate of age and origin.
+If the destination country or your importer tells you to prove the authenticity of your whisky, contact <certificates.sdvs@hmrc.gsi.gov.uk> to apply for a certificate of age and origin.
 
 
 ### Irish whiskey and poteen (potin)
