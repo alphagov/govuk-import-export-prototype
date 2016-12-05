@@ -76,10 +76,8 @@ You can move duty suspended excise goods to someone based in the EU if the goods
 
 - from one authorised tax warehouse to another
 - to a port or airport, from where they will leave the EU
-- from a tax warehouse to someone approved to receive duty suspended goods from the EU("Registered Consignees" and "Temporary Registered Consignees")
+- from a tax warehouse to someone approved to receive duty suspended goods from the EU ("Registered Consignees" and "Temporary Registered Consignees")
 - from a tax warehouse to an "exempt consignee" (for example if the trade is for diplomatic reasons or for the army and they have an exemption certificate)
-
-[Question for SME: What's an example of an exempt consignee?]
 
 If you follow the right processes, the excise duty isn’t payable until the goods are released for consumption.
 
