@@ -83,7 +83,7 @@ If you follow the right processes, the excise duty isn’t payable until the goo
 
 ###How to move duty suspended goods within the EU
 
-You can only move goods under excise duty suspension if any import duty or import VAT due has been paid.
+You can only move goods under excise duty suspension if any import duty and import VAT due has been paid (unless you are a small wine producer – producing on average less than 1000 hectolitres per year.)
 
 You must use the [Excise Movement and Control System (EMCS)](https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use) to report that you’re moving excise goods in duty suspension.
 
@@ -107,7 +107,12 @@ When you sell duty-paid goods  to a consumer in another EU country, you can clai
 
 ## How to claim excise duty drawback
 
-You can claim excise duty drawback if you've released the goods within 3 years of the original duty payment.
+You don't have to pay the duty you’re claiming drawback on if within 3 years of the original duty payment, you've either:
+
+* dispatched the goods to another EU country
+* exported goods outside the EU
+* put goods in a warehouse ready for export
+* destroyed goods
 
 The minimum amount you can claim is £500. If your claim is for less than £500, wait until you have other claims worth £500 in total, then send them together.
 
