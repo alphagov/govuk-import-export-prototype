@@ -26,15 +26,13 @@ The UK strategic export control lists include the transfer of information that c
 * technical or training manuals
 * diagrams or blueprints
 
-You'll need a licence for information in any form. For example print, email, telephone, text message or electronic file transfers of information about controlled technology.
-
-You'll also need a licence for 
+You'll need a licence for information in any form. For example print, email, telephone, text message or electronic file transfers or carrying a laptop abroad containing information about controlled technology.
 
 You must apply for a licence if the government tells you that you need one.
 
 $CTA
 
-If you're exporting goods that are being picked directly from your place of work by your customer ("ex-works goods), tell them to check if they need an export licence.
+If you're exporting goods that are being picked directly from your place of work by your customer ("ex-works goods"), tell them to check if they need an export licence.
 
 $CTA
 
