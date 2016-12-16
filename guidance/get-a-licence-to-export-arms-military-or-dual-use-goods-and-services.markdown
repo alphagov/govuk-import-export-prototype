@@ -155,16 +155,16 @@ There's an embargo on exporting any of the following to China:
 * military aircraft and helicopters, vessels of war, armoured fighting vehicles and other weapons platforms
 * any equipment which might be used for internal repression
 
-## Trafficking, brokering and arranging sales or movements
+## Brokering and arranging sales or movements
 
-Trafficking and brokering ("trade controls") can include anything that helps to transfer items from one non-EU country to another. For example:
+Brokering (known as 'trade controls') can include anything that helps to transfer items from one non-EU country to another. For example:
 
 * arranging or negotiating contracts
 * arranging or providing freight or transport services
 * arranging intra company transfers
 * drop shipping
 
-###Goods that you can't traffick, broker, arrange sales for or move
+###Goods that you can't traffick, arrange sales for or move
 
 There's a ban on ["Category A" goods](http://www.legislation.gov.uk/uksi/2008/3231/schedule/1/made), including:
 
@@ -173,11 +173,11 @@ There's a ban on ["Category A" goods](http://www.legislation.gov.uk/uksi/2008/32
 
 You won't be able to export 'Schedule 3 UK controlled dual-use, software and technology' if you are told they might be used for weapons of mass destruction (WMD) purposes.
 
-### Trafficking or brokering banned goods or to embargoed countries
+### Brokering banned goods or to embargoed countries
 
-There are tighter controls on trafficking or brokering for some goods and for some locations.
+There are tighter controls on brokering for some goods and for some locations.
 
-For goods where there’s a total ban on UK exports (for example, anti personnel land mines) or where there’s a UK arms embargo in place, trafficking and brokering also includes: 
+For goods where there’s a total ban on UK exports (for example, anti personnel land mines) or where there’s a UK arms embargo in place, brokering also includes: 
 
 * general advertising and promotion (eg placing advertisements)
 * finance, financial services, insurance or reinsurance services
@@ -185,7 +185,7 @@ For goods where there’s a total ban on UK exports (for example, anti personnel
 
 ### When you need a licence
 
-You must have a trade control licence if you or your company is involved in trafficking or brokering anything that’s categorised as ‘Schedule 2 military goods, software and technology’, except:
+You must have a trade control licence if you or your company is involved in brokering anything that’s categorised as ‘Schedule 2 military goods, software and technology’, except:
 
 * goods with the code ML21 (software) 
 * goods with the code ML22 (technology).
@@ -204,9 +204,9 @@ $CTA
 
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 
-### Who the trafficking and brokering rules apply to
+### Who the brokering rules apply to
 
-The trafficking and brokering rules apply to:
+The brokering rules apply to:
 
 * companies or other bodies incorporated under UK law 
 * UK nationals (including British citizens, British overseas territories citizens, British Nationals (Overseas), British Overseas Citizens and ‘British subjects’ and ‘British protected persons’ under the British Nationality Act 1981)
