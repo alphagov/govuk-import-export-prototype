@@ -41,7 +41,7 @@ $CTA
 If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted.
 
 $CTA
-Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to determine if your goods are on the UK strategic export control lists, and how they’re categorised.
+Use the [goods checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to determine if your goods are on the UK strategic export control lists, and how they’re categorised.
 $CTA
 
 Or [download a copy of the UK strategic export control lists](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation).
@@ -79,7 +79,7 @@ This includes 'technical assistance' - for example, assembly, maintenance or rep
 
 These are called ‘end use’, ‘end user’ or ‘catch all’ controls.
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO). You must apply for a licence if the ECO tells you to.
+Use the [SPIRE service](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO). You must apply for a licence if the ECO tells you to.
 
 ## Apply for an export licence
 
@@ -89,13 +89,14 @@ $CTA
 
 There's no charge for a licence.
 
-The [ECO reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
+The [ECO reports and statistics website](https://www.exportcontroldb
+gov.uk) has information on how long licence applications usually take.
 
 ## Taking military or dual use goods out of the UK temporarily
 
 You still need to get an export licence to take military or dual use goods out of the country temporarily (eg to demonstrate them to potential buyers at a trade show or take them to a commemorative military event).
 
-Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a temporary export licence.
+Use the [SPIRE system](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to apply for a temporary export licence.
 
 ## Additional forms you may need to complete your licence application
 
@@ -202,7 +203,7 @@ $CTA
 Use the [goods checker](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to find out how your goods are categorised.
 $CTA
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
+Use the [SPIRE service](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 
 ### Who the brokering rules apply to
 
