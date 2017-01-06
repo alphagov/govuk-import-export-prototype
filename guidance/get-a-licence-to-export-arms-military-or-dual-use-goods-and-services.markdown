@@ -48,7 +48,7 @@ Or [download a copy of the UK strategic export control lists](https://www.gov.uk
 
 You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK, unless:
 
-* you're exporting [dual use items to some EU countries or the Channel Islands](#exporting-dual-use-items-to-eu-countries)
+* you're exporting [dual use items to most EU countries or the Channel Islands](#exporting-dual-use-items-to-eu-countries)
 
 * you're exporting goods owned by the Ministry of Defence
 
@@ -56,7 +56,7 @@ You must also have a licence to [export military or dual use goods out of the co
 
 ### Exporting dual use items to other EU countries
 
-If your items are categorised as ‘Schedule 3 UK controlled dual-use, software and technology’, you may not need a licence  unless they're listed in [Annex IV of EU Dual Use Regulation 428/2009](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:134:0001:0269:en:PDF#page=260).
+If your items are categorised as ‘Schedule 3 UK controlled dual-use, software and technology’ in the goods checker, you may not need a licence  unless they're listed in [Annex IV of EU Dual Use Regulation 428/2009](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:134:0001:0269:en:PDF#page=260).
 
 You don't need a licence to export dual use items to the Channel Islands.
 
@@ -73,13 +73,13 @@ Instead, get an approval letter from the Export Control Joint Unit in the MOD. E
 Even if your items wouldn’t usually need a licence, you must not export, traffic or broker the movement of any items, services or technology if you find out or are told they might be used:
 
 * for weapons of mass destruction (WMD) purposes (for example, chemicals, biological agents or technology that might be used in a nuclear weapons facility)
-* for military purposes in an an [embargoed country](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#how-eco-decides-whether-to-give-licences)
+* for military purposes in an [embargoed country](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#how-eco-decides-whether-to-give-licences)
 
 This includes 'technical assistance' - for example, assembly, maintenance or repair services. 
 
 These are called ‘end use’, ‘end user’ or ‘catch all’ controls.
 
-Use the [SPIRE service](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO). You must apply for a licence if the ECO tells you to.
+Use the [SPIRE service](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO). You must apply for a licence if the ECO or HMRC tells you to.
 
 ## Apply for an export licence
 
