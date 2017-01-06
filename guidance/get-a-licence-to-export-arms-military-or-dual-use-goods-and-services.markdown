@@ -171,7 +171,7 @@ There's a ban on ["Category A" goods](http://www.legislation.gov.uk/uksi/2008/32
 * explosives like anti personnel land mines and cluster munitions
 * torture goods
 
-You won't be able to export items classified as in the goods checker 'Schedule 3 UK controlled dual-use, software and technology' if you are told they might be used for weapons of mass destruction (WMD) purposes.
+You won't be able to export items classified in the goods checker as 'Schedule 3 UK controlled dual-use, software and technology' if you are told they might be used for weapons of mass destruction (WMD) purposes.
 
 ### Brokering banned goods or to embargoed countries
 
