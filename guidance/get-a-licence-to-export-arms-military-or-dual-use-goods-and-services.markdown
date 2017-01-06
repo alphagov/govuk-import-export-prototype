@@ -165,7 +165,7 @@ Brokering (known as 'trade controls') can include anything that helps to transfe
 * arranging intra company transfers
 * drop shipping
 
-###Goods that you can't traffick, arrange sales for or move
+###Goods that you can't arrange sales for or move
 
 There's a ban on ["Category A" goods](http://www.legislation.gov.uk/uksi/2008/3231/schedule/1/made), including:
 
