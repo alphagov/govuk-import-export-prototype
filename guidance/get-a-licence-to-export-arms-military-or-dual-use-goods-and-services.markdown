@@ -70,7 +70,7 @@ Instead, get an approval letter from the Export Control Joint Unit in the MOD. E
 
 ##Goods you can't get a licence for
 
-Even if your items wouldn’t usually need a licence, you must not export, traffic or broker the movement of any items, services or technology if you find out or are told they might be used:
+Even if your items wouldn’t usually need a licence, you must not export or broker the movement of any items, services or technology if you find out or are told they might be used:
 
 * for weapons of mass destruction (WMD) purposes (for example, chemicals, biological agents or technology that might be used in a nuclear weapons facility)
 * for military purposes in an [embargoed country](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html#how-eco-decides-whether-to-give-licences)
@@ -89,8 +89,7 @@ $CTA
 
 There's no charge for a licence.
 
-The [ECO reports and statistics website](https://www.exportcontroldb
-gov.uk) has information on how long licence applications usually take.
+The [ECO reports and statistics website](https://www.exportcontroldb.gov.uk) has information on how long licence applications usually take.
 
 ## Taking military or dual use goods out of the UK temporarily
 
@@ -172,7 +171,7 @@ There's a ban on ["Category A" goods](http://www.legislation.gov.uk/uksi/2008/32
 * explosives like anti personnel land mines and cluster munitions
 * torture goods
 
-You won't be able to export items classified as 'Schedule 3 UK controlled dual-use, software and technology' in the goods checker if you are told they might be used for weapons of mass destruction (WMD) purposes.
+You won't be able to export items classified as in the goods checker 'Schedule 3 UK controlled dual-use, software and technology' if you are told they might be used for weapons of mass destruction (WMD) purposes.
 
 ### Brokering banned goods or to embargoed countries
 
