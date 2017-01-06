@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export military or dual use goods, services or technology
-summary: You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK (except for exporting some ‘dual use’ items to EU countries).
+summary: You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK (except for exporting most ‘dual use’ items to EU countries).
 permalink: /guidance/get-a-licence-to-export-arms-military-or-dual-use-goods-and-services.html
 breadcrumbs:
  - name: Home
