@@ -37,7 +37,7 @@ You must have a licence to supply anything on the UK strategic export control li
 * most dual use items to EU countries or the Channel Islands
 * goods owned by the Ministry of Defence
 
-You must also have a licence to export military or dual use goods out of the country temporarily.
+You still need an export licence to [take radioactive substances out of the UK temporarily](#taking-radioactive-substances-out-of-the-UK-temporarily).
 
 ##Exporting dual use items to EU countries
 
@@ -80,19 +80,21 @@ There’s no charge for a licence. You can read guidance on [how to use the SPIR
 
 [ECO statistics data has information on how long licence applications usually take based on the country you’re sending your goods to.
 
+##Taking radioactive substances out of the UK temporarily
+
+You still need to get an export licence to take a radioactive substance out of the country temporarily.
+
+Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a temporary export licence.
+
 ##Additional forms you may need to complete your licence application
 
 When you apply through the SPIRE service, you’ll be told whether you need to complete any additional forms.
 
 You can find links to the forms in [the guidance to using SPIRE](https://www.gov.uk/government/publications/spire-online-export-licensing-guidance).
 
-## After you apply
+##How ECO decides whether to give licences
 
 ECO sometimes needs to check licence applications with the government of the country you’re exporting to. 
-
-Apply as far in advance as possible, [you can check](https://www.exportcontroldb.bis.gov.uk)how long licence applications usually take.
-
-There's no charge for a licence.
 
 When deciding whether to give a licence, ECO will consider whether there’s a risk of the substances being used for terrorism based on:
 
@@ -102,17 +104,9 @@ When deciding whether to give a licence, ECO will consider whether there’s a r
 
 They will also check that you’ve followed the [IAEA Code of Conduct.](http://www-ns.iaea.org/tech-areas/radiation-safety/code-of-conduct.asp)
 
-##Taking radioactive substances out of the UK temporarily
+##Brokering radioactive substances
 
-You still need to get an export licence to take a radioactive substance out of the country temporarily.
-
-Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a temporary export licence.
-
-## Trafficking and brokering radioactive substances
-
-You must have a trade control licence if you or your company is involved in trafficking or brokering anything that appears on the UK strategic export control lists.
-
-Trafficking and brokering can include anything that helps to transfer items from one non-EU country to another. For example:
+Brokering (known as ‘trade controls’) can include anything that helps to transfer items from one non-EU country to another. For example:
 
 * arranging or negotiating contracts
 * arranging or providing freight or transport services
@@ -121,11 +115,11 @@ Trafficking and brokering can include anything that helps to transfer items from
 
 Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 
-### Trafficking or brokering to embargoed countries
+###Brokering to embargoed countries
 
-There are tighter controls on trafficking or brokering for some goods and for some locations.
+There are tighter controls on brokering for some goods and for some locations.
 
-For countries where there’s a UK embargo in place, trafficking and brokering also includes: 
+For goods where there’s a total ban on UK exports or countries where there’s a UK embargo in place, brokering also includes: 
 
 * general advertising and promotion (eg placing advertisements)
 * finance, financial services, insurance or reinsurance services
@@ -139,7 +133,7 @@ You must include a copy of the licence with the shipping paperwork. If you’re 
 
 You are responsible for making sure that your export licence is still valid when you export the goods.
 
-Keep up to date with the [ECO notices to exporters](http://blogs.bis.gov.uk/exportcontrol/).
+Keep up to date with the [ECO notices to exporters](https://www.gov.uk/government/collections/notices-to-exporters).
 
 If you don’t comply with the terms of your licence it could be revoked, and you could be fined or prosecuted.
 
