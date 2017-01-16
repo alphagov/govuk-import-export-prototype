@@ -8,34 +8,52 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-It can be a criminal offence to export something on the UK strategic export control lists
-outside the UK unless you have the right licence.
-
-$CTA
-
-[Check the consolidated list using the Goods Checker tool](https://www.ecochecker.bis.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
-
-$CTA
-
 The UK strategic export control lists include:
 
 - radioactive substances (‘radioactive sources’ or ‘radionuclides’) that can be used for military purposes
 - ‘dual use’ radioactive substances - substances that can be used for military or civilian purposes (for example, in research, medicine industry or agriculture)
 - other goods, technology or services that could make it possible to use a radioactive substance for military purposes (eg technology, software, training manuals, diagrams or blueprints)
 
-This includes information in any form. For example print, email, telephone or electronic file transfer.
+You’ll need a licence for information in any form. For example print, email, telephone, text message or electronic file transfers or carrying a laptop abroad containing information about controlled technology.
 
-‘Dual use’ items can be raw materials, components or finished systems.
+You must apply for a licence if the government tells you that you need one.
 
-The rules for radioactive substances apply both within the EU and outside the EU.
+^If you’re exporting goods that are being picked directly from your place of work by your customer (‘ex-works goods’), tell them to check if they need an export licence.
+
+##When you need an export licence
+
+If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted.
 
 $CTA
 
-Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+Use the [goods checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to determine if your goods are on the UK strategic export control lists, and how they’re categorised.
 
 $CTA
 
-## Goods that don’t usually need a licence
+Or [download a copy of the UK strategic export control lists](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation).
+
+You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK, unless you’re exporting:
+
+* most dual use items to EU countries or the Channel Islands
+* goods owned by the Ministry of Defence
+
+You must also have a licence to export military or dual use goods out of the country temporarily.
+
+##Exporting dual use items to EU countries
+
+If your items are categorised as ‘Schedule 3 UK controlled dual-use, software and technology’ in the goods checker, you may not need a licence unless they’re listed in [Annex IV of EU Dual Use Regulation 428/2009](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:134:0001:0269:en:PDF#page=260).
+
+You don’t need a licence to export dual use items to the Channel Islands.
+
+Even if your items don’t need a licence, the customs and transport documents must state that the items can only be moved outside the EU with an export licence.
+
+##Exporting goods owned by the Ministry of Defence
+
+You don’t need a licence to export goods owned by the UK Ministry of Defence (MOD).
+
+Instead, get an approval letter from the Export Control Joint Unit in the MOD. Email ECJU-MODTeam@mod.uk for details.
+
+## Goods that you can't get a licence for
 
 Even if your items wouldn’t usually need a licence, you must must not export, traffic or broker the movement of any items, services or technology if you find out they might be used:
 
@@ -46,9 +64,7 @@ This includes 'technical assistance' - for example, assembly, maintenance or rep
 
 These are called ‘end use’, ‘end user’ or ‘catch all’ controls.
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO).
-
-You must apply for a licence if ECO tells you to.
+If you’ve any concerns about your end user, [use the SPIRE service](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to request end user advice from the Export Control Organisation (ECO). You must apply for a licence if the ECO or HMRC tells you to.
 
 ## Apply for an export licence
 
@@ -60,19 +76,15 @@ Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login)
 
 $CTA
 
-## Additional forms you may need to complete your licence application
+There’s no charge for a licence. You can read guidance on [how to use the SPIRE service](https://www.gov.uk/government/publications/spire-online-export-licensing-guidance).
 
-When you apply through the Spire service, you’ll be told whether you need to complete any additional forms.
+[ECO statistics data has information on how long licence applications usually take based on the country you’re sending your goods to.
 
-### Undertaking forms
+##Additional forms you may need to complete your licence application
 
-[OGEL (military goods, software and technology): consignee undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153770/military-goods_-_software_-_and_-_technology-ogel-undertaking_11_March_2013.doc) (MS Word, 54KB)  
-[OIEL: undertaking template](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/555500/oiel-euu-template4.docx) (MS Word, 23KB)  
-[Stockist undertaking (SU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3095/stockist-undertaking-form-july-2012.doc) (MS Word, 73KB)  
-[End user undertaking (EUU) form](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3094/end-user-undertaking-form-july-2012.doc) (MS Word, 76KB)  
-[End user certificate (EUC) form for Chemical Weapons Convention schedule 3 chemcicals](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7962/end-user-certificate-july-2012.doc) (MS Word, 70KB)  
-[Who should complete and user and stockist undertaking forms?](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7963/12-749-end-user-scenarios.pdf) (PDF, 143KB)
-[End user undertaking and stockist undertaking checklist](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7961/end-user-checklist-july-2012.doc) (MS Word, 108KB)  
+When you apply through the SPIRE service, you’ll be told whether you need to complete any additional forms.
+
+You can find links to the forms in [the guidance to using SPIRE](https://www.gov.uk/government/publications/spire-online-export-licensing-guidance).
 
 ## After you apply
 
