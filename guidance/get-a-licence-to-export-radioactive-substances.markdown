@@ -80,7 +80,7 @@ $CTA
 
 There’s no charge for a licence. You can read guidance on [how to use the SPIRE service](https://www.gov.uk/government/publications/spire-online-export-licensing-guidance).
 
-[ECO statistics data has information on how long licence applications usually take based on the country you’re sending your goods to.
+[ECO statistics data](https://www.gov.uk/government/collections/strategic-export-controls-licensing-data) has information on how long licence applications usually take based on the country you’re sending your goods to.
 
 ##Taking radioactive substances out of the UK temporarily
 
@@ -108,7 +108,7 @@ They will also check that you’ve followed the [IAEA Code of Conduct.](http://w
 
 ##Brokering radioactive substances
 
-Brokering (known as ‘trade controls’) can include anything that helps to transfer items from one non-EU country to another. For example:
+You'll need a trade control licence for anything that helps to transfer items from one non-EU country to another. For example:
 
 * arranging or negotiating contracts
 * arranging or providing freight or transport services
