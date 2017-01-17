@@ -8,12 +8,6 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-$CTA
-
-[Check the UK strategic export control lists using the Goods Checker tool](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to see if you need a licence.
-
-$CTA
-
 The UK strategic export control lists include equipment, drugs or products that could be used for:
 
 - restraint (eg some types of shackles)
@@ -26,9 +20,25 @@ The rules apply both within the EU and outside the EU.
 
 There's an embargo (ban) on exporting equipment that could be used for internal repression to China.
 
+You’ll need a licence for information in any form. For example print, email, telephone, text message or electronic file transfers or carrying a laptop abroad containing information about controlled technology.
+
+You must apply for a licence if the government tells you that you need one.
+
+^If you’re exporting goods that are being picked directly from your place of work by your customer (‘ex-works goods’), tell them to check if they need an export licence.
+
+##When you need an export licence
+
+If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted.
+
 $CTA
-Some countries may have import rules for certain goods. You can check by talking to your importer or getting help [researching your export market](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html).
+
+Use the [goods checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to determine if your goods are on the UK strategic export control lists, and how they’re categorised.
+
 $CTA
+
+Or [download a copy of the UK strategic export control lists](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation).
+
+You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK.
 
 ##Exporting surveillance equipment to Iran
 
@@ -40,11 +50,17 @@ You need a licence to export surveillance goods or services to Iran, including:
 ##Apply for an export licence
 {:#apply}
 
-Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for an export licence.
+Before you apply for an export licence, check the import rules of the country you’re exporting to. Talk to your importer or [research legal rules in overseas markets](/answer/choosing-export-market-ukti.html).
 
-The [Export Control Organisation reports and statistics website](https://www.exportcontroldb.bis.gov.uk) has information on how long licence applications usually take.
+$CTA
 
-There's no charge for a licence.
+Use the [SPIRE service](https://www.spire.bis.gov.uk/eng/fox/espire/LOGIN/login) to apply for an export licence.
+
+$CTA
+
+There’s no charge for a licence. You can read guidance on [how to use the SPIRE service](https://www.gov.uk/government/publications/spire-online-export-licensing-guidance).
+
+[ECO statistics data](https://www.gov.uk/government/collections/strategic-export-controls-licensing-data) has information on how long licence applications usually take based on the country you’re sending your goods to.
 
 ## How ECO decides whether to give licences
 
@@ -60,9 +76,9 @@ There’s a complete ban on exporting the following goods, unless they’re goin
 - automatic drug injection systems designed to execute human beings by the administering of lethal chemical substances
 - electric shock belts designed to restrain human beings by the administering electric shocks with a no-load voltage over 10,000 volts
 
-## Trafficking, brokering and arranging sales or movements
+## Brokering and arranging sales or movements
 
-You must have a trade control licence if you or your company is involved in trafficking or brokering goods on the UK strategic export control lists that could be used for restraint or inhumane treatment. 
+You must have a trade control licence if you or your company is involved in brokering goods on the UK strategic export control lists that could be used for restraint or inhumane treatment. 
 
 Trafficking and brokering can include anything that helps to transfer items from one non-EU country to another. For example:
 
@@ -75,7 +91,7 @@ Trafficking and brokering can include anything that helps to transfer items from
 
 There are tighter controls on trafficking and brokering for some goods and for some locations.
 
-For goods where there’s a total ban on UK exports (for example, automatic drug injection systems designed to execute human beings by the administering of lethal chemical substances) or where there’s a UK embargo in place, trafficking and brokering also includes: 
+For goods where there’s a total ban on UK exports (for example, automatic drug injection systems designed to execute human beings by the administering of lethal chemical substances) or where there’s a UK embargo in place, brokering also includes: 
 
 * general advertising and promotion (eg placing advertisements)
 * finance, financial services, insurance or reinsurance services
@@ -89,7 +105,7 @@ $CTA
 
 [Question for Claire: the guidance currently published on GOV.UK suggests that the trafficking and brokering controls only apply to military and torture use goods (ie not dual use items). Is that right? Does that mean the EC controls on trafficking and brokering outlined in the EC ‘national measures’ document don’t apply, because the UK is a member of the EU?]
 
-### Who the trafficking and brokering rules apply to
+### Who the brokering rules apply to
 
 The trafficking and brokering rules apply to:
 
@@ -106,7 +122,7 @@ You must include a copy of the licence with the shipping paperwork. If you’re 
 
 You are responsible for making sure that your export licence is still valid when you export the goods.
 
-Keep up to date with the [ECO notices to exporters](http://blogs.bis.gov.uk/exportcontrol/).
+Keep up to date with the [ECO notices to exporters](https://www.gov.uk/government/collections/notices-to-exporters).
 
 If you don’t comply with the terms of your licence it could be revoked, and you could be fined or prosecuted.
 
