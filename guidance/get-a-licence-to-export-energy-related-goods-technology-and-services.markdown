@@ -46,20 +46,6 @@ Applications take around 20 working days, but can take longer if the Export Cont
 
 There's no fee for a licence.
 
-##Trafficking and brokering
-
-You must have a trade control licence if you or your company is involved in trafficking and brokering.
-
-This can include anything that helps to transfer items from one country to another. For example:
-
-- arranging or negotiating sales
-- arranging intra company transfers
-- drop shipping
-
-Use the [SPIRE service](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login) to apply for a Standard Individual Trade Control licence.
-
-There’s no charge for a licence.
-
 ##Providing financial assistance to traders
 
 You’ll need a separate financial assistance licence if you or your company provide financial assistance related to oil or gas services.
