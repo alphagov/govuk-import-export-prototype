@@ -78,18 +78,16 @@ There’s a complete ban on exporting the following goods, unless they’re goin
 
 ## Brokering and arranging sales or movements
 
-You must have a trade control licence if you or your company is involved in brokering goods on the UK strategic export control lists that could be used for restraint or inhumane treatment. 
-
-Trafficking and brokering can include anything that helps to transfer items from one non-EU country to another. For example:
+You must have a trade control licence if you or your company is involved in brokering goods on the UK strategic export control lists that could be used for restraint or inhumane treatment. This can include anything that helps to transfer items from one non-EU country to another. For example:
 
 * arranging or negotiating contracts
 * arranging or providing freight or transport services
 * arranging intra company transfers
 * drop shipping
 
-### Trafficking or brokering banned goods or to embargoed countries
+### Brokering banned goods or to embargoed countries
 
-There are tighter controls on trafficking and brokering for some goods and for some locations.
+There are tighter controls on brokering for some goods and for some locations.
 
 For goods where there’s a total ban on UK exports (for example, automatic drug injection systems designed to execute human beings by the administering of lethal chemical substances) or where there’s a UK embargo in place, brokering also includes: 
 
@@ -107,7 +105,7 @@ $CTA
 
 ### Who the brokering rules apply to
 
-The trafficking and brokering rules apply to:
+The brokering rules apply to:
 
 * companies or other bodies incorporated under UK law 
 * UK nationals (including British citizens, British overseas territories citizens, British Nationals (Overseas), British Overseas Citizens and ‘British subjects’ and ‘British protected persons’ under the British Nationality Act 1981)
