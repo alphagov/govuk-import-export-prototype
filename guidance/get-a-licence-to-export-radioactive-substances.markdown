@@ -1,6 +1,6 @@
 ---
 layout: guidance
-title: Get a licence to export radioactive substances
+title: Get a licence to export radioactive substances and nuclear technologies
 summary: You must have a licence to export radioactive substances and nuclear technologies
 permalink: /guidance/get-a-licence-to-export-radioactive-substances.html
 topic:
@@ -8,7 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You can only export radioactive substances and nuclear technologies to [the USA, France, Russia or China](https://www.gov.uk/guidance/international-non-proliferation-and-arms-control-regimes).
+You can only export radioactive substances and nuclear technologies to the USA, France, Russia or China.
 
 The UK strategic export control lists include:
 
