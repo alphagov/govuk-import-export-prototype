@@ -1,12 +1,14 @@
 ---
 layout: guidance
 title: Get a licence to export radioactive substances
-summary: You must have a licence to export radioactive substances.
+summary: You must have a licence to export radioactive substances and nuclear technologies
 permalink: /guidance/get-a-licence-to-export-radioactive-substances.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
+
+You can only export radioactive substances and nuclear technologies to [the USA, France, Russia or China](https://www.gov.uk/guidance/international-non-proliferation-and-arms-control-regimes).
 
 The UK strategic export control lists include:
 
@@ -117,9 +119,7 @@ Use the [SPIRE system](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login
 
 ###Brokering to embargoed countries
 
-There are tighter controls on brokering for some goods and for some locations.
-
-For goods where there’s a total ban on UK exports or countries where there’s a UK embargo in place, brokering also includes: 
+If you're brokering goods outside of the USA, France, China or Russia, there will also be controls on: 
 
 * general advertising and promotion (eg placing advertisements)
 * finance, financial services, insurance or reinsurance services
