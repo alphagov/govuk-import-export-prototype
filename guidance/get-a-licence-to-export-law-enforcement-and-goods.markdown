@@ -24,7 +24,7 @@ You may be able to get a licence to export or provide any services relating to:
 
 $CTA
 
-Even if your item isn't on the list, you must apply for a licence if the government tells you that you need one.
+Even if your item isn't on the list, you must apply for a licence if the government tells you that you need one or if you find it in the [good checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/).
 
 $CTA
 
