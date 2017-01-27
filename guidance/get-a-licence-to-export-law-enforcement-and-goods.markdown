@@ -83,7 +83,7 @@ You must have a trade control licence if you or your company is involved in brok
 
 There are tighter controls on brokering for some goods and for some locations.
 
-For goods where there’s a total ban on UK exports (for example, automatic drug injection systems designed to execute human beings by the administering of lethal chemical substances) or where there’s a UK embargo in place, brokering also includes: 
+For goods where there’s a total ban on UK exports (for example, automatic drug injection systems designed to execute people) or where there’s a UK embargo in place, brokering also includes: 
 
 * general advertising and promotion (eg placing advertisements)
 * finance, financial services, insurance or reinsurance services
@@ -132,7 +132,7 @@ If you have a Standard Individual Export Licence (SIEL), you must:
 ##Contact the Export Control Organisation
 
 Export Control Organisation helpline<br>
-Email: <eco.help@bis.gsi.gov.uk<br>
+Email: <eco.help@trade.gsi.gov.uk<br>
 Telephone: 0202 7215 4594<br>
 Fax: 020 7215 2635<br>
 [Find out about call charges](/call-charges)
