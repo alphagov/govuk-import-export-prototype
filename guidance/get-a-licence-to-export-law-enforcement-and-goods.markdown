@@ -22,8 +22,6 @@ You may be able to get a licence to export or provide any services relating to:
 
 * surveillance equipment
 
-You’ll need a licence for information or services in any form. For example print, email, telephone, text message or electronic file transfers or carrying a laptop abroad containing information about controlled technology.
-
 $CTA
 
 Even if your item isn't on the list, you must apply for a licence if the government tells you that you need one.
@@ -33,6 +31,8 @@ $CTA
 If you’re exporting goods that are being picked directly from your place of work by your customer (‘ex-works goods’), tell them to check if they need an export licence.
 
 If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted - the rules apply both within the EU and outside the EU.
+
+There are different rules for [drugs that can be used for lethal injections](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#lethal-injections).
 
 ##Exporting surveillance equipment to Iran
 
