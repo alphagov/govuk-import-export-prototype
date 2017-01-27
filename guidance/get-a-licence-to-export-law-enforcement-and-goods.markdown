@@ -1,7 +1,7 @@
 ---
 layout: guidance
 title: Get a licence to export goods that could be used for restraint, repression, surveillance or inhumane treatment
-summary: It’s a criminal offence to export goods on the UK strategic export control lists that could be used for restraint, repression or inhumane treatment outside the UK without the right licence.
+summary: It’s a criminal offence to export goods that could be used for restraint, repression or inhumane treatment outside the UK without the right licence.
 permalink: /guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html
 topic:
   name: Exporting and doing business abroad
