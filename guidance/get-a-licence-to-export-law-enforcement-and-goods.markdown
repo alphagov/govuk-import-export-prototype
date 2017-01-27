@@ -8,41 +8,41 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-The UK strategic export control lists include equipment, drugs or products that could be used for:
+You can't get a licence to export or provide any services relating to:
 
-- restraint (eg some types of shackles)
-- repression (eg some types of riot control equipment, protective equipment and vehicles)
-- capital punishment (eg drugs that may be used in lethal injections)
-- torture 
-- cruel, inhumane or degrading treatment
+* gallows and guillotines
 
-The rules apply both within the EU and outside the EU.
+* electric chairs
+
+* air-tight vaults
+
+* automatic drug injection systems
 
 There's an embargo (ban) on exporting equipment that could be used for internal repression to China.
 
-You’ll need a licence for information in any form. For example print, email, telephone, text message or electronic file transfers or carrying a laptop abroad containing information about controlled technology.
+You may be able to get a licence to export:
 
-You must apply for a licence if the government tells you that you need one.
+* restraint chairs
+
+* leg-irons, gang-chains shackles and individual cuffs or shackle bracelets
+
+* portable electric shock devices
+
+* portable devices for riot control
+
+* riot control incapacitate sprays
+
+You’ll need a licence for information or services in any form. For example print, email, telephone, text message or electronic file transfers or carrying a laptop abroad containing information about controlled technology.
+
+$CTA
+
+Even if your item isn't on the list, you must apply for a licence if the government tells you that you need one.
 
 $CTA
 
 If you’re exporting goods that are being picked directly from your place of work by your customer (‘ex-works goods’), tell them to check if they need an export licence.
 
-$CTA
-
-##When you need an export licence
-
-If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted.
-
-$CTA
-
-Use the [goods checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/OGEL_GOODS_CHECKER_LANDING_PAGE/new) to determine if your goods are on the UK strategic export control lists, and how they’re categorised.
-
-$CTA
-
-Or [download a copy of the UK strategic export control lists](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation).
-
-You must have a licence to supply anything on the UK strategic export control lists to someone based outside the UK.
+If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted - the rules apply both within the EU and outside the EU.
 
 ##Exporting surveillance equipment to Iran
 
