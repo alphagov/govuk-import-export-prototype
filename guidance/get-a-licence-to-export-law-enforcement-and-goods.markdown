@@ -8,19 +8,7 @@ topic:
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
 
-You can't get a licence to export or provide any services relating to:
-
-* gallows and guillotines
-
-* electric chairs
-
-* air-tight vaults
-
-* automatic drug injection systems
-
-There's an embargo (ban) on exporting equipment that could be used for internal repression to China.
-
-You may be able to get a licence to export:
+You may be able to get a licence to export or provide any services relating to:
 
 * restraint chairs
 
@@ -31,6 +19,8 @@ You may be able to get a licence to export:
 * portable devices for riot control
 
 * riot control incapacitate sprays
+
+* surveillance equipment
 
 You’ll need a licence for information or services in any form. For example print, email, telephone, text message or electronic file transfers or carrying a laptop abroad containing information about controlled technology.
 
