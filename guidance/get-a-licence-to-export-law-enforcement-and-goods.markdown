@@ -27,7 +27,7 @@ You must get a licence to export or provide any services relating to:
 * restraint chairs
 * leg-irons, gang-chains shackles and individual cuffs or shackle bracelets
 * portable electric shock devices
-* any other item on the UK strategic export control lists - use the [goods checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/) or [download the list](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation)
+* any other item on the UK strategic export control lists - check the [goods checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/) or [download the list](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation) to find out
 
 $CTA
 
