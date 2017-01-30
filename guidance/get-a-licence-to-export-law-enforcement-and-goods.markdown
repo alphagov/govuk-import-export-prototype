@@ -14,7 +14,7 @@ You must have a licence to supply:
 - anything on the UK strategic export control lists to someone based outside the UK
 - surveillance goods to Iran
 
-There are different rules for [drugs that can be used for lethal injections](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#lethal-injections).
+There are different rules for exporting [drugs that can be used for lethal injections](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#lethal-injections).
 
 There's an embargo (ban) on exporting equipment that could be used for internal repression to China.
 
@@ -26,7 +26,7 @@ $CTA
 
 If you’re exporting goods that are being picked directly from your place of work by your customer (‘ex-works goods’), tell them to check if they need an export licence.
 
-##Strategic export control lists
+##Items on the strategic export control lists
 
 You must get a licence to export or provide any services relating to:
 
