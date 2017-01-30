@@ -137,7 +137,7 @@ If you have a Standard Individual Export Licence (SIEL), you must:
 ##Contact the Export Control Organisation
 
 Export Control Organisation helpline<br>
-Email: <eco.help@trade.gsi.gov.uk<br>
+Email: <eco.help@trade.gsi.gov.uk>
 Telephone: 0202 7215 4594<br>
 Fax: 020 7215 2635<br>
 [Find out about call charges](/call-charges)
