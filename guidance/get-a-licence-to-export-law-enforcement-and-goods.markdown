@@ -1,40 +1,43 @@
 ---
 layout: guidance
 title: Get a licence to export goods that could be used for restraint, repression, surveillance or inhumane treatment
-summary: It’s a criminal offence to export goods that could be used for restraint, repression or inhumane treatment outside the UK without the right licence.
+summary: It’s a criminal offence to export goods on the UK strategic export control lists that could be used for restraint, repression or inhumane treatment outside the UK without the right licence.
 permalink: /guidance/get-a-licence-to-export-law-enforcement-and-torture-goods.html
 topic:
   name: Exporting and doing business abroad
   url: /topic/business-and-self-employed/exporting-and-doing-business-abroad.html
 ---
+There are trade controls on equipment, drugs or products that could be used for restraint, repression, capital punishment, torture or cruel, inhuman or degrading treatment.
 
-You may be able to get a licence to export or provide any services relating to:
+You must have a licence to supply:
 
-* restraint chairs
+- anything on the UK strategic export control lists to someone based outside the UK
+- surveillance goods to Iran
 
-* leg-irons, gang-chains shackles and individual cuffs or shackle bracelets
+There are different rules for [drugs that can be used for lethal injections](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#lethal-injections).
 
-* portable electric shock devices
+There's an embargo (ban) on exporting equipment that could be used for internal repression to China.
+
+##Strategic export control lists
+
+You must get a licence to export or provide any services relating to:
 
 * portable devices for riot control
-
 * riot control incapacitate sprays
-
-* surveillance equipment
+* restraint chairs
+* leg-irons, gang-chains shackles and individual cuffs or shackle bracelets
+* portable electric shock devices
+* any other item on the UK strategic export control lists - use the [goods checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/) or [download the list](https://www.gov.uk/government/publications/uk-strategic-export-control-lists-the-consolidated-list-of-strategic-military-and-dual-use-items-that-require-export-authorisation)
 
 $CTA
 
-Even if your item isn't on the list, you must apply for a licence if the government tells you that you need one or if you find it in the [good checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire/).
+You must apply for a licence if the government tells you that you need one.
 
 $CTA
 
 If you’re exporting goods that are being picked directly from your place of work by your customer (‘ex-works goods’), tell them to check if they need an export licence.
 
-If you don’t get a licence for items that need one your goods will be delayed at customs. They could be confiscated and you could be fined or prosecuted - the rules apply both within the EU and outside the EU.
-
-There are different rules for [drugs that can be used for lethal injections](https://govuk-import-export.herokuapp.com/guidance/get-a-licence-to-export-drugs-and-medicines.html#lethal-injections).
-
-##Exporting surveillance equipment to Iran
+###Exporting surveillance equipment to Iran
 
 You need a licence to export surveillance goods or services to Iran, including:
 
