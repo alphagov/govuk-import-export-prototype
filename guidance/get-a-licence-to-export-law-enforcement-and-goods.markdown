@@ -18,6 +18,14 @@ There are different rules for [drugs that can be used for lethal injections](htt
 
 There's an embargo (ban) on exporting equipment that could be used for internal repression to China.
 
+$CTA
+
+You could be fined or prosecuted if you don't get a licence when you need one. Your goods will also be delayed at customs and can be confiscated.
+
+$CTA
+
+If you’re exporting goods that are being picked directly from your place of work by your customer (‘ex-works goods’), tell them to check if they need an export licence.
+
 ##Strategic export control lists
 
 You must get a licence to export or provide any services relating to:
@@ -35,9 +43,7 @@ You must apply for a licence if the government tells you that you need one.
 
 $CTA
 
-If you’re exporting goods that are being picked directly from your place of work by your customer (‘ex-works goods’), tell them to check if they need an export licence.
-
-###Exporting surveillance equipment to Iran
+##Exporting surveillance equipment to Iran
 
 You need a licence to export surveillance goods or services to Iran, including:
 
@@ -92,13 +98,9 @@ For goods where there’s a total ban on UK exports (for example, automatic drug
 * finance, financial services, insurance or reinsurance services
 * contract promotion activity
 
-[Question for Claire: is China the only country where there’s an embargo on goods that could be used for repression?]
-
 $CTA
 Use the [SPIRE service](https://www.spire.bis.gov.uk/spire/fox/espire/LOGIN/login) to apply for a trade control licence.
 $CTA
-
-[Question for Claire: the guidance currently published on GOV.UK suggests that the trafficking and brokering controls only apply to military and torture use goods (ie not dual use items). Is that right? Does that mean the EC controls on trafficking and brokering outlined in the EC ‘national measures’ document don’t apply, because the UK is a member of the EU?]
 
 ### Who the brokering rules apply to
 
